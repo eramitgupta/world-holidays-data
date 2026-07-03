@@ -94,14 +94,14 @@ cat holidays/US/2025/holidays.json
 ### Option 2 — Fetch via raw GitHub URL
 
 ```
-https://raw.githubusercontent.com/eramitgupta/world-holidays-data/main/holidays/US/2025/holidays.json
+https://raw.githubusercontent.com/eramitgupta/world-holidays-data/main/holidays/IN/2026/holidays.json
 ```
 
 ### Option 3 — Use in JavaScript / Fetch API
 
 ```js
 const res = await fetch(
-  'https://raw.githubusercontent.com/eramitgupta/world-holidays-data/main/holidays/US/2025/holidays.json'
+  'https://raw.githubusercontent.com/eramitgupta/world-holidays-data/main/holidays/IN/2026/holidays.json'
 );
 const holidays = await res.json();
 console.log(holidays);
@@ -111,7 +111,7 @@ console.log(holidays);
 
 ```php
 $json = file_get_contents(
-  'https://raw.githubusercontent.com/eramitgupta/world-holidays-data/main/holidays/US/2025/holidays.json'
+  'https://raw.githubusercontent.com/eramitgupta/world-holidays-data/main/holidays/IN/2026/holidays.json'
 );
 $holidays = json_decode($json, true);
 ```
