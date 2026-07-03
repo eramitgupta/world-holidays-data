@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-28",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2055-01-29",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2055-01-30",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2055-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-17",
+    "holiday": "The day following Good Friday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2055-05-04",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2055-05-30",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2055-05-31",
+    "holiday": "Dragon Boat Festival (observed)"
+  },
+  {
+    "date": "2055-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2055-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2055-10-06",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2055-10-28",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  },
+  {
+    "date": "2055-12-27",
+    "holiday": "The first weekday after Christmas Day (observed)"
+  }
+]

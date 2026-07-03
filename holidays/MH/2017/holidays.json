@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day Holiday"
+  },
+  {
+    "date": "2017-03-01",
+    "holiday": "Nuclear Victims Remembrance Day"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2017-07-07",
+    "holiday": "Fisherman's Day"
+  },
+  {
+    "date": "2017-09-01",
+    "holiday": "Dri-jerbal Day"
+  },
+  {
+    "date": "2017-09-29",
+    "holiday": "Manit Day"
+  },
+  {
+    "date": "2017-11-17",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2017-12-01",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  }
+]

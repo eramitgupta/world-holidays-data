@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-01-31",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2047-02-01",
+    "holiday": "Day following Independence Day"
+  },
+  {
+    "date": "2047-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2047-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2047-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2047-04-16",
+    "holiday": "Easter Tuesday"
+  },
+  {
+    "date": "2047-05-17",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2047-07-01",
+    "holiday": "RONPHOS Handover"
+  },
+  {
+    "date": "2047-08-19",
+    "holiday": "Ibumin Earoeni Day"
+  },
+  {
+    "date": "2047-09-25",
+    "holiday": "Sir Hammer DeRoburt Day"
+  },
+  {
+    "date": "2047-10-26",
+    "holiday": "Angam Day"
+  },
+  {
+    "date": "2047-10-28",
+    "holiday": "Angam Day (observed)"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2047-12-26",
+    "holiday": "Day following Christmas"
+  }
+]

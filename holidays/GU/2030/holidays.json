@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-21",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2030-02-18",
+    "holiday": "Washington's Birthday"
+  },
+  {
+    "date": "2030-03-04",
+    "holiday": "Guam Discovery Day"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-05-27",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2030-06-19",
+    "holiday": "Juneteenth National Independence Day"
+  },
+  {
+    "date": "2030-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2030-07-21",
+    "holiday": "Liberation Day (Guam)"
+  },
+  {
+    "date": "2030-09-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2030-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2030-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2030-11-28",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2030-12-08",
+    "holiday": "Lady of Camarin Day"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  }
+]

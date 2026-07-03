@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-02-14",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2029-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2029-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2029-04-24",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2029-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2029-07-24",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2029-08-11",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2029-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2029-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2029-12-01",
+    "holiday": "Freedom and Democracy Day"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Christmas Day"
+  }
+]

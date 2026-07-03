@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-23",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2031-01-24",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2031-01-25",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2031-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-12",
+    "holiday": "The day following Good Friday"
+  },
+  {
+    "date": "2031-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2031-05-28",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2031-06-24",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2031-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2031-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2031-10-02",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2031-10-24",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2031-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  }
+]

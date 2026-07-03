@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-07-06",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2016-07-07",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2016-07-08",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2016-09-11",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2016-09-12",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2016-09-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2016-10-02",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2016-10-10",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2016-10-11",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2016-12-11",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2016-12-16",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2016-12-17",
+    "holiday": "National Day"
+  }
+]

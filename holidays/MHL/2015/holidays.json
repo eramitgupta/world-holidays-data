@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-03-01",
+    "holiday": "Nuclear Victims Remembrance Day"
+  },
+  {
+    "date": "2015-03-02",
+    "holiday": "Nuclear Victims Remembrance Day Holiday"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2015-07-03",
+    "holiday": "Fisherman's Day"
+  },
+  {
+    "date": "2015-09-04",
+    "holiday": "Dri-jerbal Day"
+  },
+  {
+    "date": "2015-09-25",
+    "holiday": "Manit Day"
+  },
+  {
+    "date": "2015-11-16",
+    "holiday": "General Election Day"
+  },
+  {
+    "date": "2015-11-17",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2015-12-04",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

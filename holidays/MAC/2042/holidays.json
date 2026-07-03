@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-01-22",
+    "holiday": "Chinese New Year's Day"
+  },
+  {
+    "date": "2042-01-23",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2042-01-24",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2042-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2042-09-29",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2042-10-01",
+    "holiday": "National Day of the People's Republic of China"
+  },
+  {
+    "date": "2042-10-22",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2042-12-20",
+    "holiday": "Macao S.A.R. Establishment Day"
+  }
+]

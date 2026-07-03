@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2046-03-29",
+    "holiday": "Barthélemy Boganda Day"
+  },
+  {
+    "date": "2046-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2046-05-03",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2046-05-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2046-06-30",
+    "holiday": "General Prayer Day"
+  },
+  {
+    "date": "2046-08-03",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2046-08-13",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2046-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2046-10-10",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2046-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2046-12-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2051-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2051-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2051-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2051-04-06",
+    "holiday": "Act of Self Determination Day"
+  },
+  {
+    "date": "2051-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2051-06-10",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2051-06-12",
+    "holiday": "Eid al-Fitr (observed, estimated); King's Birthday"
+  },
+  {
+    "date": "2051-08-17",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2051-11-16",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2051-12-26",
+    "holiday": "Boxing Day"
+  }
+]

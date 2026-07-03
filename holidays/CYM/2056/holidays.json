@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2056-01-24",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2056-02-16",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2056-05-15",
+    "holiday": "Discovery Day"
+  },
+  {
+    "date": "2056-06-19",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2056-07-03",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2056-11-13",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-26",
+    "holiday": "Boxing Day"
+  }
+]

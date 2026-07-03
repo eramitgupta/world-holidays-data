@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-02-08",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-27",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-04-27",
+    "holiday": "King's Day"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-05-05",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2016-07-02",
+    "holiday": "National Anthem and Flag Day"
+  },
+  {
+    "date": "2016-10-10",
+    "holiday": "Curaçao Day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

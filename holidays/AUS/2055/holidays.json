@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Boxing Day"
+  }
+]

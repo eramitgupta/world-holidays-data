@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-05-04",
+    "holiday": "Early May Bank Holiday"
+  },
+  {
+    "date": "2048-05-09",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2048-05-25",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2048-08-31",
+    "holiday": "Summer Bank Holiday"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2048-12-28",
+    "holiday": "Boxing Day (substitute day)"
+  }
+]

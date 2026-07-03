@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-02-05",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2035-02-06",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2035-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2035-04-30",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2035-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2035-05-24",
+    "holiday": "The Battle of Pichincha"
+  },
+  {
+    "date": "2035-05-25",
+    "holiday": "The Battle of Pichincha (observed)"
+  },
+  {
+    "date": "2035-08-10",
+    "holiday": "Declaration of Independence of Quito"
+  },
+  {
+    "date": "2035-10-08",
+    "holiday": "Independence of Guayaquil (observed)"
+  },
+  {
+    "date": "2035-10-09",
+    "holiday": "Independence of Guayaquil"
+  },
+  {
+    "date": "2035-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2035-11-03",
+    "holiday": "Independence of Cuenca"
+  },
+  {
+    "date": "2035-12-25",
+    "holiday": "Christmas Day"
+  }
+]

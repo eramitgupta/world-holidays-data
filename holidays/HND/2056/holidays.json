@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-03-30",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-01",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2056-04-14",
+    "holiday": "Panamerican Day"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2056-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2056-10-04",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2056-10-05",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2056-10-06",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  }
+]

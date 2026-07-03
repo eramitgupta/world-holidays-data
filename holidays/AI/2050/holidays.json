@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2050-03-02",
+    "holiday": "James Ronald Webster Day"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-04-10",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2050-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2050-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2050-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2050-05-30",
+    "holiday": "Anguilla Day; Whit Monday"
+  },
+  {
+    "date": "2050-05-31",
+    "holiday": "Anguilla Day (observed)"
+  },
+  {
+    "date": "2050-06-20",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2050-08-01",
+    "holiday": "August Monday"
+  },
+  {
+    "date": "2050-08-04",
+    "holiday": "August Thursday"
+  },
+  {
+    "date": "2050-08-05",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2050-12-19",
+    "holiday": "National Heroes and Heroines Day"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2050-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

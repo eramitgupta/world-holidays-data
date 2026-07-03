@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2032-05-06",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2032-05-17",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2032-10-03",
+    "holiday": "German Unity Day"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

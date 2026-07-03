@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-03-01",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-18",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-04-27",
+    "holiday": "King's Day"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2055-05-27",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2055-07-02",
+    "holiday": "National Anthem and Flag Day"
+  },
+  {
+    "date": "2055-10-10",
+    "holiday": "Curaçao Day"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

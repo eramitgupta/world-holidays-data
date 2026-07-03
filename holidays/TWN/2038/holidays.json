@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "Founding Day of the Republic of China"
+  },
+  {
+    "date": "2038-02-02",
+    "holiday": "Chinese New Year's Eve"
+  },
+  {
+    "date": "2038-02-03",
+    "holiday": "Chinese New Year's Eve"
+  },
+  {
+    "date": "2038-02-04",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2038-02-05",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2038-02-06",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2038-02-08",
+    "holiday": "Chinese New Year (observed)"
+  },
+  {
+    "date": "2038-02-28",
+    "holiday": "Peace Memorial Day"
+  },
+  {
+    "date": "2038-03-01",
+    "holiday": "Peace Memorial Day (observed)"
+  },
+  {
+    "date": "2038-04-04",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2038-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2038-04-06",
+    "holiday": "Children's Day (observed)"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2038-06-07",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2038-09-13",
+    "holiday": "Mid-Autumn Festival"
+  },
+  {
+    "date": "2038-09-28",
+    "holiday": "Confucius' Birthday"
+  },
+  {
+    "date": "2038-10-10",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2038-10-11",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2038-10-25",
+    "holiday": "Taiwan Restoration and Guningtou Victory Memorial Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2038-12-31",
+    "holiday": "Founding Day of the Republic of China (observed)"
+  }
+]

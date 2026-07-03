@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-02-07",
+    "holiday": "Chinese New Year's Eve"
+  },
+  {
+    "date": "2054-02-08",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2054-02-09",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2054-02-10",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2054-02-11",
+    "holiday": "Chinese New Year's Eve (observed)"
+  },
+  {
+    "date": "2054-02-12",
+    "holiday": "Chinese New Year (Spring Festival) (observed)"
+  },
+  {
+    "date": "2054-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2054-04-06",
+    "holiday": "Tomb-Sweeping Day (observed)"
+  },
+  {
+    "date": "2054-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2054-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2054-05-04",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2054-06-10",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2054-09-16",
+    "holiday": "Mid-Autumn Festival"
+  },
+  {
+    "date": "2054-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2054-10-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2054-10-03",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2054-10-05",
+    "holiday": "National Day (observed)"
+  }
+]

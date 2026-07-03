@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2026-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2026-01-02",
+    "holiday": "New Year's Day Holiday"
+  },
+  {
+    "date": "2026-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2026-04-04",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2026-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2026-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2026-05-14",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2026-07-01",
+    "holiday": "Sir Seretse Khama Day"
+  },
+  {
+    "date": "2026-07-20",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2026-07-21",
+    "holiday": "President's Day Holiday"
+  },
+  {
+    "date": "2026-09-30",
+    "holiday": "Botswana Day"
+  },
+  {
+    "date": "2026-10-01",
+    "holiday": "Botswana Day Holiday"
+  },
+  {
+    "date": "2026-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2026-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2026-12-28",
+    "holiday": "Boxing Day Holiday"
+  }
+]

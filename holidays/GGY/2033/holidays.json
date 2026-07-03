@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-03",
+    "holiday": "New Year's Day (substitute day)"
+  },
+  {
+    "date": "2033-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2033-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2033-05-02",
+    "holiday": "May Day Bank Holiday"
+  },
+  {
+    "date": "2033-05-09",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2033-05-30",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2033-08-29",
+    "holiday": "Summer Bank Holiday"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2033-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2033-12-27",
+    "holiday": "Christmas Day (substitute day)"
+  }
+]

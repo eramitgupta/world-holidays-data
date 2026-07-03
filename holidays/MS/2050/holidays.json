@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2050-03-17",
+    "holiday": "Saint Patrick's Day"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2050-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2050-05-30",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2050-06-13",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2050-07-13",
+    "holiday": "Day of Prayer and Thanksgiving"
+  },
+  {
+    "date": "2050-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2050-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2050-12-31",
+    "holiday": "Festival Day"
+  }
+]

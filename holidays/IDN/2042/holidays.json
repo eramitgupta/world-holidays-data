@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-01-22",
+    "holiday": "Lunar New Year (estimated)"
+  },
+  {
+    "date": "2042-03-04",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2042-03-22",
+    "holiday": "Day of Silence"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-06",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2042-05-15",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2042-06-01",
+    "holiday": "Pancasila Day"
+  },
+  {
+    "date": "2042-06-02",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2042-07-15",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2042-08-17",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2042-09-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2042-09-16",
+    "holiday": "Eid al-Fitr Second Day (estimated)"
+  },
+  {
+    "date": "2042-11-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2042-12-14",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  }
+]

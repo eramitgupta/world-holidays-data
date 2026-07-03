@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-01-27",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2037-01-28",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2037-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2037-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2037-04-29",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2037-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2037-06-12",
+    "holiday": "Democracy Day"
+  },
+  {
+    "date": "2037-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2037-11-09",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2037-11-10",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2037-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2037-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2037-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-02-08",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2024-04-10",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2024-06-16",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2024-06-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2024-07-01",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2024-07-07",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2024-07-16",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2024-09-15",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

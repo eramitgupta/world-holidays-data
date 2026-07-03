@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-03-06",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-05-23",
+    "holiday": "National Labour Day"
+  },
+  {
+    "date": "2019-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2019-08-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-10-21",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Boxing Day"
+  }
+]

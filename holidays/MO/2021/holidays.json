@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-02-12",
+    "holiday": "Chinese New Year's Day"
+  },
+  {
+    "date": "2021-02-13",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2021-02-14",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2021-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2021-09-22",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2021-10-01",
+    "holiday": "National Day of the People's Republic of China"
+  },
+  {
+    "date": "2021-10-14",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2021-12-20",
+    "holiday": "Macao S.A.R. Establishment Day"
+  }
+]

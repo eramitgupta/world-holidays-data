@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-14",
+    "holiday": "Revolution and Youth Day"
+  },
+  {
+    "date": "2017-03-20",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2017-04-09",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2017-06-25",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2017-06-26",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2017-06-27",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2017-07-25",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2017-08-13",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2017-08-31",
+    "holiday": "Arafat Day (estimated)"
+  },
+  {
+    "date": "2017-09-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2017-09-02",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2017-09-03",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2017-09-21",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2017-10-15",
+    "holiday": "Evacuation Day"
+  },
+  {
+    "date": "2017-11-30",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

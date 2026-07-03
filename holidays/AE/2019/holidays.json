@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-06-03",
+    "holiday": "Eid al-Fitr Holiday"
+  },
+  {
+    "date": "2019-06-04",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2019-06-05",
+    "holiday": "Eid al-Fitr Holiday"
+  },
+  {
+    "date": "2019-06-06",
+    "holiday": "Eid al-Fitr Holiday"
+  },
+  {
+    "date": "2019-08-10",
+    "holiday": "Arafat Day"
+  },
+  {
+    "date": "2019-08-11",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2019-08-12",
+    "holiday": "Eid al-Adha Holiday"
+  },
+  {
+    "date": "2019-08-13",
+    "holiday": "Eid al-Adha Holiday"
+  },
+  {
+    "date": "2019-08-31",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2019-11-09",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2019-12-01",
+    "holiday": "Commemoration Day"
+  },
+  {
+    "date": "2019-12-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2019-12-03",
+    "holiday": "National Day"
+  }
+]

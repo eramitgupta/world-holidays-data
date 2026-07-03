@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-03-11",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2030-05-27",
+    "holiday": "JAGS McCartney Day"
+  },
+  {
+    "date": "2030-06-10",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2030-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2030-09-27",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2030-10-14",
+    "holiday": "National Heritage Day"
+  },
+  {
+    "date": "2030-11-22",
+    "holiday": "National Day of Thanksgiving"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2030-12-26",
+    "holiday": "Boxing Day"
+  }
+]

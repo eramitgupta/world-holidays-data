@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2049-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2049-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2049-05-27",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2049-06-07",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2049-10-03",
+    "holiday": "German Unity Day"
+  },
+  {
+    "date": "2049-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2049-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

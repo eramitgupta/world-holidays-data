@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-02-05",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2046-02-06",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2046-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2046-05-07",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2046-05-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2046-08-06",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2046-11-03",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2046-11-04",
+    "holiday": "National Day of Community Service"
+  },
+  {
+    "date": "2046-11-05",
+    "holiday": "National Day of Community Service (observed)"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2046-12-26",
+    "holiday": "Boxing Day"
+  }
+]

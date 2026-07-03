@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-01-22",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2042-07-01",
+    "holiday": "Day of Freedoms"
+  },
+  {
+    "date": "2042-08-09",
+    "holiday": "Indigenous People Day"
+  },
+  {
+    "date": "2042-09-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2042-10-10",
+    "holiday": "Day of the Maroons"
+  },
+  {
+    "date": "2042-11-11",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2042-11-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2042-11-25",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

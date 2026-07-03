@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2052-04-24",
+    "holiday": "National Concord Day"
+  },
+  {
+    "date": "2052-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2052-05-26",
+    "holiday": "Laylat al-Qadr (estimated)"
+  },
+  {
+    "date": "2052-05-27",
+    "holiday": "Laylat al-Qadr (observed, estimated)"
+  },
+  {
+    "date": "2052-05-29",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2052-07-26",
+    "holiday": "Anniversary of the CNSP Coup"
+  },
+  {
+    "date": "2052-08-03",
+    "holiday": "Anniversary of the Proclamation of Independence"
+  },
+  {
+    "date": "2052-08-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2052-08-06",
+    "holiday": "Day after Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2052-08-26",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2052-11-04",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2052-12-18",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  }
+]

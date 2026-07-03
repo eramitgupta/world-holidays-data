@@ -1,0 +1,94 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-03",
+    "holiday": "Public Holiday"
+  },
+  {
+    "date": "2020-03-14",
+    "holiday": "Summer Day"
+  },
+  {
+    "date": "2020-03-16",
+    "holiday": "Summer Day (observed)"
+  },
+  {
+    "date": "2020-03-22",
+    "holiday": "Nowruz Day"
+  },
+  {
+    "date": "2020-03-23",
+    "holiday": "Nowruz Day (observed)"
+  },
+  {
+    "date": "2020-04-12",
+    "holiday": "Catholic Easter Sunday"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Catholic Easter Sunday (observed)"
+  },
+  {
+    "date": "2020-04-19",
+    "holiday": "Orthodox Easter Sunday"
+  },
+  {
+    "date": "2020-04-20",
+    "holiday": "Orthodox Easter Sunday (observed)"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2020-05-24",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Eid al-Fitr (observed)"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-09-05",
+    "holiday": "Mother Teresa Canonization Day"
+  },
+  {
+    "date": "2020-09-07",
+    "holiday": "Mother Teresa Canonization Day (observed)"
+  },
+  {
+    "date": "2020-11-28",
+    "holiday": "Flag and Independence Day"
+  },
+  {
+    "date": "2020-11-29",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2020-11-30",
+    "holiday": "Flag and Independence Day (observed)"
+  },
+  {
+    "date": "2020-12-01",
+    "holiday": "Liberation Day (observed)"
+  },
+  {
+    "date": "2020-12-08",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  }
+]

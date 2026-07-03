@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-02-24",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2031-02-25",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2031-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2031-05-23",
+    "holiday": "The Battle of Pichincha (observed)"
+  },
+  {
+    "date": "2031-05-24",
+    "holiday": "The Battle of Pichincha"
+  },
+  {
+    "date": "2031-08-10",
+    "holiday": "Declaration of Independence of Quito"
+  },
+  {
+    "date": "2031-08-11",
+    "holiday": "Declaration of Independence of Quito (observed)"
+  },
+  {
+    "date": "2031-10-09",
+    "holiday": "Independence of Guayaquil"
+  },
+  {
+    "date": "2031-10-10",
+    "holiday": "Independence of Guayaquil (observed)"
+  },
+  {
+    "date": "2031-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2031-11-03",
+    "holiday": "Independence of Cuenca"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  }
+]

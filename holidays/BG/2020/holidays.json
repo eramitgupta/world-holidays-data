@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-03-03",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2020-04-17",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-18",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2020-04-19",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2020-04-20",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day and International Workers' Solidarity Day"
+  },
+  {
+    "date": "2020-05-06",
+    "holiday": "Saint George's Day (Day of the Bulgarian Army)"
+  },
+  {
+    "date": "2020-05-24",
+    "holiday": "Day of Slavonic Alphabet, Bulgarian Enlightenment and Culture"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Day of Slavonic Alphabet, Bulgarian Enlightenment and Culture (observed)"
+  },
+  {
+    "date": "2020-09-06",
+    "holiday": "Unification Day"
+  },
+  {
+    "date": "2020-09-07",
+    "holiday": "Unification Day (observed)"
+  },
+  {
+    "date": "2020-09-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-28",
+    "holiday": "Christmas Day (observed)"
+  }
+]

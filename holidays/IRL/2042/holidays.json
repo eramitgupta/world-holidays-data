@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-02-03",
+    "holiday": "Saint Brigid's Day"
+  },
+  {
+    "date": "2042-03-17",
+    "holiday": "Saint Patrick's Day"
+  },
+  {
+    "date": "2042-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2042-05-05",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2042-06-02",
+    "holiday": "June Bank Holiday"
+  },
+  {
+    "date": "2042-08-04",
+    "holiday": "August Bank Holiday"
+  },
+  {
+    "date": "2042-10-27",
+    "holiday": "October Bank Holiday"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]

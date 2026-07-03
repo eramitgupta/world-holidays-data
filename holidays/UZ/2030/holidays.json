@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2030-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2030-03-21",
+    "holiday": "Nowruz"
+  },
+  {
+    "date": "2030-04-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2030-04-15",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2030-05-09",
+    "holiday": "Day of Memory and Honor"
+  },
+  {
+    "date": "2030-09-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2030-09-02",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2030-10-01",
+    "holiday": "Teachers and Instructors Day"
+  },
+  {
+    "date": "2030-12-08",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2030-12-09",
+    "holiday": "Constitution Day (observed)"
+  }
+]

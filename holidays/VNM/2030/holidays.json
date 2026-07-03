@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-31",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2030-02-01",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2030-02-02",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2030-02-03",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2030-02-05",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2030-02-06",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2030-04-12",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2030-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2030-09-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2030-09-03",
+    "holiday": "National Day"
+  }
+]

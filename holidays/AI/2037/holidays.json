@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-03-02",
+    "holiday": "James Ronald Webster Day"
+  },
+  {
+    "date": "2037-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2037-04-05",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2037-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2037-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2037-05-25",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2037-05-30",
+    "holiday": "Anguilla Day"
+  },
+  {
+    "date": "2037-06-01",
+    "holiday": "Anguilla Day (observed)"
+  },
+  {
+    "date": "2037-06-15",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2037-08-03",
+    "holiday": "August Monday"
+  },
+  {
+    "date": "2037-08-06",
+    "holiday": "August Thursday"
+  },
+  {
+    "date": "2037-08-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2037-12-18",
+    "holiday": "National Heroes and Heroines Day (observed)"
+  },
+  {
+    "date": "2037-12-19",
+    "holiday": "National Heroes and Heroines Day"
+  },
+  {
+    "date": "2037-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2037-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2037-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

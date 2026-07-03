@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-02-12",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2018-02-13",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-30",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2018-05-24",
+    "holiday": "The Battle of Pichincha"
+  },
+  {
+    "date": "2018-05-25",
+    "holiday": "The Battle of Pichincha (observed)"
+  },
+  {
+    "date": "2018-08-10",
+    "holiday": "Declaration of Independence of Quito"
+  },
+  {
+    "date": "2018-10-08",
+    "holiday": "Independence of Guayaquil (observed)"
+  },
+  {
+    "date": "2018-10-09",
+    "holiday": "Independence of Guayaquil"
+  },
+  {
+    "date": "2018-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2018-11-03",
+    "holiday": "Independence of Cuenca"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  }
+]

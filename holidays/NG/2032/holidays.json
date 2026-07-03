@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-01-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2032-01-16",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2032-03-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2032-03-24",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2032-05-03",
+    "holiday": "Workers' Day (observed)"
+  },
+  {
+    "date": "2032-06-12",
+    "holiday": "Democracy Day"
+  },
+  {
+    "date": "2032-06-14",
+    "holiday": "Democracy Day (observed)"
+  },
+  {
+    "date": "2032-06-21",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2032-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2032-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2032-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-02-14",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2048-02-15",
+    "holiday": "Lunar New Year (observed)"
+  },
+  {
+    "date": "2048-02-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2048-02-24",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2048-05-10",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2048-05-11",
+    "holiday": "Isra' and Mi'raj (observed, estimated)"
+  },
+  {
+    "date": "2048-05-31",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2048-06-01",
+    "holiday": "Armed Forces Day (observed)"
+  },
+  {
+    "date": "2048-06-12",
+    "holiday": "First Day of Ramadan (estimated)"
+  },
+  {
+    "date": "2048-06-13",
+    "holiday": "First Day of Ramadan (observed, estimated)"
+  },
+  {
+    "date": "2048-06-28",
+    "holiday": "Anniversary of the revelation of the Quran (estimated)"
+  },
+  {
+    "date": "2048-06-29",
+    "holiday": "Anniversary of the revelation of the Quran (observed, estimated)"
+  },
+  {
+    "date": "2048-07-12",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2048-07-13",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2048-07-14",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2048-07-15",
+    "holiday": "Eid al-Fitr (observed, estimated); Sultan Hassanal Bolkiah's Birthday"
+  },
+  {
+    "date": "2048-09-19",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2048-10-09",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2048-10-10",
+    "holiday": "Islamic New Year (observed, estimated)"
+  },
+  {
+    "date": "2048-12-18",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2048-12-19",
+    "holiday": "Prophet's Birthday (observed, estimated)"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2019-01-28",
+    "holiday": "Australia Day (observed)"
+  },
+  {
+    "date": "2019-03-06",
+    "holiday": "Foundation Day"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2019-06-08",
+    "holiday": "Bounty Day"
+  },
+  {
+    "date": "2019-06-10",
+    "holiday": "Bounty Day (observed)"
+  },
+  {
+    "date": "2019-06-17",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2019-10-14",
+    "holiday": "Show Day"
+  },
+  {
+    "date": "2019-11-27",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Boxing Day"
+  }
+]

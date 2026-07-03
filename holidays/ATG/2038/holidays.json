@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-05-03",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2038-06-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2038-08-02",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2038-08-03",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2038-11-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2038-12-09",
+    "holiday": "Sir Vere Cornwall Bird Snr. Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2038-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2038-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

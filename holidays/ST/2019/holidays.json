@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-01-04",
+    "holiday": "Day of King Amador"
+  },
+  {
+    "date": "2019-02-03",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2019-07-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-09-06",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2019-09-30",
+    "holiday": "Agricultural Reform Day"
+  },
+  {
+    "date": "2019-12-21",
+    "holiday": "São Tomé Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2041-03-15",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2041-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2041-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2041-08-11",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2041-08-12",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2041-09-26",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2041-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2041-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2041-12-01",
+    "holiday": "Freedom and Democracy Day"
+  },
+  {
+    "date": "2041-12-02",
+    "holiday": "Freedom and Democracy Day (observed)"
+  },
+  {
+    "date": "2041-12-04",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Christmas Day"
+  }
+]

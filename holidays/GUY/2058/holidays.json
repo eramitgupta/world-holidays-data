@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-02-23",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2058-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2058-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2058-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2058-05-05",
+    "holiday": "Arrival Day"
+  },
+  {
+    "date": "2058-05-06",
+    "holiday": "Arrival Day (observed)"
+  },
+  {
+    "date": "2058-05-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2058-06-02",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2058-06-03",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2058-07-01",
+    "holiday": "CARICOM Day"
+  },
+  {
+    "date": "2058-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2058-09-01",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2058-09-02",
+    "holiday": "Prophet's Birthday (observed, estimated)"
+  },
+  {
+    "date": "2058-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2058-12-26",
+    "holiday": "Day after Christmas"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2059-03-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2059-03-31",
+    "holiday": "Catholic Easter Monday"
+  },
+  {
+    "date": "2059-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2059-05-02",
+    "holiday": "International Labor Day; Orthodox Good Friday"
+  },
+  {
+    "date": "2059-05-22",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

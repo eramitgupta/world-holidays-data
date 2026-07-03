@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-03-03",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2015-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-11",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2015-04-12",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2015-04-13",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day and International Workers' Solidarity Day"
+  },
+  {
+    "date": "2015-05-06",
+    "holiday": "Saint George's Day (Day of the Bulgarian Army)"
+  },
+  {
+    "date": "2015-05-24",
+    "holiday": "Day of Slavonic Alphabet, Bulgarian Enlightenment and Culture"
+  },
+  {
+    "date": "2015-09-06",
+    "holiday": "Unification Day"
+  },
+  {
+    "date": "2015-09-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Christmas Day"
+  }
+]

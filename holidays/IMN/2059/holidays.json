@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-03-31",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2059-05-05",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2059-05-26",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2059-06-06",
+    "holiday": "TT Bank Holiday"
+  },
+  {
+    "date": "2059-07-07",
+    "holiday": "Tynwald Day"
+  },
+  {
+    "date": "2059-08-25",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2059-12-26",
+    "holiday": "Boxing Day"
+  }
+]

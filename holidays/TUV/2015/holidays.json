@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-03-09",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2015-05-11",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2015-06-13",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2015-08-03",
+    "holiday": "National Children's Day"
+  },
+  {
+    "date": "2015-10-01",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2015-10-02",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2015-11-09",
+    "holiday": "Heir to the Throne's Birthday"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2015-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

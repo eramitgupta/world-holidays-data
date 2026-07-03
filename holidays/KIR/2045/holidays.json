@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2045-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2045-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2045-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2045-04-19",
+    "holiday": "National Health Day"
+  },
+  {
+    "date": "2045-07-11",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2045-07-12",
+    "holiday": "National Day - Independence Anniversary"
+  },
+  {
+    "date": "2045-07-15",
+    "holiday": "National Day (in honor of Unimwane)"
+  },
+  {
+    "date": "2045-07-16",
+    "holiday": "National Day (in honor of Unaine)"
+  },
+  {
+    "date": "2045-07-17",
+    "holiday": "National Day (in honor of Unaine) (observed)"
+  },
+  {
+    "date": "2045-08-05",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2045-08-07",
+    "holiday": "Youth Day (observed)"
+  },
+  {
+    "date": "2045-12-09",
+    "holiday": "Human Rights and Peace Day"
+  },
+  {
+    "date": "2045-12-11",
+    "holiday": "Human Rights and Peace Day (observed)"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2045-12-26",
+    "holiday": "Boxing Day"
+  }
+]

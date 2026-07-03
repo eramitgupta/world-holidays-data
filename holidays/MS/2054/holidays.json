@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-03-17",
+    "holiday": "Saint Patrick's Day"
+  },
+  {
+    "date": "2054-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2054-03-30",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2054-05-04",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2054-05-18",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2054-06-15",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2054-07-08",
+    "holiday": "Day of Prayer and Thanksgiving"
+  },
+  {
+    "date": "2054-08-03",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2054-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2054-12-28",
+    "holiday": "Boxing Day (observed)"
+  },
+  {
+    "date": "2054-12-31",
+    "holiday": "Festival Day"
+  }
+]

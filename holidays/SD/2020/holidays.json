@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-01-07",
+    "holiday": "Coptic Christmas"
+  },
+  {
+    "date": "2020-04-19",
+    "holiday": "Coptic Easter"
+  },
+  {
+    "date": "2020-05-24",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-26",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-27",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-07-30",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-01",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-02",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-03",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-20",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2020-10-29",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  }
+]

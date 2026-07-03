@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2039-05-09",
+    "holiday": "Europe Day"
+  },
+  {
+    "date": "2039-05-19",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2039-05-30",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2039-06-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2039-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2039-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]

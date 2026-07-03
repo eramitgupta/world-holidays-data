@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-05-09",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2039-06-11",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2039-08-01",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2039-10-01",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2039-10-02",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2039-10-03",
+    "holiday": "Tuvalu Day (observed)"
+  },
+  {
+    "date": "2039-10-04",
+    "holiday": "Tuvalu Day (observed)"
+  },
+  {
+    "date": "2039-10-10",
+    "holiday": "National Children's Day"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2039-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

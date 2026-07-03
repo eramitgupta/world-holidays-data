@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-01-22",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2042-01-23",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2042-01-24",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-05",
+    "holiday": "The day following Good Friday; Tomb-Sweeping Day"
+  },
+  {
+    "date": "2042-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2042-05-26",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2042-06-22",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2042-06-23",
+    "holiday": "Dragon Boat Festival (observed)"
+  },
+  {
+    "date": "2042-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2042-09-29",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2042-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2042-10-22",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  }
+]

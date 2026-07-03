@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-01-31",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2059-02-01",
+    "holiday": "Day following Independence Day"
+  },
+  {
+    "date": "2059-02-03",
+    "holiday": "Day following Independence Day (observed)"
+  },
+  {
+    "date": "2059-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2059-03-10",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-03-31",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2059-04-01",
+    "holiday": "Easter Tuesday"
+  },
+  {
+    "date": "2059-05-17",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2059-05-19",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2059-07-01",
+    "holiday": "RONPHOS Handover"
+  },
+  {
+    "date": "2059-08-19",
+    "holiday": "Ibumin Earoeni Day"
+  },
+  {
+    "date": "2059-09-25",
+    "holiday": "Sir Hammer DeRoburt Day"
+  },
+  {
+    "date": "2059-10-26",
+    "holiday": "Angam Day"
+  },
+  {
+    "date": "2059-10-27",
+    "holiday": "Angam Day (observed)"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2059-12-26",
+    "holiday": "Day following Christmas"
+  }
+]

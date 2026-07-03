@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-03-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-21",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-06-09",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2019-06-10",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2019-08-19",
+    "holiday": "Day off (substituted from 08/10/2019)"
+  },
+  {
+    "date": "2019-08-20",
+    "holiday": "State Foundation Day"
+  },
+  {
+    "date": "2019-10-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2019-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2019-12-24",
+    "holiday": "Day off (substituted from 12/07/2019)"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2019-12-27",
+    "holiday": "Day off (substituted from 12/14/2019)"
+  }
+]

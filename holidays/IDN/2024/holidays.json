@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-02-08",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2024-02-10",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2024-02-14",
+    "holiday": "General Election Day"
+  },
+  {
+    "date": "2024-03-11",
+    "holiday": "Day of Silence"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-03-31",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2024-04-10",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-04-11",
+    "holiday": "Eid al-Fitr Second Day"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2024-05-09",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2024-05-23",
+    "holiday": "Vesak Day"
+  },
+  {
+    "date": "2024-06-01",
+    "holiday": "Pancasila Day"
+  },
+  {
+    "date": "2024-06-17",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-07-07",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2024-08-17",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2024-09-16",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2024-11-27",
+    "holiday": "Local Election Day"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  }
+]

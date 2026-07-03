@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-03-26",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2054-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2054-03-29",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2054-03-30",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2054-04-24",
+    "holiday": "Great Prayer Day"
+  },
+  {
+    "date": "2054-05-07",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2054-05-17",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2054-05-18",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2054-07-29",
+    "holiday": "Saint Olaf's Day"
+  },
+  {
+    "date": "2054-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2054-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2054-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

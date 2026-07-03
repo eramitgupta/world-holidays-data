@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-02",
+    "holiday": "Day off (substituted from 01/17/2015)"
+  },
+  {
+    "date": "2015-01-07",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-01-08",
+    "holiday": "Day off (substituted from 01/31/2015)"
+  },
+  {
+    "date": "2015-01-09",
+    "holiday": "Day off (substituted from 02/14/2015)"
+  },
+  {
+    "date": "2015-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2015-03-09",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2015-04-12",
+    "holiday": "Easter Sunday (Pascha)"
+  },
+  {
+    "date": "2015-04-13",
+    "holiday": "Easter Sunday (Pascha) (observed)"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "International Workers' Solidarity Day"
+  },
+  {
+    "date": "2015-05-02",
+    "holiday": "International Workers' Solidarity Day"
+  },
+  {
+    "date": "2015-05-04",
+    "holiday": "International Workers' Solidarity Day (observed)"
+  },
+  {
+    "date": "2015-05-09",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2015-05-11",
+    "holiday": "Victory Day (observed)"
+  },
+  {
+    "date": "2015-05-31",
+    "holiday": "Holy Trinity Day"
+  },
+  {
+    "date": "2015-06-01",
+    "holiday": "Holy Trinity Day (observed)"
+  },
+  {
+    "date": "2015-06-28",
+    "holiday": "Day of the Constitution of Ukraine"
+  },
+  {
+    "date": "2015-06-29",
+    "holiday": "Day of the Constitution of Ukraine (observed)"
+  },
+  {
+    "date": "2015-08-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-10-14",
+    "holiday": "Defender of Ukraine Day"
+  }
+]

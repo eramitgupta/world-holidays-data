@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-03",
+    "holiday": "Mawlid; Revolution Day"
+  },
+  {
+    "date": "2015-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2015-03-09",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2015-05-14",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2015-07-18",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2015-08-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2015-09-24",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2015-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2015-11-02",
+    "holiday": "All Saints' Day (observed)"
+  },
+  {
+    "date": "2015-12-11",
+    "holiday": "Proclamation of Independence Day"
+  },
+  {
+    "date": "2015-12-24",
+    "holiday": "Mawlid"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

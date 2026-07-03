@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-04-21",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2057-04-23",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2057-06-11",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2057-06-15",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2057-07-06",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2057-07-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2057-12-26",
+    "holiday": "National Day of Thanksgiving"
+  }
+]

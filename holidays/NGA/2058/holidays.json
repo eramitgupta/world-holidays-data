@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-03-26",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2058-03-27",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2058-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2058-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2058-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2058-06-02",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2058-06-03",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2058-06-04",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2058-06-12",
+    "holiday": "Democracy Day"
+  },
+  {
+    "date": "2058-09-01",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2058-09-02",
+    "holiday": "Prophet's Birthday (observed, estimated)"
+  },
+  {
+    "date": "2058-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2058-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2058-12-26",
+    "holiday": "Boxing Day"
+  }
+]

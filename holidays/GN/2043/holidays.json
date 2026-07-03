@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2043-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2043-02-22",
+    "holiday": "Day after Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2043-03-30",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2043-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2043-05-25",
+    "holiday": "Africa Day"
+  },
+  {
+    "date": "2043-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2043-09-01",
+    "holiday": "Day after Night of Power (estimated)"
+  },
+  {
+    "date": "2043-09-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2043-10-02",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2043-11-12",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2043-11-13",
+    "holiday": "Day after Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2043-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-03-31",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2024-05-09",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2024-05-19",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2024-06-09",
+    "holiday": "Åland's Autonomy Day"
+  },
+  {
+    "date": "2024-06-21",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2024-06-22",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2024-11-02",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2024-12-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2024-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

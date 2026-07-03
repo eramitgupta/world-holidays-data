@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-02-01",
+    "holiday": "Chinese New Year's Day"
+  },
+  {
+    "date": "2041-02-02",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2041-02-03",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2041-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2041-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2041-09-11",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2041-10-01",
+    "holiday": "National Day of the People's Republic of China"
+  },
+  {
+    "date": "2041-10-03",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2041-12-20",
+    "holiday": "Macao S.A.R. Establishment Day"
+  }
+]

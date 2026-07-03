@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-02-28",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2022-06-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-07-01",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2022-07-09",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2022-07-30",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2022-08-08",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2022-10-08",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2017-05-29",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2017-12-26",
+    "holiday": "Boxing Day"
+  }
+]

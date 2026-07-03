@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2043-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2043-03-30",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2043-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2043-05-07",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2043-05-09",
+    "holiday": "Europe Day"
+  },
+  {
+    "date": "2043-05-18",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2043-06-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2043-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2043-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2043-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2043-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]

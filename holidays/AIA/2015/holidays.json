@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-03-02",
+    "holiday": "James Ronald Webster Day"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-05",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-05-25",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2015-05-30",
+    "holiday": "Anguilla Day"
+  },
+  {
+    "date": "2015-06-01",
+    "holiday": "Anguilla Day (observed)"
+  },
+  {
+    "date": "2015-06-08",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2015-08-03",
+    "holiday": "August Monday"
+  },
+  {
+    "date": "2015-08-06",
+    "holiday": "August Thursday"
+  },
+  {
+    "date": "2015-08-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2015-12-18",
+    "holiday": "National Heroes and Heroines Day (observed)"
+  },
+  {
+    "date": "2015-12-19",
+    "holiday": "National Heroes and Heroines Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2015-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

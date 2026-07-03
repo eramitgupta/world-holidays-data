@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-03-09",
+    "holiday": "National Heroes and Benefactors Day"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-20",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2019-05-27",
+    "holiday": "Commonwealth Day (observed)"
+  },
+  {
+    "date": "2019-09-10",
+    "holiday": "Saint George's Caye Day"
+  },
+  {
+    "date": "2019-09-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-10-12",
+    "holiday": "Pan American Day"
+  },
+  {
+    "date": "2019-11-19",
+    "holiday": "Garifuna Settlement Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Boxing Day"
+  }
+]

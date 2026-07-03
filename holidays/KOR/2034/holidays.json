@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2034-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2034-02-18",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2034-02-19",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2034-02-20",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2034-02-21",
+    "holiday": "Alternative holiday for Korean New Year"
+  },
+  {
+    "date": "2034-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2034-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2034-05-25",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2034-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2034-06-14",
+    "holiday": "Local Election Day"
+  },
+  {
+    "date": "2034-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2034-09-26",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2034-09-27",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2034-09-28",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2034-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2034-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2034-12-25",
+    "holiday": "Christmas Day"
+  }
+]

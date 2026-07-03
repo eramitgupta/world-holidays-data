@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2053-04-05",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2053-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2053-05-26",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2053-06-20",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2053-07-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2053-12-26",
+    "holiday": "National Day of Thanksgiving"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-02-01",
+    "holiday": "Saint Brigid's Day"
+  },
+  {
+    "date": "2041-03-17",
+    "holiday": "Saint Patrick's Day"
+  },
+  {
+    "date": "2041-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2041-05-06",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2041-06-03",
+    "holiday": "June Bank Holiday"
+  },
+  {
+    "date": "2041-08-05",
+    "holiday": "August Bank Holiday"
+  },
+  {
+    "date": "2041-10-28",
+    "holiday": "October Bank Holiday"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2041-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]

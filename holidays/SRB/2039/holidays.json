@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2039-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2039-02-15",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2039-02-16",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2039-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-04-16",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2039-04-17",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2039-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2039-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2039-05-03",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2039-11-11",
+    "holiday": "Armistice Day"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-01-22",
+    "holiday": "Plurinational State Foundation Day"
+  },
+  {
+    "date": "2019-03-04",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2019-03-05",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-06-20",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2019-06-21",
+    "holiday": "Aymara New Year"
+  },
+  {
+    "date": "2019-08-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  }
+]

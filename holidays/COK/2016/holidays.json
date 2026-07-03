@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2016-01-04",
+    "holiday": "Day after New Year's Day (observed)"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2016-06-06",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2016-07-01",
+    "holiday": "Day of the House of Ariki"
+  },
+  {
+    "date": "2016-08-04",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2016-10-26",
+    "holiday": "Cook Islands Gospel Day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2016-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

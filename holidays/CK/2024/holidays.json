@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2024-06-03",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2024-07-05",
+    "holiday": "Day of the House of Ariki"
+  },
+  {
+    "date": "2024-08-04",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2024-08-05",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2024-10-26",
+    "holiday": "Cook Islands Gospel Day"
+  },
+  {
+    "date": "2024-10-28",
+    "holiday": "Cook Islands Gospel Day (observed)"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "Boxing Day"
+  }
+]

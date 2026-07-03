@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-03-15",
+    "holiday": "Eid-al-Fitr (estimated)"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-03-31",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2059-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2059-06-01",
+    "holiday": "Madaraka Day"
+  },
+  {
+    "date": "2059-06-02",
+    "holiday": "Madaraka Day (observed)"
+  },
+  {
+    "date": "2059-10-10",
+    "holiday": "Mazingira Day"
+  },
+  {
+    "date": "2059-10-20",
+    "holiday": "Mashujaa Day"
+  },
+  {
+    "date": "2059-12-12",
+    "holiday": "Jamhuri Day"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2059-12-26",
+    "holiday": "Boxing Day"
+  }
+]

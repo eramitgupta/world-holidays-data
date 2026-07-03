@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-02-08",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2035-02-09",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2035-02-18",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2035-02-19",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2035-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2035-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2035-05-22",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2035-08-09",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2035-10-29",
+    "holiday": "Deepavali"
+  },
+  {
+    "date": "2035-12-01",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2035-12-25",
+    "holiday": "Christmas Day"
+  }
+]

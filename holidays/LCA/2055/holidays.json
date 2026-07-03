@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-02",
+    "holiday": "New Year's Holiday"
+  },
+  {
+    "date": "2055-02-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2055-06-07",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2055-06-17",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2055-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2055-08-02",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2055-10-04",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2055-12-13",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2055-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

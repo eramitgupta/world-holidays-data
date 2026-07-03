@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-02-21",
+    "holiday": "Father Lini Day"
+  },
+  {
+    "date": "2019-03-05",
+    "holiday": "Custom Chief's Day"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2019-05-30",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2019-07-24",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2019-07-30",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2019-10-05",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2019-11-29",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Family Day"
+  }
+]

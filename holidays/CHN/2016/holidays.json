@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-02-08",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2016-02-09",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2016-02-10",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2016-02-11",
+    "holiday": "Day off (substituted from 02/06/2016)"
+  },
+  {
+    "date": "2016-02-12",
+    "holiday": "Day off (substituted from 02/14/2016)"
+  },
+  {
+    "date": "2016-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2016-06-09",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2016-06-10",
+    "holiday": "Day off (substituted from 06/12/2016)"
+  },
+  {
+    "date": "2016-09-15",
+    "holiday": "Mid-Autumn Festival"
+  },
+  {
+    "date": "2016-09-16",
+    "holiday": "Day off (substituted from 09/18/2016)"
+  },
+  {
+    "date": "2016-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2016-10-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2016-10-03",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2016-10-04",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2016-10-05",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2016-10-06",
+    "holiday": "Day off (substituted from 10/08/2016)"
+  },
+  {
+    "date": "2016-10-07",
+    "holiday": "Day off (substituted from 10/09/2016)"
+  }
+]

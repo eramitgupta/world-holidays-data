@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-01-28",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2058-02-27",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2058-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2058-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2058-05-06",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2058-05-20",
+    "holiday": "Discovery Day"
+  },
+  {
+    "date": "2058-06-17",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2058-07-01",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2058-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2058-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2058-12-26",
+    "holiday": "Boxing Day"
+  }
+]

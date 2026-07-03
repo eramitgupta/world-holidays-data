@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "Capodanno"
+  },
+  {
+    "date": "2046-01-06",
+    "holiday": "Epifania del Signore"
+  },
+  {
+    "date": "2046-03-25",
+    "holiday": "Pasqua di Resurrezione"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Lunedì dell'Angelo"
+  },
+  {
+    "date": "2046-04-25",
+    "holiday": "Festa della Liberazione"
+  },
+  {
+    "date": "2046-05-01",
+    "holiday": "Festa dei Lavoratori"
+  },
+  {
+    "date": "2046-06-02",
+    "holiday": "Festa della Repubblica"
+  },
+  {
+    "date": "2046-08-15",
+    "holiday": "Assunzione della Vergine"
+  },
+  {
+    "date": "2046-11-01",
+    "holiday": "Tutti i Santi"
+  },
+  {
+    "date": "2046-12-08",
+    "holiday": "Immacolata Concezione"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Natale"
+  },
+  {
+    "date": "2046-12-26",
+    "holiday": "Santo Stefano"
+  }
+]

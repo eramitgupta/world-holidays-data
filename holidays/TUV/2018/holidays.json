@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-03-12",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2018-05-14",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2018-06-09",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2018-08-06",
+    "holiday": "National Children's Day"
+  },
+  {
+    "date": "2018-10-01",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2018-10-02",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2018-11-12",
+    "holiday": "Heir to the Throne's Birthday"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-12-26",
+    "holiday": "Boxing Day"
+  }
+]

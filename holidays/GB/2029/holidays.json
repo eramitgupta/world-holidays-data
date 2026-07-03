@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2029-05-07",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2029-05-28",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2029-12-26",
+    "holiday": "Boxing Day"
+  }
+]

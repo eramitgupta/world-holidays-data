@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2052-04-19",
+    "holiday": "Orthodox Good Friday"
+  },
+  {
+    "date": "2052-04-22",
+    "holiday": "Catholic Easter Monday"
+  },
+  {
+    "date": "2052-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2052-05-02",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2052-05-29",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2052-08-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

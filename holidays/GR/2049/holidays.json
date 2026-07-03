@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2049-03-08",
+    "holiday": "Green Monday"
+  },
+  {
+    "date": "2049-03-25",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2049-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2049-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2049-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2049-05-03",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2049-06-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2049-08-15",
+    "holiday": "Dormition of the Mother of God"
+  },
+  {
+    "date": "2049-10-28",
+    "holiday": "Ochi Day"
+  },
+  {
+    "date": "2049-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2049-12-26",
+    "holiday": "Glorifying Mother of God"
+  }
+]

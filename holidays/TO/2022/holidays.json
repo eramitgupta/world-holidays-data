@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2022-06-06",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2022-07-04",
+    "holiday": "Birthday of the Reigning Sovereign of Tonga"
+  },
+  {
+    "date": "2022-09-17",
+    "holiday": "Birthday of the Heir to the Crown of Tonga"
+  },
+  {
+    "date": "2022-11-07",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2022-12-05",
+    "holiday": "Anniversary of the Coronation of HM King George Tupou I (observed)"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Boxing Day"
+  }
+]

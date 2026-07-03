@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-05-03",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2020-05-22",
+    "holiday": "Eid al-Fitr (estimated); Unity Day"
+  },
+  {
+    "date": "2020-05-23",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-24",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-26",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-27",
+    "holiday": "Eid al-Fitr (observed, estimated); Unity Day (observed)"
+  },
+  {
+    "date": "2020-07-30",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-01",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-02",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-03",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-04",
+    "holiday": "Eid al-Adha (observed)"
+  },
+  {
+    "date": "2020-08-20",
+    "holiday": "Hijri New Year"
+  },
+  {
+    "date": "2020-09-26",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2020-10-14",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2020-11-30",
+    "holiday": "Independence Day"
+  }
+]

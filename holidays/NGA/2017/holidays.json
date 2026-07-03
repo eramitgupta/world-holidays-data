@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2017-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2017-05-29",
+    "holiday": "Democracy Day"
+  },
+  {
+    "date": "2017-06-26",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2017-06-27",
+    "holiday": "Eid al-Fitr Holiday"
+  },
+  {
+    "date": "2017-09-02",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2017-09-03",
+    "holiday": "Eid al-Adha Holiday"
+  },
+  {
+    "date": "2017-09-04",
+    "holiday": "Eid al-Adha (observed)"
+  },
+  {
+    "date": "2017-09-05",
+    "holiday": "Eid al-Adha Holiday (observed)"
+  },
+  {
+    "date": "2017-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2017-10-02",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2017-12-01",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2017-12-26",
+    "holiday": "Boxing Day"
+  }
+]

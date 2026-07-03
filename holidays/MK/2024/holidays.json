@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-01-07",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-01-08",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2024-04-10",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-04-24",
+    "holiday": "Election Day"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2024-05-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-05-08",
+    "holiday": "Election Day"
+  },
+  {
+    "date": "2024-05-24",
+    "holiday": "Saints Cyril and Methodius Day"
+  },
+  {
+    "date": "2024-08-02",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2024-09-08",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2024-09-09",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2024-10-11",
+    "holiday": "National Uprising Day"
+  },
+  {
+    "date": "2024-10-23",
+    "holiday": "Macedonian Revolutionary Struggle Day"
+  },
+  {
+    "date": "2024-12-08",
+    "holiday": "Saint Clement of Ohrid Day"
+  },
+  {
+    "date": "2024-12-09",
+    "holiday": "Saint Clement of Ohrid Day (observed)"
+  }
+]

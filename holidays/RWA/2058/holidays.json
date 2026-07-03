@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2058-02-01",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2058-03-25",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2058-04-07",
+    "holiday": "Memorial Day of Genocide perpetrated against the Tutsi in 1994"
+  },
+  {
+    "date": "2058-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2058-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2058-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2058-06-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2058-06-03",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2058-07-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2058-07-04",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2058-08-02",
+    "holiday": "Umuganura Day"
+  },
+  {
+    "date": "2058-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2058-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2058-12-26",
+    "holiday": "Boxing Day"
+  }
+]

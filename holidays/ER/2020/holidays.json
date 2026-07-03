@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-07",
+    "holiday": "Orthodox Christmas"
+  },
+  {
+    "date": "2020-01-20",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2020-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2020-04-17",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-19",
+    "holiday": "Orthodox Easter"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2020-05-24",
+    "holiday": "Eid al-Fitr (estimated); Independence Day"
+  },
+  {
+    "date": "2020-06-20",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2020-09-01",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2020-09-11",
+    "holiday": "Ethiopian New Year"
+  },
+  {
+    "date": "2020-09-27",
+    "holiday": "Finding of the True Cross"
+  },
+  {
+    "date": "2020-10-29",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

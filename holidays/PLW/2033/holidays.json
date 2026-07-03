@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-03-15",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2033-05-05",
+    "holiday": "Senior Citizens Day"
+  },
+  {
+    "date": "2033-06-01",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2033-07-08",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2033-07-09",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2033-09-05",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2033-09-30",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2033-10-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2033-10-24",
+    "holiday": "United Nations Day"
+  },
+  {
+    "date": "2033-11-24",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2033-11-25",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2033-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

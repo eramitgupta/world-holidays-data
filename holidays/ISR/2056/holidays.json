@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2056-04-01",
+    "holiday": "Pesach"
+  },
+  {
+    "date": "2056-04-07",
+    "holiday": "Seventh day of Pesach"
+  },
+  {
+    "date": "2056-04-20",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2056-05-21",
+    "holiday": "Shavuot"
+  },
+  {
+    "date": "2056-09-11",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2056-09-12",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2056-09-20",
+    "holiday": "Yom Kippur"
+  },
+  {
+    "date": "2056-09-25",
+    "holiday": "Sukkot"
+  },
+  {
+    "date": "2056-10-02",
+    "holiday": "Simchat Torah / Shemini Atzeret"
+  }
+]

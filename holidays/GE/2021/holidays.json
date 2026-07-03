@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-07",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-01-19",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2021-03-03",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2021-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2021-04-09",
+    "holiday": "National Unity Day"
+  },
+  {
+    "date": "2021-04-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2021-05-02",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2021-05-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-09",
+    "holiday": "Day of Victory over Fascism"
+  },
+  {
+    "date": "2021-05-12",
+    "holiday": "Saint Andrew's Day"
+  },
+  {
+    "date": "2021-05-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-08-28",
+    "holiday": "Dormition of the Mother of God"
+  },
+  {
+    "date": "2021-10-14",
+    "holiday": "Holiday of Svetitskhovloba, Robe of Jesus"
+  },
+  {
+    "date": "2021-11-23",
+    "holiday": "Saint George's Day"
+  }
+]

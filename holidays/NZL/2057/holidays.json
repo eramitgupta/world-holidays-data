@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2057-02-06",
+    "holiday": "Waitangi Day"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-04-23",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2057-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2057-06-04",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2057-10-22",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2057-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2017-04-15",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2017-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2017-04-18",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2017-05-25",
+    "holiday": "Africa Day"
+  },
+  {
+    "date": "2017-08-14",
+    "holiday": "Zimbabwe Heroes' Day"
+  },
+  {
+    "date": "2017-08-15",
+    "holiday": "Defense Forces Day"
+  },
+  {
+    "date": "2017-12-22",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2017-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-02-07",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2016-02-08",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2016-02-09",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2016-02-10",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2016-02-11",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2016-02-12",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2016-04-16",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2016-04-18",
+    "holiday": "Hung Kings' Commemoration Day (observed)"
+  },
+  {
+    "date": "2016-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "Liberation Day/Reunification Day (observed)"
+  },
+  {
+    "date": "2016-05-03",
+    "holiday": "International Labor Day (observed)"
+  },
+  {
+    "date": "2016-09-02",
+    "holiday": "National Day"
+  }
+]

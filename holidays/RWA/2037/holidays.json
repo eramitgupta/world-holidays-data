@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2037-01-26",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2037-02-01",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2037-02-02",
+    "holiday": "National Heroes' Day (observed)"
+  },
+  {
+    "date": "2037-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2037-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2037-04-07",
+    "holiday": "Memorial Day of Genocide perpetrated against the Tutsi in 1994"
+  },
+  {
+    "date": "2037-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2037-07-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2037-07-04",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2037-07-06",
+    "holiday": "Liberation Day (observed)"
+  },
+  {
+    "date": "2037-08-07",
+    "holiday": "Umuganura Day"
+  },
+  {
+    "date": "2037-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2037-08-17",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2037-11-08",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2037-11-09",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2037-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2037-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2037-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

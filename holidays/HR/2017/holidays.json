@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2017-04-16",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2017-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2017-06-15",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2017-06-22",
+    "holiday": "Anti-Fascist Struggle Day"
+  },
+  {
+    "date": "2017-06-25",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2017-08-05",
+    "holiday": "Victory and Homeland Thanksgiving Day and Croatian Veterans Day"
+  },
+  {
+    "date": "2017-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2017-10-08",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2017-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2017-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]

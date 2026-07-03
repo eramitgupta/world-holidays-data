@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2040-03-21",
+    "holiday": "Nowruz"
+  },
+  {
+    "date": "2040-05-09",
+    "holiday": "Day of Memory and Honor"
+  },
+  {
+    "date": "2040-09-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-09-03",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2040-10-01",
+    "holiday": "Teachers and Instructors Day"
+  },
+  {
+    "date": "2040-10-07",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2040-10-08",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2040-12-08",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2040-12-10",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2040-12-14",
+    "holiday": "Eid al-Adha (estimated)"
+  }
+]

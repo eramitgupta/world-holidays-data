@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-01-10",
+    "holiday": "Majority Rule Day"
+  },
+  {
+    "date": "2049-01-11",
+    "holiday": "Majority Rule Day (observed)"
+  },
+  {
+    "date": "2049-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2049-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2049-06-04",
+    "holiday": "Randol Fawkes Labour Day"
+  },
+  {
+    "date": "2049-06-07",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2049-07-10",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2049-07-12",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2049-08-02",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2049-10-11",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2049-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2049-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2049-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-03-18",
+    "holiday": "Cheikh al Maarouf Day; Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2053-05-19",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2053-05-20",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2053-05-21",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2053-07-06",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2053-07-26",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2053-07-27",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2053-08-15",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2053-10-24",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2053-11-12",
+    "holiday": "Maore Day"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  }
+]

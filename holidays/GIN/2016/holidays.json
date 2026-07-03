@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-04-03",
+    "holiday": "Second Republic Day"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-05-25",
+    "holiday": "Africa Day"
+  },
+  {
+    "date": "2016-07-03",
+    "holiday": "Day after Night of Power"
+  },
+  {
+    "date": "2016-07-07",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2016-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2016-09-13",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2016-10-02",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2016-12-12",
+    "holiday": "Day after Prophet's Birthday"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  }
+]

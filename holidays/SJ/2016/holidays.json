@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-03-24",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-27",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-05-05",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2016-05-15",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2016-05-16",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2016-05-17",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

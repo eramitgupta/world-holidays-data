@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-02-09",
+    "holiday": "Monday of Carnival"
+  },
+  {
+    "date": "2054-02-10",
+    "holiday": "Tuesday of Carnival"
+  },
+  {
+    "date": "2054-03-26",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2054-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2054-04-19",
+    "holiday": "Declaration of Independence"
+  },
+  {
+    "date": "2054-05-01",
+    "holiday": "International Worker's Day"
+  },
+  {
+    "date": "2054-06-24",
+    "holiday": "Battle of Carabobo"
+  },
+  {
+    "date": "2054-07-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2054-07-24",
+    "holiday": "Birthday of Simon Bolivar"
+  },
+  {
+    "date": "2054-10-12",
+    "holiday": "Day of Indigenous Resistance"
+  },
+  {
+    "date": "2054-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2054-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

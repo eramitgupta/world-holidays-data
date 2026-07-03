@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-02-23",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2052-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2052-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2052-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2052-05-05",
+    "holiday": "Arrival Day"
+  },
+  {
+    "date": "2052-05-06",
+    "holiday": "Arrival Day (observed)"
+  },
+  {
+    "date": "2052-05-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2052-07-01",
+    "holiday": "CARICOM Day"
+  },
+  {
+    "date": "2052-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2052-08-06",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2052-11-05",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2052-12-26",
+    "holiday": "Day after Christmas"
+  }
+]

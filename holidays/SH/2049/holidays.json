@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2049-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2049-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2049-11-12",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2049-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2049-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2049-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2049-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

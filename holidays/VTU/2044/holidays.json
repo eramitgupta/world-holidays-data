@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-02-21",
+    "holiday": "Father Lini Day"
+  },
+  {
+    "date": "2044-02-22",
+    "holiday": "Father Lini Day (observed)"
+  },
+  {
+    "date": "2044-03-05",
+    "holiday": "Custom Chief's Day"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2044-05-02",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2044-05-26",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2044-07-24",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2044-07-25",
+    "holiday": "Children's Day (observed)"
+  },
+  {
+    "date": "2044-07-30",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2044-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2044-10-05",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2044-11-29",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2044-12-27",
+    "holiday": "Family Day (observed)"
+  }
+]

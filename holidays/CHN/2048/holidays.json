@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-02-13",
+    "holiday": "Chinese New Year's Eve"
+  },
+  {
+    "date": "2048-02-14",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2048-02-15",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2048-02-16",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2048-02-17",
+    "holiday": "Chinese New Year (Spring Festival) (observed)"
+  },
+  {
+    "date": "2048-02-18",
+    "holiday": "Chinese New Year (Spring Festival) (observed)"
+  },
+  {
+    "date": "2048-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Tomb-Sweeping Day (observed)"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2048-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2048-05-04",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2048-06-15",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2048-09-22",
+    "holiday": "Mid-Autumn Festival"
+  },
+  {
+    "date": "2048-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2048-10-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2048-10-03",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2048-10-05",
+    "holiday": "National Day (observed)"
+  }
+]

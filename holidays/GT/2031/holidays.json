@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-04-10",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-12",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2031-06-30",
+    "holiday": "Army Day"
+  },
+  {
+    "date": "2031-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2031-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2031-10-20",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2031-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  }
+]

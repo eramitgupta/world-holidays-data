@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-01-26",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2047-01-28",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2047-01-29",
+    "holiday": "The fourth day of Chinese New Year"
+  },
+  {
+    "date": "2047-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2047-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2047-04-13",
+    "holiday": "The day following Good Friday"
+  },
+  {
+    "date": "2047-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2047-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2047-05-02",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2047-05-29",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2047-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2047-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2047-10-05",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2047-10-27",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2047-10-28",
+    "holiday": "Double Ninth Festival (observed)"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2047-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  }
+]

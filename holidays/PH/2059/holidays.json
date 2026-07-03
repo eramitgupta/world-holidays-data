@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-02-12",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2059-03-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2059-03-27",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-03-29",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2059-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2059-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2059-05-22",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2059-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2059-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2059-08-25",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2059-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2059-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2059-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2059-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2059-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

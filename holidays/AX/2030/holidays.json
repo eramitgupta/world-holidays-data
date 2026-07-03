@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-04-21",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2030-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2030-05-30",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2030-06-09",
+    "holiday": "Whit Sunday; Åland's Autonomy Day"
+  },
+  {
+    "date": "2030-06-21",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2030-06-22",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2030-11-02",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2030-12-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2030-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2030-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

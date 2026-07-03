@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-04-28",
+    "holiday": "Eid-al-Fitr (estimated)"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2055-06-01",
+    "holiday": "Madaraka Day"
+  },
+  {
+    "date": "2055-10-10",
+    "holiday": "Mazingira Day"
+  },
+  {
+    "date": "2055-10-11",
+    "holiday": "Mazingira Day (observed)"
+  },
+  {
+    "date": "2055-10-20",
+    "holiday": "Mashujaa Day"
+  },
+  {
+    "date": "2055-12-12",
+    "holiday": "Jamhuri Day"
+  },
+  {
+    "date": "2055-12-13",
+    "holiday": "Jamhuri Day (observed)"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2055-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2026-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2026-01-27",
+    "holiday": "Saint Devote's Day"
+  },
+  {
+    "date": "2026-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2026-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2026-05-14",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2026-05-25",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2026-06-04",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2026-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2026-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2026-11-02",
+    "holiday": "All Saints' Day (observed)"
+  },
+  {
+    "date": "2026-11-19",
+    "holiday": "Prince's Day"
+  },
+  {
+    "date": "2026-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2026-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-21",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2015-06-14",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2015-06-15",
+    "holiday": "Liberation Day (observed)"
+  },
+  {
+    "date": "2015-10-05",
+    "holiday": "Peat Cutting Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2015-12-27",
+    "holiday": "Christmas Holiday"
+  },
+  {
+    "date": "2015-12-28",
+    "holiday": "Boxing Day (observed)"
+  },
+  {
+    "date": "2015-12-29",
+    "holiday": "Christmas Holiday (observed)"
+  }
+]

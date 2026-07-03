@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2021-02-12",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2021-02-13",
+    "holiday": "Lunar New Year (observed)"
+  },
+  {
+    "date": "2021-02-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2021-03-11",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2021-04-13",
+    "holiday": "First Day of Ramadan"
+  },
+  {
+    "date": "2021-04-29",
+    "holiday": "Anniversary of the revelation of the Quran"
+  },
+  {
+    "date": "2021-05-13",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2021-05-14",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2021-05-15",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2021-05-17",
+    "holiday": "Eid al-Fitr (observed)"
+  },
+  {
+    "date": "2021-05-31",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2021-07-15",
+    "holiday": "Sultan Hassanal Bolkiah's Birthday"
+  },
+  {
+    "date": "2021-07-20",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2021-08-10",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2021-10-19",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  }
+]

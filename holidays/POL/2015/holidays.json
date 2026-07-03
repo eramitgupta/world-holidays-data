@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2015-04-05",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2015-05-03",
+    "holiday": "National Day of the Third of May"
+  },
+  {
+    "date": "2015-05-24",
+    "holiday": "Pentecost"
+  },
+  {
+    "date": "2015-06-04",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2015-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2015-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2015-11-11",
+    "holiday": "National Independence Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

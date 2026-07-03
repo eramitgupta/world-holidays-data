@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2023-02-18",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2023-02-20",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2023-04-18",
+    "holiday": "Laylat al-Qadr"
+  },
+  {
+    "date": "2023-04-21",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2023-04-22",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2023-04-24",
+    "holiday": "Eid al-Fitr (observed)"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2023-05-25",
+    "holiday": "Africa Liberation Day"
+  },
+  {
+    "date": "2023-06-28",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2023-06-29",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2023-07-22",
+    "holiday": "July 22 Revolution Day"
+  },
+  {
+    "date": "2023-07-24",
+    "holiday": "July 22 Revolution Day (observed)"
+  },
+  {
+    "date": "2023-07-28",
+    "holiday": "Ashura"
+  },
+  {
+    "date": "2023-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2023-09-28",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2023-12-26",
+    "holiday": "Boxing Day"
+  }
+]

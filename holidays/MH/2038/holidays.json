@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-03-01",
+    "holiday": "Nuclear Victims Remembrance Day"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2038-07-02",
+    "holiday": "Fisherman's Day"
+  },
+  {
+    "date": "2038-09-03",
+    "holiday": "Dri-jerbal Day"
+  },
+  {
+    "date": "2038-09-24",
+    "holiday": "Manit Day"
+  },
+  {
+    "date": "2038-11-17",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2038-12-03",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  }
+]

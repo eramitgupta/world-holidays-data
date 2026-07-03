@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2052-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2052-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2052-05-30",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2052-05-31",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2052-06-12",
+    "holiday": "Democracy Day"
+  },
+  {
+    "date": "2052-08-06",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2052-08-07",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2052-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2052-11-05",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2052-12-26",
+    "holiday": "Boxing Day"
+  }
+]

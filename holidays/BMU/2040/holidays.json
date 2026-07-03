@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-05-25",
+    "holiday": "Bermuda Day"
+  },
+  {
+    "date": "2040-06-18",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2040-08-02",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2040-08-03",
+    "holiday": "Mary Prince Day"
+  },
+  {
+    "date": "2040-09-03",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2040-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2040-11-12",
+    "holiday": "Remembrance Day (observed)"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Boxing Day"
+  }
+]

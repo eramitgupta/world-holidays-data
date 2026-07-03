@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-18",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2038-02-15",
+    "holiday": "Washington's Birthday"
+  },
+  {
+    "date": "2038-03-01",
+    "holiday": "Guam Discovery Day"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-05-31",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2038-06-18",
+    "holiday": "Juneteenth National Independence Day (observed)"
+  },
+  {
+    "date": "2038-06-19",
+    "holiday": "Juneteenth National Independence Day"
+  },
+  {
+    "date": "2038-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2038-07-05",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2038-07-21",
+    "holiday": "Liberation Day (Guam)"
+  },
+  {
+    "date": "2038-09-06",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2038-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2038-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2038-11-25",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2038-12-08",
+    "holiday": "Lady of Camarin Day"
+  },
+  {
+    "date": "2038-12-24",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-31",
+    "holiday": "New Year's Day (observed)"
+  }
+]

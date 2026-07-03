@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-04-01",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-11",
+    "holiday": "Juan Santamaría Day"
+  },
+  {
+    "date": "2021-05-03",
+    "holiday": "International Labor Day (observed)"
+  },
+  {
+    "date": "2021-07-26",
+    "holiday": "Annexation of the Party of Nicoya to Costa Rica (observed)"
+  },
+  {
+    "date": "2021-08-15",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2021-09-13",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2022-03-17",
+    "holiday": "Saint Patrick's Day"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-06-02",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2022-06-03",
+    "holiday": "Platinum Jubilee of Elizabeth II"
+  },
+  {
+    "date": "2022-06-06",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2022-07-20",
+    "holiday": "National Day of Prayer and Thanksgiving"
+  },
+  {
+    "date": "2022-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2022-09-19",
+    "holiday": "National Day of Mourning"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2022-12-31",
+    "holiday": "Festival Day"
+  }
+]

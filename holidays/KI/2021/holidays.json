@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-04-19",
+    "holiday": "National Health Day"
+  },
+  {
+    "date": "2021-07-11",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2021-07-12",
+    "holiday": "National Day - Independence Anniversary"
+  },
+  {
+    "date": "2021-07-15",
+    "holiday": "National Day (in honor of Unimwane)"
+  },
+  {
+    "date": "2021-07-16",
+    "holiday": "National Day (in honor of Unaine)"
+  },
+  {
+    "date": "2021-08-05",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2021-12-09",
+    "holiday": "Human Rights and Peace Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2021-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

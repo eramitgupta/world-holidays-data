@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-13",
+    "holiday": "Democracy and Freedom Day"
+  },
+  {
+    "date": "2033-01-20",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2033-03-02",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2033-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2033-04-17",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2033-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2033-06-01",
+    "holiday": "International Children's Day"
+  },
+  {
+    "date": "2033-07-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2033-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2033-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  }
+]

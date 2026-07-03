@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2028-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2028-03-06",
+    "holiday": "Foundation Day"
+  },
+  {
+    "date": "2028-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2028-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2028-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2028-06-08",
+    "holiday": "Bounty Day"
+  },
+  {
+    "date": "2028-06-12",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2028-10-09",
+    "holiday": "Show Day"
+  },
+  {
+    "date": "2028-11-29",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2028-12-26",
+    "holiday": "Boxing Day"
+  }
+]

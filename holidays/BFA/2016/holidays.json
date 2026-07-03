@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-03",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2016-01-04",
+    "holiday": "Revolution Day (observed)"
+  },
+  {
+    "date": "2016-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2016-05-05",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2016-07-07",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2016-08-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2016-09-13",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2016-10-31",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2016-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2016-12-11",
+    "holiday": "Proclamation of Independence Day"
+  },
+  {
+    "date": "2016-12-12",
+    "holiday": "Mawlid; Proclamation of Independence Day (observed)"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

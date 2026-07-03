@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-02-14",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2056-02-15",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2056-02-16",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2056-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2056-04-12",
+    "holiday": "National Assembly Election Day"
+  },
+  {
+    "date": "2056-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2056-05-22",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2056-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2056-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2056-09-23",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2056-09-24",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2056-09-25",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2056-09-26",
+    "holiday": "Alternative holiday for Chuseok"
+  },
+  {
+    "date": "2056-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2056-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2030-01-21",
+    "holiday": "Lady of Altagracia"
+  },
+  {
+    "date": "2030-01-26",
+    "holiday": "Juan Pablo Duarte Day"
+  },
+  {
+    "date": "2030-02-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-04-29",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2030-06-20",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2030-08-19",
+    "holiday": "Restoration Day"
+  },
+  {
+    "date": "2030-09-24",
+    "holiday": "Our Lady of Mercedes Day"
+  },
+  {
+    "date": "2030-11-04",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  }
+]

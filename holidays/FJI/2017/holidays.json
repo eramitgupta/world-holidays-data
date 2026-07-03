@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2017-04-15",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2017-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2017-06-30",
+    "holiday": "National Sports Day"
+  },
+  {
+    "date": "2017-09-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2017-10-10",
+    "holiday": "Fiji Day"
+  },
+  {
+    "date": "2017-10-19",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2017-12-02",
+    "holiday": "Prophet Mohammed's Birthday"
+  },
+  {
+    "date": "2017-12-04",
+    "holiday": "Prophet Mohammed's Birthday (observed)"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2017-12-26",
+    "holiday": "Boxing Day"
+  }
+]

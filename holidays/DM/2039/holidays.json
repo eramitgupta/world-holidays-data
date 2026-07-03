@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-02-21",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2039-02-22",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-05-02",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2039-05-30",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2039-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2039-11-03",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2039-11-04",
+    "holiday": "National Day of Community Service"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2039-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

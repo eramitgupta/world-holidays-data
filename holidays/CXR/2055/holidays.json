@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2055-01-28",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2055-01-29",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2055-03-15",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2055-04-26",
+    "holiday": "ANZAC Day (observed)"
+  },
+  {
+    "date": "2055-04-28",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2055-07-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2055-10-04",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2055-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2055-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

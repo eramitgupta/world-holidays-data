@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2043-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2043-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2043-03-29",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2043-04-25",
+    "holiday": "Freedom Day"
+  },
+  {
+    "date": "2043-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2043-05-28",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2043-06-10",
+    "holiday": "Day of Portugal, Camões, and the Portuguese Communities"
+  },
+  {
+    "date": "2043-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2043-10-05",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2043-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2043-12-01",
+    "holiday": "Restoration of Independence Day"
+  },
+  {
+    "date": "2043-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2043-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-02-18",
+    "holiday": "Winter Midterm Bank Holiday"
+  },
+  {
+    "date": "2041-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2041-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2041-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2041-04-29",
+    "holiday": "Workers' Memorial Day (observed)"
+  },
+  {
+    "date": "2041-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2041-05-27",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2041-06-10",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2041-08-26",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2041-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2041-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2048-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2048-04-05",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2048-05-10",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2048-07-12",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2048-07-13",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2048-07-14",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2048-09-19",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2048-09-20",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2048-09-21",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2048-09-22",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2048-10-09",
+    "holiday": "Hijri New Year"
+  },
+  {
+    "date": "2048-11-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-12-18",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2050-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2050-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2050-05-02",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2050-06-20",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2050-08-11",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2050-08-28",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2050-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2050-11-26",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2050-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2050-12-01",
+    "holiday": "Freedom and Democracy Day"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  }
+]

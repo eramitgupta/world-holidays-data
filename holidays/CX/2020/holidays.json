@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2020-01-27",
+    "holiday": "Australia Day (observed)"
+  },
+  {
+    "date": "2020-01-28",
+    "holiday": "Chinese New Year (observed)"
+  },
+  {
+    "date": "2020-01-29",
+    "holiday": "Chinese New Year (observed)"
+  },
+  {
+    "date": "2020-03-16",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2020-04-27",
+    "holiday": "ANZAC Day (observed)"
+  },
+  {
+    "date": "2020-05-24",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Eid al-Fitr (observed)"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-10-05",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2020-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

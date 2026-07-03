@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-01-23",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2017-03-01",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2017-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2017-05-15",
+    "holiday": "Discovery Day"
+  },
+  {
+    "date": "2017-05-24",
+    "holiday": "General Election Day"
+  },
+  {
+    "date": "2017-06-19",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2017-07-03",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2017-11-13",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2017-12-26",
+    "holiday": "Boxing Day"
+  }
+]

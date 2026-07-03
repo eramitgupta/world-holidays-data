@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-02-01",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2022-02-02",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2022-02-03",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2022-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2022-05-08",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2022-05-09",
+    "holiday": "The Buddha's Birthday (observed)"
+  },
+  {
+    "date": "2022-06-03",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2022-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2022-09-12",
+    "holiday": "The Second Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2022-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2022-10-04",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

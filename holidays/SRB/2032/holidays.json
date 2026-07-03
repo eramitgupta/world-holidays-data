@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2032-02-15",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2032-02-16",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2032-02-17",
+    "holiday": "Statehood Day (observed)"
+  },
+  {
+    "date": "2032-04-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "Holy Saturday; Labor Day"
+  },
+  {
+    "date": "2032-05-02",
+    "holiday": "Easter Sunday; Labor Day"
+  },
+  {
+    "date": "2032-05-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2032-05-04",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2032-11-11",
+    "holiday": "Armistice Day"
+  }
+]

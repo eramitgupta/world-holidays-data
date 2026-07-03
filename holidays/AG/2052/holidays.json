@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2052-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2052-05-06",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2052-06-10",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2052-08-05",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2052-08-06",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2052-11-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2052-12-09",
+    "holiday": "Sir Vere Cornwall Bird Snr. Day"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2052-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2054-03-09",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2054-03-30",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2054-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2054-05-09",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2054-07-15",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2054-08-11",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2054-10-13",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2054-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2054-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2054-12-01",
+    "holiday": "Freedom and Democracy Day"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Christmas Day"
+  }
+]

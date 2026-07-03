@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-01-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2057-01-08",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2057-03-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2057-04-05",
+    "holiday": "Eid ul-Fitr (estimated)"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-04-23",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2057-06-12",
+    "holiday": "Eid ul-Adha (estimated)"
+  },
+  {
+    "date": "2057-08-04",
+    "holiday": "Founders' Day"
+  },
+  {
+    "date": "2057-08-06",
+    "holiday": "Founders' Day (observed)"
+  },
+  {
+    "date": "2057-09-21",
+    "holiday": "Kwame Nkrumah Memorial Day"
+  },
+  {
+    "date": "2057-12-07",
+    "holiday": "Farmer's Day"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2057-12-26",
+    "holiday": "Boxing Day"
+  }
+]

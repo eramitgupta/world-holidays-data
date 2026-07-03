@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-03-08",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2020-03-21",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2020-04-12",
+    "holiday": "Gregorian Easter Sunday"
+  },
+  {
+    "date": "2020-04-17",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-04-19",
+    "holiday": "Julian Easter Sunday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-05-06",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2020-05-24",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-26",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-07-30",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-01",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-02",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-20",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2020-10-06",
+    "holiday": "Tishreen Liberation War Day"
+  },
+  {
+    "date": "2020-10-29",
+    "holiday": "Prophet's Birthday"
+  }
+]

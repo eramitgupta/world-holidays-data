@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-02-14",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2029-02-15",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2029-02-16",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2029-02-25",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2029-02-26",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2029-04-23",
+    "holiday": "Arafat Day (estimated)"
+  },
+  {
+    "date": "2029-04-24",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2029-04-25",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2029-04-26",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2029-05-14",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2029-07-24",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2029-12-03",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  }
+]

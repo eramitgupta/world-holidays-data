@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-02",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2033-01-03",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2033-03-11",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2033-03-12",
+    "holiday": "Day after Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2033-04-01",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2033-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2033-04-24",
+    "holiday": "National Concord Day"
+  },
+  {
+    "date": "2033-04-25",
+    "holiday": "National Concord Day (observed)"
+  },
+  {
+    "date": "2033-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2033-05-02",
+    "holiday": "International Labor Day (observed)"
+  },
+  {
+    "date": "2033-06-09",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2033-07-26",
+    "holiday": "Anniversary of the CNSP Coup"
+  },
+  {
+    "date": "2033-08-03",
+    "holiday": "Anniversary of the Proclamation of Independence"
+  },
+  {
+    "date": "2033-12-18",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2033-12-19",
+    "holiday": "Laylat al-Qadr (estimated); National Day (observed)"
+  },
+  {
+    "date": "2033-12-23",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2033-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

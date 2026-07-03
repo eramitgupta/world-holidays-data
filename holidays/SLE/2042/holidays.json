@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-02-18",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2042-03-04",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2042-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2042-03-10",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2042-04-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2042-04-28",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2042-09-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2042-11-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2042-11-24",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Boxing Day"
+  }
+]

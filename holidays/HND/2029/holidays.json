@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-03-29",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2029-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2029-03-31",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2029-04-14",
+    "holiday": "Panamerican Day"
+  },
+  {
+    "date": "2029-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2029-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2029-10-03",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2029-10-04",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2029-10-05",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Christmas Day"
+  }
+]

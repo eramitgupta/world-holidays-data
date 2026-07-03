@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2057-04-23",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2057-05-31",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2057-06-11",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2057-06-21",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2057-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2057-10-26",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2057-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2057-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2057-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]

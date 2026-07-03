@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-01-04",
+    "holiday": "Day of King Amador"
+  },
+  {
+    "date": "2036-02-03",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2036-02-04",
+    "holiday": "Martyrs' Day (observed)"
+  },
+  {
+    "date": "2036-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2036-07-11",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2036-07-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2036-09-05",
+    "holiday": "Armed Forces Day (observed)"
+  },
+  {
+    "date": "2036-09-06",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2036-09-30",
+    "holiday": "Agricultural Reform Day"
+  },
+  {
+    "date": "2036-12-21",
+    "holiday": "São Tomé Day"
+  },
+  {
+    "date": "2036-12-22",
+    "holiday": "São Tomé Day (observed)"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  }
+]

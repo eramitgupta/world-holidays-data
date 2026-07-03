@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-01-15",
+    "holiday": "John Chilembwe Day"
+  },
+  {
+    "date": "2044-03-03",
+    "holiday": "Martyrs Day"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2044-05-02",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2044-05-14",
+    "holiday": "Kamuzu Day"
+  },
+  {
+    "date": "2044-05-16",
+    "holiday": "Kamuzu Day (observed)"
+  },
+  {
+    "date": "2044-07-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2044-10-15",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2044-10-17",
+    "holiday": "Mother's Day (observed)"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2044-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

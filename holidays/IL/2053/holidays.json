@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2053-04-03",
+    "holiday": "Pesach"
+  },
+  {
+    "date": "2053-04-09",
+    "holiday": "Seventh day of Pesach"
+  },
+  {
+    "date": "2053-04-23",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2053-05-23",
+    "holiday": "Shavuot"
+  },
+  {
+    "date": "2053-09-13",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2053-09-14",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2053-09-22",
+    "holiday": "Yom Kippur"
+  },
+  {
+    "date": "2053-09-27",
+    "holiday": "Sukkot"
+  },
+  {
+    "date": "2053-10-04",
+    "holiday": "Simchat Torah / Shemini Atzeret"
+  }
+]

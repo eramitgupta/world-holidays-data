@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-27",
+    "holiday": "Saint Devote's Day"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2039-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2039-05-19",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2039-05-30",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2039-06-09",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2039-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2039-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2039-11-19",
+    "holiday": "Prince's Day"
+  },
+  {
+    "date": "2039-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2023-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2023-03-06",
+    "holiday": "Foundation Day"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2023-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2023-06-08",
+    "holiday": "Bounty Day"
+  },
+  {
+    "date": "2023-06-12",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2023-10-09",
+    "holiday": "Show Day"
+  },
+  {
+    "date": "2023-11-29",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2023-12-26",
+    "holiday": "Boxing Day"
+  }
+]

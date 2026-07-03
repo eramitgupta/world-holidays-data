@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2049-02-15",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2049-02-16",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2049-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2049-04-24",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2049-04-25",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2049-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2049-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2049-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2049-05-03",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2049-11-11",
+    "holiday": "Armistice Day"
+  }
+]

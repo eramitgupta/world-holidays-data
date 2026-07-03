@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-02-03",
+    "holiday": "Lunar New Year (estimated)"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2030-02-05",
+    "holiday": "Eid al-Fitr Second Day (estimated)"
+  },
+  {
+    "date": "2030-03-05",
+    "holiday": "Day of Silence"
+  },
+  {
+    "date": "2030-04-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-04-21",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2030-05-03",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2030-05-16",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2030-05-30",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2030-06-01",
+    "holiday": "Pancasila Day"
+  },
+  {
+    "date": "2030-07-13",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2030-08-17",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2030-11-23",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  }
+]

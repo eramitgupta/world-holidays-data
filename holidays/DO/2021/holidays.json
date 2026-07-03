@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-04",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2021-01-21",
+    "holiday": "Lady of Altagracia"
+  },
+  {
+    "date": "2021-01-25",
+    "holiday": "Juan Pablo Duarte Day"
+  },
+  {
+    "date": "2021-02-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2021-06-03",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2021-08-16",
+    "holiday": "Restoration Day"
+  },
+  {
+    "date": "2021-09-24",
+    "holiday": "Our Lady of Mercedes Day"
+  },
+  {
+    "date": "2021-11-06",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  }
+]

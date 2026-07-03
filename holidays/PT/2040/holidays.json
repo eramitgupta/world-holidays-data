@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-01",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2040-04-25",
+    "holiday": "Freedom Day"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2040-05-31",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2040-06-10",
+    "holiday": "Day of Portugal, Camões, and the Portuguese Communities"
+  },
+  {
+    "date": "2040-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2040-10-05",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2040-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2040-12-01",
+    "holiday": "Restoration of Independence Day"
+  },
+  {
+    "date": "2040-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  }
+]

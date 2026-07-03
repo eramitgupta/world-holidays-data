@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-01-15",
+    "holiday": "John Chilembwe Day"
+  },
+  {
+    "date": "2058-03-03",
+    "holiday": "Martyrs Day"
+  },
+  {
+    "date": "2058-03-04",
+    "holiday": "Martyrs Day (observed)"
+  },
+  {
+    "date": "2058-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2058-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2058-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2058-05-14",
+    "holiday": "Kamuzu Day"
+  },
+  {
+    "date": "2058-07-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2058-07-08",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2058-10-15",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2058-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2058-12-26",
+    "holiday": "Boxing Day"
+  }
+]

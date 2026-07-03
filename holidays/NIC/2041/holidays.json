@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-04-18",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2041-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2041-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2041-05-30",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2041-07-19",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2041-09-14",
+    "holiday": "Battle of San Jacinto Day"
+  },
+  {
+    "date": "2041-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2041-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Christmas Day"
+  }
+]

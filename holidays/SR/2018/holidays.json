@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-02-25",
+    "holiday": "Day of Liberation and Renewal"
+  },
+  {
+    "date": "2018-03-02",
+    "holiday": "Holi"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2018-06-15",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2018-07-01",
+    "holiday": "Day of Freedoms"
+  },
+  {
+    "date": "2018-08-09",
+    "holiday": "Indigenous People Day"
+  },
+  {
+    "date": "2018-08-21",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2018-10-10",
+    "holiday": "Day of the Maroons"
+  },
+  {
+    "date": "2018-11-07",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2018-11-25",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

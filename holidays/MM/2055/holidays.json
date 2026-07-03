@@ -1,0 +1,118 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2055-01-28",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2055-02-12",
+    "holiday": "Union Day"
+  },
+  {
+    "date": "2055-03-02",
+    "holiday": "Peasants' Day"
+  },
+  {
+    "date": "2055-03-12",
+    "holiday": "Full Moon Day of Tabaung"
+  },
+  {
+    "date": "2055-03-27",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2055-04-14",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2055-04-15",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2055-04-17",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2055-04-18",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2055-04-20",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2055-04-21",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2055-04-22",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2055-05-10",
+    "holiday": "Full Moon Day of Kason"
+  },
+  {
+    "date": "2055-07-06",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2055-07-08",
+    "holiday": "Full Moon Day of Waso"
+  },
+  {
+    "date": "2055-07-19",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2055-10-04",
+    "holiday": "Thadingyut Holidays"
+  },
+  {
+    "date": "2055-10-05",
+    "holiday": "Thadingyut Holidays"
+  },
+  {
+    "date": "2055-10-06",
+    "holiday": "Thadingyut Holidays"
+  },
+  {
+    "date": "2055-10-20",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2055-11-03",
+    "holiday": "Full Moon Day of Tazaungmon"
+  },
+  {
+    "date": "2055-11-13",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2055-12-18",
+    "holiday": "Karen New Year"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  }
+]

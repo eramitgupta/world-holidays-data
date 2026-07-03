@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-02-09",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2054-02-10",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2054-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2054-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2054-05-24",
+    "holiday": "The Battle of Pichincha"
+  },
+  {
+    "date": "2054-05-25",
+    "holiday": "The Battle of Pichincha (observed)"
+  },
+  {
+    "date": "2054-08-10",
+    "holiday": "Declaration of Independence of Quito"
+  },
+  {
+    "date": "2054-10-09",
+    "holiday": "Independence of Guayaquil"
+  },
+  {
+    "date": "2054-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2054-11-03",
+    "holiday": "Independence of Cuenca"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Christmas Day"
+  }
+]

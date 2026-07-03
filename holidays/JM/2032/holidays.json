@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-02-11",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2032-05-23",
+    "holiday": "National Labour Day"
+  },
+  {
+    "date": "2032-05-24",
+    "holiday": "National Labour Day (observed)"
+  },
+  {
+    "date": "2032-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2032-08-02",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2032-08-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2032-10-18",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2032-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

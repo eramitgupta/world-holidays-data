@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-05-27",
+    "holiday": "Bermuda Day"
+  },
+  {
+    "date": "2044-06-20",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2044-07-28",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2044-07-29",
+    "holiday": "Mary Prince Day"
+  },
+  {
+    "date": "2044-09-05",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2044-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2044-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-01-03",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2017-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2017-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2017-05-25",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2017-06-26",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2017-08-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2017-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2017-09-02",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2017-10-31",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2017-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2017-12-01",
+    "holiday": "Mawlid"
+  },
+  {
+    "date": "2017-12-11",
+    "holiday": "Proclamation of Independence Day"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  }
+]

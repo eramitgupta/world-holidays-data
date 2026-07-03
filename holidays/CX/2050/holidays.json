@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2050-01-23",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2050-01-24",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2050-01-25",
+    "holiday": "Chinese New Year (observed)"
+  },
+  {
+    "date": "2050-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2050-03-21",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2050-06-20",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2050-08-28",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2050-08-29",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2050-10-03",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-12-26",
+    "holiday": "Boxing Day; Christmas Day (observed)"
+  },
+  {
+    "date": "2050-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

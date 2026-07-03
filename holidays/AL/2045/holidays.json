@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2045-03-14",
+    "holiday": "Summer Day"
+  },
+  {
+    "date": "2045-03-22",
+    "holiday": "Nowruz Day"
+  },
+  {
+    "date": "2045-04-09",
+    "holiday": "Catholic Easter Sunday; Orthodox Easter Sunday"
+  },
+  {
+    "date": "2045-04-10",
+    "holiday": "Catholic Easter Sunday (observed); Orthodox Easter Sunday (observed)"
+  },
+  {
+    "date": "2045-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2045-08-14",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2045-09-05",
+    "holiday": "Mother Teresa Canonization Day"
+  },
+  {
+    "date": "2045-10-21",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2045-10-23",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2045-11-22",
+    "holiday": "Alphabet Day"
+  },
+  {
+    "date": "2045-11-28",
+    "holiday": "Flag and Independence Day"
+  },
+  {
+    "date": "2045-11-29",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2045-12-08",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  }
+]

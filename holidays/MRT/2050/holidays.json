@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2050-05-25",
+    "holiday": "Africa Day"
+  },
+  {
+    "date": "2050-06-20",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2050-06-21",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2050-08-28",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2050-08-29",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2050-09-17",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2050-11-26",
+    "holiday": "Mawlid al-Nabi (estimated)"
+  },
+  {
+    "date": "2050-11-28",
+    "holiday": "Independence Day"
+  }
+]

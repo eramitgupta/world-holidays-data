@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2038-02-01",
+    "holiday": "Abolition of Slavery"
+  },
+  {
+    "date": "2038-02-04",
+    "holiday": "Chinese Spring Festival"
+  },
+  {
+    "date": "2038-02-19",
+    "holiday": "Thaipusam"
+  },
+  {
+    "date": "2038-03-12",
+    "holiday": "Independence and Republic Day"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2038-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2038-10-30",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2038-11-02",
+    "holiday": "Arrival of Indentured Laborers"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  }
+]

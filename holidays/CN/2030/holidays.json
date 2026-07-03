@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-02-02",
+    "holiday": "Chinese New Year's Eve"
+  },
+  {
+    "date": "2030-02-03",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2030-02-05",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2030-02-06",
+    "holiday": "Chinese New Year's Eve (observed)"
+  },
+  {
+    "date": "2030-02-07",
+    "holiday": "Chinese New Year (Spring Festival) (observed)"
+  },
+  {
+    "date": "2030-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2030-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2030-06-05",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2030-09-12",
+    "holiday": "Mid-Autumn Festival"
+  },
+  {
+    "date": "2030-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2030-10-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2030-10-03",
+    "holiday": "National Day"
+  }
+]

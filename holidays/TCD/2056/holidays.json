@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2056-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2056-04-16",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2056-06-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2056-08-11",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2056-09-22",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2056-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2056-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2056-12-01",
+    "holiday": "Freedom and Democracy Day"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  }
+]

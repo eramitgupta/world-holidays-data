@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-02-01",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2022-02-25",
+    "holiday": "EDSA People Power Revolution Anniversary"
+  },
+  {
+    "date": "2022-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2022-04-14",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-16",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-05-03",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2022-05-09",
+    "holiday": "Elections special (non-working) day"
+  },
+  {
+    "date": "2022-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-07-09",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2022-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2022-08-29",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2022-10-31",
+    "holiday": "Additional special (non-working) day"
+  },
+  {
+    "date": "2022-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2022-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2022-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-30",
+    "holiday": "Rizal Day"
+  }
+]

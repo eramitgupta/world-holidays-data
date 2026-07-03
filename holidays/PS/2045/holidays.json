@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2045-01-30",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2045-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2045-04-09",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2045-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2045-06-13",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2045-08-14",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2045-08-15",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2045-08-16",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2045-10-21",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2045-10-22",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2045-10-23",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2045-10-24",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2045-11-10",
+    "holiday": "Hijri New Year"
+  },
+  {
+    "date": "2045-11-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

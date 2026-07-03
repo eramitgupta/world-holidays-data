@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2049-03-21",
+    "holiday": "Nowruz"
+  },
+  {
+    "date": "2049-03-22",
+    "holiday": "Nowruz (observed)"
+  },
+  {
+    "date": "2049-05-09",
+    "holiday": "Day of Memory and Honor"
+  },
+  {
+    "date": "2049-05-10",
+    "holiday": "Day of Memory and Honor (observed)"
+  },
+  {
+    "date": "2049-07-01",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2049-09-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2049-09-08",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2049-10-01",
+    "holiday": "Teachers and Instructors Day"
+  },
+  {
+    "date": "2049-12-08",
+    "holiday": "Constitution Day"
+  }
+]

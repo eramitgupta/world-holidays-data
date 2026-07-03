@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-01-23",
+    "holiday": "Bounty Day"
+  },
+  {
+    "date": "2037-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2037-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2037-06-01",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2037-07-02",
+    "holiday": "Pitcairn Day"
+  },
+  {
+    "date": "2037-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2037-12-26",
+    "holiday": "Boxing Day"
+  }
+]

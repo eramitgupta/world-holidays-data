@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-06",
+    "holiday": "Day off (substituted from 01/04/2020)"
+  },
+  {
+    "date": "2020-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2020-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2020-04-12",
+    "holiday": "Catholic Easter"
+  },
+  {
+    "date": "2020-04-19",
+    "holiday": "Orthodox Easter"
+  },
+  {
+    "date": "2020-04-27",
+    "holiday": "Day off (substituted from 04/04/2020)"
+  },
+  {
+    "date": "2020-04-28",
+    "holiday": "Radunitsa (Day of Rejoicing)"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-05-09",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2020-07-03",
+    "holiday": "Independence Day of the Republic of Belarus (Day of the Republic)"
+  },
+  {
+    "date": "2020-11-07",
+    "holiday": "October Revolution Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

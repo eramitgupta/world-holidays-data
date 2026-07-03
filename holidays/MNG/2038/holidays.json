@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-02-05",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2038-02-06",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2038-02-07",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2038-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2038-05-18",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2038-06-01",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2038-07-10",
+    "holiday": "National Festival and People's Revolution Anniversary"
+  },
+  {
+    "date": "2038-07-11",
+    "holiday": "National Festival and People's Revolution Anniversary"
+  },
+  {
+    "date": "2038-07-12",
+    "holiday": "National Festival and People's Revolution Anniversary"
+  },
+  {
+    "date": "2038-07-13",
+    "holiday": "National Festival and People's Revolution Anniversary"
+  },
+  {
+    "date": "2038-07-14",
+    "holiday": "National Festival and People's Revolution Anniversary"
+  },
+  {
+    "date": "2038-07-15",
+    "holiday": "National Festival and People's Revolution Anniversary"
+  },
+  {
+    "date": "2038-11-26",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2038-11-27",
+    "holiday": "Genghis Khan's Birthday"
+  },
+  {
+    "date": "2038-12-29",
+    "holiday": "National Freedom and Independence Day"
+  }
+]

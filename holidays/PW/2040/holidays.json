@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-03-15",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2040-05-04",
+    "holiday": "Senior Citizens Day (observed)"
+  },
+  {
+    "date": "2040-05-05",
+    "holiday": "Senior Citizens Day"
+  },
+  {
+    "date": "2040-06-01",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2040-07-09",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2040-09-03",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2040-10-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-10-24",
+    "holiday": "United Nations Day"
+  },
+  {
+    "date": "2040-11-22",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2040-11-23",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  }
+]

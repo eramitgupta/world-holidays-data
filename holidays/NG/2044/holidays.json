@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-02-12",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2044-05-02",
+    "holiday": "Workers' Day (observed)"
+  },
+  {
+    "date": "2044-06-12",
+    "holiday": "Democracy Day"
+  },
+  {
+    "date": "2044-06-13",
+    "holiday": "Democracy Day (observed)"
+  },
+  {
+    "date": "2044-08-25",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2044-08-26",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2044-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2044-10-03",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2044-11-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2044-11-02",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2044-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

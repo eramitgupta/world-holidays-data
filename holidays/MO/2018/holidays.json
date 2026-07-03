@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-02-16",
+    "holiday": "Chinese New Year's Day"
+  },
+  {
+    "date": "2018-02-17",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2018-02-18",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2018-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2018-09-25",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2018-10-01",
+    "holiday": "National Day of the People's Republic of China"
+  },
+  {
+    "date": "2018-10-17",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2018-12-20",
+    "holiday": "Macao S.A.R. Establishment Day"
+  }
+]

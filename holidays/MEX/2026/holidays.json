@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2026-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2026-02-02",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2026-03-16",
+    "holiday": "Benito Juárez's birthday"
+  },
+  {
+    "date": "2026-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2026-09-16",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2026-11-16",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2026-12-25",
+    "holiday": "Christmas Day"
+  }
+]

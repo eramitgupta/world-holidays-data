@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Catholic Easter Monday"
+  },
+  {
+    "date": "2019-04-26",
+    "holiday": "Orthodox Good Friday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2019-05-02",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2019-06-04",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2019-08-11",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2037-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2037-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2037-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2037-06-01",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2037-07-03",
+    "holiday": "Day of the House of Ariki"
+  },
+  {
+    "date": "2037-08-04",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2037-10-26",
+    "holiday": "Cook Islands Gospel Day"
+  },
+  {
+    "date": "2037-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2037-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2037-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

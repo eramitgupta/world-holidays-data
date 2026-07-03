@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2046-05-25",
+    "holiday": "Bermuda Day"
+  },
+  {
+    "date": "2046-06-18",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2046-08-02",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2046-08-03",
+    "holiday": "Mary Prince Day"
+  },
+  {
+    "date": "2046-09-03",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2046-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2046-11-12",
+    "holiday": "Remembrance Day (observed)"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2046-12-26",
+    "holiday": "Boxing Day"
+  }
+]

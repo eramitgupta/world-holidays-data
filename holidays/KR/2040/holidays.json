@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-02-11",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2040-02-12",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2040-02-13",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2040-02-14",
+    "holiday": "Alternative holiday for Korean New Year"
+  },
+  {
+    "date": "2040-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2040-04-04",
+    "holiday": "Presidential Election Day"
+  },
+  {
+    "date": "2040-04-11",
+    "holiday": "National Assembly Election Day"
+  },
+  {
+    "date": "2040-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2040-05-07",
+    "holiday": "Alternative holiday for Children's Day"
+  },
+  {
+    "date": "2040-05-18",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2040-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2040-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2040-09-20",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2040-09-21",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2040-09-22",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2040-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2040-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2049-04-18",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2049-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2049-04-27",
+    "holiday": "King's Day"
+  },
+  {
+    "date": "2049-04-30",
+    "holiday": "Carnival Day"
+  },
+  {
+    "date": "2049-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2049-05-27",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2049-06-06",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2049-07-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2049-10-11",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2049-11-11",
+    "holiday": "Sint Maarten Day"
+  },
+  {
+    "date": "2049-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2049-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

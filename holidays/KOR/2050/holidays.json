@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-22",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2050-01-23",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2050-01-24",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2050-01-25",
+    "holiday": "Alternative holiday for Korean New Year"
+  },
+  {
+    "date": "2050-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2050-04-06",
+    "holiday": "Presidential Election Day"
+  },
+  {
+    "date": "2050-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2050-05-28",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2050-05-30",
+    "holiday": "Alternative holiday for Buddha's Birthday"
+  },
+  {
+    "date": "2050-06-01",
+    "holiday": "Local Election Day"
+  },
+  {
+    "date": "2050-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2050-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2050-09-29",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2050-09-30",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2050-10-01",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2050-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2050-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2050-10-10",
+    "holiday": "Alternative holiday for Hangul Day"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-12-26",
+    "holiday": "Alternative holiday for Christmas Day"
+  }
+]

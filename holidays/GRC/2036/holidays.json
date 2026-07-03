@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2036-03-03",
+    "holiday": "Green Monday"
+  },
+  {
+    "date": "2036-03-25",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2036-04-18",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-04-21",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2036-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2036-06-09",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2036-08-15",
+    "holiday": "Dormition of the Mother of God"
+  },
+  {
+    "date": "2036-10-28",
+    "holiday": "Ochi Day"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2036-12-26",
+    "holiday": "Glorifying Mother of God"
+  }
+]

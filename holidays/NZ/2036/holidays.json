@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2036-02-06",
+    "holiday": "Waitangi Day"
+  },
+  {
+    "date": "2036-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2036-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2036-06-02",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2036-07-18",
+    "holiday": "Matariki"
+  },
+  {
+    "date": "2036-10-27",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2036-12-26",
+    "holiday": "Boxing Day"
+  }
+]

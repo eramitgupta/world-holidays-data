@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-02-04",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2019-02-05",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2019-02-06",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2019-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2019-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2019-05-06",
+    "holiday": "Alternative holiday for Children's Day"
+  },
+  {
+    "date": "2019-05-12",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2019-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2019-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2019-09-12",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2019-09-13",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2019-09-14",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2019-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2019-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  }
+]

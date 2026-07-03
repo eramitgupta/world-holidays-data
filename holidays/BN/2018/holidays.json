@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-02-16",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2018-02-17",
+    "holiday": "Lunar New Year (observed)"
+  },
+  {
+    "date": "2018-02-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2018-02-24",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2018-04-14",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2018-05-17",
+    "holiday": "First Day of Ramadan"
+  },
+  {
+    "date": "2018-05-31",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2018-06-02",
+    "holiday": "Anniversary of the revelation of the Quran"
+  },
+  {
+    "date": "2018-06-15",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2018-06-16",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2018-06-17",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2018-06-18",
+    "holiday": "Eid al-Fitr (observed)"
+  },
+  {
+    "date": "2018-06-19",
+    "holiday": "Eid al-Fitr (observed)"
+  },
+  {
+    "date": "2018-07-15",
+    "holiday": "Sultan Hassanal Bolkiah's Birthday"
+  },
+  {
+    "date": "2018-07-16",
+    "holiday": "Sultan Hassanal Bolkiah's Birthday (observed)"
+  },
+  {
+    "date": "2018-08-22",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2018-09-11",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2018-11-20",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  }
+]

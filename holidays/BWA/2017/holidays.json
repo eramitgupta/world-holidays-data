@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day Holiday"
+  },
+  {
+    "date": "2017-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2017-04-15",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2017-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2017-05-25",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2017-07-01",
+    "holiday": "Sir Seretse Khama Day"
+  },
+  {
+    "date": "2017-07-17",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2017-07-18",
+    "holiday": "President's Day Holiday"
+  },
+  {
+    "date": "2017-09-30",
+    "holiday": "Botswana Day"
+  },
+  {
+    "date": "2017-10-01",
+    "holiday": "Botswana Day Holiday"
+  },
+  {
+    "date": "2017-10-02",
+    "holiday": "Botswana Day Holiday (observed)"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2017-12-26",
+    "holiday": "Boxing Day"
+  }
+]

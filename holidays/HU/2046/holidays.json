@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-03-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2046-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2046-03-25",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2046-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2046-05-13",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2046-05-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2046-08-20",
+    "holiday": "State Foundation Day"
+  },
+  {
+    "date": "2046-10-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2046-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2046-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

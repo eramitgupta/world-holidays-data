@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-02-18",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2035-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2035-04-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2035-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2035-05-03",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2035-05-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2035-06-21",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2035-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2035-11-01",
+    "holiday": "All Saints' Day; First Day of Ramadan (estimated)"
+  },
+  {
+    "date": "2035-12-01",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2035-12-25",
+    "holiday": "Christmas Day"
+  }
+]

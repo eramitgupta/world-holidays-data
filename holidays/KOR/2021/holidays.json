@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-02-11",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2021-02-12",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2021-02-13",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2021-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2021-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2021-05-19",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2021-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2021-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2021-08-16",
+    "holiday": "Alternative holiday for Liberation Day"
+  },
+  {
+    "date": "2021-09-20",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2021-09-21",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2021-09-22",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2021-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2021-10-04",
+    "holiday": "Alternative holiday for National Foundation Day"
+  },
+  {
+    "date": "2021-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2021-10-11",
+    "holiday": "Alternative holiday for Hangul Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  }
+]

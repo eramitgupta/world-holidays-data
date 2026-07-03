@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-01-07",
+    "holiday": "Orthodox Christmas"
+  },
+  {
+    "date": "2018-01-19",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2018-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2018-04-06",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-08",
+    "holiday": "Orthodox Easter"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2018-05-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2018-06-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2018-06-20",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2018-08-21",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2018-09-01",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2018-09-11",
+    "holiday": "Ethiopian New Year"
+  },
+  {
+    "date": "2018-09-27",
+    "holiday": "Finding of the True Cross"
+  },
+  {
+    "date": "2018-11-20",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-04-18",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2052-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2052-04-21",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2052-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2052-05-30",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2052-06-09",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2052-06-10",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2052-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

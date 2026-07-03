@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2050-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2050-03-06",
+    "holiday": "Foundation Day"
+  },
+  {
+    "date": "2050-03-07",
+    "holiday": "Foundation Day (observed)"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2050-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2050-06-08",
+    "holiday": "Bounty Day"
+  },
+  {
+    "date": "2050-06-13",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2050-10-10",
+    "holiday": "Show Day"
+  },
+  {
+    "date": "2050-11-30",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2050-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

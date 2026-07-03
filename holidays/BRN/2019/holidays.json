@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-02-05",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2019-02-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2019-04-03",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2019-05-06",
+    "holiday": "First Day of Ramadan"
+  },
+  {
+    "date": "2019-05-22",
+    "holiday": "Anniversary of the revelation of the Quran"
+  },
+  {
+    "date": "2019-05-31",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2019-06-01",
+    "holiday": "Armed Forces Day (observed)"
+  },
+  {
+    "date": "2019-06-05",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2019-06-06",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2019-06-07",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2019-06-08",
+    "holiday": "Eid al-Fitr (observed)"
+  },
+  {
+    "date": "2019-07-15",
+    "holiday": "Sultan Hassanal Bolkiah's Birthday"
+  },
+  {
+    "date": "2019-08-11",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2019-08-12",
+    "holiday": "Eid al-Adha (observed)"
+  },
+  {
+    "date": "2019-09-01",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2019-09-02",
+    "holiday": "Islamic New Year (observed)"
+  },
+  {
+    "date": "2019-11-09",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  }
+]

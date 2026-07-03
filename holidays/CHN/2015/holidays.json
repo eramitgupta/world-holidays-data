@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-02",
+    "holiday": "Day off (substituted from 01/04/2015)"
+  },
+  {
+    "date": "2015-02-18",
+    "holiday": "Day off (substituted from 02/15/2015)"
+  },
+  {
+    "date": "2015-02-19",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2015-02-20",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2015-02-21",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2015-02-23",
+    "holiday": "Chinese New Year (Spring Festival) (observed)"
+  },
+  {
+    "date": "2015-02-24",
+    "holiday": "Day off (substituted from 02/28/2015)"
+  },
+  {
+    "date": "2015-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Tomb-Sweeping Day (observed)"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-06-20",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2015-06-22",
+    "holiday": "Dragon Boat Festival (observed)"
+  },
+  {
+    "date": "2015-09-03",
+    "holiday": "70th Anniversary of the Victory of the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War"
+  },
+  {
+    "date": "2015-09-04",
+    "holiday": "Day off (substituted from 09/06/2015)"
+  },
+  {
+    "date": "2015-09-27",
+    "holiday": "Mid-Autumn Festival"
+  },
+  {
+    "date": "2015-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2015-10-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2015-10-03",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2015-10-05",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2015-10-06",
+    "holiday": "Mid-Autumn Festival (observed)"
+  },
+  {
+    "date": "2015-10-07",
+    "holiday": "Day off (substituted from 10/10/2015)"
+  }
+]

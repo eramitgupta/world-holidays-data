@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-13",
+    "holiday": "Democracy and Freedom Day"
+  },
+  {
+    "date": "2015-01-20",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2015-02-18",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-05",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2015-06-01",
+    "holiday": "International Children's Day"
+  },
+  {
+    "date": "2015-07-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2015-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

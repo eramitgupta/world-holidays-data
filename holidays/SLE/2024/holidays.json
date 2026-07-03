@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-02-18",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2024-02-19",
+    "holiday": "Armed Forces Day (observed)"
+  },
+  {
+    "date": "2024-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-04-10",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-04-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2024-04-29",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2024-06-16",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-06-17",
+    "holiday": "Eid al-Adha (observed)"
+  },
+  {
+    "date": "2024-09-15",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2024-09-16",
+    "holiday": "Prophet's Birthday (observed)"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "Boxing Day"
+  }
+]

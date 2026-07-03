@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-02-21",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2039-02-22",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2039-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2039-05-23",
+    "holiday": "The Battle of Pichincha (observed)"
+  },
+  {
+    "date": "2039-05-24",
+    "holiday": "The Battle of Pichincha"
+  },
+  {
+    "date": "2039-08-10",
+    "holiday": "Declaration of Independence of Quito"
+  },
+  {
+    "date": "2039-08-12",
+    "holiday": "Declaration of Independence of Quito (observed)"
+  },
+  {
+    "date": "2039-10-09",
+    "holiday": "Independence of Guayaquil"
+  },
+  {
+    "date": "2039-10-10",
+    "holiday": "Independence of Guayaquil (observed)"
+  },
+  {
+    "date": "2039-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2039-11-03",
+    "holiday": "Independence of Cuenca"
+  },
+  {
+    "date": "2039-11-04",
+    "holiday": "All Souls' Day (observed); Independence of Cuenca (observed)"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-02-15",
+    "holiday": "Winter Midterm Bank Holiday"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2044-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2044-05-02",
+    "holiday": "May Day (observed)"
+  },
+  {
+    "date": "2044-05-30",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2044-06-13",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2044-08-29",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2044-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2044-09-12",
+    "holiday": "Gibraltar National Day (observed)"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2044-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

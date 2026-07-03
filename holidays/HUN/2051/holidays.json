@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-03-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2051-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2051-04-02",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2051-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2051-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2051-05-21",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2051-05-22",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2051-08-20",
+    "holiday": "State Foundation Day"
+  },
+  {
+    "date": "2051-10-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2051-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2051-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

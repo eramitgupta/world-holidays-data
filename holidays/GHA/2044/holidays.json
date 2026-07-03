@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-01-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2044-03-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2044-03-07",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2044-05-02",
+    "holiday": "May Day (observed)"
+  },
+  {
+    "date": "2044-08-04",
+    "holiday": "Founders' Day"
+  },
+  {
+    "date": "2044-08-24",
+    "holiday": "Eid ul-Fitr (estimated)"
+  },
+  {
+    "date": "2044-09-21",
+    "holiday": "Kwame Nkrumah Memorial Day"
+  },
+  {
+    "date": "2044-10-31",
+    "holiday": "Eid ul-Adha (estimated)"
+  },
+  {
+    "date": "2044-12-02",
+    "holiday": "Farmer's Day"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2044-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

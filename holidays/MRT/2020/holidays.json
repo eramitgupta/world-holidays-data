@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-05-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Africa Day; Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2020-08-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2020-08-20",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2020-10-29",
+    "holiday": "Mawlid al-Nabi (estimated)"
+  },
+  {
+    "date": "2020-11-28",
+    "holiday": "Independence Day"
+  }
+]

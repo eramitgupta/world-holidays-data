@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-03-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2017-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2017-05-04",
+    "holiday": "Cassinga Day"
+  },
+  {
+    "date": "2017-05-25",
+    "holiday": "Africa Day; Ascension Day"
+  },
+  {
+    "date": "2017-08-26",
+    "holiday": "Heroes' Day"
+  },
+  {
+    "date": "2017-09-10",
+    "holiday": "Day of the Namibian Women and International Human Rights Day"
+  },
+  {
+    "date": "2017-09-11",
+    "holiday": "Day of the Namibian Women and International Human Rights Day (observed)"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2017-12-26",
+    "holiday": "Family Day"
+  }
+]

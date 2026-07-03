@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-01-31",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-02-01",
+    "holiday": "Day following Independence Day"
+  },
+  {
+    "date": "2048-02-03",
+    "holiday": "Day following Independence Day (observed)"
+  },
+  {
+    "date": "2048-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2048-03-09",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-04-07",
+    "holiday": "Easter Tuesday"
+  },
+  {
+    "date": "2048-05-17",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2048-05-18",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2048-07-01",
+    "holiday": "RONPHOS Handover"
+  },
+  {
+    "date": "2048-08-19",
+    "holiday": "Ibumin Earoeni Day"
+  },
+  {
+    "date": "2048-09-25",
+    "holiday": "Sir Hammer DeRoburt Day"
+  },
+  {
+    "date": "2048-10-26",
+    "holiday": "Angam Day"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "Day following Christmas"
+  },
+  {
+    "date": "2048-12-28",
+    "holiday": "Day following Christmas (observed)"
+  }
+]

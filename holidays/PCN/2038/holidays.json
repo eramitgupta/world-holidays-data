@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-23",
+    "holiday": "Bounty Day"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-06-07",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2038-07-02",
+    "holiday": "Pitcairn Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Boxing Day"
+  }
+]

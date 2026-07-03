@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2028-04-16",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2028-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2028-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2028-05-04",
+    "holiday": "Restoration of Independence Day"
+  },
+  {
+    "date": "2028-05-14",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2028-06-23",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2028-06-24",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2028-11-18",
+    "holiday": "Republic of Latvia Proclamation Day"
+  },
+  {
+    "date": "2028-11-20",
+    "holiday": "Republic of Latvia Proclamation Day (observed)"
+  },
+  {
+    "date": "2028-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2028-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2028-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

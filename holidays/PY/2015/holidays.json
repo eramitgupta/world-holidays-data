@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-03-01",
+    "holiday": "Patriots Day"
+  },
+  {
+    "date": "2015-04-02",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-05",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2015-05-14",
+    "holiday": "National Holiday"
+  },
+  {
+    "date": "2015-05-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-06-12",
+    "holiday": "Chaco Armistice Day"
+  },
+  {
+    "date": "2015-07-10",
+    "holiday": "Public holiday"
+  },
+  {
+    "date": "2015-07-11",
+    "holiday": "Public holiday"
+  },
+  {
+    "date": "2015-08-15",
+    "holiday": "Asuncion Foundation's Day"
+  },
+  {
+    "date": "2015-09-28",
+    "holiday": "Boqueron Battle Day"
+  },
+  {
+    "date": "2015-12-08",
+    "holiday": "Caacupe Virgin Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

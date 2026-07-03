@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-02-06",
+    "holiday": "Arafat Day (estimated)"
+  },
+  {
+    "date": "2036-02-07",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2036-02-08",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2036-02-09",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2036-02-25",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2036-02-26",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2036-02-28",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2036-05-08",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2036-09-18",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2036-11-19",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2036-11-20",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2036-11-21",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  }
+]

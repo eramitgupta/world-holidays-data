@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-26",
+    "holiday": "NRM Liberation Day"
+  },
+  {
+    "date": "2016-02-16",
+    "holiday": "Archbishop Janani Luwum Day"
+  },
+  {
+    "date": "2016-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2016-06-03",
+    "holiday": "Uganda Martyrs' Day"
+  },
+  {
+    "date": "2016-06-09",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2016-07-06",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2016-09-11",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2016-10-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Boxing Day"
+  }
+]

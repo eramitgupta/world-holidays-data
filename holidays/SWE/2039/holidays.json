@@ -1,0 +1,258 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2039-01-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-01-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-01-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-01-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-02-06",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-02-13",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-02-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-02-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-03-06",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-03-13",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-03-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-03-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-04-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-04-10",
+    "holiday": "Easter Sunday; Sunday"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-04-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-04-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "May Day; Sunday"
+  },
+  {
+    "date": "2039-05-08",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-05-15",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-05-19",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2039-05-22",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-05-29",
+    "holiday": "Sunday; Whit Sunday"
+  },
+  {
+    "date": "2039-06-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-06-06",
+    "holiday": "National Day of Sweden"
+  },
+  {
+    "date": "2039-06-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-06-19",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-06-24",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2039-06-25",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2039-06-26",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-07-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-07-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-07-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-07-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-07-31",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-08-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-08-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-08-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-08-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-09-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-09-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-09-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-09-25",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-10-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-10-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-10-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-10-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-10-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-11-05",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2039-11-06",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-11-13",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-11-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-11-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-12-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-12-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-12-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2039-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day; Sunday"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2039-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

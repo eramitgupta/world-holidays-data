@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-03-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-04",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2021-05-23",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2021-05-24",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2021-08-20",
+    "holiday": "State Foundation Day"
+  },
+  {
+    "date": "2021-10-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2021-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2021-12-24",
+    "holiday": "Day off (substituted from 12/11/2021)"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2022-01-31",
+    "holiday": "Day off (substituted from 01/29/2022)"
+  },
+  {
+    "date": "2022-02-01",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2022-02-02",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2022-02-03",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2022-02-04",
+    "holiday": "Day off (substituted from 01/30/2022)"
+  },
+  {
+    "date": "2022-04-04",
+    "holiday": "Day off (substituted from 04/02/2022)"
+  },
+  {
+    "date": "2022-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2022-05-03",
+    "holiday": "Day off (substituted from 04/24/2022)"
+  },
+  {
+    "date": "2022-05-04",
+    "holiday": "Day off (substituted from 05/07/2022)"
+  },
+  {
+    "date": "2022-06-03",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2022-09-10",
+    "holiday": "Mid-Autumn Festival"
+  },
+  {
+    "date": "2022-09-12",
+    "holiday": "Mid-Autumn Festival (observed)"
+  },
+  {
+    "date": "2022-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2022-10-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2022-10-03",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2022-10-04",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2022-10-05",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2022-10-06",
+    "holiday": "Day off (substituted from 10/08/2022)"
+  },
+  {
+    "date": "2022-10-07",
+    "holiday": "Day off (substituted from 10/09/2022)"
+  }
+]

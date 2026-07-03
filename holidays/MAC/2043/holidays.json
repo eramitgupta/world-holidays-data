@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2043-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2043-02-10",
+    "holiday": "Chinese New Year's Day"
+  },
+  {
+    "date": "2043-02-11",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2043-02-12",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2043-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2043-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2043-09-18",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2043-10-01",
+    "holiday": "National Day of the People's Republic of China"
+  },
+  {
+    "date": "2043-10-11",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2043-12-20",
+    "holiday": "Macao S.A.R. Establishment Day"
+  }
+]

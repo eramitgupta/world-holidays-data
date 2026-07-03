@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2049-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2049-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2049-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2049-05-27",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2049-07-01",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2049-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2049-08-16",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2049-09-08",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2049-12-07",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2049-12-25",
+    "holiday": "Christmas Day"
+  }
+]

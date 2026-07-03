@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-02",
+    "holiday": "The Day After New Year's Day"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-12",
+    "holiday": "Day After Good Friday"
+  },
+  {
+    "date": "2031-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2031-05-12",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2031-06-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2031-08-11",
+    "holiday": "Father's Day"
+  },
+  {
+    "date": "2031-10-13",
+    "holiday": "White Sunday (Lotu a Tamaiti)"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2031-12-26",
+    "holiday": "Boxing Day"
+  }
+]

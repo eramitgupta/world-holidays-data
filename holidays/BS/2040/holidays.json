@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-01-10",
+    "holiday": "Majority Rule Day"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-05-21",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2040-06-01",
+    "holiday": "Randol Fawkes Labour Day"
+  },
+  {
+    "date": "2040-07-10",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-08-06",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2040-10-08",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Boxing Day"
+  }
+]

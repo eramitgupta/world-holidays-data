@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2051-04-03",
+    "holiday": "Catholic Easter Monday"
+  },
+  {
+    "date": "2051-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2051-05-02",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2051-05-05",
+    "holiday": "Orthodox Good Friday"
+  },
+  {
+    "date": "2051-06-10",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2051-08-17",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

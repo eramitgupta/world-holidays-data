@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2019-06-03",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2019-07-04",
+    "holiday": "Birthday of the Reigning Sovereign of Tonga"
+  },
+  {
+    "date": "2019-09-17",
+    "holiday": "Birthday of the Heir to the Crown of Tonga"
+  },
+  {
+    "date": "2019-09-19",
+    "holiday": "State Funeral of 'Akilisi Pohiva"
+  },
+  {
+    "date": "2019-11-04",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2019-11-15",
+    "holiday": "Tonga Rugby Public Holiday"
+  },
+  {
+    "date": "2019-12-02",
+    "holiday": "Anniversary of the Coronation of HM King George Tupou I (observed)"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Boxing Day"
+  }
+]

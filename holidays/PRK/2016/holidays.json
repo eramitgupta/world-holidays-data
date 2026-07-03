@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-02-08",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2016-02-16",
+    "holiday": "Day of the Shining Star"
+  },
+  {
+    "date": "2016-02-17",
+    "holiday": "Day of the Shining Star"
+  },
+  {
+    "date": "2016-02-22",
+    "holiday": "Daeboreum"
+  },
+  {
+    "date": "2016-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2016-04-04",
+    "holiday": "Cheongmyeong Festival"
+  },
+  {
+    "date": "2016-04-15",
+    "holiday": "Day of the Sun"
+  },
+  {
+    "date": "2016-04-16",
+    "holiday": "Day of the Sun"
+  },
+  {
+    "date": "2016-04-25",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2016-06-06",
+    "holiday": "Foundation Day of the Korean Children's Union"
+  },
+  {
+    "date": "2016-07-27",
+    "holiday": "Day of Victory in the Great Fatherland Liberation War"
+  },
+  {
+    "date": "2016-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2016-08-25",
+    "holiday": "Day of Songun"
+  },
+  {
+    "date": "2016-08-28",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2016-09-09",
+    "holiday": "Founding Day of the DPRK"
+  },
+  {
+    "date": "2016-09-15",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2016-10-10",
+    "holiday": "Foundation Day of the Workers' Party of Korea"
+  },
+  {
+    "date": "2016-11-16",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2016-12-27",
+    "holiday": "Socialist Constitution Day"
+  }
+]

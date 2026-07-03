@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-01-26",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2028-01-28",
+    "holiday": "First Day of Ramadan (estimated)"
+  },
+  {
+    "date": "2028-01-29",
+    "holiday": "First Day of Ramadan (observed, estimated)"
+  },
+  {
+    "date": "2028-02-13",
+    "holiday": "Anniversary of the revelation of the Quran (estimated)"
+  },
+  {
+    "date": "2028-02-14",
+    "holiday": "Anniversary of the revelation of the Quran (observed, estimated)"
+  },
+  {
+    "date": "2028-02-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2028-02-26",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2028-02-27",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2028-02-28",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2028-02-29",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2028-05-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2028-05-06",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2028-05-25",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2028-05-31",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2028-07-15",
+    "holiday": "Sultan Hassanal Bolkiah's Birthday"
+  },
+  {
+    "date": "2028-08-03",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2028-12-14",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-02-17",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2053-02-18",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2053-02-19",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2053-02-20",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2053-02-21",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2053-04-28",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2053-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2053-09-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2053-09-02",
+    "holiday": "National Day"
+  }
+]

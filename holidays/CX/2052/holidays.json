@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2052-02-01",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2052-02-02",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2052-03-18",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2052-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2052-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2052-05-29",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2052-08-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2052-10-07",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2052-12-26",
+    "holiday": "Boxing Day"
+  }
+]

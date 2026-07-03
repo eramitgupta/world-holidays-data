@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-03-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-04-05",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2048-05-24",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2048-05-25",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2048-08-20",
+    "holiday": "State Foundation Day"
+  },
+  {
+    "date": "2048-10-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2048-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

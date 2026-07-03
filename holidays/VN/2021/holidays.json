@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-02-10",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2021-02-11",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2021-02-12",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2021-02-13",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2021-02-14",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2021-02-15",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2021-02-16",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2021-04-21",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2021-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2021-05-03",
+    "holiday": "International Labor Day (observed)"
+  },
+  {
+    "date": "2021-09-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2021-09-03",
+    "holiday": "National Day"
+  }
+]

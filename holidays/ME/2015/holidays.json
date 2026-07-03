@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-05-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-05-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-07-13",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2015-07-14",
+    "holiday": "Statehood Day"
+  }
+]

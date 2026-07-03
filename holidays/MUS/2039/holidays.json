@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2039-01-09",
+    "holiday": "Thaipusam"
+  },
+  {
+    "date": "2039-01-24",
+    "holiday": "Chinese Spring Festival"
+  },
+  {
+    "date": "2039-02-01",
+    "holiday": "Abolition of Slavery"
+  },
+  {
+    "date": "2039-03-12",
+    "holiday": "Independence and Republic Day"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2039-10-20",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2039-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2039-11-02",
+    "holiday": "Arrival of Indentured Laborers"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  }
+]

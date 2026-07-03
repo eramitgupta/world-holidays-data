@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-03",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2015-01-10",
+    "holiday": "Vodoun Festival"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-05-14",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2015-05-25",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2015-07-17",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2015-08-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2015-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2015-09-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2015-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2015-12-23",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

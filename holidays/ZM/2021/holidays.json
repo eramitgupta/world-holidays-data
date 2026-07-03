@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2021-03-12",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-03",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2021-05-25",
+    "holiday": "Africa Freedom Day"
+  },
+  {
+    "date": "2021-07-02",
+    "holiday": "Memorial service for Kenneth Kaunda"
+  },
+  {
+    "date": "2021-07-05",
+    "holiday": "Heroes' Day"
+  },
+  {
+    "date": "2021-07-06",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2021-07-07",
+    "holiday": "Funeral of Kenneth Kaunda"
+  },
+  {
+    "date": "2021-08-02",
+    "holiday": "Farmers' Day"
+  },
+  {
+    "date": "2021-08-12",
+    "holiday": "General elections"
+  },
+  {
+    "date": "2021-08-13",
+    "holiday": "Counting in general elections"
+  },
+  {
+    "date": "2021-08-24",
+    "holiday": "Presidential inauguration"
+  },
+  {
+    "date": "2021-10-18",
+    "holiday": "National Prayer Day"
+  },
+  {
+    "date": "2021-10-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-10-25",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  }
+]

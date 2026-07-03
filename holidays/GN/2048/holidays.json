@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2048-05-25",
+    "holiday": "Africa Day"
+  },
+  {
+    "date": "2048-07-08",
+    "holiday": "Day after Night of Power (estimated)"
+  },
+  {
+    "date": "2048-07-12",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2048-07-13",
+    "holiday": "Day after the Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2048-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2048-09-19",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2048-09-20",
+    "holiday": "Day after Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2048-10-02",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-12-18",
+    "holiday": "Day after Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  }
+]

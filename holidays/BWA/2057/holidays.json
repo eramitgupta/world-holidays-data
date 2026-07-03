@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-01-02",
+    "holiday": "New Year's Day Holiday"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-04-21",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2057-04-23",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2057-05-31",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2057-07-01",
+    "holiday": "Sir Seretse Khama Day"
+  },
+  {
+    "date": "2057-07-02",
+    "holiday": "Sir Seretse Khama Day (observed)"
+  },
+  {
+    "date": "2057-07-16",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2057-07-17",
+    "holiday": "President's Day Holiday"
+  },
+  {
+    "date": "2057-09-30",
+    "holiday": "Botswana Day"
+  },
+  {
+    "date": "2057-10-01",
+    "holiday": "Botswana Day Holiday"
+  },
+  {
+    "date": "2057-10-02",
+    "holiday": "Botswana Day (observed)"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2057-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-01-15",
+    "holiday": "John Chilembwe Day"
+  },
+  {
+    "date": "2040-01-16",
+    "holiday": "John Chilembwe Day (observed)"
+  },
+  {
+    "date": "2040-03-03",
+    "holiday": "Martyrs Day"
+  },
+  {
+    "date": "2040-03-05",
+    "holiday": "Martyrs Day (observed)"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2040-05-14",
+    "holiday": "Kamuzu Day"
+  },
+  {
+    "date": "2040-07-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-10-15",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Boxing Day"
+  }
+]

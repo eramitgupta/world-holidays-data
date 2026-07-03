@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2025-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2025-01-27",
+    "holiday": "Saint Devote's Day"
+  },
+  {
+    "date": "2025-04-21",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2025-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2025-05-29",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2025-06-09",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2025-06-19",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2025-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2025-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2025-11-19",
+    "holiday": "Prince's Day"
+  },
+  {
+    "date": "2025-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2025-12-25",
+    "holiday": "Christmas Day"
+  }
+]

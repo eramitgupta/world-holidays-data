@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2023-01-20",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2023-01-21",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2023-01-22",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2023-01-23",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2023-01-24",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2023-01-25",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2023-01-26",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2023-04-29",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2023-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2023-05-02",
+    "holiday": "Hung Kings' Commemoration Day (observed)"
+  },
+  {
+    "date": "2023-05-03",
+    "holiday": "Liberation Day/Reunification Day (observed)"
+  },
+  {
+    "date": "2023-09-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2023-09-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2023-09-04",
+    "holiday": "National Day (observed)"
+  }
+]

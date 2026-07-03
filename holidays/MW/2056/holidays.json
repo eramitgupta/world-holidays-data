@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2056-01-15",
+    "holiday": "John Chilembwe Day"
+  },
+  {
+    "date": "2056-01-17",
+    "holiday": "John Chilembwe Day (observed)"
+  },
+  {
+    "date": "2056-03-03",
+    "holiday": "Martyrs Day"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2056-05-14",
+    "holiday": "Kamuzu Day"
+  },
+  {
+    "date": "2056-05-15",
+    "holiday": "Kamuzu Day (observed)"
+  },
+  {
+    "date": "2056-07-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2056-10-15",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2056-10-16",
+    "holiday": "Mother's Day (observed)"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-26",
+    "holiday": "Boxing Day"
+  }
+]

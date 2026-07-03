@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-03-08",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2024-03-21",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2024-03-31",
+    "holiday": "Gregorian Easter Sunday"
+  },
+  {
+    "date": "2024-04-10",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-04-11",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-04-12",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-04-17",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2024-05-05",
+    "holiday": "Julian Easter Sunday"
+  },
+  {
+    "date": "2024-05-06",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2024-06-15",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-06-16",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-06-17",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-06-18",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-07-07",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2024-09-15",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2024-10-06",
+    "holiday": "Tishreen Liberation War Day"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "Boxing Day"
+  }
+]

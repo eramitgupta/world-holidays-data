@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-03-08",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2049-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2049-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2049-05-31",
+    "holiday": "JAGS McCartney Day"
+  },
+  {
+    "date": "2049-06-14",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2049-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2049-08-02",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2049-09-24",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2049-10-11",
+    "holiday": "National Heritage Day"
+  },
+  {
+    "date": "2049-11-26",
+    "holiday": "National Day of Thanksgiving"
+  },
+  {
+    "date": "2049-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2049-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2049-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2049-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

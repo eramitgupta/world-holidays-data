@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2040-05-08",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2040-05-10",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2040-05-21",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2040-07-14",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2040-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2040-09-24",
+    "holiday": "Citizenship Day"
+  },
+  {
+    "date": "2040-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2040-11-11",
+    "holiday": "Armistice Day"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  }
+]

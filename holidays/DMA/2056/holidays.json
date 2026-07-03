@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-02-14",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2056-02-15",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2056-05-22",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2056-08-07",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2056-11-03",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2056-11-04",
+    "holiday": "National Day of Community Service"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-26",
+    "holiday": "Boxing Day"
+  }
+]

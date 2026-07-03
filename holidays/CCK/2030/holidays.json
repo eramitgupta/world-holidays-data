@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2030-01-28",
+    "holiday": "Australia Day (observed)"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2030-04-06",
+    "holiday": "Act of Self Determination Day"
+  },
+  {
+    "date": "2030-04-08",
+    "holiday": "Act of Self Determination Day (observed)"
+  },
+  {
+    "date": "2030-04-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2030-04-15",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2030-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2030-06-10",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2030-07-13",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2030-07-15",
+    "holiday": "Prophet's Birthday (observed, estimated)"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2030-12-26",
+    "holiday": "Boxing Day"
+  }
+]

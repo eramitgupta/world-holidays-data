@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-02-07",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2035-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2035-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2035-05-23",
+    "holiday": "National Labour Day"
+  },
+  {
+    "date": "2035-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2035-08-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2035-10-15",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2035-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2035-12-26",
+    "holiday": "Boxing Day"
+  }
+]

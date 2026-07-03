@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-02-03",
+    "holiday": "Saint Brigid's Day"
+  },
+  {
+    "date": "2059-03-17",
+    "holiday": "Saint Patrick's Day"
+  },
+  {
+    "date": "2059-03-31",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2059-05-05",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2059-06-02",
+    "holiday": "June Bank Holiday"
+  },
+  {
+    "date": "2059-08-04",
+    "holiday": "August Bank Holiday"
+  },
+  {
+    "date": "2059-10-27",
+    "holiday": "October Bank Holiday"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2059-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2048-01-20",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2048-02-17",
+    "holiday": "Presidents' Day"
+  },
+  {
+    "date": "2048-03-22",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2048-03-23",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-05-25",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2048-06-19",
+    "holiday": "Juneteenth National Independence Day"
+  },
+  {
+    "date": "2048-07-03",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2048-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-07-25",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2048-09-07",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2048-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2048-11-19",
+    "holiday": "Discovery Day"
+  },
+  {
+    "date": "2048-11-26",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  }
+]

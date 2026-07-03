@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-02-19",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2015-02-20",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-06-01",
+    "holiday": "Vesak Day"
+  },
+  {
+    "date": "2015-07-17",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2015-08-07",
+    "holiday": "SG50 Public Holiday"
+  },
+  {
+    "date": "2015-08-09",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2015-08-10",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2015-09-11",
+    "holiday": "Polling Day"
+  },
+  {
+    "date": "2015-09-24",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2015-11-10",
+    "holiday": "Deepavali"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

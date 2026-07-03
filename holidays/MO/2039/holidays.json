@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-24",
+    "holiday": "Chinese New Year's Day"
+  },
+  {
+    "date": "2039-01-25",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2039-01-26",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2039-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2039-10-01",
+    "holiday": "National Day of the People's Republic of China"
+  },
+  {
+    "date": "2039-10-03",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2039-10-26",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2039-12-20",
+    "holiday": "Macao S.A.R. Establishment Day"
+  }
+]

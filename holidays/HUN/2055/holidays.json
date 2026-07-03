@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-03-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-18",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2055-06-06",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2055-06-07",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2055-08-20",
+    "holiday": "State Foundation Day"
+  },
+  {
+    "date": "2055-10-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2055-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

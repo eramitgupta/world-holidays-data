@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-07",
+    "holiday": "Orthodox Christmas"
+  },
+  {
+    "date": "2055-01-19",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2055-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-18",
+    "holiday": "Orthodox Easter"
+  },
+  {
+    "date": "2055-04-28",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2055-05-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2055-06-20",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2055-07-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2055-09-01",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2055-09-12",
+    "holiday": "Ethiopian New Year"
+  },
+  {
+    "date": "2055-09-28",
+    "holiday": "Finding of the True Cross"
+  },
+  {
+    "date": "2055-10-03",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

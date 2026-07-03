@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2035-03-24",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2035-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2035-05-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2035-06-15",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2035-07-06",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2035-07-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2035-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2035-12-26",
+    "holiday": "National Day of Thanksgiving"
+  }
+]

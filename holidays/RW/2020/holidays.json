@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2020-02-01",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2020-02-03",
+    "holiday": "National Heroes' Day (observed)"
+  },
+  {
+    "date": "2020-04-07",
+    "holiday": "Memorial Day of Genocide perpetrated against the Tutsi in 1994"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-05-24",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Eid al-Fitr (observed)"
+  },
+  {
+    "date": "2020-07-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-07-04",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2020-07-06",
+    "holiday": "Liberation Day (observed)"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-07",
+    "holiday": "Umuganura Day"
+  },
+  {
+    "date": "2020-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2020-08-17",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2020-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

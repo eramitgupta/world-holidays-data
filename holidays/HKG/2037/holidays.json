@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-02-16",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2037-02-17",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2037-02-18",
+    "holiday": "The fourth day of Chinese New Year"
+  },
+  {
+    "date": "2037-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2037-04-04",
+    "holiday": "The day following Good Friday; Tomb-Sweeping Day"
+  },
+  {
+    "date": "2037-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2037-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2037-05-22",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2037-06-18",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2037-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2037-09-25",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2037-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2037-10-17",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2037-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2037-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  }
+]

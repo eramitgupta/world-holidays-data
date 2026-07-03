@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-07",
+    "holiday": "Epiphany (observed)"
+  },
+  {
+    "date": "2030-03-25",
+    "holiday": "Saint Joseph's Day (observed)"
+  },
+  {
+    "date": "2030-04-18",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2030-06-03",
+    "holiday": "Ascension Day (observed)"
+  },
+  {
+    "date": "2030-06-24",
+    "holiday": "Corpus Christi (observed)"
+  },
+  {
+    "date": "2030-07-01",
+    "holiday": "Sacred Heart (observed); Saint Peter and Saint Paul's Day (observed)"
+  },
+  {
+    "date": "2030-07-20",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2030-08-07",
+    "holiday": "Battle of Boyacá"
+  },
+  {
+    "date": "2030-08-19",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2030-10-14",
+    "holiday": "Columbus Day (observed)"
+  },
+  {
+    "date": "2030-11-04",
+    "holiday": "All Saints' Day (observed)"
+  },
+  {
+    "date": "2030-11-11",
+    "holiday": "Independence of Cartagena"
+  },
+  {
+    "date": "2030-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  }
+]

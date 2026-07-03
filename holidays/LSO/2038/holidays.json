@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-03-11",
+    "holiday": "Moshoeshoe's Day"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2038-05-25",
+    "holiday": "Africa/Heroes Day"
+  },
+  {
+    "date": "2038-06-03",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2038-07-17",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2038-10-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Boxing Day"
+  }
+]

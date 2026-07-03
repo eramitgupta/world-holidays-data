@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-03-04",
+    "holiday": "Lavity Stoutt's Birthday"
+  },
+  {
+    "date": "2019-03-11",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-06-07",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2019-06-10",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2019-07-01",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2019-08-05",
+    "holiday": "Festival Monday"
+  },
+  {
+    "date": "2019-08-06",
+    "holiday": "Festival Tuesday"
+  },
+  {
+    "date": "2019-08-07",
+    "holiday": "Festival Wednesday"
+  },
+  {
+    "date": "2019-10-21",
+    "holiday": "Saint Ursula's Day"
+  },
+  {
+    "date": "2019-12-11",
+    "holiday": "State Funeral of Honourable Ralph T. O'Neal"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Boxing Day"
+  }
+]

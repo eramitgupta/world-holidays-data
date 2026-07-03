@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-01",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2018-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2018-05-04",
+    "holiday": "Restoration of Independence Day"
+  },
+  {
+    "date": "2018-05-13",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2018-06-23",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2018-06-24",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2018-07-09",
+    "holiday": "General Latvian Song and Dance Festival closing day"
+  },
+  {
+    "date": "2018-09-24",
+    "holiday": "Day of His Holiness Pope Francis' pastoral visit to Latvia"
+  },
+  {
+    "date": "2018-11-18",
+    "holiday": "Republic of Latvia Proclamation Day"
+  },
+  {
+    "date": "2018-11-19",
+    "holiday": "Republic of Latvia Proclamation Day (observed)"
+  },
+  {
+    "date": "2018-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2018-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

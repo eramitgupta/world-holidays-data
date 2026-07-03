@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-01-15",
+    "holiday": "George Price Day"
+  },
+  {
+    "date": "2027-03-08",
+    "holiday": "National Heroes and Benefactors Day (observed)"
+  },
+  {
+    "date": "2027-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2027-03-27",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2027-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2027-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2027-08-02",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2027-09-10",
+    "holiday": "Saint George's Caye Day"
+  },
+  {
+    "date": "2027-09-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2027-10-11",
+    "holiday": "Indigenous Peoples' Resistance Day (observed)"
+  },
+  {
+    "date": "2027-11-19",
+    "holiday": "Garifuna Settlement Day"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2027-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

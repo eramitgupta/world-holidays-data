@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2036-02-07",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2036-04-14",
+    "holiday": "Catholic Easter Monday"
+  },
+  {
+    "date": "2036-04-18",
+    "holiday": "Orthodox Good Friday"
+  },
+  {
+    "date": "2036-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2036-05-02",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2036-11-19",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

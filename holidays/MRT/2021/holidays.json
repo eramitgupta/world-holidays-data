@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2021-05-13",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2021-05-14",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2021-05-25",
+    "holiday": "Africa Day"
+  },
+  {
+    "date": "2021-07-20",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2021-07-21",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2021-08-09",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2021-10-18",
+    "holiday": "Mawlid al-Nabi (estimated)"
+  },
+  {
+    "date": "2021-11-28",
+    "holiday": "Independence Day"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-02-04",
+    "holiday": "Liberation Movement Day"
+  },
+  {
+    "date": "2039-02-21",
+    "holiday": "Day off for Carnival Day"
+  },
+  {
+    "date": "2039-02-22",
+    "holiday": "Carnival Day"
+  },
+  {
+    "date": "2039-03-07",
+    "holiday": "Day off for International Women's Day"
+  },
+  {
+    "date": "2039-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2039-03-23",
+    "holiday": "Southern Africa Liberation Day"
+  },
+  {
+    "date": "2039-04-04",
+    "holiday": "Peace and National Reconciliation Day"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "International Worker's Day"
+  },
+  {
+    "date": "2039-09-17",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2039-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2039-11-11",
+    "holiday": "National Independence Day"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas and Family Day"
+  }
+]

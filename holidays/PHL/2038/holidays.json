@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-16",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2038-02-04",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2038-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2038-04-22",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-24",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2038-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2038-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2038-08-30",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2038-10-29",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2038-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2038-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2038-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2038-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

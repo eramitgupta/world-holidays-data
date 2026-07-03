@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2042-03-04",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2042-05-15",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2042-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2042-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2042-09-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2042-11-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2042-11-24",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  }
+]

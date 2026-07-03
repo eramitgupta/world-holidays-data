@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2023-02-20",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2023-02-21",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2023-05-24",
+    "holiday": "The Battle of Pichincha"
+  },
+  {
+    "date": "2023-05-26",
+    "holiday": "The Battle of Pichincha (observed)"
+  },
+  {
+    "date": "2023-08-10",
+    "holiday": "Declaration of Independence of Quito"
+  },
+  {
+    "date": "2023-08-11",
+    "holiday": "Declaration of Independence of Quito (observed)"
+  },
+  {
+    "date": "2023-10-09",
+    "holiday": "Independence of Guayaquil"
+  },
+  {
+    "date": "2023-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2023-11-03",
+    "holiday": "Independence of Cuenca"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2016-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2016-03-27",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Easter; Labor Day"
+  },
+  {
+    "date": "2016-05-04",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2016-07-06",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2016-07-07",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2016-07-08",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2016-09-11",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2016-09-12",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2016-09-13",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2016-09-14",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2016-10-02",
+    "holiday": "Hijri New Year"
+  },
+  {
+    "date": "2016-11-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-12-11",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

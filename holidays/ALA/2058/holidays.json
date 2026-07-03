@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2058-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2058-04-14",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2058-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2058-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2058-05-23",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2058-06-02",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2058-06-09",
+    "holiday": "Åland's Autonomy Day"
+  },
+  {
+    "date": "2058-06-21",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2058-06-22",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2058-11-02",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2058-12-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2058-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2058-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2058-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

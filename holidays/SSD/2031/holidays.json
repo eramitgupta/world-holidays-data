@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-09",
+    "holiday": "Peace Agreement Day"
+  },
+  {
+    "date": "2031-01-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2031-04-02",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-12",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2031-04-13",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2031-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "International Labour Day"
+  },
+  {
+    "date": "2031-05-16",
+    "holiday": "SPLA Day"
+  },
+  {
+    "date": "2031-07-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2031-07-30",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2031-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2031-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

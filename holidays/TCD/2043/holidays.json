@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2043-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2043-02-22",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2043-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2043-03-09",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2043-03-30",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2043-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2043-08-11",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2043-09-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2043-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2043-11-12",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2043-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2043-12-01",
+    "holiday": "Freedom and Democracy Day"
+  },
+  {
+    "date": "2043-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2053-05-15",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2053-05-26",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2053-06-10",
+    "holiday": "Reconciliation Day"
+  },
+  {
+    "date": "2053-08-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2053-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2053-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-02",
+    "holiday": "The Day After New Year's Day"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-24",
+    "holiday": "Day After Good Friday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-05-10",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2038-06-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2038-08-09",
+    "holiday": "Father's Day"
+  },
+  {
+    "date": "2038-10-11",
+    "holiday": "White Sunday (Lotu a Tamaiti)"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Boxing Day"
+  }
+]

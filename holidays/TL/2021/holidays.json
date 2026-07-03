@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-03-03",
+    "holiday": "Veteran's Day"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Holy Friday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "International Worker's Day"
+  },
+  {
+    "date": "2021-05-13",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2021-05-20",
+    "holiday": "Restoration of Independence Day"
+  },
+  {
+    "date": "2021-06-03",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2021-07-19",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2021-08-30",
+    "holiday": "Popular Consultation Day"
+  },
+  {
+    "date": "2021-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2021-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2021-11-12",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2021-11-28",
+    "holiday": "Proclamation of Independence Day"
+  },
+  {
+    "date": "2021-12-07",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2021-12-08",
+    "holiday": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-31",
+    "holiday": "National Heroes Day"
+  }
+]

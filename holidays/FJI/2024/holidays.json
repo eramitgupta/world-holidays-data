@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-03-30",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-05-13",
+    "holiday": "Girmit Day"
+  },
+  {
+    "date": "2024-05-31",
+    "holiday": "Ratu Sir Lala Sukuna Day"
+  },
+  {
+    "date": "2024-09-16",
+    "holiday": "Prophet Mohammed's Birthday"
+  },
+  {
+    "date": "2024-10-10",
+    "holiday": "Fiji Day"
+  },
+  {
+    "date": "2024-11-01",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "Boxing Day"
+  }
+]

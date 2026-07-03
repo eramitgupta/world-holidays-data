@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-01-10",
+    "holiday": "Majority Rule Day"
+  },
+  {
+    "date": "2029-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2029-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2029-05-21",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2029-06-01",
+    "holiday": "Randol Fawkes Labour Day"
+  },
+  {
+    "date": "2029-07-10",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2029-08-06",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2029-10-08",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2029-12-26",
+    "holiday": "Boxing Day"
+  }
+]

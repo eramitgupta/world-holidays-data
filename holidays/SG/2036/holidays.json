@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-01-28",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2036-01-29",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2036-02-07",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2036-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2036-05-10",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2036-08-09",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2036-11-16",
+    "holiday": "Deepavali"
+  },
+  {
+    "date": "2036-11-17",
+    "holiday": "Deepavali (observed)"
+  },
+  {
+    "date": "2036-11-19",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  }
+]

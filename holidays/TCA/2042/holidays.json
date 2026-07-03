@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-03-10",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2042-05-26",
+    "holiday": "JAGS McCartney Day"
+  },
+  {
+    "date": "2042-06-09",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2042-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2042-09-26",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2042-10-13",
+    "holiday": "National Heritage Day"
+  },
+  {
+    "date": "2042-11-28",
+    "holiday": "National Day of Thanksgiving"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Boxing Day"
+  }
+]

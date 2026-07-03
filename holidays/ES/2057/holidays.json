@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2057-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2057-10-12",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2057-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2057-12-06",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2057-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  }
+]

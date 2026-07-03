@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2035-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2035-05-07",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2035-05-28",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2035-06-01",
+    "holiday": "TT Bank Holiday"
+  },
+  {
+    "date": "2035-07-05",
+    "holiday": "Tynwald Day"
+  },
+  {
+    "date": "2035-08-27",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2035-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2035-12-26",
+    "holiday": "Boxing Day"
+  }
+]

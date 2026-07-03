@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-01-31",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2044-02-01",
+    "holiday": "Day following Independence Day"
+  },
+  {
+    "date": "2044-02-02",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2044-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-04-19",
+    "holiday": "Easter Tuesday"
+  },
+  {
+    "date": "2044-05-17",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2044-07-01",
+    "holiday": "RONPHOS Handover"
+  },
+  {
+    "date": "2044-08-19",
+    "holiday": "Ibumin Earoeni Day"
+  },
+  {
+    "date": "2044-09-25",
+    "holiday": "Sir Hammer DeRoburt Day"
+  },
+  {
+    "date": "2044-09-26",
+    "holiday": "Sir Hammer DeRoburt Day (observed)"
+  },
+  {
+    "date": "2044-10-26",
+    "holiday": "Angam Day"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Day following Christmas"
+  },
+  {
+    "date": "2044-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

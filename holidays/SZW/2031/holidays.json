@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2031-04-19",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2031-04-25",
+    "holiday": "National Flag Day"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2031-05-22",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2031-07-22",
+    "holiday": "Birthday of Late King Sobhuza"
+  },
+  {
+    "date": "2031-09-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2031-12-26",
+    "holiday": "Boxing Day"
+  }
+]

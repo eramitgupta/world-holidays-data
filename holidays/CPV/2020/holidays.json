@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-13",
+    "holiday": "Democracy and Freedom Day"
+  },
+  {
+    "date": "2020-01-20",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2020-02-26",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-12",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2020-06-01",
+    "holiday": "International Children's Day"
+  },
+  {
+    "date": "2020-07-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2020-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  }
+]

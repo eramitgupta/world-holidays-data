@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-04",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2055-03-14",
+    "holiday": "Summer Day"
+  },
+  {
+    "date": "2055-03-15",
+    "holiday": "Summer Day (observed)"
+  },
+  {
+    "date": "2055-03-22",
+    "holiday": "Nowruz Day"
+  },
+  {
+    "date": "2055-04-18",
+    "holiday": "Catholic Easter Sunday; Orthodox Easter Sunday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Catholic Easter Sunday (observed); Orthodox Easter Sunday (observed)"
+  },
+  {
+    "date": "2055-04-28",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2055-05-03",
+    "holiday": "International Workers' Day (observed)"
+  },
+  {
+    "date": "2055-07-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2055-09-05",
+    "holiday": "Mother Teresa Canonization Day"
+  },
+  {
+    "date": "2055-09-06",
+    "holiday": "Mother Teresa Canonization Day (observed)"
+  },
+  {
+    "date": "2055-11-22",
+    "holiday": "Alphabet Day"
+  },
+  {
+    "date": "2055-11-28",
+    "holiday": "Flag and Independence Day"
+  },
+  {
+    "date": "2055-11-29",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2055-11-30",
+    "holiday": "Flag and Independence Day (observed)"
+  },
+  {
+    "date": "2055-12-08",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

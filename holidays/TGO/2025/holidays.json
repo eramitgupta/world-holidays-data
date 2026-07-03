@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2025-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2025-03-01",
+    "holiday": "First Day of Ramadan"
+  },
+  {
+    "date": "2025-03-30",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2025-04-21",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2025-04-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2025-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2025-05-29",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2025-06-07",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2025-06-09",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2025-06-21",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2025-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2025-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2025-12-25",
+    "holiday": "Christmas Day"
+  }
+]

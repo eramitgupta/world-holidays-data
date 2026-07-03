@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-02-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2052-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2052-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2052-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2052-06-10",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2052-06-20",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2052-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2052-08-12",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2052-08-13",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2052-10-19",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2052-10-25",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2052-12-26",
+    "holiday": "Boxing Day"
+  }
+]

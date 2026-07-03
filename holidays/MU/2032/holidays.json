@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2032-01-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2032-02-01",
+    "holiday": "Abolition of Slavery"
+  },
+  {
+    "date": "2032-02-11",
+    "holiday": "Chinese Spring Festival"
+  },
+  {
+    "date": "2032-02-26",
+    "holiday": "Thaipusam"
+  },
+  {
+    "date": "2032-03-10",
+    "holiday": "Maha Shivaratri"
+  },
+  {
+    "date": "2032-03-12",
+    "holiday": "Independence and Republic Day"
+  },
+  {
+    "date": "2032-04-11",
+    "holiday": "Ugadi"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2032-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2032-09-08",
+    "holiday": "Ganesh Chaturthi"
+  },
+  {
+    "date": "2032-11-02",
+    "holiday": "Arrival of Indentured Laborers; Diwali"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  }
+]

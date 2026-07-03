@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-05-28",
+    "holiday": "Bermuda Day"
+  },
+  {
+    "date": "2038-06-21",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2038-07-29",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2038-07-30",
+    "holiday": "Mary Prince Day"
+  },
+  {
+    "date": "2038-09-06",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2038-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2038-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2038-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

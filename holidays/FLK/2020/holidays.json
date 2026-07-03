@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-21",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2020-06-14",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2020-06-15",
+    "holiday": "Liberation Day (observed)"
+  },
+  {
+    "date": "2020-10-05",
+    "holiday": "Peat Cutting Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2020-12-27",
+    "holiday": "Christmas Holiday"
+  },
+  {
+    "date": "2020-12-28",
+    "holiday": "Boxing Day (observed)"
+  },
+  {
+    "date": "2020-12-29",
+    "holiday": "Christmas Holiday (observed)"
+  }
+]

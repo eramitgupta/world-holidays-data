@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-03-03",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-24",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2038-04-25",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Labor Day and International Workers' Solidarity Day"
+  },
+  {
+    "date": "2038-05-03",
+    "holiday": "Labor Day and International Workers' Solidarity Day (observed)"
+  },
+  {
+    "date": "2038-05-06",
+    "holiday": "Saint George's Day (Day of the Bulgarian Army)"
+  },
+  {
+    "date": "2038-05-24",
+    "holiday": "Day of Slavonic Alphabet, Bulgarian Enlightenment and Culture"
+  },
+  {
+    "date": "2038-09-06",
+    "holiday": "Unification Day"
+  },
+  {
+    "date": "2038-09-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2038-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2038-12-28",
+    "holiday": "Christmas Day (observed)"
+  }
+]

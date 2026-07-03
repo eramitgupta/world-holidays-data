@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "Capodanno"
+  },
+  {
+    "date": "2036-01-06",
+    "holiday": "Epifania del Signore"
+  },
+  {
+    "date": "2036-04-13",
+    "holiday": "Pasqua di Resurrezione"
+  },
+  {
+    "date": "2036-04-14",
+    "holiday": "Lunedì dell'Angelo"
+  },
+  {
+    "date": "2036-04-25",
+    "holiday": "Festa della Liberazione"
+  },
+  {
+    "date": "2036-05-01",
+    "holiday": "Festa dei Lavoratori"
+  },
+  {
+    "date": "2036-06-02",
+    "holiday": "Festa della Repubblica"
+  },
+  {
+    "date": "2036-08-15",
+    "holiday": "Assunzione della Vergine"
+  },
+  {
+    "date": "2036-11-01",
+    "holiday": "Tutti i Santi"
+  },
+  {
+    "date": "2036-12-08",
+    "holiday": "Immacolata Concezione"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Natale"
+  },
+  {
+    "date": "2036-12-26",
+    "holiday": "Santo Stefano"
+  }
+]

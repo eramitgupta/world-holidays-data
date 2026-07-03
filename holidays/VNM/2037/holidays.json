@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-02-13",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2037-02-14",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2037-02-15",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2037-02-16",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2037-02-17",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2037-02-18",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2037-02-19",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2037-04-24",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2037-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2037-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2037-09-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2037-09-02",
+    "holiday": "National Day"
+  }
+]

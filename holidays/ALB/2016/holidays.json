@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-04",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2016-03-14",
+    "holiday": "Summer Day"
+  },
+  {
+    "date": "2016-03-22",
+    "holiday": "Nowruz Day"
+  },
+  {
+    "date": "2016-03-27",
+    "holiday": "Catholic Easter Sunday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Catholic Easter Sunday (observed)"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "International Workers' Day; Orthodox Easter Sunday"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "International Workers' Day (observed); Orthodox Easter Sunday (observed)"
+  },
+  {
+    "date": "2016-07-06",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2016-09-11",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2016-09-12",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2016-10-19",
+    "holiday": "Mother Teresa Beatification Day"
+  },
+  {
+    "date": "2016-11-28",
+    "holiday": "Flag and Independence Day"
+  },
+  {
+    "date": "2016-11-29",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2016-12-08",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

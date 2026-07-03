@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2058-01-28",
+    "holiday": "Australia Day (observed)"
+  },
+  {
+    "date": "2058-03-06",
+    "holiday": "Foundation Day"
+  },
+  {
+    "date": "2058-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2058-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2058-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2058-06-08",
+    "holiday": "Bounty Day"
+  },
+  {
+    "date": "2058-06-10",
+    "holiday": "Bounty Day (observed)"
+  },
+  {
+    "date": "2058-06-17",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2058-10-14",
+    "holiday": "Show Day"
+  },
+  {
+    "date": "2058-11-27",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2058-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2058-12-26",
+    "holiday": "Boxing Day"
+  }
+]

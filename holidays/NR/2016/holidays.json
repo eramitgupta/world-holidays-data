@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-31",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-02-01",
+    "holiday": "Day following Independence Day"
+  },
+  {
+    "date": "2016-02-02",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-03-29",
+    "holiday": "Easter Tuesday"
+  },
+  {
+    "date": "2016-05-17",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2016-09-25",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2016-09-26",
+    "holiday": "National Youth Day (observed)"
+  },
+  {
+    "date": "2016-10-26",
+    "holiday": "Angam Day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Day following Christmas"
+  },
+  {
+    "date": "2016-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

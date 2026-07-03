@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-01-20",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2053-02-17",
+    "holiday": "Washington's Birthday"
+  },
+  {
+    "date": "2053-04-17",
+    "holiday": "American Samoa Flag Day"
+  },
+  {
+    "date": "2053-05-26",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2053-06-19",
+    "holiday": "Juneteenth National Independence Day"
+  },
+  {
+    "date": "2053-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2053-07-16",
+    "holiday": "Manu'a Islands Cession Day"
+  },
+  {
+    "date": "2053-09-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2053-10-12",
+    "holiday": "White Sunday"
+  },
+  {
+    "date": "2053-10-13",
+    "holiday": "Columbus Day"
+  },
+  {
+    "date": "2053-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2053-11-27",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  }
+]

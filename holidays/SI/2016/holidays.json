@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-02-08",
+    "holiday": "Prešeren's Day, the Slovenian Cultural Holiday"
+  },
+  {
+    "date": "2016-03-27",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-04-27",
+    "holiday": "Day of Uprising Against Occupation"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-05-15",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2016-06-25",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2016-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2016-10-31",
+    "holiday": "Reformation Day"
+  },
+  {
+    "date": "2016-11-01",
+    "holiday": "Day of Remembrance for the Dead"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Independence and Unity Day"
+  }
+]

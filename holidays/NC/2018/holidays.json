@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2018-05-08",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2018-05-10",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2018-05-21",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2018-07-14",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2018-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2018-09-24",
+    "holiday": "Citizenship Day"
+  },
+  {
+    "date": "2018-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2018-11-11",
+    "holiday": "Armistice Day"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  }
+]

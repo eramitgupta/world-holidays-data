@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-06-14",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2059-06-16",
+    "holiday": "Liberation Day (observed)"
+  },
+  {
+    "date": "2059-10-06",
+    "holiday": "Peat Cutting Day"
+  },
+  {
+    "date": "2059-11-14",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2059-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2059-12-27",
+    "holiday": "Christmas Holiday"
+  },
+  {
+    "date": "2059-12-29",
+    "holiday": "Christmas Holiday (observed)"
+  }
+]

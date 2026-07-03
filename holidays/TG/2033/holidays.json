@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-02",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2033-03-11",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2033-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2033-04-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2033-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2033-05-26",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2033-06-06",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2033-06-21",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2033-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2033-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2033-11-23",
+    "holiday": "First Day of Ramadan (estimated)"
+  },
+  {
+    "date": "2033-12-23",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  }
+]

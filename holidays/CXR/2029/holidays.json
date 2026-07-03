@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2029-02-13",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2029-02-14",
+    "holiday": "Chinese New Year; Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2029-03-19",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2029-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2029-04-24",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2029-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2029-10-01",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2029-12-26",
+    "holiday": "Boxing Day"
+  }
+]

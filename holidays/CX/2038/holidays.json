@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-16",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2038-01-18",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2038-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2038-02-04",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2038-02-05",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2038-03-15",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "ANZAC Day (observed)"
+  },
+  {
+    "date": "2038-10-04",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2038-10-29",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2038-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2038-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

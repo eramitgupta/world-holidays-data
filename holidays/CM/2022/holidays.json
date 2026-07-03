@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2022-05-03",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2022-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2022-05-26",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2022-07-09",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2022-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2022-10-08",
+    "holiday": "Mawlid"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

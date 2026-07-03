@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-03-16",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2059-03-17",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2059-03-18",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-03-31",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2059-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2059-05-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2059-05-24",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2059-05-26",
+    "holiday": "Eid al-Adha Holiday (observed, estimated)"
+  },
+  {
+    "date": "2059-05-29",
+    "holiday": "Presidential Inauguration Day"
+  },
+  {
+    "date": "2059-06-12",
+    "holiday": "Democracy Day"
+  },
+  {
+    "date": "2059-08-21",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2059-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2059-12-26",
+    "holiday": "Boxing Day"
+  }
+]

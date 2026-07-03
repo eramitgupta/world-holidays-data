@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-02-02",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2038-02-03",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2038-02-04",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2038-02-05",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2038-02-06",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2038-02-07",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2038-02-08",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2038-04-13",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2038-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2038-05-03",
+    "holiday": "International Labor Day (observed)"
+  },
+  {
+    "date": "2038-09-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2038-09-03",
+    "holiday": "National Day"
+  }
+]

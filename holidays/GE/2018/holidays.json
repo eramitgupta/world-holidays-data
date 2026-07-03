@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-01-07",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-01-19",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2018-03-03",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2018-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2018-04-06",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-07",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2018-04-08",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2018-04-09",
+    "holiday": "Easter Monday; National Unity Day"
+  },
+  {
+    "date": "2018-05-09",
+    "holiday": "Day of Victory over Fascism"
+  },
+  {
+    "date": "2018-05-12",
+    "holiday": "Saint Andrew's Day"
+  },
+  {
+    "date": "2018-05-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2018-08-28",
+    "holiday": "Dormition of the Mother of God"
+  },
+  {
+    "date": "2018-10-14",
+    "holiday": "Holiday of Svetitskhovloba, Robe of Jesus"
+  },
+  {
+    "date": "2018-11-23",
+    "holiday": "Saint George's Day"
+  }
+]

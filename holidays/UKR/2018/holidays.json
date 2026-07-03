@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-01-07",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-01-08",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2018-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2018-03-09",
+    "holiday": "Day off (substituted from 03/03/2018)"
+  },
+  {
+    "date": "2018-04-08",
+    "holiday": "Easter Sunday (Pascha)"
+  },
+  {
+    "date": "2018-04-09",
+    "holiday": "Easter Sunday (Pascha) (observed)"
+  },
+  {
+    "date": "2018-04-30",
+    "holiday": "Day off (substituted from 05/05/2018)"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2018-05-09",
+    "holiday": "Day of Victory over Nazism in World War II (Victory Day)"
+  },
+  {
+    "date": "2018-05-27",
+    "holiday": "Holy Trinity Day"
+  },
+  {
+    "date": "2018-05-28",
+    "holiday": "Holy Trinity Day (observed)"
+  },
+  {
+    "date": "2018-06-28",
+    "holiday": "Day of the Constitution of Ukraine"
+  },
+  {
+    "date": "2018-06-29",
+    "holiday": "Day off (substituted from 06/23/2018)"
+  },
+  {
+    "date": "2018-08-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2018-10-14",
+    "holiday": "Defender of Ukraine Day"
+  },
+  {
+    "date": "2018-10-15",
+    "holiday": "Defender of Ukraine Day (observed)"
+  },
+  {
+    "date": "2018-12-24",
+    "holiday": "Day off (substituted from 12/22/2018)"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-12-31",
+    "holiday": "Day off (substituted from 12/29/2018)"
+  }
+]

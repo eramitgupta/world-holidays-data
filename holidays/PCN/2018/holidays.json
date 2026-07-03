@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-01-23",
+    "holiday": "Bounty Day"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2018-06-09",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2018-07-02",
+    "holiday": "Pitcairn Day"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-12-26",
+    "holiday": "Boxing Day"
+  }
+]

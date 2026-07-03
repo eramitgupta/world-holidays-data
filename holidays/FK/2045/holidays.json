@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2045-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2045-06-14",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2045-10-02",
+    "holiday": "Peat Cutting Day"
+  },
+  {
+    "date": "2045-11-14",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2045-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2045-12-27",
+    "holiday": "Christmas Holiday"
+  }
+]

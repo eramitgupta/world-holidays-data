@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-02-13",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2040-02-14",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2040-02-15",
+    "holiday": "The fourth day of Chinese New Year"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-03-31",
+    "holiday": "The day following Good Friday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2040-05-18",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2040-06-14",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2040-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2040-07-02",
+    "holiday": "Hong Kong S.A.R. Establishment Day (observed)"
+  },
+  {
+    "date": "2040-09-21",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2040-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2040-10-14",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2040-10-15",
+    "holiday": "Double Ninth Festival (observed)"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  }
+]

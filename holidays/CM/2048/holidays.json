@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2048-05-14",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2048-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2048-07-12",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2048-07-13",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2048-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2048-09-19",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2048-12-18",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  }
+]

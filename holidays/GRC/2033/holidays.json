@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2033-03-07",
+    "holiday": "Green Monday"
+  },
+  {
+    "date": "2033-03-25",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2033-04-22",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2033-04-25",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2033-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2033-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2033-06-13",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2033-08-15",
+    "holiday": "Dormition of the Mother of God"
+  },
+  {
+    "date": "2033-10-28",
+    "holiday": "Ochi Day"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2033-12-26",
+    "holiday": "Glorifying Mother of God"
+  }
+]

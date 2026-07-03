@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-02-08",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2016-02-09",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-05-24",
+    "holiday": "The Battle of Pichincha"
+  },
+  {
+    "date": "2016-08-10",
+    "holiday": "Declaration of Independence of Quito"
+  },
+  {
+    "date": "2016-10-09",
+    "holiday": "Independence of Guayaquil"
+  },
+  {
+    "date": "2016-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2016-11-03",
+    "holiday": "Independence of Cuenca"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  }
+]

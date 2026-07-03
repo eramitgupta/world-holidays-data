@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "Capodanno"
+  },
+  {
+    "date": "2047-01-06",
+    "holiday": "Epifania del Signore"
+  },
+  {
+    "date": "2047-04-14",
+    "holiday": "Pasqua di Resurrezione"
+  },
+  {
+    "date": "2047-04-15",
+    "holiday": "Lunedì dell'Angelo"
+  },
+  {
+    "date": "2047-04-25",
+    "holiday": "Festa della Liberazione"
+  },
+  {
+    "date": "2047-05-01",
+    "holiday": "Festa dei Lavoratori"
+  },
+  {
+    "date": "2047-06-02",
+    "holiday": "Festa della Repubblica"
+  },
+  {
+    "date": "2047-08-15",
+    "holiday": "Assunzione della Vergine"
+  },
+  {
+    "date": "2047-11-01",
+    "holiday": "Tutti i Santi"
+  },
+  {
+    "date": "2047-12-08",
+    "holiday": "Immacolata Concezione"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Natale"
+  },
+  {
+    "date": "2047-12-26",
+    "holiday": "Santo Stefano"
+  }
+]

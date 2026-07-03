@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-02-05",
+    "holiday": "Saint Brigid's Day"
+  },
+  {
+    "date": "2052-03-17",
+    "holiday": "Saint Patrick's Day"
+  },
+  {
+    "date": "2052-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2052-05-06",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2052-06-03",
+    "holiday": "June Bank Holiday"
+  },
+  {
+    "date": "2052-08-05",
+    "holiday": "August Bank Holiday"
+  },
+  {
+    "date": "2052-10-28",
+    "holiday": "October Bank Holiday"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2052-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]

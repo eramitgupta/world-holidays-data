@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-03-14",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "May Day (observed)"
+  },
+  {
+    "date": "2016-05-30",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2016-06-13",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2016-08-29",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2016-09-05",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2016-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

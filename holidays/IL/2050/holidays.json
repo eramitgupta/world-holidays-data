@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2050-04-07",
+    "holiday": "Pesach"
+  },
+  {
+    "date": "2050-04-13",
+    "holiday": "Seventh day of Pesach"
+  },
+  {
+    "date": "2050-04-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2050-05-27",
+    "holiday": "Shavuot"
+  },
+  {
+    "date": "2050-09-17",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2050-09-18",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2050-09-26",
+    "holiday": "Yom Kippur"
+  },
+  {
+    "date": "2050-10-01",
+    "holiday": "Sukkot"
+  },
+  {
+    "date": "2050-10-08",
+    "holiday": "Simchat Torah / Shemini Atzeret"
+  }
+]

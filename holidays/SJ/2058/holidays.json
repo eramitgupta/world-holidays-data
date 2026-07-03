@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-04-11",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2058-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2058-04-14",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2058-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2058-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2058-05-17",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2058-05-23",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2058-06-02",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2058-06-03",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2058-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2058-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-05-24",
+    "holiday": "Bermuda Day"
+  },
+  {
+    "date": "2016-06-20",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2016-07-28",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2016-07-29",
+    "holiday": "Somers Day"
+  },
+  {
+    "date": "2016-09-05",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2016-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-04-05",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2057-04-17",
+    "holiday": "Women's Rights Day"
+  },
+  {
+    "date": "2057-04-23",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2057-05-31",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2057-06-11",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2057-06-12",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2057-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2057-08-16",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2057-08-17",
+    "holiday": "Independence Day Holiday"
+  },
+  {
+    "date": "2057-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  }
+]

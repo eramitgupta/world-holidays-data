@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2034-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2034-01-12",
+    "holiday": "Vodoun Festival"
+  },
+  {
+    "date": "2034-01-13",
+    "holiday": "Vodoun Festival"
+  },
+  {
+    "date": "2034-03-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2034-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2034-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2034-05-18",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2034-05-29",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2034-05-30",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2034-08-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2034-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2034-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2034-12-12",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2034-12-25",
+    "holiday": "Christmas Day"
+  }
+]

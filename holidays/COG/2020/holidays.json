@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-05-21",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2020-06-01",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2020-06-10",
+    "holiday": "Reconciliation Day"
+  },
+  {
+    "date": "2020-08-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2020-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2020-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  }
+]

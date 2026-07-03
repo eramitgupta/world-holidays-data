@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-01-02",
+    "holiday": "New Year's Day Holiday"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-03-30",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2024-05-09",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2024-07-01",
+    "holiday": "Sir Seretse Khama Day"
+  },
+  {
+    "date": "2024-07-15",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2024-07-16",
+    "holiday": "President's Day Holiday"
+  },
+  {
+    "date": "2024-09-30",
+    "holiday": "Botswana Day"
+  },
+  {
+    "date": "2024-10-01",
+    "holiday": "Botswana Day Holiday"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "Boxing Day"
+  }
+]

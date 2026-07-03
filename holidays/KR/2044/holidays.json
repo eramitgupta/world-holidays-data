@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-01-29",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2044-01-30",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2044-01-31",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2044-02-01",
+    "holiday": "Alternative holiday for Korean New Year"
+  },
+  {
+    "date": "2044-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2044-04-13",
+    "holiday": "National Assembly Election Day"
+  },
+  {
+    "date": "2044-05-05",
+    "holiday": "Buddha's Birthday; Children's Day"
+  },
+  {
+    "date": "2044-05-06",
+    "holiday": "Alternative holiday for Buddha's Birthday; Alternative holiday for Children's Day"
+  },
+  {
+    "date": "2044-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2044-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2044-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2044-10-04",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2044-10-05",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2044-10-06",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2044-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2044-10-10",
+    "holiday": "Alternative holiday for Hangul Day"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Alternative holiday for Christmas Day"
+  }
+]

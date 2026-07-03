@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2033-01-31",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2033-02-01",
+    "holiday": "Day following Independence Day"
+  },
+  {
+    "date": "2033-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2033-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2033-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2033-04-19",
+    "holiday": "Easter Tuesday"
+  },
+  {
+    "date": "2033-05-17",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2033-07-01",
+    "holiday": "RONPHOS Handover"
+  },
+  {
+    "date": "2033-08-19",
+    "holiday": "Ibumin Earoeni Day"
+  },
+  {
+    "date": "2033-09-25",
+    "holiday": "Sir Hammer DeRoburt Day"
+  },
+  {
+    "date": "2033-09-26",
+    "holiday": "Sir Hammer DeRoburt Day (observed)"
+  },
+  {
+    "date": "2033-10-26",
+    "holiday": "Angam Day"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2033-12-26",
+    "holiday": "Day following Christmas"
+  },
+  {
+    "date": "2033-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

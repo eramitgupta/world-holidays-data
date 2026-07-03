@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-03-27",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2032-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2032-05-17",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2032-06-18",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2032-07-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-26",
+    "holiday": "National Day of Thanksgiving"
+  },
+  {
+    "date": "2032-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2032-12-28",
+    "holiday": "National Day of Thanksgiving (observed)"
+  },
+  {
+    "date": "2032-12-31",
+    "holiday": "New Year's Day (observed)"
+  }
+]

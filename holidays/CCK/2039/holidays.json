@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2039-01-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2039-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2039-04-06",
+    "holiday": "Act of Self Determination Day; Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2039-06-13",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2039-10-19",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Boxing Day; Christmas Day (observed); Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2039-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

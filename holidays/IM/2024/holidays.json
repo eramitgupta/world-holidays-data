@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-05-06",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2024-05-27",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2024-06-07",
+    "holiday": "TT Bank Holiday"
+  },
+  {
+    "date": "2024-07-05",
+    "holiday": "Tynwald Day"
+  },
+  {
+    "date": "2024-08-26",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "Boxing Day"
+  }
+]

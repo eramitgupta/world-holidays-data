@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-01-22",
+    "holiday": "Plurinational State Foundation Day"
+  },
+  {
+    "date": "2040-01-23",
+    "holiday": "Plurinational State Foundation Day (observed)"
+  },
+  {
+    "date": "2040-02-13",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2040-02-14",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2040-05-31",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2040-06-21",
+    "holiday": "Aymara New Year"
+  },
+  {
+    "date": "2040-08-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-10-17",
+    "holiday": "National Dignity Day"
+  },
+  {
+    "date": "2040-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  }
+]

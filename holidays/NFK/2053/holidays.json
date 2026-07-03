@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2053-01-27",
+    "holiday": "Australia Day (observed)"
+  },
+  {
+    "date": "2053-03-06",
+    "holiday": "Foundation Day"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2053-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2053-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2053-06-08",
+    "holiday": "Bounty Day"
+  },
+  {
+    "date": "2053-06-09",
+    "holiday": "Bounty Day (observed)"
+  },
+  {
+    "date": "2053-06-16",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2053-10-13",
+    "holiday": "Show Day"
+  },
+  {
+    "date": "2053-11-26",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2053-12-26",
+    "holiday": "Boxing Day"
+  }
+]

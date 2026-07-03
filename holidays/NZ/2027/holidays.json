@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2027-01-04",
+    "holiday": "Day after New Year's Day (observed)"
+  },
+  {
+    "date": "2027-02-06",
+    "holiday": "Waitangi Day"
+  },
+  {
+    "date": "2027-02-08",
+    "holiday": "Waitangi Day (observed)"
+  },
+  {
+    "date": "2027-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2027-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2027-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2027-04-26",
+    "holiday": "Anzac Day (observed)"
+  },
+  {
+    "date": "2027-06-07",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2027-06-25",
+    "holiday": "Matariki"
+  },
+  {
+    "date": "2027-10-25",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2027-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2027-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2027-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

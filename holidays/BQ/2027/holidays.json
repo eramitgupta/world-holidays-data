@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2027-03-28",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2027-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2027-04-27",
+    "holiday": "King's Day"
+  },
+  {
+    "date": "2027-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2027-05-06",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2027-05-16",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2027-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

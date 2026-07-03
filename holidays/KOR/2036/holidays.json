@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-01-27",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2036-01-28",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2036-01-29",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2036-01-30",
+    "holiday": "Alternative holiday for Korean New Year"
+  },
+  {
+    "date": "2036-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2036-03-03",
+    "holiday": "Alternative holiday for Independence Movement Day"
+  },
+  {
+    "date": "2036-04-09",
+    "holiday": "National Assembly Election Day"
+  },
+  {
+    "date": "2036-05-03",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2036-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2036-05-06",
+    "holiday": "Alternative holiday for Buddha's Birthday"
+  },
+  {
+    "date": "2036-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2036-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2036-10-03",
+    "holiday": "National Foundation Day; The day preceding Chuseok"
+  },
+  {
+    "date": "2036-10-04",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2036-10-05",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2036-10-06",
+    "holiday": "Alternative holiday for Chuseok"
+  },
+  {
+    "date": "2036-10-07",
+    "holiday": "Alternative holiday for Chuseok"
+  },
+  {
+    "date": "2036-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  }
+]

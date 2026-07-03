@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-01-14",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2032-02-11",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2032-03-22",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2032-03-25",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-03-27",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2032-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2032-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2032-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2032-08-30",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2032-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2032-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2032-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2032-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

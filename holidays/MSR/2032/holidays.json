@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-03-17",
+    "holiday": "Saint Patrick's Day"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2032-05-03",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2032-05-17",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2032-06-14",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2032-07-14",
+    "holiday": "Day of Prayer and Thanksgiving"
+  },
+  {
+    "date": "2032-08-02",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2032-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2032-12-28",
+    "holiday": "Boxing Day (observed)"
+  },
+  {
+    "date": "2032-12-31",
+    "holiday": "Festival Day"
+  }
+]

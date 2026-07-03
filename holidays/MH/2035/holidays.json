@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-03-01",
+    "holiday": "Nuclear Victims Remembrance Day"
+  },
+  {
+    "date": "2035-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2035-05-01",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2035-07-06",
+    "holiday": "Fisherman's Day"
+  },
+  {
+    "date": "2035-09-07",
+    "holiday": "Dri-jerbal Day"
+  },
+  {
+    "date": "2035-09-28",
+    "holiday": "Manit Day"
+  },
+  {
+    "date": "2035-11-17",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2035-12-07",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2035-12-25",
+    "holiday": "Christmas Day"
+  }
+]

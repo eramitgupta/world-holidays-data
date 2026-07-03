@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-03-01",
+    "holiday": "Nuclear Victims Remembrance Day"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-05-01",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2059-07-04",
+    "holiday": "Fisherman's Day"
+  },
+  {
+    "date": "2059-09-05",
+    "holiday": "Dri-jerbal Day"
+  },
+  {
+    "date": "2059-09-26",
+    "holiday": "Manit Day"
+  },
+  {
+    "date": "2059-11-17",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2059-12-05",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  }
+]

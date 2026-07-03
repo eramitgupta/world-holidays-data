@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-02-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2042-05-26",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2042-06-05",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2042-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2042-08-11",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2042-08-12",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2042-10-19",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2042-10-20",
+    "holiday": "National Heroes' Day (observed)"
+  },
+  {
+    "date": "2042-10-25",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Boxing Day"
+  }
+]

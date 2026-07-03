@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-03",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2015-02-18",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-05-25",
+    "holiday": "Africa Liberation Day"
+  },
+  {
+    "date": "2015-07-14",
+    "holiday": "Laylat al-Qadr"
+  },
+  {
+    "date": "2015-07-18",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2015-07-22",
+    "holiday": "July 22 Revolution Day"
+  },
+  {
+    "date": "2015-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2015-09-24",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2015-10-24",
+    "holiday": "Ashura"
+  },
+  {
+    "date": "2015-12-23",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Boxing Day"
+  }
+]

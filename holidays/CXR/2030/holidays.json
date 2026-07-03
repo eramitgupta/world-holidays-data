@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2030-01-28",
+    "holiday": "Australia Day (observed)"
+  },
+  {
+    "date": "2030-02-03",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "Chinese New Year; Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2030-02-05",
+    "holiday": "Chinese New Year (observed)"
+  },
+  {
+    "date": "2030-03-18",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2030-04-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2030-04-15",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2030-10-07",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2030-12-26",
+    "holiday": "Boxing Day"
+  }
+]

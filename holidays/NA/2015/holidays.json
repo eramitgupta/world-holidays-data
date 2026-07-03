@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-03-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2015-05-04",
+    "holiday": "Cassinga Day"
+  },
+  {
+    "date": "2015-05-14",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2015-05-25",
+    "holiday": "Africa Day"
+  },
+  {
+    "date": "2015-08-26",
+    "holiday": "Heroes' Day"
+  },
+  {
+    "date": "2015-09-10",
+    "holiday": "Day of the Namibian Women and International Human Rights Day"
+  },
+  {
+    "date": "2015-11-27",
+    "holiday": "Regional Election Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Family Day"
+  }
+]

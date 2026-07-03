@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2026-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2026-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2026-03-09",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2026-03-20",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2026-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2026-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2026-05-27",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2026-08-11",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2026-08-25",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2026-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2026-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2026-12-01",
+    "holiday": "Freedom and Democracy Day"
+  },
+  {
+    "date": "2026-12-25",
+    "holiday": "Christmas Day"
+  }
+]

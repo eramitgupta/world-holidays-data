@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-03-04",
+    "holiday": "Patriots Day"
+  },
+  {
+    "date": "2019-04-18",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-21",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2019-05-14",
+    "holiday": "National Holiday"
+  },
+  {
+    "date": "2019-05-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-06-17",
+    "holiday": "Chaco Armistice Day"
+  },
+  {
+    "date": "2019-08-15",
+    "holiday": "Asuncion Foundation's Day"
+  },
+  {
+    "date": "2019-09-29",
+    "holiday": "Boqueron Battle Day"
+  },
+  {
+    "date": "2019-12-08",
+    "holiday": "Caacupe Virgin Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  }
+]

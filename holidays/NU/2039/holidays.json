@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-02",
+    "holiday": "Takai Commission Holiday"
+  },
+  {
+    "date": "2039-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2039-01-04",
+    "holiday": "Takai Commission Holiday (observed)"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2039-06-06",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2039-10-19",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2039-10-20",
+    "holiday": "Constitution Day Holiday"
+  },
+  {
+    "date": "2039-10-24",
+    "holiday": "Peniamina Gospel Day"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2039-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

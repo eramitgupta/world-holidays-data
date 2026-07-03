@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2033-01-30",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2033-01-31",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2033-02-01",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2033-02-02",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2033-02-03",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2033-02-04",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2033-04-09",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2033-04-11",
+    "holiday": "Hung Kings' Commemoration Day (observed)"
+  },
+  {
+    "date": "2033-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2033-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2033-05-02",
+    "holiday": "Liberation Day/Reunification Day (observed)"
+  },
+  {
+    "date": "2033-05-03",
+    "holiday": "International Labor Day (observed)"
+  },
+  {
+    "date": "2033-09-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2033-09-02",
+    "holiday": "National Day"
+  }
+]

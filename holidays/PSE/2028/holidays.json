@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2028-02-26",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2028-02-27",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2028-02-28",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2028-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2028-04-16",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2028-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2028-05-05",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2028-05-06",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2028-05-07",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2028-05-08",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2028-05-25",
+    "holiday": "Hijri New Year"
+  },
+  {
+    "date": "2028-08-03",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2028-11-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2028-12-14",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

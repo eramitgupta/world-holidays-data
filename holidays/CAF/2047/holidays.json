@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-03-29",
+    "holiday": "Barthélemy Boganda Day"
+  },
+  {
+    "date": "2047-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2047-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2047-05-23",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2047-06-03",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2047-06-30",
+    "holiday": "General Prayer Day"
+  },
+  {
+    "date": "2047-07-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2047-08-13",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2047-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2047-09-30",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2047-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2047-12-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2032-05-03",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2032-05-31",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2032-06-04",
+    "holiday": "TT Bank Holiday"
+  },
+  {
+    "date": "2032-07-05",
+    "holiday": "Tynwald Day"
+  },
+  {
+    "date": "2032-08-30",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2032-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2032-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2018-03-09",
+    "holiday": "Public holiday"
+  },
+  {
+    "date": "2018-03-12",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-03-31",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2018-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2018-05-25",
+    "holiday": "Africa Freedom Day"
+  },
+  {
+    "date": "2018-07-02",
+    "holiday": "Heroes' Day"
+  },
+  {
+    "date": "2018-07-03",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2018-07-26",
+    "holiday": "Lusaka mayoral and other local government elections"
+  },
+  {
+    "date": "2018-08-06",
+    "holiday": "Farmers' Day"
+  },
+  {
+    "date": "2018-10-18",
+    "holiday": "National Prayer Day"
+  },
+  {
+    "date": "2018-10-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  }
+]

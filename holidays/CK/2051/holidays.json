@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2051-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2051-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2051-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2051-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2051-06-05",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2051-07-07",
+    "holiday": "Day of the House of Ariki"
+  },
+  {
+    "date": "2051-08-04",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2051-10-26",
+    "holiday": "Cook Islands Gospel Day"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2051-12-26",
+    "holiday": "Boxing Day"
+  }
+]

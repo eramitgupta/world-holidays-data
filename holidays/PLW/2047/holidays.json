@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-03-15",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2047-05-05",
+    "holiday": "Senior Citizens Day"
+  },
+  {
+    "date": "2047-05-06",
+    "holiday": "Senior Citizens Day (observed)"
+  },
+  {
+    "date": "2047-05-31",
+    "holiday": "President's Day (observed)"
+  },
+  {
+    "date": "2047-06-01",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2047-07-09",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2047-09-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2047-10-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2047-10-24",
+    "holiday": "United Nations Day"
+  },
+  {
+    "date": "2047-11-22",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2047-11-28",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Christmas Day"
+  }
+]

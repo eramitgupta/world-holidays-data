@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-03-15",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2054-03-16",
+    "holiday": "Youth Day (observed)"
+  },
+  {
+    "date": "2054-05-05",
+    "holiday": "Senior Citizens Day"
+  },
+  {
+    "date": "2054-06-01",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2054-07-09",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2054-09-07",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2054-10-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2054-10-23",
+    "holiday": "United Nations Day (observed)"
+  },
+  {
+    "date": "2054-10-24",
+    "holiday": "United Nations Day"
+  },
+  {
+    "date": "2054-11-26",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2054-11-27",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Christmas Day"
+  }
+]

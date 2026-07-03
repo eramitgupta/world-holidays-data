@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-15",
+    "holiday": "John Chilembwe Day"
+  },
+  {
+    "date": "2038-03-03",
+    "holiday": "Martyrs Day"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2038-05-03",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2038-05-14",
+    "holiday": "Kamuzu Day"
+  },
+  {
+    "date": "2038-07-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2038-10-15",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2038-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2038-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

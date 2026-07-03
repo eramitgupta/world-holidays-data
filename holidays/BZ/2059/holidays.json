@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-01-15",
+    "holiday": "George Price Day"
+  },
+  {
+    "date": "2059-03-10",
+    "holiday": "National Heroes and Benefactors Day (observed)"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-03-29",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2059-03-31",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2059-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2059-08-04",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2059-09-10",
+    "holiday": "Saint George's Caye Day"
+  },
+  {
+    "date": "2059-09-22",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2059-10-13",
+    "holiday": "Indigenous Peoples' Resistance Day (observed)"
+  },
+  {
+    "date": "2059-11-19",
+    "holiday": "Garifuna Settlement Day"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2059-12-26",
+    "holiday": "Boxing Day"
+  }
+]

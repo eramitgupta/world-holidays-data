@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-01-21",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2019-02-18",
+    "holiday": "Washington's Birthday"
+  },
+  {
+    "date": "2019-05-27",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2019-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-09-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-10-14",
+    "holiday": "Columbus Day"
+  },
+  {
+    "date": "2019-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2019-11-28",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  }
+]

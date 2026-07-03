@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-22",
+    "holiday": "Plurinational State Foundation Day"
+  },
+  {
+    "date": "2020-02-24",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2020-02-25",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-06-11",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2020-06-21",
+    "holiday": "Aymara New Year"
+  },
+  {
+    "date": "2020-06-22",
+    "holiday": "Aymara New Year (observed)"
+  },
+  {
+    "date": "2020-08-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-10-17",
+    "holiday": "National Dignity Day"
+  },
+  {
+    "date": "2020-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-02-21",
+    "holiday": "Father Lini Day"
+  },
+  {
+    "date": "2048-03-05",
+    "holiday": "Custom Chief's Day"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2048-05-14",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2048-07-24",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2048-07-30",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2048-10-05",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2048-11-29",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2048-11-30",
+    "holiday": "Unity Day (observed)"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "Family Day"
+  }
+]

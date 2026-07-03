@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2026-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2026-02-16",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2026-02-17",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2026-02-18",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2026-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2026-03-02",
+    "holiday": "Alternative holiday for Independence Movement Day"
+  },
+  {
+    "date": "2026-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2026-05-24",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2026-05-25",
+    "holiday": "Alternative holiday for Buddha's Birthday"
+  },
+  {
+    "date": "2026-06-03",
+    "holiday": "Local Election Day"
+  },
+  {
+    "date": "2026-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2026-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2026-08-17",
+    "holiday": "Alternative holiday for Liberation Day"
+  },
+  {
+    "date": "2026-09-24",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2026-09-25",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2026-09-26",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2026-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2026-10-05",
+    "holiday": "Alternative holiday for National Foundation Day"
+  },
+  {
+    "date": "2026-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2026-12-25",
+    "holiday": "Christmas Day"
+  }
+]

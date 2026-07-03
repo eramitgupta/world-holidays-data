@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2027-05-03",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2027-05-31",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2027-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2027-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2027-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

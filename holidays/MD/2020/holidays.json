@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-07",
+    "holiday": "Christmas Day (by old style)"
+  },
+  {
+    "date": "2020-01-08",
+    "holiday": "Christmas Day (by old style)"
+  },
+  {
+    "date": "2020-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2020-04-19",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2020-04-20",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2020-04-27",
+    "holiday": "Day of Rejoicing"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "International Workers' Solidarity Day"
+  },
+  {
+    "date": "2020-05-09",
+    "holiday": "Europe Day; Victory Day and Commemoration of the heroes fallen for Independence of Fatherland"
+  },
+  {
+    "date": "2020-06-01",
+    "holiday": "International Children's Day"
+  },
+  {
+    "date": "2020-08-27",
+    "holiday": "Republic of Moldova Independence Day"
+  },
+  {
+    "date": "2020-08-31",
+    "holiday": "National Language Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day (by new style)"
+  }
+]

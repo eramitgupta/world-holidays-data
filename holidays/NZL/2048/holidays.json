@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2048-02-06",
+    "holiday": "Waitangi Day"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2048-04-27",
+    "holiday": "Anzac Day (observed)"
+  },
+  {
+    "date": "2048-06-01",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2048-07-03",
+    "holiday": "Matariki"
+  },
+  {
+    "date": "2048-10-26",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2048-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

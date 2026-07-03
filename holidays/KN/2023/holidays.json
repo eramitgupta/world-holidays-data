@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "Carnival Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "Carnival Day - Last Lap"
+  },
+  {
+    "date": "2023-01-03",
+    "holiday": "Carnival Day (observed)"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2023-05-29",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2023-07-04",
+    "holiday": "50th Anniversary of the Establishment of the Caribbean Community (CARICOM)"
+  },
+  {
+    "date": "2023-08-07",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2023-08-08",
+    "holiday": "Culturama Day - Last Lap"
+  },
+  {
+    "date": "2023-09-16",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2023-09-19",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2023-12-26",
+    "holiday": "Boxing Day"
+  }
+]

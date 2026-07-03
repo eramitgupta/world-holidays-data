@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-24",
+    "holiday": "Unification of the Romanian Principalities Day"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Easter; Labor Day"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2016-06-19",
+    "holiday": "Pentecost"
+  },
+  {
+    "date": "2016-06-20",
+    "holiday": "Pentecost"
+  },
+  {
+    "date": "2016-08-15",
+    "holiday": "Dormition of the Mother of God"
+  },
+  {
+    "date": "2016-11-30",
+    "holiday": "Saint Andrew's Day"
+  },
+  {
+    "date": "2016-12-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Christmas Day"
+  }
+]

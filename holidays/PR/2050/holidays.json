@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2050-01-17",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2050-02-21",
+    "holiday": "Presidents' Day"
+  },
+  {
+    "date": "2050-03-22",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-05-30",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2050-06-19",
+    "holiday": "Juneteenth National Independence Day"
+  },
+  {
+    "date": "2050-06-20",
+    "holiday": "Juneteenth National Independence Day (observed)"
+  },
+  {
+    "date": "2050-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2050-07-25",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2050-09-05",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2050-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2050-11-19",
+    "holiday": "Discovery Day"
+  },
+  {
+    "date": "2050-11-24",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

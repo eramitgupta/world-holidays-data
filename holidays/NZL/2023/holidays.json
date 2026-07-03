@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2023-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2023-02-06",
+    "holiday": "Waitangi Day"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2023-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2023-06-05",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2023-07-14",
+    "holiday": "Matariki"
+  },
+  {
+    "date": "2023-10-23",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2023-12-26",
+    "holiday": "Boxing Day"
+  }
+]

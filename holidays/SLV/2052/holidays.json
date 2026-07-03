@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-04-18",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2052-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2052-04-20",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2052-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2052-05-10",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2052-06-17",
+    "holiday": "Father's Day"
+  },
+  {
+    "date": "2052-08-06",
+    "holiday": "Celebrations of San Salvador"
+  },
+  {
+    "date": "2052-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2052-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  }
+]

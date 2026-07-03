@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-03-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2027-03-22",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2027-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2027-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2027-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2027-05-04",
+    "holiday": "Cassinga Day"
+  },
+  {
+    "date": "2027-05-06",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2027-05-25",
+    "holiday": "Africa Day"
+  },
+  {
+    "date": "2027-05-28",
+    "holiday": "Genocide Remembrance Day"
+  },
+  {
+    "date": "2027-08-26",
+    "holiday": "Heroes' Day"
+  },
+  {
+    "date": "2027-09-10",
+    "holiday": "Day of the Namibian Women and International Human Rights Day"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2027-12-26",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2027-12-27",
+    "holiday": "Family Day (observed)"
+  }
+]

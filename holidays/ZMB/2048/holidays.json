@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2048-03-09",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2048-03-12",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-04-04",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-04-28",
+    "holiday": "Kenneth Kaunda Day"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2048-05-25",
+    "holiday": "Africa Freedom Day"
+  },
+  {
+    "date": "2048-07-06",
+    "holiday": "Heroes' Day"
+  },
+  {
+    "date": "2048-07-07",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2048-08-03",
+    "holiday": "Farmers' Day"
+  },
+  {
+    "date": "2048-10-18",
+    "holiday": "National Prayer Day"
+  },
+  {
+    "date": "2048-10-19",
+    "holiday": "National Prayer Day (observed)"
+  },
+  {
+    "date": "2048-10-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  }
+]

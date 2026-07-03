@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-02-13",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2056-04-16",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2056-06-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2056-06-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2056-07-01",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2056-07-14",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2056-07-23",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2056-09-22",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

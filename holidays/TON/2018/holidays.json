@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2018-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2018-06-04",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2018-07-04",
+    "holiday": "Birthday of the Reigning Sovereign of Tonga"
+  },
+  {
+    "date": "2018-09-17",
+    "holiday": "Birthday of the Heir to the Crown of Tonga"
+  },
+  {
+    "date": "2018-11-05",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2018-12-03",
+    "holiday": "Anniversary of the Coronation of HM King George Tupou I (observed)"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-12-26",
+    "holiday": "Boxing Day"
+  }
+]

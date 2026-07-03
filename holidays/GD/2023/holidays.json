@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2023-02-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2023-05-29",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2023-06-08",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2023-07-04",
+    "holiday": "CARICOM's 50th Anniversary"
+  },
+  {
+    "date": "2023-08-07",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2023-08-14",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2023-08-15",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2023-10-19",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2023-10-25",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2023-12-26",
+    "holiday": "Boxing Day"
+  }
+]

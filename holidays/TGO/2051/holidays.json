@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2051-04-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2051-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2051-05-11",
+    "holiday": "Ascension Day; First Day of Ramadan (estimated)"
+  },
+  {
+    "date": "2051-05-22",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2051-06-10",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2051-06-21",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2051-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2051-08-17",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2051-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2039-04-06",
+    "holiday": "Prophet Mohammed's Birthday (estimated)"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-04-09",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-05-16",
+    "holiday": "Girmit Day"
+  },
+  {
+    "date": "2039-05-27",
+    "holiday": "Ratu Sir Lala Sukuna Day"
+  },
+  {
+    "date": "2039-10-10",
+    "holiday": "Fiji Day"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2039-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

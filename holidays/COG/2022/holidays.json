@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-05-26",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2022-06-06",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2022-06-10",
+    "holiday": "Reconciliation Day"
+  },
+  {
+    "date": "2022-08-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2022-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2022-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  }
+]

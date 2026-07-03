@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2056-05-29",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-26",
+    "holiday": "Boxing Day"
+  }
+]

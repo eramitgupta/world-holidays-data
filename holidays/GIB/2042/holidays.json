@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-02-17",
+    "holiday": "Winter Midterm Bank Holiday"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2042-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2042-05-26",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2042-06-16",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2042-08-25",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2042-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Boxing Day"
+  }
+]

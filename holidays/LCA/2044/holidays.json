@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-01-02",
+    "holiday": "New Year's Holiday"
+  },
+  {
+    "date": "2044-02-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2044-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2044-06-06",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2044-06-16",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2044-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2044-10-03",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2044-12-13",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2044-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

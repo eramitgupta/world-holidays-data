@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-01-15",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2029-02-19",
+    "holiday": "Washington's Birthday"
+  },
+  {
+    "date": "2029-03-05",
+    "holiday": "Guam Discovery Day"
+  },
+  {
+    "date": "2029-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2029-05-28",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2029-06-19",
+    "holiday": "Juneteenth National Independence Day"
+  },
+  {
+    "date": "2029-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2029-07-21",
+    "holiday": "Liberation Day (Guam)"
+  },
+  {
+    "date": "2029-09-03",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2029-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2029-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2029-11-12",
+    "holiday": "Veterans Day (observed)"
+  },
+  {
+    "date": "2029-11-22",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2029-12-08",
+    "holiday": "Lady of Camarin Day"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-23",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2020-01-24",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2020-01-25",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2020-01-26",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2020-01-27",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2020-01-28",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2020-01-29",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2020-04-02",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2020-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2020-09-02",
+    "holiday": "National Day"
+  }
+]

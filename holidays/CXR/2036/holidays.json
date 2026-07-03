@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2036-01-28",
+    "holiday": "Australia Day (observed); Chinese New Year"
+  },
+  {
+    "date": "2036-01-29",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2036-02-07",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2036-03-17",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2036-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2036-10-06",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2036-11-19",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2036-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-04-01",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2021-07-19",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2021-09-14",
+    "holiday": "Battle of San Jacinto Day"
+  },
+  {
+    "date": "2021-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  }
+]

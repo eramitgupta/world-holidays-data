@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2023-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2023-04-06",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2023-05-25",
+    "holiday": "African Liberation Day"
+  },
+  {
+    "date": "2023-06-05",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2023-06-08",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2023-08-03",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2023-08-15",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2023-10-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2023-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  }
+]

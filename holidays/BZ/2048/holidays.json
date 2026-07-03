@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-01-15",
+    "holiday": "George Price Day"
+  },
+  {
+    "date": "2048-03-09",
+    "holiday": "National Heroes and Benefactors Day"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-04-04",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2048-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2048-09-10",
+    "holiday": "Saint George's Caye Day"
+  },
+  {
+    "date": "2048-09-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-10-12",
+    "holiday": "Indigenous Peoples' Resistance Day"
+  },
+  {
+    "date": "2048-11-19",
+    "holiday": "Garifuna Settlement Day"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "Boxing Day"
+  }
+]

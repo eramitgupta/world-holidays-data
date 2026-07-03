@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-31",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2033-02-01",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2033-02-02",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2033-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2033-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2033-04-16",
+    "holiday": "The day following Good Friday"
+  },
+  {
+    "date": "2033-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2033-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2033-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2033-05-06",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2033-06-01",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2033-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2033-09-09",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2033-10-01",
+    "holiday": "Double Ninth Festival; National Day"
+  },
+  {
+    "date": "2033-10-03",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2033-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  },
+  {
+    "date": "2033-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

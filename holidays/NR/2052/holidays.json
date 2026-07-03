@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-01-31",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2052-02-01",
+    "holiday": "Day following Independence Day"
+  },
+  {
+    "date": "2052-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2052-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2052-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2052-04-23",
+    "holiday": "Easter Tuesday"
+  },
+  {
+    "date": "2052-05-17",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2052-07-01",
+    "holiday": "RONPHOS Handover"
+  },
+  {
+    "date": "2052-08-19",
+    "holiday": "Ibumin Earoeni Day"
+  },
+  {
+    "date": "2052-09-25",
+    "holiday": "Sir Hammer DeRoburt Day"
+  },
+  {
+    "date": "2052-10-26",
+    "holiday": "Angam Day"
+  },
+  {
+    "date": "2052-10-28",
+    "holiday": "Angam Day (observed)"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2052-12-26",
+    "holiday": "Day following Christmas"
+  }
+]

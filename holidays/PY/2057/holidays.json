@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-03-01",
+    "holiday": "Patriots Day"
+  },
+  {
+    "date": "2057-04-19",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-04-22",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2057-05-14",
+    "holiday": "National Holiday"
+  },
+  {
+    "date": "2057-05-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2057-06-12",
+    "holiday": "Chaco Armistice Day"
+  },
+  {
+    "date": "2057-08-15",
+    "holiday": "Asuncion Foundation's Day"
+  },
+  {
+    "date": "2057-09-29",
+    "holiday": "Boqueron Battle Day"
+  },
+  {
+    "date": "2057-12-08",
+    "holiday": "Caacupe Virgin Day"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  }
+]

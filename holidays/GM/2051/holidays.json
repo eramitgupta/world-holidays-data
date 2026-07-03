@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2051-02-18",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2051-02-20",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2051-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2051-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2051-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2051-05-25",
+    "holiday": "Africa Liberation Day"
+  },
+  {
+    "date": "2051-06-06",
+    "holiday": "Laylat al-Qadr (estimated)"
+  },
+  {
+    "date": "2051-06-10",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2051-06-11",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2051-06-12",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2051-07-22",
+    "holiday": "July 22 Revolution Day"
+  },
+  {
+    "date": "2051-07-24",
+    "holiday": "July 22 Revolution Day (observed)"
+  },
+  {
+    "date": "2051-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2051-08-17",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2051-08-18",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2051-09-15",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2051-11-16",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2051-12-26",
+    "holiday": "Boxing Day"
+  }
+]

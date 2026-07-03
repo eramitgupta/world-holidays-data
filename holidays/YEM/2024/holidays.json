@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2024-04-08",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-04-09",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-04-10",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-04-11",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-04-12",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-04-14",
+    "holiday": "Eid al-Fitr (observed)"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2024-05-22",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2024-06-15",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-06-16",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-06-17",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-06-18",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-06-19",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-07-07",
+    "holiday": "Hijri New Year"
+  },
+  {
+    "date": "2024-09-26",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2024-10-14",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2024-11-30",
+    "holiday": "Independence Day"
+  }
+]

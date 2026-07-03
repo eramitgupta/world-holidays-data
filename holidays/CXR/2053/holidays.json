@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2053-01-27",
+    "holiday": "Australia Day (observed)"
+  },
+  {
+    "date": "2053-02-19",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2053-02-20",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2053-03-17",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2053-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2053-05-19",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2053-07-26",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2053-07-28",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2053-10-06",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2053-12-26",
+    "holiday": "Boxing Day"
+  }
+]

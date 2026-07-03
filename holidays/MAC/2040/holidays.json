@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-02-12",
+    "holiday": "Chinese New Year's Day"
+  },
+  {
+    "date": "2040-02-13",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2040-02-14",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2040-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2040-09-21",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2040-10-01",
+    "holiday": "National Day of the People's Republic of China"
+  },
+  {
+    "date": "2040-10-14",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2040-12-20",
+    "holiday": "Macao S.A.R. Establishment Day"
+  }
+]

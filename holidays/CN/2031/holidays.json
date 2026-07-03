@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-22",
+    "holiday": "Chinese New Year's Eve"
+  },
+  {
+    "date": "2031-01-23",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2031-01-24",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2031-01-25",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2031-01-27",
+    "holiday": "Chinese New Year (Spring Festival) (observed)"
+  },
+  {
+    "date": "2031-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2031-04-07",
+    "holiday": "Tomb-Sweeping Day (observed)"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2031-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2031-06-24",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2031-10-01",
+    "holiday": "Mid-Autumn Festival; National Day"
+  },
+  {
+    "date": "2031-10-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2031-10-03",
+    "holiday": "National Day"
+  }
+]

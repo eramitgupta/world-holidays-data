@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2016-05-05",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2016-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2016-07-07",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2016-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2016-09-13",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2016-12-12",
+    "holiday": "Mawlid"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

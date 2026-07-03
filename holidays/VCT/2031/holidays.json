@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-03-14",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "National Workers' Day"
+  },
+  {
+    "date": "2031-05-21",
+    "holiday": "National Spiritual Baptist Day"
+  },
+  {
+    "date": "2031-06-02",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2031-07-07",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2031-07-08",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2031-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2031-10-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2031-12-26",
+    "holiday": "Boxing Day"
+  }
+]

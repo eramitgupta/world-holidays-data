@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-01-25",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2047-01-26",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2047-01-27",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2047-01-28",
+    "holiday": "Alternative holiday for Korean New Year"
+  },
+  {
+    "date": "2047-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2047-05-02",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2047-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2047-05-06",
+    "holiday": "Alternative holiday for Children's Day"
+  },
+  {
+    "date": "2047-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2047-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2047-10-03",
+    "holiday": "National Foundation Day; The day preceding Chuseok"
+  },
+  {
+    "date": "2047-10-04",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2047-10-05",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2047-10-07",
+    "holiday": "Alternative holiday for Chuseok"
+  },
+  {
+    "date": "2047-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-01-27",
+    "holiday": "Chinese New Year's Eve"
+  },
+  {
+    "date": "2036-01-28",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2036-01-29",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2036-01-30",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2036-01-31",
+    "holiday": "Chinese New Year's Eve (observed)"
+  },
+  {
+    "date": "2036-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2036-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2036-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2036-05-30",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2036-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2036-10-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2036-10-03",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2036-10-04",
+    "holiday": "Mid-Autumn Festival"
+  },
+  {
+    "date": "2036-10-06",
+    "holiday": "Mid-Autumn Festival (observed)"
+  }
+]

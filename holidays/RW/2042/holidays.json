@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2042-02-01",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2042-02-03",
+    "holiday": "National Heroes' Day (observed)"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-07",
+    "holiday": "Easter Monday; Memorial Day of Genocide perpetrated against the Tutsi in 1994"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2042-07-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2042-07-04",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2042-08-01",
+    "holiday": "Umuganura Day"
+  },
+  {
+    "date": "2042-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2042-09-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2042-11-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2042-11-24",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Boxing Day"
+  }
+]

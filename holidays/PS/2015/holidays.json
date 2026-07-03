@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-03",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2015-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2015-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2015-04-05",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2015-04-12",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-05-16",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2015-07-17",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2015-07-18",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2015-07-19",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2015-09-23",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2015-09-24",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2015-09-25",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2015-09-26",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2015-10-14",
+    "holiday": "Hijri New Year"
+  },
+  {
+    "date": "2015-11-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-12-23",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

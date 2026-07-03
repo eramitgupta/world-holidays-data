@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-02-06",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2051-03-20",
+    "holiday": "Benito Juárez's birthday"
+  },
+  {
+    "date": "2051-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2051-09-16",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2051-11-20",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  }
+]

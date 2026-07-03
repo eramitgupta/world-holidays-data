@@ -1,0 +1,266 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-01-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2059-01-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-01-19",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-01-26",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-02-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-02-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-02-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-02-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-03-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-03-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-03-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-03-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-03-30",
+    "holiday": "Easter Sunday; Sunday"
+  },
+  {
+    "date": "2059-03-31",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2059-04-06",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-04-13",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-04-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-04-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2059-05-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-05-08",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2059-05-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-05-18",
+    "holiday": "Sunday; Whit Sunday"
+  },
+  {
+    "date": "2059-05-25",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-06-01",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-06-06",
+    "holiday": "National Day of Sweden"
+  },
+  {
+    "date": "2059-06-08",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-06-15",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-06-20",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2059-06-21",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2059-06-22",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-06-29",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-07-06",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-07-13",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-07-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-07-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-08-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-08-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-08-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-08-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-08-31",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-09-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-09-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-09-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-09-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-10-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-10-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-10-19",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-10-26",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2059-11-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-11-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-11-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-11-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-11-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-12-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-12-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-12-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2059-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2059-12-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2059-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

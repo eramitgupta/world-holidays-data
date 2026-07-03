@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-02-21",
+    "holiday": "Father Lini Day"
+  },
+  {
+    "date": "2021-02-22",
+    "holiday": "Father Lini Day (observed)"
+  },
+  {
+    "date": "2021-03-05",
+    "holiday": "Custom Chief's Day"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2021-05-13",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2021-07-24",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2021-07-30",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2021-08-16",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2021-10-05",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2021-11-29",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Family Day (observed)"
+  }
+]

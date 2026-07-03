@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-05",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2015-01-21",
+    "holiday": "Lady of Altagracia"
+  },
+  {
+    "date": "2015-01-26",
+    "holiday": "Juan Pablo Duarte Day"
+  },
+  {
+    "date": "2015-02-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-05-04",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-06-04",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2015-08-16",
+    "holiday": "Restoration Day"
+  },
+  {
+    "date": "2015-09-24",
+    "holiday": "Our Lady of Mercedes Day"
+  },
+  {
+    "date": "2015-11-09",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

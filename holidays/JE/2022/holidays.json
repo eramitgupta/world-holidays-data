@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-03",
+    "holiday": "New Year's Day (substitute day)"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Early May Bank Holiday"
+  },
+  {
+    "date": "2022-05-09",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2022-06-02",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2022-06-03",
+    "holiday": "Queen's Platinum Jubilee"
+  },
+  {
+    "date": "2022-08-29",
+    "holiday": "Summer Bank Holiday"
+  },
+  {
+    "date": "2022-09-19",
+    "holiday": "Funeral of Her Majesty Queen Elizabeth II"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Christmas Day (substitute day)"
+  }
+]

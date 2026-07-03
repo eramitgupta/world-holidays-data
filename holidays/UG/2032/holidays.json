@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-01-14",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2032-01-26",
+    "holiday": "NRM Liberation Day"
+  },
+  {
+    "date": "2032-02-16",
+    "holiday": "Archbishop Janani Luwum Day"
+  },
+  {
+    "date": "2032-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2032-03-22",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2032-06-03",
+    "holiday": "Uganda Martyrs' Day"
+  },
+  {
+    "date": "2032-06-09",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2032-10-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-26",
+    "holiday": "Boxing Day"
+  }
+]

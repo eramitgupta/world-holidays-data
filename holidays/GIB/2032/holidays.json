@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-02-16",
+    "holiday": "Winter Midterm Bank Holiday"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2032-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2032-05-03",
+    "holiday": "May Day (observed)"
+  },
+  {
+    "date": "2032-05-31",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2032-06-14",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2032-08-30",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2032-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2032-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2032-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

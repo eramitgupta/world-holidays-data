@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-05-25",
+    "holiday": "Africa Day"
+  },
+  {
+    "date": "2016-07-06",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2016-07-07",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2016-09-11",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2016-09-12",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2016-10-02",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2016-11-28",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-12-11",
+    "holiday": "Mawlid al-Nabi (estimated)"
+  }
+]

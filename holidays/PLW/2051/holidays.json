@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2051-03-15",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2051-05-05",
+    "holiday": "Senior Citizens Day"
+  },
+  {
+    "date": "2051-06-01",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2051-07-09",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2051-07-10",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2051-09-04",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2051-10-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2051-10-02",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2051-10-24",
+    "holiday": "United Nations Day"
+  },
+  {
+    "date": "2051-11-23",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2051-11-24",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  }
+]

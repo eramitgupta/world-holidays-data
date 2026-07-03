@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2020-05-08",
+    "holiday": "May Day Bank Holiday"
+  },
+  {
+    "date": "2020-05-09",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2020-08-31",
+    "holiday": "Summer Bank Holiday"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2020-12-28",
+    "holiday": "Boxing Day (substitute day)"
+  }
+]

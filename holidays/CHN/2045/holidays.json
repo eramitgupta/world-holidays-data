@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2045-02-16",
+    "holiday": "Chinese New Year's Eve"
+  },
+  {
+    "date": "2045-02-17",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2045-02-18",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2045-02-19",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2045-02-20",
+    "holiday": "Chinese New Year (Spring Festival) (observed)"
+  },
+  {
+    "date": "2045-02-21",
+    "holiday": "Chinese New Year (Spring Festival) (observed)"
+  },
+  {
+    "date": "2045-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2045-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2045-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2045-06-19",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2045-09-25",
+    "holiday": "Mid-Autumn Festival"
+  },
+  {
+    "date": "2045-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2045-10-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2045-10-03",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2045-10-04",
+    "holiday": "National Day (observed)"
+  }
+]

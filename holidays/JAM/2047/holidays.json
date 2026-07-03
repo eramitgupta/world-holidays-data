@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-02-27",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2047-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2047-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2047-05-23",
+    "holiday": "National Labour Day"
+  },
+  {
+    "date": "2047-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2047-08-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2047-10-21",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2047-12-26",
+    "holiday": "Boxing Day"
+  }
+]

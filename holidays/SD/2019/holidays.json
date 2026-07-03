@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-01-07",
+    "holiday": "Coptic Christmas"
+  },
+  {
+    "date": "2019-04-28",
+    "holiday": "Coptic Easter"
+  },
+  {
+    "date": "2019-06-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2019-06-05",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2019-06-06",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2019-08-10",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2019-08-11",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2019-08-12",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2019-08-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2019-08-14",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2019-08-31",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2019-11-09",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  }
+]

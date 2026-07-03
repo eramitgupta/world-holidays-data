@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2017-01-13",
+    "holiday": "Thaipusam"
+  },
+  {
+    "date": "2017-01-28",
+    "holiday": "Chinese Spring Festival"
+  },
+  {
+    "date": "2017-02-01",
+    "holiday": "Abolition of Slavery"
+  },
+  {
+    "date": "2017-02-24",
+    "holiday": "Maha Shivaratri"
+  },
+  {
+    "date": "2017-03-12",
+    "holiday": "Independence and Republic Day"
+  },
+  {
+    "date": "2017-03-28",
+    "holiday": "Ugadi"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2017-06-26",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2017-08-25",
+    "holiday": "Ganesh Chaturthi"
+  },
+  {
+    "date": "2017-10-19",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2017-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2017-11-02",
+    "holiday": "Arrival of Indentured Laborers"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  }
+]

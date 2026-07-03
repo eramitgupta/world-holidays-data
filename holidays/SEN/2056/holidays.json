@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2056-04-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2056-04-16",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2056-04-17",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2056-05-11",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2056-05-22",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2056-06-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2056-07-23",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2056-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2056-08-29",
+    "holiday": "Grand Magal of Touba (estimated)"
+  },
+  {
+    "date": "2056-09-22",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2056-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  }
+]

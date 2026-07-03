@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-02-16",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2018-02-17",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2018-02-19",
+    "holiday": "The fourth day of Chinese New Year"
+  },
+  {
+    "date": "2018-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2018-06-18",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2018-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2018-07-02",
+    "holiday": "Hong Kong S.A.R. Establishment Day (observed)"
+  },
+  {
+    "date": "2018-09-25",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2018-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2018-10-17",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  }
+]

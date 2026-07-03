@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2056-02-21",
+    "holiday": "Winter Midterm Bank Holiday"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2056-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2056-05-29",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2056-06-12",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2056-08-28",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2056-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2056-09-11",
+    "holiday": "Gibraltar National Day (observed)"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-26",
+    "holiday": "Boxing Day"
+  }
+]

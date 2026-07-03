@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-11",
+    "holiday": "Coming of Age Day"
+  },
+  {
+    "date": "2016-02-11",
+    "holiday": "Foundation Day"
+  },
+  {
+    "date": "2016-03-20",
+    "holiday": "Vernal Equinox Day"
+  },
+  {
+    "date": "2016-03-21",
+    "holiday": "Substitute Holiday"
+  },
+  {
+    "date": "2016-04-29",
+    "holiday": "Showa Day"
+  },
+  {
+    "date": "2016-05-03",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2016-05-04",
+    "holiday": "Greenery Day"
+  },
+  {
+    "date": "2016-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2016-07-18",
+    "holiday": "Marine Day"
+  },
+  {
+    "date": "2016-08-11",
+    "holiday": "Mountain Day"
+  },
+  {
+    "date": "2016-09-19",
+    "holiday": "Respect for the Aged Day"
+  },
+  {
+    "date": "2016-09-22",
+    "holiday": "Autumnal Equinox Day"
+  },
+  {
+    "date": "2016-10-10",
+    "holiday": "Physical Education Day"
+  },
+  {
+    "date": "2016-11-03",
+    "holiday": "Culture Day"
+  },
+  {
+    "date": "2016-11-23",
+    "holiday": "Labor Thanksgiving Day"
+  },
+  {
+    "date": "2016-12-23",
+    "holiday": "Emperor's Birthday"
+  }
+]

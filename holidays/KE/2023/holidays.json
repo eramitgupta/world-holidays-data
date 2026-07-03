@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2023-04-21",
+    "holiday": "Eid-al-Fitr"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2023-06-01",
+    "holiday": "Madaraka Day"
+  },
+  {
+    "date": "2023-10-10",
+    "holiday": "Utamaduni Day"
+  },
+  {
+    "date": "2023-10-20",
+    "holiday": "Mashujaa Day"
+  },
+  {
+    "date": "2023-11-13",
+    "holiday": "National Tree Growing Day"
+  },
+  {
+    "date": "2023-12-12",
+    "holiday": "Jamhuri Day"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2023-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-07",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-01-08",
+    "holiday": "Day off (substituted from 01/16/2021)"
+  },
+  {
+    "date": "2021-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2021-05-02",
+    "holiday": "Easter Sunday (Pascha)"
+  },
+  {
+    "date": "2021-05-03",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2021-05-04",
+    "holiday": "Easter Sunday (Pascha) (observed)"
+  },
+  {
+    "date": "2021-05-09",
+    "holiday": "Day of Victory over Nazism in World War II (Victory Day)"
+  },
+  {
+    "date": "2021-05-10",
+    "holiday": "Day of Victory over Nazism in World War II (Victory Day) (observed)"
+  },
+  {
+    "date": "2021-06-20",
+    "holiday": "Holy Trinity Day"
+  },
+  {
+    "date": "2021-06-21",
+    "holiday": "Holy Trinity Day (observed)"
+  },
+  {
+    "date": "2021-06-28",
+    "holiday": "Day of the Constitution of Ukraine"
+  },
+  {
+    "date": "2021-08-23",
+    "holiday": "Day off (substituted from 08/28/2021)"
+  },
+  {
+    "date": "2021-08-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-10-14",
+    "holiday": "Day of defenders of Ukraine"
+  },
+  {
+    "date": "2021-10-15",
+    "holiday": "Day off (substituted from 10/23/2021)"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

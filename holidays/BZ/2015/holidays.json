@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-03-09",
+    "holiday": "National Heroes and Benefactors Day"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-04",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2015-05-25",
+    "holiday": "Commonwealth Day (observed)"
+  },
+  {
+    "date": "2015-09-10",
+    "holiday": "Saint George's Caye Day"
+  },
+  {
+    "date": "2015-09-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-10-12",
+    "holiday": "Pan American Day"
+  },
+  {
+    "date": "2015-11-19",
+    "holiday": "Garifuna Settlement Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2015-02-15",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2015-02-16",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2015-02-17",
+    "holiday": "Statehood Day (observed)"
+  },
+  {
+    "date": "2015-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-11",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2015-04-12",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2015-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-11-11",
+    "holiday": "Armistice Day"
+  }
+]

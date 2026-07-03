@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-02-23",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2049-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2049-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2049-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2049-05-05",
+    "holiday": "Arrival Day"
+  },
+  {
+    "date": "2049-05-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2049-07-05",
+    "holiday": "CARICOM Day"
+  },
+  {
+    "date": "2049-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2049-08-02",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2049-09-09",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2049-12-08",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2049-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2049-12-26",
+    "holiday": "Day after Christmas"
+  },
+  {
+    "date": "2049-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2049-12-28",
+    "holiday": "Day after Christmas (observed)"
+  }
+]

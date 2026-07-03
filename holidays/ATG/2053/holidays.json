@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2053-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2053-05-05",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2053-05-26",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2053-08-04",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2053-08-05",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2053-11-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2053-11-03",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2053-12-09",
+    "holiday": "Sir Vere Cornwall Bird Snr. Day"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2053-12-26",
+    "holiday": "Boxing Day"
+  }
+]

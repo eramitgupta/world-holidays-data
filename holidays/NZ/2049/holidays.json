@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2049-01-04",
+    "holiday": "Day after New Year's Day (observed)"
+  },
+  {
+    "date": "2049-02-06",
+    "holiday": "Waitangi Day"
+  },
+  {
+    "date": "2049-02-08",
+    "holiday": "Waitangi Day (observed)"
+  },
+  {
+    "date": "2049-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2049-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2049-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2049-04-26",
+    "holiday": "Anzac Day (observed)"
+  },
+  {
+    "date": "2049-06-07",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2049-06-25",
+    "holiday": "Matariki"
+  },
+  {
+    "date": "2049-10-25",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2049-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2049-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2049-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2049-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

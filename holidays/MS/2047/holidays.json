@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-03-17",
+    "holiday": "Saint Patrick's Day"
+  },
+  {
+    "date": "2047-03-18",
+    "holiday": "Saint Patrick's Day (observed)"
+  },
+  {
+    "date": "2047-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2047-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2047-05-06",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2047-06-03",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2047-06-10",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2047-07-10",
+    "holiday": "Day of Prayer and Thanksgiving"
+  },
+  {
+    "date": "2047-08-05",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2047-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2047-12-31",
+    "holiday": "Festival Day"
+  }
+]

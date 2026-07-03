@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2058-03-25",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2058-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2058-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2058-06-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2058-08-11",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2058-08-12",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2058-08-31",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2058-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2058-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2058-12-01",
+    "holiday": "Freedom and Democracy Day"
+  },
+  {
+    "date": "2058-12-02",
+    "holiday": "Freedom and Democracy Day (observed)"
+  },
+  {
+    "date": "2058-12-25",
+    "holiday": "Christmas Day"
+  }
+]

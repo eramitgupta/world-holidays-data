@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-21",
+    "holiday": "Errol Barrow Day"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2031-04-28",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2031-06-02",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2031-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2031-08-04",
+    "holiday": "Kadooment Day"
+  },
+  {
+    "date": "2031-11-30",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2031-12-01",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2031-12-26",
+    "holiday": "Boxing Day"
+  }
+]

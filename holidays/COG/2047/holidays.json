@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2047-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2047-05-23",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2047-06-03",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2047-06-10",
+    "holiday": "Reconciliation Day"
+  },
+  {
+    "date": "2047-08-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2047-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2047-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Christmas Day"
+  }
+]

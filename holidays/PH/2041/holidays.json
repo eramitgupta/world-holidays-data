@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-02-01",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2041-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2041-04-18",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2041-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2041-04-20",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2041-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2041-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2041-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2041-08-26",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2041-09-26",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2041-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2041-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2041-12-04",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2041-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2041-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2041-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

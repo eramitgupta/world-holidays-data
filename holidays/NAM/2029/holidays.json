@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-03-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2029-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2029-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2029-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2029-05-04",
+    "holiday": "Cassinga Day"
+  },
+  {
+    "date": "2029-05-10",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2029-05-25",
+    "holiday": "Africa Day"
+  },
+  {
+    "date": "2029-05-28",
+    "holiday": "Genocide Remembrance Day"
+  },
+  {
+    "date": "2029-08-26",
+    "holiday": "Heroes' Day"
+  },
+  {
+    "date": "2029-08-27",
+    "holiday": "Heroes' Day (observed)"
+  },
+  {
+    "date": "2029-09-10",
+    "holiday": "Day of the Namibian Women and International Human Rights Day"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2029-12-26",
+    "holiday": "Family Day"
+  }
+]

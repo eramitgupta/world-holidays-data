@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2038-06-03",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2038-06-10",
+    "holiday": "Reconciliation Day"
+  },
+  {
+    "date": "2038-06-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2038-08-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2038-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2038-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  }
+]

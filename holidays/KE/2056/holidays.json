@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2056-04-16",
+    "holiday": "Eid-al-Fitr (estimated)"
+  },
+  {
+    "date": "2056-04-17",
+    "holiday": "Eid-al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2056-06-01",
+    "holiday": "Madaraka Day"
+  },
+  {
+    "date": "2056-10-10",
+    "holiday": "Mazingira Day"
+  },
+  {
+    "date": "2056-10-20",
+    "holiday": "Mashujaa Day"
+  },
+  {
+    "date": "2056-12-12",
+    "holiday": "Jamhuri Day"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-26",
+    "holiday": "Boxing Day"
+  }
+]

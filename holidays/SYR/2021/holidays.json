@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-03-08",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2021-03-21",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2021-04-04",
+    "holiday": "Gregorian Easter Sunday"
+  },
+  {
+    "date": "2021-04-17",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2021-05-02",
+    "holiday": "Julian Easter Sunday"
+  },
+  {
+    "date": "2021-05-06",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2021-05-13",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2021-05-14",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2021-05-15",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2021-07-19",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2021-07-20",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2021-07-21",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2021-07-22",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2021-08-09",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2021-10-06",
+    "holiday": "Tishreen Liberation War Day"
+  },
+  {
+    "date": "2021-10-19",
+    "holiday": "Prophet's Birthday"
+  }
+]

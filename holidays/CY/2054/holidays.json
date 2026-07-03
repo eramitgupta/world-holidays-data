@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2054-03-16",
+    "holiday": "Green Monday"
+  },
+  {
+    "date": "2054-03-25",
+    "holiday": "Greek Independence Day"
+  },
+  {
+    "date": "2054-04-01",
+    "holiday": "Cyprus National Day"
+  },
+  {
+    "date": "2054-05-01",
+    "holiday": "Good Friday; Labor Day"
+  },
+  {
+    "date": "2054-05-03",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2054-05-04",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2054-06-22",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2054-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2054-10-01",
+    "holiday": "Cyprus Independence Day"
+  },
+  {
+    "date": "2054-10-28",
+    "holiday": "Greek National Day"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2054-12-26",
+    "holiday": "Day After Christmas"
+  }
+]

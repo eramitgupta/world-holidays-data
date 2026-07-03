@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2026-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2026-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2026-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2026-04-19",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2026-04-20",
+    "holiday": "King's Birthday (observed)"
+  },
+  {
+    "date": "2026-04-25",
+    "holiday": "National Flag Day"
+  },
+  {
+    "date": "2026-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2026-05-14",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2026-07-22",
+    "holiday": "Birthday of Late King Sobhuza"
+  },
+  {
+    "date": "2026-09-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2026-09-07",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2026-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2026-12-26",
+    "holiday": "Boxing Day"
+  }
+]

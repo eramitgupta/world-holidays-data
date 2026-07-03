@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-01-26",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2037-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2037-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2037-04-28",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2037-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2037-05-14",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2037-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2037-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2037-11-08",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2037-11-09",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2037-12-25",
+    "holiday": "Christmas Day"
+  }
+]

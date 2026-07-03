@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-04-12",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2036-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2036-06-02",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2036-06-20",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2036-07-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2036-12-26",
+    "holiday": "National Day of Thanksgiving"
+  }
+]

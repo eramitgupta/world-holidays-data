@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-04-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2048-05-14",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2048-05-25",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2048-07-12",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2048-07-13",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2048-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2048-09-19",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2048-10-18",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2048-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2048-11-24",
+    "holiday": "Grand Magal of Touba (estimated)"
+  },
+  {
+    "date": "2048-12-18",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  }
+]

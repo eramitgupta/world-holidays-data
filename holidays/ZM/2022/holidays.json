@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2022-03-12",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2022-03-18",
+    "holiday": "Funeral of Rupiah Banda"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-16",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-04-28",
+    "holiday": "Kenneth Kaunda Day"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2022-05-25",
+    "holiday": "Africa Freedom Day"
+  },
+  {
+    "date": "2022-07-04",
+    "holiday": "Heroes' Day"
+  },
+  {
+    "date": "2022-07-05",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2022-08-01",
+    "holiday": "Farmers' Day"
+  },
+  {
+    "date": "2022-10-18",
+    "holiday": "National Prayer Day"
+  },
+  {
+    "date": "2022-10-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

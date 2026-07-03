@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2030-03-18",
+    "holiday": "Benito Juárez's birthday"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2030-09-16",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2030-10-01",
+    "holiday": "Change of Federal Government"
+  },
+  {
+    "date": "2030-11-18",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  }
+]

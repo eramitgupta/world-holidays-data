@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-01-26",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2037-03-14",
+    "holiday": "Summer Day"
+  },
+  {
+    "date": "2037-03-16",
+    "holiday": "Summer Day (observed)"
+  },
+  {
+    "date": "2037-03-22",
+    "holiday": "Nowruz Day"
+  },
+  {
+    "date": "2037-03-23",
+    "holiday": "Nowruz Day (observed)"
+  },
+  {
+    "date": "2037-04-05",
+    "holiday": "Catholic Easter Sunday; Orthodox Easter Sunday"
+  },
+  {
+    "date": "2037-04-06",
+    "holiday": "Catholic Easter Sunday (observed); Orthodox Easter Sunday (observed)"
+  },
+  {
+    "date": "2037-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2037-09-05",
+    "holiday": "Mother Teresa Canonization Day"
+  },
+  {
+    "date": "2037-09-07",
+    "holiday": "Mother Teresa Canonization Day (observed)"
+  },
+  {
+    "date": "2037-11-08",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2037-11-09",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2037-11-22",
+    "holiday": "Alphabet Day"
+  },
+  {
+    "date": "2037-11-23",
+    "holiday": "Alphabet Day (observed)"
+  },
+  {
+    "date": "2037-11-28",
+    "holiday": "Flag and Independence Day"
+  },
+  {
+    "date": "2037-11-29",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2037-11-30",
+    "holiday": "Flag and Independence Day (observed)"
+  },
+  {
+    "date": "2037-12-01",
+    "holiday": "Liberation Day (observed)"
+  },
+  {
+    "date": "2037-12-08",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2037-12-25",
+    "holiday": "Christmas Day"
+  }
+]

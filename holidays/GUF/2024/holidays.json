@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2024-05-08",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2024-05-09",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2024-05-20",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2024-06-10",
+    "holiday": "Abolition of Slavery"
+  },
+  {
+    "date": "2024-07-14",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2024-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2024-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2024-11-11",
+    "holiday": "Armistice Day"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  }
+]

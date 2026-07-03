@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2016-03-24",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "International Labor Day (observed)"
+  },
+  {
+    "date": "2016-05-25",
+    "holiday": "African Liberation Day"
+  },
+  {
+    "date": "2016-05-26",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2016-06-05",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2016-06-06",
+    "holiday": "President's Day (observed)"
+  },
+  {
+    "date": "2016-08-03",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2016-08-15",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2016-10-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

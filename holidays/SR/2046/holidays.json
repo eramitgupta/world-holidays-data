@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-02-06",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2046-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2046-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2046-07-01",
+    "holiday": "Day of Freedoms"
+  },
+  {
+    "date": "2046-08-03",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2046-08-09",
+    "holiday": "Indigenous People Day"
+  },
+  {
+    "date": "2046-10-10",
+    "holiday": "Day of the Maroons; Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2046-10-27",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2046-11-25",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2046-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

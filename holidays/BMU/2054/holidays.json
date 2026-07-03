@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2054-05-22",
+    "holiday": "Bermuda Day"
+  },
+  {
+    "date": "2054-06-15",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2054-07-30",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2054-07-31",
+    "holiday": "Mary Prince Day"
+  },
+  {
+    "date": "2054-09-07",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2054-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2054-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2054-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

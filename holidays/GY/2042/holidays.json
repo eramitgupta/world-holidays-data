@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-02-23",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2042-03-05",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2042-05-05",
+    "holiday": "Arrival Day"
+  },
+  {
+    "date": "2042-05-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2042-07-07",
+    "holiday": "CARICOM Day"
+  },
+  {
+    "date": "2042-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2042-11-24",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Day after Christmas"
+  }
+]

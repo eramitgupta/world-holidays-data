@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2022-03-07",
+    "holiday": "Green Monday"
+  },
+  {
+    "date": "2022-03-25",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-04-22",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-25",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2022-06-13",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2022-08-15",
+    "holiday": "Dormition of the Mother of God"
+  },
+  {
+    "date": "2022-10-28",
+    "holiday": "Ochi Day"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Glorifying Mother of God"
+  }
+]

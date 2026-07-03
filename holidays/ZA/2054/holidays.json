@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-03-21",
+    "holiday": "Human Rights Day"
+  },
+  {
+    "date": "2054-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2054-03-30",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2054-04-27",
+    "holiday": "Freedom Day"
+  },
+  {
+    "date": "2054-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2054-06-16",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2054-08-09",
+    "holiday": "National Women's Day"
+  },
+  {
+    "date": "2054-08-10",
+    "holiday": "National Women's Day (observed)"
+  },
+  {
+    "date": "2054-09-24",
+    "holiday": "Heritage Day"
+  },
+  {
+    "date": "2054-12-16",
+    "holiday": "Day of Reconciliation"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2054-12-26",
+    "holiday": "Day of Goodwill"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-03-01",
+    "holiday": "Patriots Day"
+  },
+  {
+    "date": "2029-03-29",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2029-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2029-04-01",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2029-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2029-05-14",
+    "holiday": "National Holiday"
+  },
+  {
+    "date": "2029-05-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2029-06-12",
+    "holiday": "Chaco Armistice Day"
+  },
+  {
+    "date": "2029-08-15",
+    "holiday": "Asuncion Foundation's Day"
+  },
+  {
+    "date": "2029-09-29",
+    "holiday": "Boqueron Battle Day"
+  },
+  {
+    "date": "2029-12-08",
+    "holiday": "Caacupe Virgin Day"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Christmas Day"
+  }
+]

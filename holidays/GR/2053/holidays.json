@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2053-02-24",
+    "holiday": "Green Monday"
+  },
+  {
+    "date": "2053-03-25",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2053-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2053-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2053-06-02",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2053-08-15",
+    "holiday": "Dormition of the Mother of God"
+  },
+  {
+    "date": "2053-10-28",
+    "holiday": "Ochi Day"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2053-12-26",
+    "holiday": "Glorifying Mother of God"
+  }
+]

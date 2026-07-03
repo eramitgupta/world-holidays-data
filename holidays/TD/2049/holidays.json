@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2049-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2049-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2049-07-01",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2049-08-11",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2049-09-08",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2049-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2049-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2049-11-29",
+    "holiday": "Republic Day (observed)"
+  },
+  {
+    "date": "2049-12-01",
+    "holiday": "Freedom and Democracy Day"
+  },
+  {
+    "date": "2049-12-07",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2049-12-25",
+    "holiday": "Christmas Day"
+  }
+]

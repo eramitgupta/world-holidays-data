@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2030-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2030-04-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2030-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2030-05-30",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2030-07-13",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2030-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  }
+]

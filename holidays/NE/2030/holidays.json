@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-31",
+    "holiday": "Laylat al-Qadr (estimated)"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2030-04-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2030-04-14",
+    "holiday": "Day after Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2030-04-15",
+    "holiday": "Day after Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2030-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2030-04-24",
+    "holiday": "National Concord Day"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2030-05-03",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2030-07-13",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2030-07-26",
+    "holiday": "Anniversary of the CNSP Coup"
+  },
+  {
+    "date": "2030-08-03",
+    "holiday": "Anniversary of the Proclamation of Independence"
+  },
+  {
+    "date": "2030-12-18",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  }
+]

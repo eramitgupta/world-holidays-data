@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-01-22",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2042-01-23",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2042-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2042-01-27",
+    "holiday": "Australia Day (observed)"
+  },
+  {
+    "date": "2042-03-17",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2042-09-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2042-10-06",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2042-11-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2042-11-24",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Boxing Day"
+  }
+]

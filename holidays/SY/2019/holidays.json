@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-03-08",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2019-03-21",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2019-04-17",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-04-21",
+    "holiday": "Gregorian Easter Sunday"
+  },
+  {
+    "date": "2019-04-28",
+    "holiday": "Julian Easter Sunday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-05-06",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2019-06-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2019-06-05",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2019-06-06",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2019-08-10",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2019-08-11",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2019-08-12",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2019-08-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2019-08-31",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2019-10-06",
+    "holiday": "Tishreen Liberation War Day"
+  },
+  {
+    "date": "2019-11-09",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

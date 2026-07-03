@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-02-16",
+    "holiday": "Day of Restoration of the State of Lithuania"
+  },
+  {
+    "date": "2021-03-11",
+    "holiday": "Day of Restoration of Independence of Lithuania"
+  },
+  {
+    "date": "2021-04-04",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2021-05-02",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2021-06-06",
+    "holiday": "Father's Day"
+  },
+  {
+    "date": "2021-06-24",
+    "holiday": "Day of Dew and Saint John"
+  },
+  {
+    "date": "2021-07-06",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2021-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2021-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2021-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2021-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

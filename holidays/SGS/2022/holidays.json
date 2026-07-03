@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2022-01-17",
+    "holiday": "Possession Day"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-21",
+    "holiday": "The Queen's Birthday"
+  },
+  {
+    "date": "2022-04-25",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2022-05-20",
+    "holiday": "Shackleton Day"
+  },
+  {
+    "date": "2022-06-02",
+    "holiday": "The Queen's Platinum Jubilee"
+  },
+  {
+    "date": "2022-06-03",
+    "holiday": "The Queen's Platinum Jubilee"
+  },
+  {
+    "date": "2022-06-21",
+    "holiday": "Mid-winter Day"
+  },
+  {
+    "date": "2022-10-30",
+    "holiday": "Environment Day"
+  },
+  {
+    "date": "2022-10-31",
+    "holiday": "Environment Day (observed)"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Boxing Day; Christmas Day (observed)"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-02",
+    "holiday": "New Year's Day Holiday"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-04-20",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2030-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2030-05-30",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2030-07-01",
+    "holiday": "Sir Seretse Khama Day"
+  },
+  {
+    "date": "2030-07-15",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2030-07-16",
+    "holiday": "President's Day Holiday"
+  },
+  {
+    "date": "2030-09-30",
+    "holiday": "Botswana Day"
+  },
+  {
+    "date": "2030-10-01",
+    "holiday": "Botswana Day Holiday"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2030-12-26",
+    "holiday": "Boxing Day"
+  }
+]

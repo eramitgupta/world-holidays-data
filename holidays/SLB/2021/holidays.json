@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-03",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-24",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2021-06-11",
+    "holiday": "Queen's Birthday (observed)"
+  },
+  {
+    "date": "2021-06-12",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2021-07-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "National Day of Thanksgiving"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2021-12-28",
+    "holiday": "National Day of Thanksgiving (observed)"
+  },
+  {
+    "date": "2021-12-31",
+    "holiday": "New Year's Day (observed)"
+  }
+]

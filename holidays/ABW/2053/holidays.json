@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-01-25",
+    "holiday": "Betico Day"
+  },
+  {
+    "date": "2053-02-17",
+    "holiday": "Monday before Ash Wednesday"
+  },
+  {
+    "date": "2053-03-18",
+    "holiday": "National Anthem and Flag Day"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2053-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2053-04-26",
+    "holiday": "King's Day"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2053-05-15",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2053-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

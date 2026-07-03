@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-02-15",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2056-02-16",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-16",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2056-04-17",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2056-05-29",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2056-06-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2056-08-09",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2056-11-05",
+    "holiday": "Deepavali"
+  },
+  {
+    "date": "2056-11-06",
+    "holiday": "Deepavali (observed)"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  }
+]

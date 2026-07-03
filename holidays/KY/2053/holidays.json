@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-01-27",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2053-02-19",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2053-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2053-05-05",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2053-05-19",
+    "holiday": "Discovery Day"
+  },
+  {
+    "date": "2053-06-23",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2053-07-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2053-11-10",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2053-12-26",
+    "holiday": "Boxing Day"
+  }
+]

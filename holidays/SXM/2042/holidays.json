@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-06",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2042-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2042-04-26",
+    "holiday": "King's Day"
+  },
+  {
+    "date": "2042-04-30",
+    "holiday": "Carnival Day"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2042-05-15",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2042-05-25",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2042-07-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2042-10-13",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2042-11-11",
+    "holiday": "Sint Maarten Day"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

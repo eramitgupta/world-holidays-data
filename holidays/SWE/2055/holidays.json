@@ -1,0 +1,258 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2055-01-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-01-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-01-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-01-31",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-02-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-02-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-02-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-02-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-03-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-03-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-03-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-03-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-04-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-04-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-18",
+    "holiday": "Easter Sunday; Sunday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-04-25",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2055-05-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-05-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-05-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-05-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-05-27",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2055-05-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-06-06",
+    "holiday": "National Day of Sweden; Sunday; Whit Sunday"
+  },
+  {
+    "date": "2055-06-13",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-06-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-06-25",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2055-06-26",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2055-06-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-07-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-07-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-07-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-07-25",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-08-01",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-08-08",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-08-15",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-08-22",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-08-29",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-09-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-09-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-09-19",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-09-26",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-10-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-10-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-10-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-10-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-10-31",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-11-06",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2055-11-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-11-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-11-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-11-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-12-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-12-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-12-19",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2055-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Second Day of Christmas; Sunday"
+  },
+  {
+    "date": "2055-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

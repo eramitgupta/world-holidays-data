@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-03-17",
+    "holiday": "Saint Patrick's Day"
+  },
+  {
+    "date": "2036-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2036-05-05",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2036-06-02",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2036-06-16",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2036-07-09",
+    "holiday": "Day of Prayer and Thanksgiving"
+  },
+  {
+    "date": "2036-08-04",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2036-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2036-12-31",
+    "holiday": "Festival Day"
+  }
+]

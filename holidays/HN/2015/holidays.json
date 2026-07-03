@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-04-02",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-04",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2015-04-14",
+    "holiday": "Panamerican Day"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-10-07",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2015-10-08",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2015-10-09",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

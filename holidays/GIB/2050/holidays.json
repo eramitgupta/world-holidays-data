@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2050-02-21",
+    "holiday": "Winter Midterm Bank Holiday"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2050-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2050-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2050-05-02",
+    "holiday": "May Day (observed)"
+  },
+  {
+    "date": "2050-05-30",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2050-06-13",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2050-08-29",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2050-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2050-09-12",
+    "holiday": "Gibraltar National Day (observed)"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2050-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

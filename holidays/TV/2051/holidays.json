@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2051-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2051-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2051-05-15",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2051-06-10",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2051-08-07",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2051-10-01",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2051-10-02",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2051-10-03",
+    "holiday": "Tuvalu Day (observed)"
+  },
+  {
+    "date": "2051-10-09",
+    "holiday": "National Children's Day"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2051-12-26",
+    "holiday": "Boxing Day"
+  }
+]

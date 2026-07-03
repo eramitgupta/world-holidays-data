@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-02-14",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2018-02-15",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2018-02-16",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2018-02-17",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2018-02-18",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2018-02-19",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2018-02-20",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2018-04-25",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2018-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2018-09-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2018-09-03",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2018-12-31",
+    "holiday": "Day off (substituted from 01/05/2019)"
+  }
+]

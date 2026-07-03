@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-03-14",
+    "holiday": "Youth Day (observed)"
+  },
+  {
+    "date": "2042-03-15",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2042-05-05",
+    "holiday": "Senior Citizens Day"
+  },
+  {
+    "date": "2042-06-01",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2042-06-02",
+    "holiday": "President's Day (observed)"
+  },
+  {
+    "date": "2042-07-09",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2042-09-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2042-10-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2042-10-24",
+    "holiday": "United Nations Day"
+  },
+  {
+    "date": "2042-11-27",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2042-11-28",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  }
+]

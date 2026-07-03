@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-01-06",
+    "holiday": "Armenian Orthodox Christmas Day"
+  },
+  {
+    "date": "2018-02-09",
+    "holiday": "Saint Maron's Day"
+  },
+  {
+    "date": "2018-03-25",
+    "holiday": "Feast of the Annunciation"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Catholic Good Friday"
+  },
+  {
+    "date": "2018-04-06",
+    "holiday": "Orthodox Good Friday"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2018-05-06",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2018-05-13",
+    "holiday": "Resistance and Liberation Day"
+  },
+  {
+    "date": "2018-06-15",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2018-06-16",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2018-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2018-08-22",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2018-08-23",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2018-09-11",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2018-09-21",
+    "holiday": "Ashura"
+  },
+  {
+    "date": "2018-11-20",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2018-11-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  }
+]

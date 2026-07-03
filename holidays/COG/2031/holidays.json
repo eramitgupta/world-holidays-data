@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2031-05-22",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2031-06-02",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2031-06-10",
+    "holiday": "Reconciliation Day"
+  },
+  {
+    "date": "2031-08-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2031-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2031-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  }
+]

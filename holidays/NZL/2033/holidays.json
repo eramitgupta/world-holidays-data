@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2033-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2033-01-04",
+    "holiday": "Day after New Year's Day (observed)"
+  },
+  {
+    "date": "2033-02-06",
+    "holiday": "Waitangi Day"
+  },
+  {
+    "date": "2033-02-07",
+    "holiday": "Waitangi Day (observed)"
+  },
+  {
+    "date": "2033-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2033-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2033-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2033-06-06",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2033-06-24",
+    "holiday": "Matariki"
+  },
+  {
+    "date": "2033-10-24",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2033-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2033-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-02-17",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2045-04-06",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2045-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2045-04-08",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2045-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2045-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2045-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2045-08-14",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2045-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2045-08-28",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2045-10-21",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2045-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2045-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2045-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2045-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2045-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

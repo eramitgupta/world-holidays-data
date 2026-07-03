@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-09",
+    "holiday": "Epiphany (observed)"
+  },
+  {
+    "date": "2023-03-20",
+    "holiday": "Saint Joseph's Day (observed)"
+  },
+  {
+    "date": "2023-04-06",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2023-05-22",
+    "holiday": "Ascension Day (observed)"
+  },
+  {
+    "date": "2023-06-12",
+    "holiday": "Corpus Christi (observed)"
+  },
+  {
+    "date": "2023-06-19",
+    "holiday": "Sacred Heart (observed)"
+  },
+  {
+    "date": "2023-07-03",
+    "holiday": "Saint Peter and Saint Paul's Day (observed)"
+  },
+  {
+    "date": "2023-07-20",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2023-08-07",
+    "holiday": "Battle of Boyacá"
+  },
+  {
+    "date": "2023-08-21",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2023-10-16",
+    "holiday": "Columbus Day (observed)"
+  },
+  {
+    "date": "2023-11-06",
+    "holiday": "All Saints' Day (observed)"
+  },
+  {
+    "date": "2023-11-13",
+    "holiday": "Independence of Cartagena (observed)"
+  },
+  {
+    "date": "2023-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  }
+]

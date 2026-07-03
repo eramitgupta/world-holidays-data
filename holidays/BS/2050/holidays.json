@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-10",
+    "holiday": "Majority Rule Day"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2050-05-30",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2050-06-03",
+    "holiday": "Randol Fawkes Labour Day"
+  },
+  {
+    "date": "2050-07-10",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2050-07-11",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2050-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2050-10-10",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2050-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

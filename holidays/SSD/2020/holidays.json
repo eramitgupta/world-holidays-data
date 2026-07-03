@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-09",
+    "holiday": "Peace Agreement Day"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-11",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2020-04-12",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "International Labour Day"
+  },
+  {
+    "date": "2020-05-16",
+    "holiday": "SPLA Day"
+  },
+  {
+    "date": "2020-05-22",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-07-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-07-30",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

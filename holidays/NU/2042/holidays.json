@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-01-02",
+    "holiday": "Takai Commission Holiday"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2042-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2042-06-02",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2042-10-19",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2042-10-20",
+    "holiday": "Constitution Day Holiday"
+  },
+  {
+    "date": "2042-10-21",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2042-10-27",
+    "holiday": "Peniamina Gospel Day"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Boxing Day"
+  }
+]

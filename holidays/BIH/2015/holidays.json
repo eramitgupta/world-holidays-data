@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Catholic Easter Monday"
+  },
+  {
+    "date": "2015-04-10",
+    "holiday": "Orthodox Good Friday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2015-05-02",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2015-07-18",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2015-09-24",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

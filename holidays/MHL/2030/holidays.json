@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-03-01",
+    "holiday": "Nuclear Victims Remembrance Day"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2030-07-05",
+    "holiday": "Fisherman's Day"
+  },
+  {
+    "date": "2030-09-06",
+    "holiday": "Dri-jerbal Day"
+  },
+  {
+    "date": "2030-09-27",
+    "holiday": "Manit Day"
+  },
+  {
+    "date": "2030-11-17",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2030-11-18",
+    "holiday": "President's Day Holiday"
+  },
+  {
+    "date": "2030-12-06",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  }
+]

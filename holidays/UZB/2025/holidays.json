@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2025-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2025-01-02",
+    "holiday": "Day off (substituted from 01/04/2025)"
+  },
+  {
+    "date": "2025-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2025-03-10",
+    "holiday": "Women's Day (observed)"
+  },
+  {
+    "date": "2025-03-21",
+    "holiday": "Nowruz"
+  },
+  {
+    "date": "2025-03-30",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2025-03-31",
+    "holiday": "Eid al-Fitr (observed)"
+  },
+  {
+    "date": "2025-05-09",
+    "holiday": "Day of Memory and Honor"
+  },
+  {
+    "date": "2025-06-06",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2025-09-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2025-10-01",
+    "holiday": "Teachers and Instructors Day"
+  },
+  {
+    "date": "2025-12-08",
+    "holiday": "Constitution Day"
+  }
+]

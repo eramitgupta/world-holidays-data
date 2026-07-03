@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-02-08",
+    "holiday": "Chinese New Year's Day"
+  },
+  {
+    "date": "2035-02-09",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2035-02-10",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2035-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2035-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2035-09-17",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2035-10-01",
+    "holiday": "National Day of the People's Republic of China"
+  },
+  {
+    "date": "2035-10-09",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2035-12-20",
+    "holiday": "Macao S.A.R. Establishment Day"
+  }
+]

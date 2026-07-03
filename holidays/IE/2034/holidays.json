@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2034-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2034-02-06",
+    "holiday": "Saint Brigid's Day"
+  },
+  {
+    "date": "2034-03-17",
+    "holiday": "Saint Patrick's Day"
+  },
+  {
+    "date": "2034-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2034-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2034-06-05",
+    "holiday": "June Bank Holiday"
+  },
+  {
+    "date": "2034-08-07",
+    "holiday": "August Bank Holiday"
+  },
+  {
+    "date": "2034-10-30",
+    "holiday": "October Bank Holiday"
+  },
+  {
+    "date": "2034-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2034-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]

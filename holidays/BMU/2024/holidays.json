@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-05-24",
+    "holiday": "Bermuda Day"
+  },
+  {
+    "date": "2024-06-17",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2024-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2024-08-02",
+    "holiday": "Mary Prince Day"
+  },
+  {
+    "date": "2024-09-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2024-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "Boxing Day"
+  }
+]

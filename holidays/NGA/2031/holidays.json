@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-25",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2031-01-26",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2031-01-27",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2031-01-28",
+    "holiday": "Eid al-Fitr Holiday (observed, estimated)"
+  },
+  {
+    "date": "2031-04-03",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2031-04-04",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2031-05-29",
+    "holiday": "Presidential Inauguration Day"
+  },
+  {
+    "date": "2031-06-12",
+    "holiday": "Democracy Day"
+  },
+  {
+    "date": "2031-07-03",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2031-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2031-12-26",
+    "holiday": "Boxing Day"
+  }
+]

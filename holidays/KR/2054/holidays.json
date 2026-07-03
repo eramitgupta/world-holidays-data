@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-02-07",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2054-02-08",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2054-02-09",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2054-02-10",
+    "holiday": "Alternative holiday for Korean New Year"
+  },
+  {
+    "date": "2054-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2054-03-02",
+    "holiday": "Alternative holiday for Independence Movement Day"
+  },
+  {
+    "date": "2054-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2054-05-15",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2054-06-03",
+    "holiday": "Local Election Day"
+  },
+  {
+    "date": "2054-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2054-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2054-08-17",
+    "holiday": "Alternative holiday for Liberation Day"
+  },
+  {
+    "date": "2054-09-15",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2054-09-16",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2054-09-17",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2054-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2054-10-05",
+    "holiday": "Alternative holiday for National Foundation Day"
+  },
+  {
+    "date": "2054-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Christmas Day"
+  }
+]

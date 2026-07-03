@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-03-05",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2057-03-06",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-04-30",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2057-05-24",
+    "holiday": "The Battle of Pichincha"
+  },
+  {
+    "date": "2057-05-25",
+    "holiday": "The Battle of Pichincha (observed)"
+  },
+  {
+    "date": "2057-08-10",
+    "holiday": "Declaration of Independence of Quito"
+  },
+  {
+    "date": "2057-10-08",
+    "holiday": "Independence of Guayaquil (observed)"
+  },
+  {
+    "date": "2057-10-09",
+    "holiday": "Independence of Guayaquil"
+  },
+  {
+    "date": "2057-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2057-11-03",
+    "holiday": "Independence of Cuenca"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  }
+]

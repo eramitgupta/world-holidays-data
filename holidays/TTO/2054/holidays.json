@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2054-03-30",
+    "holiday": "Easter Monday; Spiritual Baptist Liberation Day"
+  },
+  {
+    "date": "2054-03-31",
+    "holiday": "Easter Monday (observed); Spiritual Baptist Liberation Day (observed)"
+  },
+  {
+    "date": "2054-05-09",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2054-05-28",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2054-05-30",
+    "holiday": "Indian Arrival Day"
+  },
+  {
+    "date": "2054-06-19",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2054-08-01",
+    "holiday": "African Emancipation Day"
+  },
+  {
+    "date": "2054-08-31",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2054-09-24",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2054-10-29",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2054-12-26",
+    "holiday": "Boxing Day"
+  }
+]

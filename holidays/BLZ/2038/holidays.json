@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-15",
+    "holiday": "George Price Day"
+  },
+  {
+    "date": "2038-03-08",
+    "holiday": "National Heroes and Benefactors Day (observed)"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-24",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2038-08-02",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2038-09-10",
+    "holiday": "Saint George's Caye Day"
+  },
+  {
+    "date": "2038-09-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2038-10-11",
+    "holiday": "Indigenous Peoples' Resistance Day (observed)"
+  },
+  {
+    "date": "2038-11-19",
+    "holiday": "Garifuna Settlement Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

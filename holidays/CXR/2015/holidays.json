@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2015-02-19",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2015-02-20",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2015-03-16",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2015-04-27",
+    "holiday": "ANZAC Day (observed)"
+  },
+  {
+    "date": "2015-07-17",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2015-09-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2015-10-05",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2015-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

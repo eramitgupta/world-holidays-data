@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-03",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2022-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Eid al-Fitr; Labour Day (observed)"
+  },
+  {
+    "date": "2022-05-26",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2022-07-09",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2022-08-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2022-10-09",
+    "holiday": "Mawlid"
+  },
+  {
+    "date": "2022-10-31",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2022-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2022-12-11",
+    "holiday": "Proclamation of Independence Day"
+  },
+  {
+    "date": "2022-12-12",
+    "holiday": "Proclamation of Independence Day (observed)"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

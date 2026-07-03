@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-21",
+    "holiday": "Errol Barrow Day"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-04-28",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "May Day (observed)"
+  },
+  {
+    "date": "2022-06-06",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2022-08-01",
+    "holiday": "Emancipation Day; Kadooment Day"
+  },
+  {
+    "date": "2022-08-02",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2022-11-30",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

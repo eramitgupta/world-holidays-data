@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-03-11",
+    "holiday": "Moshoeshoe's Day"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2032-05-06",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2032-05-25",
+    "holiday": "Africa/Heroes Day"
+  },
+  {
+    "date": "2032-07-17",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2032-10-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-26",
+    "holiday": "Boxing Day"
+  }
+]

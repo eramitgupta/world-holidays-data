@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-03-22",
+    "holiday": "Day after the General Election"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2018-05-07",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2018-05-21",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2018-08-06",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2018-08-07",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2018-11-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2018-12-09",
+    "holiday": "Sir Vere Cornwall Bird Snr. Day"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-12-26",
+    "holiday": "Boxing Day"
+  }
+]

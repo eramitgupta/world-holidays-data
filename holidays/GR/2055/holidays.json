@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2055-03-01",
+    "holiday": "Green Monday"
+  },
+  {
+    "date": "2055-03-25",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2055-05-03",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2055-06-07",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2055-08-15",
+    "holiday": "Dormition of the Mother of God"
+  },
+  {
+    "date": "2055-10-28",
+    "holiday": "Ochi Day"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Glorifying Mother of God"
+  }
+]

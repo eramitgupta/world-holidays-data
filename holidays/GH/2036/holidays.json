@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-01-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2036-02-07",
+    "holiday": "Eid ul-Adha (estimated)"
+  },
+  {
+    "date": "2036-03-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2036-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2036-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2036-08-04",
+    "holiday": "Founders' Day"
+  },
+  {
+    "date": "2036-09-21",
+    "holiday": "Kwame Nkrumah Memorial Day"
+  },
+  {
+    "date": "2036-09-22",
+    "holiday": "Kwame Nkrumah Memorial Day (observed)"
+  },
+  {
+    "date": "2036-11-19",
+    "holiday": "Eid ul-Fitr (estimated)"
+  },
+  {
+    "date": "2036-12-05",
+    "holiday": "Farmer's Day"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2036-12-26",
+    "holiday": "Boxing Day"
+  }
+]

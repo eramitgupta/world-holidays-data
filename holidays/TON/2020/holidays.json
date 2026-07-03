@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2020-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2020-06-08",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2020-07-04",
+    "holiday": "Birthday of the Reigning Sovereign of Tonga"
+  },
+  {
+    "date": "2020-09-17",
+    "holiday": "Birthday of the Heir to the Crown of Tonga"
+  },
+  {
+    "date": "2020-11-02",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2020-12-07",
+    "holiday": "Anniversary of the Coronation of HM King George Tupou I (observed)"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2038-01-16",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2038-02-04",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2038-02-05",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2038-02-06",
+    "holiday": "Islamic New Year (observed, estimated)"
+  },
+  {
+    "date": "2038-02-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2038-04-17",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2038-05-31",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2038-07-15",
+    "holiday": "Sultan Hassanal Bolkiah's Birthday"
+  },
+  {
+    "date": "2038-08-28",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2038-09-30",
+    "holiday": "First Day of Ramadan (estimated)"
+  },
+  {
+    "date": "2038-10-16",
+    "holiday": "Anniversary of the revelation of the Quran (estimated)"
+  },
+  {
+    "date": "2038-10-29",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2038-10-30",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2038-10-31",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2038-11-01",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2038-11-02",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  }
+]

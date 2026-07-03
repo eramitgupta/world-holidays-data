@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-02-19",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2053-02-20",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2053-05-19",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2053-06-01",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2053-06-02",
+    "holiday": "Vesak Day (observed, estimated)"
+  },
+  {
+    "date": "2053-07-26",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2053-08-09",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2053-11-08",
+    "holiday": "Deepavali"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  }
+]

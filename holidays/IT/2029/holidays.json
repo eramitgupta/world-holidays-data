@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "Capodanno"
+  },
+  {
+    "date": "2029-01-06",
+    "holiday": "Epifania del Signore"
+  },
+  {
+    "date": "2029-04-01",
+    "holiday": "Pasqua di Resurrezione"
+  },
+  {
+    "date": "2029-04-02",
+    "holiday": "Lunedì dell'Angelo"
+  },
+  {
+    "date": "2029-04-25",
+    "holiday": "Festa della Liberazione"
+  },
+  {
+    "date": "2029-05-01",
+    "holiday": "Festa dei Lavoratori"
+  },
+  {
+    "date": "2029-06-02",
+    "holiday": "Festa della Repubblica"
+  },
+  {
+    "date": "2029-08-15",
+    "holiday": "Assunzione della Vergine"
+  },
+  {
+    "date": "2029-11-01",
+    "holiday": "Tutti i Santi"
+  },
+  {
+    "date": "2029-12-08",
+    "holiday": "Immacolata Concezione"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Natale"
+  },
+  {
+    "date": "2029-12-26",
+    "holiday": "Santo Stefano"
+  }
+]

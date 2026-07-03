@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-04-09",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2023-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2023-05-04",
+    "holiday": "Restoration of Independence Day"
+  },
+  {
+    "date": "2023-05-14",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2023-05-29",
+    "holiday": "Day the Latvian hockey team won the bronze medal at the 2023 World Ice Hockey Championship"
+  },
+  {
+    "date": "2023-06-23",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2023-06-24",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2023-07-10",
+    "holiday": "General Latvian Song and Dance Festival closing day"
+  },
+  {
+    "date": "2023-11-18",
+    "holiday": "Republic of Latvia Proclamation Day"
+  },
+  {
+    "date": "2023-11-20",
+    "holiday": "Republic of Latvia Proclamation Day (observed)"
+  },
+  {
+    "date": "2023-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2023-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2023-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-15",
+    "holiday": "George Price Day"
+  },
+  {
+    "date": "2033-03-07",
+    "holiday": "National Heroes and Benefactors Day (observed)"
+  },
+  {
+    "date": "2033-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2033-04-16",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2033-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2033-05-02",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2033-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2033-09-10",
+    "holiday": "Saint George's Caye Day"
+  },
+  {
+    "date": "2033-09-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2033-10-10",
+    "holiday": "Indigenous Peoples' Resistance Day (observed)"
+  },
+  {
+    "date": "2033-11-19",
+    "holiday": "Garifuna Settlement Day"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2033-12-26",
+    "holiday": "Boxing Day"
+  }
+]

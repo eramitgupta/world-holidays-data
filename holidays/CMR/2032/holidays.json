@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-01-14",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2032-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2032-03-22",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2032-05-06",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2032-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2032-06-20",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2032-06-21",
+    "holiday": "Mawlid (observed, estimated)"
+  },
+  {
+    "date": "2032-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2032-08-16",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  }
+]

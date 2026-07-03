@@ -1,0 +1,94 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-25",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2020-02-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2020-02-24",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2020-03-22",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2020-03-23",
+    "holiday": "Isra' and Mi'raj (observed)"
+  },
+  {
+    "date": "2020-04-24",
+    "holiday": "First Day of Ramadan"
+  },
+  {
+    "date": "2020-04-25",
+    "holiday": "First Day of Ramadan (observed)"
+  },
+  {
+    "date": "2020-05-10",
+    "holiday": "Anniversary of the revelation of the Quran"
+  },
+  {
+    "date": "2020-05-11",
+    "holiday": "Anniversary of the revelation of the Quran (observed)"
+  },
+  {
+    "date": "2020-05-24",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-26",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-27",
+    "holiday": "Eid al-Fitr (observed)"
+  },
+  {
+    "date": "2020-05-31",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2020-06-01",
+    "holiday": "Armed Forces Day (observed)"
+  },
+  {
+    "date": "2020-07-15",
+    "holiday": "Sultan Hassanal Bolkiah's Birthday"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-01",
+    "holiday": "Eid al-Adha (observed)"
+  },
+  {
+    "date": "2020-08-20",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2020-10-29",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

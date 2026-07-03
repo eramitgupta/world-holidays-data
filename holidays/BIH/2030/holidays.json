@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2030-04-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2030-04-22",
+    "holiday": "Catholic Easter Monday"
+  },
+  {
+    "date": "2030-04-26",
+    "holiday": "Orthodox Good Friday"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2030-05-02",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

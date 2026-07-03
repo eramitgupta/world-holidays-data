@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-01-31",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2058-02-01",
+    "holiday": "Day following Independence Day"
+  },
+  {
+    "date": "2058-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2058-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2058-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2058-04-16",
+    "holiday": "Easter Tuesday"
+  },
+  {
+    "date": "2058-05-17",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2058-07-01",
+    "holiday": "RONPHOS Handover"
+  },
+  {
+    "date": "2058-08-19",
+    "holiday": "Ibumin Earoeni Day"
+  },
+  {
+    "date": "2058-09-25",
+    "holiday": "Sir Hammer DeRoburt Day"
+  },
+  {
+    "date": "2058-10-26",
+    "holiday": "Angam Day"
+  },
+  {
+    "date": "2058-10-28",
+    "holiday": "Angam Day (observed)"
+  },
+  {
+    "date": "2058-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2058-12-26",
+    "holiday": "Day following Christmas"
+  }
+]

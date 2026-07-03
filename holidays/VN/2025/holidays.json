@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2025-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2025-01-27",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2025-01-28",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2025-01-29",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2025-01-30",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2025-01-31",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2025-02-01",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2025-04-07",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2025-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2025-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2025-09-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2025-09-02",
+    "holiday": "National Day"
+  }
+]

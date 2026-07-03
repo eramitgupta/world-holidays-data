@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-02-25",
+    "holiday": "Monday of Carnival"
+  },
+  {
+    "date": "2036-02-26",
+    "holiday": "Tuesday of Carnival"
+  },
+  {
+    "date": "2036-04-10",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2036-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-04-19",
+    "holiday": "Declaration of Independence"
+  },
+  {
+    "date": "2036-05-01",
+    "holiday": "International Worker's Day"
+  },
+  {
+    "date": "2036-06-24",
+    "holiday": "Battle of Carabobo"
+  },
+  {
+    "date": "2036-07-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2036-07-24",
+    "holiday": "Birthday of Simon Bolivar"
+  },
+  {
+    "date": "2036-10-12",
+    "holiday": "Day of Indigenous Resistance"
+  },
+  {
+    "date": "2036-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2036-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

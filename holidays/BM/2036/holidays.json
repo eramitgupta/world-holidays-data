@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-05-23",
+    "holiday": "Bermuda Day"
+  },
+  {
+    "date": "2036-06-16",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2036-07-31",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2036-08-01",
+    "holiday": "Mary Prince Day"
+  },
+  {
+    "date": "2036-09-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2036-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2036-12-26",
+    "holiday": "Boxing Day"
+  }
+]

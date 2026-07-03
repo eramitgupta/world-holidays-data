@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-05-27",
+    "holiday": "Bermuda Day"
+  },
+  {
+    "date": "2022-06-20",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2022-07-28",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2022-07-29",
+    "holiday": "Mary Prince Day"
+  },
+  {
+    "date": "2022-09-05",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

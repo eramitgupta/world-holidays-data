@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2049-04-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2049-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2049-05-27",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2049-06-02",
+    "holiday": "First Day of Ramadan (estimated)"
+  },
+  {
+    "date": "2049-06-07",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2049-06-21",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2049-07-01",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2049-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2049-09-08",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2049-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2049-12-25",
+    "holiday": "Christmas Day"
+  }
+]

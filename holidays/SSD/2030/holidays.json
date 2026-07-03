@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-09",
+    "holiday": "Peace Agreement Day"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2030-04-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-04-20",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2030-04-21",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2030-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "International Labour Day"
+  },
+  {
+    "date": "2030-05-16",
+    "holiday": "SPLA Day"
+  },
+  {
+    "date": "2030-07-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2030-07-30",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2030-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2030-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

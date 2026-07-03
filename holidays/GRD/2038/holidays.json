@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-02-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2038-02-08",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2038-06-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2038-06-24",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2038-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2038-08-02",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2038-08-09",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2038-08-10",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2038-10-19",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2038-10-25",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2038-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

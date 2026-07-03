@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-03-29",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-11",
+    "holiday": "Juan Santamaría Day"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2018-07-25",
+    "holiday": "Annexation of the Party of Nicoya to Costa Rica"
+  },
+  {
+    "date": "2018-08-15",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2018-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2018-10-15",
+    "holiday": "Cultures Day (observed)"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  }
+]

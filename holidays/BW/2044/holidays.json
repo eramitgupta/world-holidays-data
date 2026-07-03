@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-01-02",
+    "holiday": "New Year's Day Holiday"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-16",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2044-05-02",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2044-05-26",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2044-07-01",
+    "holiday": "Sir Seretse Khama Day"
+  },
+  {
+    "date": "2044-07-18",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2044-07-19",
+    "holiday": "President's Day Holiday"
+  },
+  {
+    "date": "2044-09-30",
+    "holiday": "Botswana Day"
+  },
+  {
+    "date": "2044-10-01",
+    "holiday": "Botswana Day Holiday"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2044-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

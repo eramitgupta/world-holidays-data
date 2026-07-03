@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-02-10",
+    "holiday": "Feast of Saint Paul's Shipwreck"
+  },
+  {
+    "date": "2018-03-19",
+    "holiday": "Feast of Saint Joseph"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-03-31",
+    "holiday": "Freedom Day"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2018-06-07",
+    "holiday": "Sette Giugno"
+  },
+  {
+    "date": "2018-06-29",
+    "holiday": "Feast of Saint Peter and Saint Paul"
+  },
+  {
+    "date": "2018-08-15",
+    "holiday": "Feast of the Assumption"
+  },
+  {
+    "date": "2018-09-08",
+    "holiday": "Feast of Our Lady of Victories"
+  },
+  {
+    "date": "2018-09-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2018-12-08",
+    "holiday": "Feast of the Immaculate Conception"
+  },
+  {
+    "date": "2018-12-13",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  }
+]

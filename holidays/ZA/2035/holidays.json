@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-03-21",
+    "holiday": "Human Rights Day"
+  },
+  {
+    "date": "2035-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2035-03-26",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2035-04-27",
+    "holiday": "Freedom Day"
+  },
+  {
+    "date": "2035-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2035-06-16",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2035-08-09",
+    "holiday": "National Women's Day"
+  },
+  {
+    "date": "2035-09-24",
+    "holiday": "Heritage Day"
+  },
+  {
+    "date": "2035-12-16",
+    "holiday": "Day of Reconciliation"
+  },
+  {
+    "date": "2035-12-17",
+    "holiday": "Day of Reconciliation (observed)"
+  },
+  {
+    "date": "2035-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2035-12-26",
+    "holiday": "Day of Goodwill"
+  }
+]

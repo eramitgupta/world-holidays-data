@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-17",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-04-27",
+    "holiday": "King's Day"
+  },
+  {
+    "date": "2044-05-26",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2044-06-05",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2044-06-06",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

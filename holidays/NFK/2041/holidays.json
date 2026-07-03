@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2041-01-28",
+    "holiday": "Australia Day (observed)"
+  },
+  {
+    "date": "2041-03-06",
+    "holiday": "Foundation Day"
+  },
+  {
+    "date": "2041-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2041-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2041-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2041-06-08",
+    "holiday": "Bounty Day"
+  },
+  {
+    "date": "2041-06-10",
+    "holiday": "Bounty Day (observed)"
+  },
+  {
+    "date": "2041-06-17",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2041-10-14",
+    "holiday": "Show Day"
+  },
+  {
+    "date": "2041-11-27",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2041-12-26",
+    "holiday": "Boxing Day"
+  }
+]

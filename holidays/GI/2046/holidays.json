@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-02-19",
+    "holiday": "Winter Midterm Bank Holiday"
+  },
+  {
+    "date": "2046-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2046-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2046-04-30",
+    "holiday": "Workers' Memorial Day (observed)"
+  },
+  {
+    "date": "2046-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2046-05-28",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2046-06-11",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2046-08-27",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2046-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2046-12-26",
+    "holiday": "Boxing Day"
+  }
+]

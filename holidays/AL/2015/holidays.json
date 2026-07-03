@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-03-14",
+    "holiday": "Summer Day"
+  },
+  {
+    "date": "2015-03-16",
+    "holiday": "Summer Day (observed)"
+  },
+  {
+    "date": "2015-03-22",
+    "holiday": "Nowruz Day"
+  },
+  {
+    "date": "2015-03-23",
+    "holiday": "Nowruz Day (observed)"
+  },
+  {
+    "date": "2015-04-05",
+    "holiday": "Catholic Easter Sunday"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Catholic Easter Sunday (observed)"
+  },
+  {
+    "date": "2015-04-12",
+    "holiday": "Orthodox Easter Sunday"
+  },
+  {
+    "date": "2015-04-13",
+    "holiday": "Orthodox Easter Sunday (observed)"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2015-07-17",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2015-09-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2015-10-19",
+    "holiday": "Mother Teresa Beatification Day"
+  },
+  {
+    "date": "2015-11-28",
+    "holiday": "Flag and Independence Day"
+  },
+  {
+    "date": "2015-11-29",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2015-11-30",
+    "holiday": "Flag and Independence Day (observed)"
+  },
+  {
+    "date": "2015-12-01",
+    "holiday": "Liberation Day (observed)"
+  },
+  {
+    "date": "2015-12-08",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

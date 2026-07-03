@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2022-03-14",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-05-30",
+    "holiday": "JAGS McCartney Day"
+  },
+  {
+    "date": "2022-06-03",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2022-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2022-09-30",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2022-10-10",
+    "holiday": "National Heritage Day"
+  },
+  {
+    "date": "2022-11-25",
+    "holiday": "National Day of Thanksgiving"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

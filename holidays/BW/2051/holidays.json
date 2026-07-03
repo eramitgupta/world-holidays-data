@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-01-02",
+    "holiday": "New Year's Day Holiday"
+  },
+  {
+    "date": "2051-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2051-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2051-04-01",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2051-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2051-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2051-05-11",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2051-07-01",
+    "holiday": "Sir Seretse Khama Day"
+  },
+  {
+    "date": "2051-07-17",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2051-07-18",
+    "holiday": "President's Day Holiday"
+  },
+  {
+    "date": "2051-09-30",
+    "holiday": "Botswana Day"
+  },
+  {
+    "date": "2051-10-01",
+    "holiday": "Botswana Day Holiday"
+  },
+  {
+    "date": "2051-10-02",
+    "holiday": "Botswana Day Holiday (observed)"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2051-12-26",
+    "holiday": "Boxing Day"
+  }
+]

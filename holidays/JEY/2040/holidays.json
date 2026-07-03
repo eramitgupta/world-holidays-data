@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (substitute day)"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-05-07",
+    "holiday": "Early May Bank Holiday"
+  },
+  {
+    "date": "2040-05-09",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2040-05-28",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2040-08-27",
+    "holiday": "Summer Bank Holiday"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Boxing Day"
+  }
+]

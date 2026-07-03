@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2043-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2043-01-02",
+    "holiday": "New Year's Day Holiday"
+  },
+  {
+    "date": "2043-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2043-03-28",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2043-03-30",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2043-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2043-05-07",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2043-07-01",
+    "holiday": "Sir Seretse Khama Day"
+  },
+  {
+    "date": "2043-07-20",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2043-07-21",
+    "holiday": "President's Day Holiday"
+  },
+  {
+    "date": "2043-09-30",
+    "holiday": "Botswana Day"
+  },
+  {
+    "date": "2043-10-01",
+    "holiday": "Botswana Day Holiday"
+  },
+  {
+    "date": "2043-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2043-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2043-12-28",
+    "holiday": "Boxing Day Holiday"
+  }
+]

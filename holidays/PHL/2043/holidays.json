@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2043-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2043-02-10",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2043-03-26",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2043-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2043-03-28",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2043-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2043-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2043-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2043-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2043-08-31",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2043-09-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2043-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2043-11-12",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2043-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2043-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2043-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2043-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2043-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

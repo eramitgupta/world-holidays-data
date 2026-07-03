@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-01-04",
+    "holiday": "Day of King Amador"
+  },
+  {
+    "date": "2032-01-05",
+    "holiday": "Day of King Amador (observed)"
+  },
+  {
+    "date": "2032-02-03",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2032-04-30",
+    "holiday": "Worker's Day (observed)"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2032-07-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2032-09-06",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2032-09-30",
+    "holiday": "Agricultural Reform Day"
+  },
+  {
+    "date": "2032-12-21",
+    "holiday": "São Tomé Day"
+  },
+  {
+    "date": "2032-12-24",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-31",
+    "holiday": "New Year's Day (observed)"
+  }
+]

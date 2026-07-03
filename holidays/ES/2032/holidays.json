@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2032-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2032-10-12",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2032-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2032-12-06",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2032-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  }
+]

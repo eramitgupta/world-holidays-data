@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-02-23",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2016-03-23",
+    "holiday": "Holi"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2016-05-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-07-04",
+    "holiday": "CARICOM Day"
+  },
+  {
+    "date": "2016-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2016-09-13",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2016-10-30",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2016-10-31",
+    "holiday": "Diwali (observed)"
+  },
+  {
+    "date": "2016-12-12",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Day after Christmas"
+  },
+  {
+    "date": "2016-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

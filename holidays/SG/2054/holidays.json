@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-02-08",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2054-02-09",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2054-02-10",
+    "holiday": "Chinese New Year (observed, estimated)"
+  },
+  {
+    "date": "2054-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2054-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2054-05-09",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2054-05-22",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2054-07-15",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2054-08-09",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2054-08-10",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2054-10-29",
+    "holiday": "Deepavali"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Christmas Day"
+  }
+]

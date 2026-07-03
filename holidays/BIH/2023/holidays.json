@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2023-04-10",
+    "holiday": "Catholic Easter Monday"
+  },
+  {
+    "date": "2023-04-14",
+    "holiday": "Orthodox Good Friday"
+  },
+  {
+    "date": "2023-04-21",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2023-05-02",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2023-06-28",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

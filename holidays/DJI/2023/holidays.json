@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-02-18",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2023-04-21",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2023-04-22",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2023-06-27",
+    "holiday": "Arafat Day (estimated); Independence Day"
+  },
+  {
+    "date": "2023-06-28",
+    "holiday": "Eid al-Adha (estimated); Independence Day Holiday"
+  },
+  {
+    "date": "2023-06-29",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2023-07-19",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2023-09-27",
+    "holiday": "Prophet Muhammad's Birthday (estimated)"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  }
+]

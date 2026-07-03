@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-01-02",
+    "holiday": "New Year's Holiday"
+  },
+  {
+    "date": "2051-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2051-02-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2051-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2051-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2051-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2051-05-22",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2051-06-01",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2051-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2051-10-02",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2051-12-13",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2051-12-26",
+    "holiday": "Boxing Day"
+  }
+]

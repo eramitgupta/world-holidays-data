@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2025-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2025-01-27",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2025-01-29",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2025-03-29",
+    "holiday": "Day of Silence"
+  },
+  {
+    "date": "2025-03-31",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2025-04-01",
+    "holiday": "Eid al-Fitr Second Day"
+  },
+  {
+    "date": "2025-04-18",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2025-04-20",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2025-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2025-05-12",
+    "holiday": "Vesak Day"
+  },
+  {
+    "date": "2025-05-29",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2025-06-01",
+    "holiday": "Pancasila Day"
+  },
+  {
+    "date": "2025-06-06",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2025-06-27",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2025-08-17",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2025-09-05",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2025-12-25",
+    "holiday": "Christmas Day"
+  }
+]

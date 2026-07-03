@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2038-04-20",
+    "holiday": "Pesach"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Seventh day of Pesach"
+  },
+  {
+    "date": "2038-05-11",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2038-06-09",
+    "holiday": "Shavuot"
+  },
+  {
+    "date": "2038-09-30",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2038-10-01",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2038-10-09",
+    "holiday": "Yom Kippur"
+  },
+  {
+    "date": "2038-10-14",
+    "holiday": "Sukkot"
+  },
+  {
+    "date": "2038-10-21",
+    "holiday": "Simchat Torah / Shemini Atzeret"
+  }
+]

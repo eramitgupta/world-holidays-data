@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-02-20",
+    "holiday": "Monday of Carnival"
+  },
+  {
+    "date": "2045-02-21",
+    "holiday": "Tuesday of Carnival"
+  },
+  {
+    "date": "2045-04-06",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2045-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2045-04-19",
+    "holiday": "Declaration of Independence"
+  },
+  {
+    "date": "2045-05-01",
+    "holiday": "International Worker's Day"
+  },
+  {
+    "date": "2045-06-24",
+    "holiday": "Battle of Carabobo"
+  },
+  {
+    "date": "2045-07-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2045-07-24",
+    "holiday": "Birthday of Simon Bolivar"
+  },
+  {
+    "date": "2045-10-12",
+    "holiday": "Day of Indigenous Resistance"
+  },
+  {
+    "date": "2045-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2045-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

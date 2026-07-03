@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2019-02-01",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2019-04-07",
+    "holiday": "Memorial Day of Genocide perpetrated against the Tutsi in 1994"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-06-04",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2019-07-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-07-04",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2019-08-02",
+    "holiday": "Umuganura Day"
+  },
+  {
+    "date": "2019-08-12",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2019-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Boxing Day"
+  }
+]

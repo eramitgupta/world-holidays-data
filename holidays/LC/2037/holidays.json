@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-01-02",
+    "holiday": "New Year's Holiday"
+  },
+  {
+    "date": "2037-02-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2037-02-23",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2037-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2037-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2037-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2037-05-25",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2037-06-04",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2037-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2037-10-05",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2037-12-13",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2037-12-14",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2037-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2037-12-26",
+    "holiday": "Boxing Day"
+  }
+]

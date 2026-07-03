@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-01",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2018-04-25",
+    "holiday": "Freedom Day"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2018-05-31",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2018-06-10",
+    "holiday": "Day of Portugal, Camões, and the Portuguese Communities"
+  },
+  {
+    "date": "2018-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2018-10-05",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2018-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2018-12-01",
+    "holiday": "Restoration of Independence Day"
+  },
+  {
+    "date": "2018-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  }
+]

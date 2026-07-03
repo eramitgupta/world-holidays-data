@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-02-10",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2024-02-12",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2024-02-13",
+    "holiday": "The fourth day of Chinese New Year"
+  },
+  {
+    "date": "2024-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2024-05-15",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2024-06-10",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2024-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2024-09-18",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2024-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2024-10-11",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  }
+]

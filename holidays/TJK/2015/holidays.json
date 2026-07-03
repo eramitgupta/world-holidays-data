@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-03-08",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2015-03-21",
+    "holiday": "International Nowruz Day"
+  },
+  {
+    "date": "2015-03-22",
+    "holiday": "International Nowruz Day"
+  },
+  {
+    "date": "2015-03-23",
+    "holiday": "International Nowruz Day"
+  },
+  {
+    "date": "2015-03-24",
+    "holiday": "International Nowruz Day"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "International Workers' Solidarity Day"
+  },
+  {
+    "date": "2015-05-09",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2015-06-27",
+    "holiday": "National Unity Day"
+  },
+  {
+    "date": "2015-07-17",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2015-09-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-09-23",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2015-11-06",
+    "holiday": "Constitution Day"
+  }
+]

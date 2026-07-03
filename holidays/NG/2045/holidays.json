@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2045-01-31",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2045-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2045-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2045-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2045-06-12",
+    "holiday": "Democracy Day"
+  },
+  {
+    "date": "2045-08-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2045-08-16",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2045-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2045-10-02",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2045-10-22",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2045-10-23",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2045-10-24",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2045-12-26",
+    "holiday": "Boxing Day"
+  }
+]

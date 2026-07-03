@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-01-17",
+    "holiday": "Possession Day"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2018-04-21",
+    "holiday": "The Queen's Birthday"
+  },
+  {
+    "date": "2018-04-23",
+    "holiday": "The Queen's Birthday (observed)"
+  },
+  {
+    "date": "2018-04-25",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2018-05-20",
+    "holiday": "Shackleton Day"
+  },
+  {
+    "date": "2018-05-21",
+    "holiday": "Shackleton Day (observed)"
+  },
+  {
+    "date": "2018-06-21",
+    "holiday": "Mid-winter Day"
+  },
+  {
+    "date": "2018-09-04",
+    "holiday": "Toothfish Day"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-12-26",
+    "holiday": "Boxing Day"
+  }
+]

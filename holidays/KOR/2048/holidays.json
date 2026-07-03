@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-02-13",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2048-02-14",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2048-02-15",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2048-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2048-03-02",
+    "holiday": "Alternative holiday for Independence Movement Day"
+  },
+  {
+    "date": "2048-04-08",
+    "holiday": "National Assembly Election Day"
+  },
+  {
+    "date": "2048-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2048-05-20",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2048-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2048-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2048-08-17",
+    "holiday": "Alternative holiday for Liberation Day"
+  },
+  {
+    "date": "2048-09-21",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2048-09-22",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2048-09-23",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2048-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2048-10-05",
+    "holiday": "Alternative holiday for National Foundation Day"
+  },
+  {
+    "date": "2048-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  }
+]

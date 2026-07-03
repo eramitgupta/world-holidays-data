@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2038-01-16",
+    "holiday": "Eid ul-Adha (estimated)"
+  },
+  {
+    "date": "2038-01-18",
+    "holiday": "Eid ul-Adha (observed, estimated)"
+  },
+  {
+    "date": "2038-03-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2038-03-08",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2038-05-03",
+    "holiday": "May Day (observed)"
+  },
+  {
+    "date": "2038-08-04",
+    "holiday": "Founders' Day"
+  },
+  {
+    "date": "2038-09-21",
+    "holiday": "Kwame Nkrumah Memorial Day"
+  },
+  {
+    "date": "2038-10-29",
+    "holiday": "Eid ul-Fitr (estimated)"
+  },
+  {
+    "date": "2038-12-03",
+    "holiday": "Farmer's Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2038-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2038-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

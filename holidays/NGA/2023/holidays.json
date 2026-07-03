@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2023-04-21",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2023-04-22",
+    "holiday": "Eid al-Fitr Holiday"
+  },
+  {
+    "date": "2023-04-24",
+    "holiday": "Eid al-Fitr Holiday (observed)"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2023-05-29",
+    "holiday": "Presidential Inauguration Day"
+  },
+  {
+    "date": "2023-06-12",
+    "holiday": "Democracy Day"
+  },
+  {
+    "date": "2023-06-28",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2023-06-29",
+    "holiday": "Eid al-Adha Holiday"
+  },
+  {
+    "date": "2023-09-27",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2023-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2023-10-02",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2023-12-26",
+    "holiday": "Boxing Day"
+  }
+]

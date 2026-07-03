@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-02-18",
+    "holiday": "Chinese New Year's Eve"
+  },
+  {
+    "date": "2053-02-19",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2053-02-20",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2053-02-21",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2053-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2053-06-20",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2053-09-26",
+    "holiday": "Mid-Autumn Festival"
+  },
+  {
+    "date": "2053-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2053-10-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2053-10-03",
+    "holiday": "National Day"
+  }
+]

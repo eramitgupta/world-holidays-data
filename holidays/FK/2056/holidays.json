@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-06-14",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2056-10-02",
+    "holiday": "Peat Cutting Day"
+  },
+  {
+    "date": "2056-11-14",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2056-12-27",
+    "holiday": "Christmas Holiday"
+  }
+]

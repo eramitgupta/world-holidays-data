@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-31",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2055-02-01",
+    "holiday": "Day following Independence Day"
+  },
+  {
+    "date": "2055-02-02",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2055-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-04-20",
+    "holiday": "Easter Tuesday"
+  },
+  {
+    "date": "2055-05-17",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2055-07-01",
+    "holiday": "RONPHOS Handover"
+  },
+  {
+    "date": "2055-08-19",
+    "holiday": "Ibumin Earoeni Day"
+  },
+  {
+    "date": "2055-09-25",
+    "holiday": "Sir Hammer DeRoburt Day"
+  },
+  {
+    "date": "2055-09-27",
+    "holiday": "Sir Hammer DeRoburt Day (observed)"
+  },
+  {
+    "date": "2055-10-26",
+    "holiday": "Angam Day"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Day following Christmas"
+  },
+  {
+    "date": "2055-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2055-12-28",
+    "holiday": "Day following Christmas (observed)"
+  }
+]

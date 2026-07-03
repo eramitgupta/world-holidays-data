@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2053-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2053-05-15",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2053-05-26",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2053-06-05",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2053-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2053-10-26",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2053-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2053-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2053-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]

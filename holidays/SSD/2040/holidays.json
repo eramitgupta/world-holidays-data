@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-09",
+    "holiday": "Peace Agreement Day"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-03-31",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2040-04-01",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "International Labour Day"
+  },
+  {
+    "date": "2040-05-16",
+    "holiday": "SPLA Day"
+  },
+  {
+    "date": "2040-07-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-07-30",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2040-10-07",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2040-12-14",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2040-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

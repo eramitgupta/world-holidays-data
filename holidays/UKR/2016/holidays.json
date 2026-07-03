@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-07",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-01-08",
+    "holiday": "Day off (substituted from 01/16/2016)"
+  },
+  {
+    "date": "2016-03-07",
+    "holiday": "Day off (substituted from 03/12/2016)"
+  },
+  {
+    "date": "2016-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Easter Sunday (Pascha); International Workers' Solidarity Day"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "International Workers' Solidarity Day"
+  },
+  {
+    "date": "2016-05-03",
+    "holiday": "Easter Sunday (Pascha) (observed); International Workers' Solidarity Day (observed)"
+  },
+  {
+    "date": "2016-05-09",
+    "holiday": "Day of Victory over Nazism in World War II (Victory Day)"
+  },
+  {
+    "date": "2016-06-19",
+    "holiday": "Holy Trinity Day"
+  },
+  {
+    "date": "2016-06-20",
+    "holiday": "Holy Trinity Day (observed)"
+  },
+  {
+    "date": "2016-06-27",
+    "holiday": "Day off (substituted from 07/02/2016)"
+  },
+  {
+    "date": "2016-06-28",
+    "holiday": "Day of the Constitution of Ukraine"
+  },
+  {
+    "date": "2016-08-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-10-14",
+    "holiday": "Defender of Ukraine Day"
+  }
+]

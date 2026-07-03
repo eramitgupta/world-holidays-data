@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-02-17",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-23",
+    "holiday": "National Labour Day"
+  },
+  {
+    "date": "2021-05-24",
+    "holiday": "National Labour Day (observed)"
+  },
+  {
+    "date": "2021-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2021-08-02",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2021-08-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-10-18",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

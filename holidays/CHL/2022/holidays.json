@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-16",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-05-21",
+    "holiday": "Navy Day"
+  },
+  {
+    "date": "2022-06-21",
+    "holiday": "National Day of Indigenous Peoples"
+  },
+  {
+    "date": "2022-06-27",
+    "holiday": "Saint Peter and Saint Paul's Day"
+  },
+  {
+    "date": "2022-07-16",
+    "holiday": "Our Lady of Mount Carmel"
+  },
+  {
+    "date": "2022-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2022-09-16",
+    "holiday": "National Holiday"
+  },
+  {
+    "date": "2022-09-18",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-09-19",
+    "holiday": "Army Day"
+  },
+  {
+    "date": "2022-10-10",
+    "holiday": "Meeting of Two Worlds' Day"
+  },
+  {
+    "date": "2022-10-31",
+    "holiday": "Reformation Day"
+  },
+  {
+    "date": "2022-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2022-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  }
+]

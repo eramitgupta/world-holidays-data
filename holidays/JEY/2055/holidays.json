@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-05-03",
+    "holiday": "Early May Bank Holiday"
+  },
+  {
+    "date": "2055-05-31",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2055-08-30",
+    "holiday": "Summer Bank Holiday"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2055-12-27",
+    "holiday": "Christmas Day (substitute day)"
+  },
+  {
+    "date": "2055-12-28",
+    "holiday": "Boxing Day (substitute day)"
+  }
+]

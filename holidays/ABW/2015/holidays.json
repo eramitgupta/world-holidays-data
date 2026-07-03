@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-25",
+    "holiday": "Betico Day"
+  },
+  {
+    "date": "2015-02-16",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2015-03-18",
+    "holiday": "National Anthem and Flag Day"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2015-04-27",
+    "holiday": "King's Day"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-05-14",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

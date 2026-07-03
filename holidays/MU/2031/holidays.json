@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2031-01-08",
+    "holiday": "Thaipusam"
+  },
+  {
+    "date": "2031-01-23",
+    "holiday": "Chinese Spring Festival"
+  },
+  {
+    "date": "2031-01-25",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2031-02-01",
+    "holiday": "Abolition of Slavery"
+  },
+  {
+    "date": "2031-02-20",
+    "holiday": "Maha Shivaratri"
+  },
+  {
+    "date": "2031-03-12",
+    "holiday": "Independence and Republic Day"
+  },
+  {
+    "date": "2031-03-24",
+    "holiday": "Ugadi"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2031-09-20",
+    "holiday": "Ganesh Chaturthi"
+  },
+  {
+    "date": "2031-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2031-11-02",
+    "holiday": "Arrival of Indentured Laborers"
+  },
+  {
+    "date": "2031-11-14",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  }
+]

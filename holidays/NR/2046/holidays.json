@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-01-31",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2046-02-01",
+    "holiday": "Day following Independence Day"
+  },
+  {
+    "date": "2046-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2046-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2046-03-27",
+    "holiday": "Easter Tuesday"
+  },
+  {
+    "date": "2046-05-17",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2046-07-01",
+    "holiday": "RONPHOS Handover"
+  },
+  {
+    "date": "2046-07-02",
+    "holiday": "RONPHOS Handover (observed)"
+  },
+  {
+    "date": "2046-08-19",
+    "holiday": "Ibumin Earoeni Day"
+  },
+  {
+    "date": "2046-08-20",
+    "holiday": "Ibumin Earoeni Day (observed)"
+  },
+  {
+    "date": "2046-09-25",
+    "holiday": "Sir Hammer DeRoburt Day"
+  },
+  {
+    "date": "2046-10-26",
+    "holiday": "Angam Day"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2046-12-26",
+    "holiday": "Day following Christmas"
+  }
+]

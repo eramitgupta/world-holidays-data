@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-02-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2029-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2029-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2029-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2029-05-21",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2029-05-31",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2029-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2029-08-13",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2029-08-14",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2029-10-19",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2029-10-25",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2029-12-26",
+    "holiday": "Boxing Day"
+  }
+]

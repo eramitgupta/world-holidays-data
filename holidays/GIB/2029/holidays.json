@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-02-19",
+    "holiday": "Winter Midterm Bank Holiday"
+  },
+  {
+    "date": "2029-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2029-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2029-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2029-04-30",
+    "holiday": "Workers' Memorial Day (observed)"
+  },
+  {
+    "date": "2029-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2029-05-28",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2029-06-11",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2029-08-27",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2029-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2029-12-26",
+    "holiday": "Boxing Day"
+  }
+]

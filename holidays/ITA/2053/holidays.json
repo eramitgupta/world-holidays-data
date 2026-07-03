@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "Capodanno"
+  },
+  {
+    "date": "2053-01-06",
+    "holiday": "Epifania del Signore"
+  },
+  {
+    "date": "2053-04-06",
+    "holiday": "Pasqua di Resurrezione"
+  },
+  {
+    "date": "2053-04-07",
+    "holiday": "Lunedì dell'Angelo"
+  },
+  {
+    "date": "2053-04-25",
+    "holiday": "Festa della Liberazione"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "Festa dei Lavoratori"
+  },
+  {
+    "date": "2053-06-02",
+    "holiday": "Festa della Repubblica"
+  },
+  {
+    "date": "2053-08-15",
+    "holiday": "Assunzione della Vergine"
+  },
+  {
+    "date": "2053-11-01",
+    "holiday": "Tutti i Santi"
+  },
+  {
+    "date": "2053-12-08",
+    "holiday": "Immacolata Concezione"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Natale"
+  },
+  {
+    "date": "2053-12-26",
+    "holiday": "Santo Stefano"
+  }
+]

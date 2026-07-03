@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-02-15",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2056-03-30",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-01",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2056-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2056-04-16",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2056-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2056-06-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2056-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2056-08-28",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2056-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2056-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2056-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2056-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

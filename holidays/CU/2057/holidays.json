@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2057-01-02",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2057-07-25",
+    "holiday": "Commemoration of the Assault of the Moncada garrison"
+  },
+  {
+    "date": "2057-07-26",
+    "holiday": "Day of the National Rebellion"
+  },
+  {
+    "date": "2057-07-27",
+    "holiday": "Commemoration of the Assault of the Moncada garrison"
+  },
+  {
+    "date": "2057-10-10",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2057-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2051-01-17",
+    "holiday": "Possession Day"
+  },
+  {
+    "date": "2051-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2051-04-25",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2051-05-20",
+    "holiday": "Shackleton Day"
+  },
+  {
+    "date": "2051-05-22",
+    "holiday": "Shackleton Day (observed)"
+  },
+  {
+    "date": "2051-06-21",
+    "holiday": "Mid-winter Day"
+  },
+  {
+    "date": "2051-10-30",
+    "holiday": "Environment Day"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2051-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-03-29",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2029-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2029-03-31",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2029-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2029-05-10",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2029-06-17",
+    "holiday": "Father's Day"
+  },
+  {
+    "date": "2029-08-06",
+    "holiday": "Celebrations of San Salvador"
+  },
+  {
+    "date": "2029-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2029-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Christmas Day"
+  }
+]

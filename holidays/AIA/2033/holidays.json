@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2033-03-02",
+    "holiday": "James Ronald Webster Day"
+  },
+  {
+    "date": "2033-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2033-04-17",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2033-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2033-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2033-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2033-05-30",
+    "holiday": "Anguilla Day"
+  },
+  {
+    "date": "2033-06-06",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2033-06-20",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2033-08-01",
+    "holiday": "August Monday"
+  },
+  {
+    "date": "2033-08-04",
+    "holiday": "August Thursday"
+  },
+  {
+    "date": "2033-08-05",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2033-12-19",
+    "holiday": "National Heroes and Heroines Day"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2033-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2033-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

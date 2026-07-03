@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-10",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2050-01-21",
+    "holiday": "Lady of Altagracia"
+  },
+  {
+    "date": "2050-01-24",
+    "holiday": "Juan Pablo Duarte Day"
+  },
+  {
+    "date": "2050-02-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2050-06-09",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2050-08-15",
+    "holiday": "Restoration Day"
+  },
+  {
+    "date": "2050-09-24",
+    "holiday": "Our Lady of Mercedes Day"
+  },
+  {
+    "date": "2050-11-06",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  }
+]

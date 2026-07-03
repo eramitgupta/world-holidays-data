@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2031-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2031-04-02",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2031-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2031-05-22",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2031-07-02",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2031-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-04-21",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2023-04-22",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2023-04-23",
+    "holiday": "Eid al-Fitr; National Sovereignty and Children's Day"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labour and Solidarity Day"
+  },
+  {
+    "date": "2023-05-19",
+    "holiday": "Commemoration of Atatürk, Youth and Sports Day"
+  },
+  {
+    "date": "2023-06-28",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2023-06-29",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2023-06-30",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2023-07-01",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2023-07-15",
+    "holiday": "Democracy and National Unity Day"
+  },
+  {
+    "date": "2023-08-30",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2023-10-29",
+    "holiday": "Republic Day"
+  }
+]

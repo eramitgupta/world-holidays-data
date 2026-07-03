@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-03-23",
+    "holiday": "Beginning of Ramadan (estimated)"
+  },
+  {
+    "date": "2023-04-21",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2023-04-22",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2023-04-23",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2023-06-27",
+    "holiday": "Hajj Day (estimated)"
+  },
+  {
+    "date": "2023-06-28",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2023-06-29",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2023-06-30",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2023-07-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2023-07-19",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2023-07-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2023-09-16",
+    "holiday": "National Day (estimated)"
+  },
+  {
+    "date": "2023-09-27",
+    "holiday": "Mawlid al-Nabi (estimated)"
+  },
+  {
+    "date": "2023-10-16",
+    "holiday": "The Day Maldives Embraced Islam (estimated)"
+  },
+  {
+    "date": "2023-11-03",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2023-11-11",
+    "holiday": "Republic Day"
+  }
+]

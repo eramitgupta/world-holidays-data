@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-05-22",
+    "holiday": "Bermuda Day"
+  },
+  {
+    "date": "2048-06-15",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2048-07-30",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2048-07-31",
+    "holiday": "Mary Prince Day"
+  },
+  {
+    "date": "2048-09-07",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2048-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2048-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

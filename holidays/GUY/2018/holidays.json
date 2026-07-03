@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-02-23",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2018-03-02",
+    "holiday": "Holi"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2018-05-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2018-07-02",
+    "holiday": "CARICOM Day"
+  },
+  {
+    "date": "2018-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2018-08-22",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2018-11-07",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2018-11-21",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-12-26",
+    "holiday": "Day after Christmas"
+  }
+]

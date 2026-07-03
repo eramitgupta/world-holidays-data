@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-01-15",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2040-01-16",
+    "holiday": "Islamic New Year (observed, estimated)"
+  },
+  {
+    "date": "2040-02-12",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2040-02-13",
+    "holiday": "Lunar New Year (observed)"
+  },
+  {
+    "date": "2040-02-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2040-03-25",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2040-03-26",
+    "holiday": "Prophet's Birthday (observed, estimated)"
+  },
+  {
+    "date": "2040-05-31",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2040-07-15",
+    "holiday": "Sultan Hassanal Bolkiah's Birthday"
+  },
+  {
+    "date": "2040-07-16",
+    "holiday": "Sultan Hassanal Bolkiah's Birthday (observed)"
+  },
+  {
+    "date": "2040-08-05",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2040-08-06",
+    "holiday": "Isra' and Mi'raj (observed, estimated)"
+  },
+  {
+    "date": "2040-09-07",
+    "holiday": "First Day of Ramadan (estimated)"
+  },
+  {
+    "date": "2040-09-08",
+    "holiday": "First Day of Ramadan (observed, estimated)"
+  },
+  {
+    "date": "2040-09-23",
+    "holiday": "Anniversary of the revelation of the Quran (estimated)"
+  },
+  {
+    "date": "2040-09-24",
+    "holiday": "Anniversary of the revelation of the Quran (observed, estimated)"
+  },
+  {
+    "date": "2040-10-07",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2040-10-08",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2040-10-09",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2040-10-10",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2040-12-14",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2040-12-15",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  }
+]

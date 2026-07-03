@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-02-14",
+    "holiday": "Monday of Carnival"
+  },
+  {
+    "date": "2056-02-15",
+    "holiday": "Tuesday of Carnival"
+  },
+  {
+    "date": "2056-03-30",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-19",
+    "holiday": "Declaration of Independence"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "International Worker's Day"
+  },
+  {
+    "date": "2056-06-24",
+    "holiday": "Battle of Carabobo"
+  },
+  {
+    "date": "2056-07-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2056-07-24",
+    "holiday": "Birthday of Simon Bolivar"
+  },
+  {
+    "date": "2056-10-12",
+    "holiday": "Day of Indigenous Resistance"
+  },
+  {
+    "date": "2056-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

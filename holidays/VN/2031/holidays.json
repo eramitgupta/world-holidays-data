@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-21",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2031-01-22",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2031-01-23",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2031-01-24",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2031-01-25",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2031-01-26",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2031-01-27",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2031-04-01",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2031-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2031-09-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2031-09-02",
+    "holiday": "National Day"
+  }
+]

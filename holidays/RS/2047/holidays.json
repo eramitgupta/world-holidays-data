@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2047-02-15",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2047-02-16",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2047-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2047-04-20",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2047-04-21",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2047-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2047-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2047-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2047-11-11",
+    "holiday": "Armistice Day"
+  }
+]

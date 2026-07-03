@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-02-17",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2048-02-18",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2048-03-24",
+    "holiday": "National Day of Remembrance for Truth and Justice"
+  },
+  {
+    "date": "2048-04-02",
+    "holiday": "Maundy Thursday; Veteran's Day and the Fallen in the Malvinas War"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2048-05-25",
+    "holiday": "May Revolution Day"
+  },
+  {
+    "date": "2048-06-15",
+    "holiday": "Pass to the Immortality of General Don Martín Miguel de Güemes"
+  },
+  {
+    "date": "2048-06-20",
+    "holiday": "Pass to the Immortality of General Don Manuel Belgrano"
+  },
+  {
+    "date": "2048-07-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-08-17",
+    "holiday": "Pass to the Immortality of General Don José de San Martín"
+  },
+  {
+    "date": "2048-10-12",
+    "holiday": "Respect for Cultural Diversity Day"
+  },
+  {
+    "date": "2048-11-23",
+    "holiday": "National Sovereignty Day"
+  },
+  {
+    "date": "2048-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  }
+]

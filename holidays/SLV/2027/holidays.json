@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-03-25",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2027-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2027-03-27",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2027-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2027-05-10",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2027-06-17",
+    "holiday": "Father's Day"
+  },
+  {
+    "date": "2027-08-06",
+    "holiday": "Celebrations of San Salvador"
+  },
+  {
+    "date": "2027-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2027-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  }
+]

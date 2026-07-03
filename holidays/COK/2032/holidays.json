@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2032-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2032-06-07",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2032-07-02",
+    "holiday": "Day of the House of Ariki"
+  },
+  {
+    "date": "2032-08-04",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2032-10-26",
+    "holiday": "Cook Islands Gospel Day"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2032-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2032-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

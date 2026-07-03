@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year Holiday"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-03-31",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2040-05-31",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2040-06-18",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2040-06-29",
+    "holiday": "Independence (National) Day"
+  },
+  {
+    "date": "2040-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2040-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2040-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  }
+]

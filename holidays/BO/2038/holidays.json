@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-22",
+    "holiday": "Plurinational State Foundation Day"
+  },
+  {
+    "date": "2038-03-08",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2038-03-09",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2038-06-21",
+    "holiday": "Aymara New Year"
+  },
+  {
+    "date": "2038-06-24",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2038-08-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2038-10-17",
+    "holiday": "National Dignity Day"
+  },
+  {
+    "date": "2038-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  }
+]

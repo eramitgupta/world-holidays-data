@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-25",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2020-01-27",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2020-01-28",
+    "holiday": "The fourth day of Chinese New Year"
+  },
+  {
+    "date": "2020-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-06-25",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2020-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2020-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2020-10-02",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2020-10-25",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2020-10-26",
+    "holiday": "Double Ninth Festival (observed)"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  }
+]

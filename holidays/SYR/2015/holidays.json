@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-03",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2015-03-08",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2015-03-21",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2015-04-05",
+    "holiday": "Gregorian Easter Sunday"
+  },
+  {
+    "date": "2015-04-12",
+    "holiday": "Julian Easter Sunday"
+  },
+  {
+    "date": "2015-04-17",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-05-06",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2015-07-17",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2015-07-18",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2015-07-19",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2015-09-22",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2015-09-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2015-09-24",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2015-09-25",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2015-10-06",
+    "holiday": "Tishreen Liberation War Day"
+  },
+  {
+    "date": "2015-10-14",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2015-12-23",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

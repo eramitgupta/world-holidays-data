@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-03-30",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2054-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2054-05-07",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2054-05-08",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2054-05-18",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2054-06-10",
+    "holiday": "Abolition of Slavery"
+  },
+  {
+    "date": "2054-07-14",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2054-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2054-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2054-11-11",
+    "holiday": "Armistice Day"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Christmas Day"
+  }
+]

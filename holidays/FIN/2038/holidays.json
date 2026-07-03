@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-25",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2038-06-03",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2038-06-13",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2038-06-25",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2038-06-26",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2038-11-06",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2038-12-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2038-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2039-01-24",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2039-01-25",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2039-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2039-05-07",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2039-08-09",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2039-10-19",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2039-11-14",
+    "holiday": "Deepavali"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2039-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

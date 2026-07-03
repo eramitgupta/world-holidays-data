@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2040-02-12",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2040-02-13",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2040-02-14",
+    "holiday": "Chinese New Year (observed)"
+  },
+  {
+    "date": "2040-03-19",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2040-10-01",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2040-10-07",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2040-10-08",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2040-12-14",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2027-02-06",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2027-02-07",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2027-02-08",
+    "holiday": "Chinese New Year (observed)"
+  },
+  {
+    "date": "2027-02-09",
+    "holiday": "Chinese New Year (observed)"
+  },
+  {
+    "date": "2027-03-09",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2027-03-15",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2027-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2027-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2027-04-26",
+    "holiday": "ANZAC Day (observed)"
+  },
+  {
+    "date": "2027-05-16",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2027-05-17",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2027-10-04",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2027-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2027-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2027-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

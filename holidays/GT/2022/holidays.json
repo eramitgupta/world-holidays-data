@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-04-14",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-16",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-07-04",
+    "holiday": "Army Day"
+  },
+  {
+    "date": "2022-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2022-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-10-20",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2022-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  }
+]

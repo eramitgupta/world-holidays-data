@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-02",
+    "holiday": "New Year's Holiday"
+  },
+  {
+    "date": "2020-02-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-06-01",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2020-06-11",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2020-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2020-10-05",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2020-12-13",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2020-12-14",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Boxing Day"
+  }
+]

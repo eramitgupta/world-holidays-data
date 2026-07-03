@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-01-03",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2046-01-19",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2046-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2046-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2046-05-03",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2046-08-03",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2046-08-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2046-08-06",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2046-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2046-10-10",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2046-10-31",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2046-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2046-12-11",
+    "holiday": "Proclamation of Independence Day"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  }
+]

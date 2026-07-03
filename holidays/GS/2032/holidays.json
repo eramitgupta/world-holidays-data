@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-01-17",
+    "holiday": "Possession Day"
+  },
+  {
+    "date": "2032-01-19",
+    "holiday": "Possession Day (observed)"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-04-25",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2032-04-26",
+    "holiday": "Liberation Day (observed)"
+  },
+  {
+    "date": "2032-05-20",
+    "holiday": "Shackleton Day"
+  },
+  {
+    "date": "2032-06-21",
+    "holiday": "Mid-winter Day"
+  },
+  {
+    "date": "2032-10-30",
+    "holiday": "Environment Day"
+  },
+  {
+    "date": "2032-11-01",
+    "holiday": "Environment Day (observed)"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2032-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2032-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

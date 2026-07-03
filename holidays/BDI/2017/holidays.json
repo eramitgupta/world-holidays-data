@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-02-05",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2017-02-06",
+    "holiday": "Unity Day (observed)"
+  },
+  {
+    "date": "2017-04-06",
+    "holiday": "Commemoration of the Assassination of President Cyprien Ntaryamira"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2017-05-25",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2017-06-26",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2017-07-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2017-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2017-09-02",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2017-10-13",
+    "holiday": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore"
+  },
+  {
+    "date": "2017-10-21",
+    "holiday": "Commemoration of the Assassination of President Melchior Ndadaye"
+  },
+  {
+    "date": "2017-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  }
+]

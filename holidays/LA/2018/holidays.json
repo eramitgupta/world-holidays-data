@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-03-08",
+    "holiday": "International Women's Rights Day"
+  },
+  {
+    "date": "2018-04-14",
+    "holiday": "Lao New Year's Day"
+  },
+  {
+    "date": "2018-04-15",
+    "holiday": "Lao New Year's Day"
+  },
+  {
+    "date": "2018-04-16",
+    "holiday": "Lao New Year's Day"
+  },
+  {
+    "date": "2018-04-17",
+    "holiday": "Lao New Year's Day (in lieu)"
+  },
+  {
+    "date": "2018-04-18",
+    "holiday": "Lao New Year's Day (in lieu)"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2018-12-02",
+    "holiday": "Lao National Day"
+  },
+  {
+    "date": "2018-12-03",
+    "holiday": "Lao National Day (in lieu)"
+  }
+]

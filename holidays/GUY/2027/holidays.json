@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-02-23",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2027-03-22",
+    "holiday": "Holi"
+  },
+  {
+    "date": "2027-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2027-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2027-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2027-05-05",
+    "holiday": "Arrival Day"
+  },
+  {
+    "date": "2027-05-17",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2027-05-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2027-07-05",
+    "holiday": "CARICOM Day"
+  },
+  {
+    "date": "2027-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2027-08-02",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2027-08-15",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2027-08-16",
+    "holiday": "Prophet's Birthday (observed, estimated)"
+  },
+  {
+    "date": "2027-10-29",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2027-12-26",
+    "holiday": "Day after Christmas"
+  },
+  {
+    "date": "2027-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2027-12-28",
+    "holiday": "Day after Christmas (observed)"
+  }
+]

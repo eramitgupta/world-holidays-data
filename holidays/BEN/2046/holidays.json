@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-01-11",
+    "holiday": "Vodoun Festival"
+  },
+  {
+    "date": "2046-01-12",
+    "holiday": "Vodoun Festival"
+  },
+  {
+    "date": "2046-01-19",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2046-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2046-05-03",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2046-05-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2046-08-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2046-08-03",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2046-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2046-10-10",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2046-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  }
+]

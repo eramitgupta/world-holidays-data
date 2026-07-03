@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-02",
+    "holiday": "Day off (substituted from 01/04/2020)"
+  },
+  {
+    "date": "2020-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2020-03-21",
+    "holiday": "Nowruz"
+  },
+  {
+    "date": "2020-03-23",
+    "holiday": "Additional day off by Presidential decree"
+  },
+  {
+    "date": "2020-05-09",
+    "holiday": "Day of Memory and Honor"
+  },
+  {
+    "date": "2020-05-24",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-31",
+    "holiday": "Day off (substituted from 08/29/2020)"
+  },
+  {
+    "date": "2020-09-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-10-01",
+    "holiday": "Teachers and Instructors Day"
+  },
+  {
+    "date": "2020-12-08",
+    "holiday": "Constitution Day"
+  }
+]

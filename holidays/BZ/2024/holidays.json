@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-01-15",
+    "holiday": "George Price Day"
+  },
+  {
+    "date": "2024-03-09",
+    "holiday": "National Heroes and Benefactors Day"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-03-30",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2024-07-29",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2024-09-10",
+    "holiday": "Saint George's Caye Day"
+  },
+  {
+    "date": "2024-09-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2024-10-12",
+    "holiday": "Indigenous Peoples' Resistance Day"
+  },
+  {
+    "date": "2024-11-19",
+    "holiday": "Garifuna Settlement Day"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "Boxing Day"
+  }
+]

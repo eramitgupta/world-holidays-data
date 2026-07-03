@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2017-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2017-05-22",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2017-06-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2017-06-25",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2017-06-26",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2017-06-27",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2017-08-31",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2017-09-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2017-09-02",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2017-09-03",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2017-09-04",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2017-09-05",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2017-09-21",
+    "holiday": "Hijri New Year (estimated)"
+  },
+  {
+    "date": "2017-09-26",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2017-10-14",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2017-11-30",
+    "holiday": "Independence Day"
+  }
+]

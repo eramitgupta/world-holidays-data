@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-02-05",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2019-02-25",
+    "holiday": "EDSA People Power Revolution Anniversary"
+  },
+  {
+    "date": "2019-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2019-04-18",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-20",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-05-13",
+    "holiday": "Elections special (non-working) day"
+  },
+  {
+    "date": "2019-06-05",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2019-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-08-12",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2019-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2019-08-26",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2019-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2019-11-02",
+    "holiday": "Additional special (non-working) day"
+  },
+  {
+    "date": "2019-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2019-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2019-12-24",
+    "holiday": "Additional special (non-working) day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2019-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-17",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2039-02-21",
+    "holiday": "Washington's Birthday"
+  },
+  {
+    "date": "2039-03-24",
+    "holiday": "Commonwealth Covenant Day"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-05-30",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2039-06-19",
+    "holiday": "Juneteenth National Independence Day"
+  },
+  {
+    "date": "2039-06-20",
+    "holiday": "Juneteenth National Independence Day (observed)"
+  },
+  {
+    "date": "2039-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2039-09-05",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2039-10-10",
+    "holiday": "Commonwealth Cultural Day"
+  },
+  {
+    "date": "2039-11-04",
+    "holiday": "Citizenship Day"
+  },
+  {
+    "date": "2039-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2039-11-24",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2039-12-08",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2038-04-25",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2038-05-30",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2038-06-22",
+    "holiday": "Anti-Fascist Struggle Day"
+  },
+  {
+    "date": "2038-06-24",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2038-08-05",
+    "holiday": "Victory and Homeland Thanksgiving Day and Croatian Veterans Day"
+  },
+  {
+    "date": "2038-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2038-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2038-11-18",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]

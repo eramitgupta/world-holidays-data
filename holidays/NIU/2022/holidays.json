@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-02",
+    "holiday": "Takai Commission Holiday"
+  },
+  {
+    "date": "2022-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2022-01-04",
+    "holiday": "Takai Commission Holiday (observed)"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2022-06-06",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2022-09-19",
+    "holiday": "Queen Elizabeth II's Funeral"
+  },
+  {
+    "date": "2022-10-19",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2022-10-20",
+    "holiday": "Constitution Day Holiday"
+  },
+  {
+    "date": "2022-10-24",
+    "holiday": "Peniamina Gospel Day"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2034-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2034-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2034-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2034-05-26",
+    "holiday": "Bermuda Day"
+  },
+  {
+    "date": "2034-06-19",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2034-08-03",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2034-08-04",
+    "holiday": "Mary Prince Day"
+  },
+  {
+    "date": "2034-09-04",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2034-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2034-11-13",
+    "holiday": "Remembrance Day (observed)"
+  },
+  {
+    "date": "2034-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2034-12-26",
+    "holiday": "Boxing Day"
+  }
+]

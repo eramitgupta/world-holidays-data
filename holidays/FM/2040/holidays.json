@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Micronesian Culture and Tradition Day (observed)"
+  },
+  {
+    "date": "2040-03-31",
+    "holiday": "Micronesian Culture and Tradition Day"
+  },
+  {
+    "date": "2040-05-10",
+    "holiday": "Federated States of Micronesia Day"
+  },
+  {
+    "date": "2040-10-24",
+    "holiday": "United Nations Day"
+  },
+  {
+    "date": "2040-11-02",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2040-11-03",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-11-11",
+    "holiday": "FSM Veterans of Foreign Wars Day"
+  },
+  {
+    "date": "2040-11-12",
+    "holiday": "FSM Veterans of Foreign Wars Day (observed)"
+  },
+  {
+    "date": "2040-11-23",
+    "holiday": "Presidents Day"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  }
+]

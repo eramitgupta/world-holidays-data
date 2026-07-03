@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2018-04-06",
+    "holiday": "Act of Self Determination Day"
+  },
+  {
+    "date": "2018-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2018-06-11",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2018-06-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2018-08-21",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2018-09-11",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2018-11-20",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-12-26",
+    "holiday": "Boxing Day"
+  }
+]

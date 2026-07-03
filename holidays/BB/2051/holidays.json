@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2051-01-21",
+    "holiday": "Errol Barrow Day"
+  },
+  {
+    "date": "2051-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2051-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2051-04-28",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2051-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2051-05-22",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2051-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2051-08-07",
+    "holiday": "Kadooment Day"
+  },
+  {
+    "date": "2051-11-30",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2051-12-26",
+    "holiday": "Boxing Day"
+  }
+]

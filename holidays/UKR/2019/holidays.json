@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-01-07",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2019-04-28",
+    "holiday": "Easter Sunday (Pascha)"
+  },
+  {
+    "date": "2019-04-29",
+    "holiday": "Easter Sunday (Pascha) (observed)"
+  },
+  {
+    "date": "2019-04-30",
+    "holiday": "Day off (substituted from 05/11/2019)"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-05-09",
+    "holiday": "Day of Victory over Nazism in World War II (Victory Day)"
+  },
+  {
+    "date": "2019-06-16",
+    "holiday": "Holy Trinity Day"
+  },
+  {
+    "date": "2019-06-17",
+    "holiday": "Holy Trinity Day (observed)"
+  },
+  {
+    "date": "2019-06-28",
+    "holiday": "Day of the Constitution of Ukraine"
+  },
+  {
+    "date": "2019-08-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-08-26",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2019-10-14",
+    "holiday": "Defender of Ukraine Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-30",
+    "holiday": "Day off (substituted from 12/21/2019)"
+  },
+  {
+    "date": "2019-12-31",
+    "holiday": "Day off (substituted from 12/28/2019)"
+  }
+]

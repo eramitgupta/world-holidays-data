@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2039-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2039-06-01",
+    "holiday": "Madaraka Day"
+  },
+  {
+    "date": "2039-10-10",
+    "holiday": "Mazingira Day"
+  },
+  {
+    "date": "2039-10-19",
+    "holiday": "Eid-al-Fitr (estimated)"
+  },
+  {
+    "date": "2039-10-20",
+    "holiday": "Mashujaa Day"
+  },
+  {
+    "date": "2039-12-12",
+    "holiday": "Jamhuri Day"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2039-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

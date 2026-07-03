@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-01-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2046-01-08",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2046-03-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2046-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2046-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2046-08-03",
+    "holiday": "Eid ul-Fitr (estimated)"
+  },
+  {
+    "date": "2046-08-04",
+    "holiday": "Founders' Day"
+  },
+  {
+    "date": "2046-08-06",
+    "holiday": "Founders' Day (observed)"
+  },
+  {
+    "date": "2046-09-21",
+    "holiday": "Kwame Nkrumah Memorial Day"
+  },
+  {
+    "date": "2046-10-10",
+    "holiday": "Eid ul-Adha (estimated)"
+  },
+  {
+    "date": "2046-12-07",
+    "holiday": "Farmer's Day"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2046-12-26",
+    "holiday": "Boxing Day"
+  }
+]

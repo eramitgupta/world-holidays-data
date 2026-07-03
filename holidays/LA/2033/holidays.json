@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-03",
+    "holiday": "New Year's Day (in lieu)"
+  },
+  {
+    "date": "2033-03-08",
+    "holiday": "International Women's Rights Day"
+  },
+  {
+    "date": "2033-04-14",
+    "holiday": "Lao New Year's Day"
+  },
+  {
+    "date": "2033-04-15",
+    "holiday": "Lao New Year's Day"
+  },
+  {
+    "date": "2033-04-16",
+    "holiday": "Lao New Year's Day"
+  },
+  {
+    "date": "2033-04-18",
+    "holiday": "Lao New Year's Day (in lieu)"
+  },
+  {
+    "date": "2033-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2033-05-02",
+    "holiday": "International Labor Day (in lieu)"
+  },
+  {
+    "date": "2033-12-02",
+    "holiday": "Lao National Day"
+  }
+]

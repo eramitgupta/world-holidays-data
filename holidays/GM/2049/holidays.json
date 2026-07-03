@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-02-18",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2049-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2049-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2049-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2049-05-03",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2049-05-25",
+    "holiday": "Africa Liberation Day"
+  },
+  {
+    "date": "2049-06-28",
+    "holiday": "Laylat al-Qadr (estimated)"
+  },
+  {
+    "date": "2049-07-01",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2049-07-02",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2049-07-22",
+    "holiday": "July 22 Revolution Day"
+  },
+  {
+    "date": "2049-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2049-08-16",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2049-09-08",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2049-09-09",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2049-10-07",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2049-12-07",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2049-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2049-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2049-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

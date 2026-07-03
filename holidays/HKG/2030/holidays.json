@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2030-02-05",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2030-02-06",
+    "holiday": "The fourth day of Chinese New Year"
+  },
+  {
+    "date": "2030-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-04-20",
+    "holiday": "The day following Good Friday"
+  },
+  {
+    "date": "2030-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2030-05-09",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2030-06-05",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2030-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2030-09-13",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2030-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2030-10-05",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2030-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  }
+]

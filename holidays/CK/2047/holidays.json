@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2047-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2047-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2047-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2047-06-03",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2047-07-05",
+    "holiday": "Day of the House of Ariki"
+  },
+  {
+    "date": "2047-08-04",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2047-08-05",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2047-10-26",
+    "holiday": "Cook Islands Gospel Day"
+  },
+  {
+    "date": "2047-10-28",
+    "holiday": "Cook Islands Gospel Day (observed)"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2047-12-26",
+    "holiday": "Boxing Day"
+  }
+]

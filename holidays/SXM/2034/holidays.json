@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2034-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2034-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2034-04-09",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2034-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2034-04-27",
+    "holiday": "King's Day"
+  },
+  {
+    "date": "2034-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2034-05-02",
+    "holiday": "Carnival Day"
+  },
+  {
+    "date": "2034-05-18",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2034-05-28",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2034-07-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2034-10-09",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2034-11-11",
+    "holiday": "Sint Maarten Day"
+  },
+  {
+    "date": "2034-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2034-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

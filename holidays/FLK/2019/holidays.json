@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-21",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Queen's Birthday (observed)"
+  },
+  {
+    "date": "2019-06-14",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2019-10-07",
+    "holiday": "Peat Cutting Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2019-12-27",
+    "holiday": "Christmas Holiday"
+  }
+]

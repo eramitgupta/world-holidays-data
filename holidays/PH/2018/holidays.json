@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-02-16",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2018-02-25",
+    "holiday": "EDSA People Power Revolution Anniversary"
+  },
+  {
+    "date": "2018-03-29",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-03-31",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2018-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2018-05-14",
+    "holiday": "Elections special (non-working) day"
+  },
+  {
+    "date": "2018-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2018-06-15",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2018-08-21",
+    "holiday": "Eid al-Adha; Ninoy Aquino Day"
+  },
+  {
+    "date": "2018-08-27",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2018-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2018-11-02",
+    "holiday": "Additional special (non-working) day"
+  },
+  {
+    "date": "2018-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2018-12-24",
+    "holiday": "Additional special (non-working) day"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2018-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

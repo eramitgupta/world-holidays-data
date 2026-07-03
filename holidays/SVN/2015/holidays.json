@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-02-08",
+    "holiday": "Prešeren's Day, the Slovenian Cultural Holiday"
+  },
+  {
+    "date": "2015-04-05",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2015-04-27",
+    "holiday": "Day of Uprising Against Occupation"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-05-24",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2015-06-25",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2015-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2015-10-31",
+    "holiday": "Reformation Day"
+  },
+  {
+    "date": "2015-11-01",
+    "holiday": "Day of Remembrance for the Dead"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Independence and Unity Day"
+  }
+]

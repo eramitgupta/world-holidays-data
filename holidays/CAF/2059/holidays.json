@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-03-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2059-03-29",
+    "holiday": "Barthélemy Boganda Day"
+  },
+  {
+    "date": "2059-03-31",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2059-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2059-05-08",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2059-05-19",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2059-05-22",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2059-06-30",
+    "holiday": "General Prayer Day"
+  },
+  {
+    "date": "2059-08-13",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2059-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2059-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2059-12-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-02-28",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2022-03-01",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2022-05-23",
+    "holiday": "The Battle of Pichincha (observed)"
+  },
+  {
+    "date": "2022-05-24",
+    "holiday": "The Battle of Pichincha"
+  },
+  {
+    "date": "2022-08-10",
+    "holiday": "Declaration of Independence of Quito"
+  },
+  {
+    "date": "2022-08-12",
+    "holiday": "Declaration of Independence of Quito (observed)"
+  },
+  {
+    "date": "2022-10-09",
+    "holiday": "Independence of Guayaquil"
+  },
+  {
+    "date": "2022-10-10",
+    "holiday": "Independence of Guayaquil (observed)"
+  },
+  {
+    "date": "2022-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2022-11-03",
+    "holiday": "Independence of Cuenca"
+  },
+  {
+    "date": "2022-11-04",
+    "holiday": "All Souls' Day (observed); Independence of Cuenca (observed)"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

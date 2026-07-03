@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-03-04",
+    "holiday": "Lavity Stoutt's Birthday"
+  },
+  {
+    "date": "2058-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2058-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2058-06-03",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2058-06-14",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2058-07-01",
+    "holiday": "Virgin Islands Day"
+  },
+  {
+    "date": "2058-08-05",
+    "holiday": "Emancipation Monday"
+  },
+  {
+    "date": "2058-08-06",
+    "holiday": "Emancipation Tuesday"
+  },
+  {
+    "date": "2058-08-07",
+    "holiday": "Emancipation Wednesday"
+  },
+  {
+    "date": "2058-10-21",
+    "holiday": "Heroes and Foreparents Day"
+  },
+  {
+    "date": "2058-11-25",
+    "holiday": "The Great March of 1949 and Restoration Day"
+  },
+  {
+    "date": "2058-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2058-12-26",
+    "holiday": "Boxing Day"
+  }
+]

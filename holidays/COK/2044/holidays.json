@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2044-01-04",
+    "holiday": "Day after New Year's Day (observed)"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2044-06-06",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2044-07-01",
+    "holiday": "Day of the House of Ariki"
+  },
+  {
+    "date": "2044-08-04",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2044-10-26",
+    "holiday": "Cook Islands Gospel Day"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2044-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

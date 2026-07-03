@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2034-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2034-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2034-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2034-03-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2034-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2034-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2034-05-18",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2034-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2034-05-30",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2034-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2034-12-12",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2034-12-25",
+    "holiday": "Christmas Day"
+  }
+]

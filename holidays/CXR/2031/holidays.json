@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-23",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2031-01-24",
+    "holiday": "Chinese New Year; Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2031-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2031-01-27",
+    "holiday": "Australia Day (observed)"
+  },
+  {
+    "date": "2031-03-17",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2031-04-02",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2031-10-06",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2031-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-01-17",
+    "holiday": "Possession Day"
+  },
+  {
+    "date": "2041-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2041-04-25",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2041-05-20",
+    "holiday": "Shackleton Day"
+  },
+  {
+    "date": "2041-06-21",
+    "holiday": "Mid-winter Day"
+  },
+  {
+    "date": "2041-10-30",
+    "holiday": "Environment Day"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2041-12-26",
+    "holiday": "Boxing Day"
+  }
+]

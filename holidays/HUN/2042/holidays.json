@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-03-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-06",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2042-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2042-05-25",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2042-05-26",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2042-08-20",
+    "holiday": "State Foundation Day"
+  },
+  {
+    "date": "2042-10-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2042-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

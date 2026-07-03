@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-16",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-04-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2038-06-03",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2038-06-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2038-06-21",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2038-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2038-09-30",
+    "holiday": "First Day of Ramadan (estimated)"
+  },
+  {
+    "date": "2038-10-29",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2038-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  }
+]

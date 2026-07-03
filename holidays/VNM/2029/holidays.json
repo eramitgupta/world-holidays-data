@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-02-12",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2029-02-13",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2029-02-14",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2029-02-15",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2029-02-16",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2029-04-23",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2029-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2029-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2029-09-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2029-09-03",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2029-09-04",
+    "holiday": "National Day (observed)"
+  }
+]

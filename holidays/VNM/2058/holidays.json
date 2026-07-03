@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-01-22",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2058-01-23",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2058-01-24",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2058-01-25",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2058-01-26",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2058-01-27",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2058-01-28",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2058-04-02",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2058-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2058-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2058-09-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2058-09-03",
+    "holiday": "National Day"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-01-06",
+    "holiday": "Army Day"
+  },
+  {
+    "date": "2018-02-08",
+    "holiday": "February 8 Revolution"
+  },
+  {
+    "date": "2018-03-21",
+    "holiday": "Nowruz"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2018-06-15",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2018-06-16",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2018-06-17",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2018-07-14",
+    "holiday": "July 14 Revolution"
+  },
+  {
+    "date": "2018-07-17",
+    "holiday": "July 17 Revolution"
+  },
+  {
+    "date": "2018-08-21",
+    "holiday": "Day of Arafah"
+  },
+  {
+    "date": "2018-08-22",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2018-08-23",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2018-08-24",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2018-09-11",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2018-09-20",
+    "holiday": "Ashura"
+  },
+  {
+    "date": "2018-11-21",
+    "holiday": "Prophet's Birthday"
+  }
+]

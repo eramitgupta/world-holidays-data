@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-01-30",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2044-01-31",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2044-02-01",
+    "holiday": "Chinese New Year (observed, estimated)"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2044-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2044-05-12",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2044-08-09",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2044-08-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2044-10-31",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2044-11-17",
+    "holiday": "Deepavali"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

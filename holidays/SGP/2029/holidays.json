@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-02-13",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2029-02-14",
+    "holiday": "Chinese New Year (estimated); Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2029-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2029-04-24",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2029-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2029-05-27",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2029-05-28",
+    "holiday": "Vesak Day (observed, estimated)"
+  },
+  {
+    "date": "2029-08-09",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2029-11-04",
+    "holiday": "Deepavali"
+  },
+  {
+    "date": "2029-11-05",
+    "holiday": "Deepavali (observed)"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Christmas Day"
+  }
+]

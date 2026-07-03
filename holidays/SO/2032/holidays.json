@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-01-14",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2032-03-22",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2032-04-11",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2032-04-20",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2032-06-20",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2032-06-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2032-07-01",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2032-11-01",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  }
+]

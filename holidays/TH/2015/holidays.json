@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-02",
+    "holiday": "Bridge Public Holiday"
+  },
+  {
+    "date": "2015-01-10",
+    "holiday": "National Children's Day"
+  },
+  {
+    "date": "2015-03-04",
+    "holiday": "Makha Bucha"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Chakri Memorial Day"
+  },
+  {
+    "date": "2015-04-13",
+    "holiday": "Songkran Festival"
+  },
+  {
+    "date": "2015-04-14",
+    "holiday": "Songkran Festival"
+  },
+  {
+    "date": "2015-04-15",
+    "holiday": "Songkran Festival"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "National Labor Day"
+  },
+  {
+    "date": "2015-05-04",
+    "holiday": "Bridge Public Holiday"
+  },
+  {
+    "date": "2015-05-05",
+    "holiday": "Coronation Day"
+  },
+  {
+    "date": "2015-06-01",
+    "holiday": "Visakha Bucha"
+  },
+  {
+    "date": "2015-07-30",
+    "holiday": "Asarnha Bucha"
+  },
+  {
+    "date": "2015-07-31",
+    "holiday": "Buddhist Lent Day"
+  },
+  {
+    "date": "2015-08-12",
+    "holiday": "HM Queen Sirikit's Birthday; National Mother's Day"
+  },
+  {
+    "date": "2015-10-23",
+    "holiday": "HM King Chulalongkorn Memorial Day"
+  },
+  {
+    "date": "2015-12-05",
+    "holiday": "HM King Bhumibol Adulyadej's Birthday; National Day; National Father's Day"
+  },
+  {
+    "date": "2015-12-07",
+    "holiday": "HM King Bhumibol Adulyadej's Birthday (in lieu); National Day (in lieu); National Father's Day (in lieu)"
+  },
+  {
+    "date": "2015-12-10",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2015-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

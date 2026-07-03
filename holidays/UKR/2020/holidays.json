@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-06",
+    "holiday": "Day off (substituted from 01/11/2020)"
+  },
+  {
+    "date": "2020-01-07",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2020-03-09",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2020-04-19",
+    "holiday": "Easter Sunday (Pascha)"
+  },
+  {
+    "date": "2020-04-20",
+    "holiday": "Easter Sunday (Pascha) (observed)"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-05-09",
+    "holiday": "Day of Victory over Nazism in World War II (Victory Day)"
+  },
+  {
+    "date": "2020-05-11",
+    "holiday": "Day of Victory over Nazism in World War II (Victory Day) (observed)"
+  },
+  {
+    "date": "2020-06-07",
+    "holiday": "Holy Trinity Day"
+  },
+  {
+    "date": "2020-06-08",
+    "holiday": "Holy Trinity Day (observed)"
+  },
+  {
+    "date": "2020-06-28",
+    "holiday": "Day of the Constitution of Ukraine"
+  },
+  {
+    "date": "2020-06-29",
+    "holiday": "Day of the Constitution of Ukraine (observed)"
+  },
+  {
+    "date": "2020-08-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-10-14",
+    "holiday": "Defender of Ukraine Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  }
+]

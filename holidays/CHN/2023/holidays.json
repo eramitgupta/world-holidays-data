@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2023-01-22",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2023-01-23",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2023-01-24",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2023-01-25",
+    "holiday": "Chinese New Year (Spring Festival) (observed)"
+  },
+  {
+    "date": "2023-01-26",
+    "holiday": "Day off (substituted from 01/28/2023)"
+  },
+  {
+    "date": "2023-01-27",
+    "holiday": "Day off (substituted from 01/29/2023)"
+  },
+  {
+    "date": "2023-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2023-05-02",
+    "holiday": "Day off (substituted from 04/23/2023)"
+  },
+  {
+    "date": "2023-05-03",
+    "holiday": "Day off (substituted from 05/06/2023)"
+  },
+  {
+    "date": "2023-06-22",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2023-06-23",
+    "holiday": "Day off (substituted from 06/25/2023)"
+  },
+  {
+    "date": "2023-09-29",
+    "holiday": "Mid-Autumn Festival"
+  },
+  {
+    "date": "2023-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2023-10-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2023-10-03",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2023-10-04",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2023-10-05",
+    "holiday": "Day off (substituted from 10/07/2023)"
+  },
+  {
+    "date": "2023-10-06",
+    "holiday": "Day off (substituted from 10/08/2023)"
+  }
+]

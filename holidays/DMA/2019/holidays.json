@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-03-04",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2019-03-05",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-05-06",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2019-06-10",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2019-08-05",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2019-09-19",
+    "holiday": "Post-Hurricane Maria Thanksgiving Celebrations"
+  },
+  {
+    "date": "2019-11-03",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-11-04",
+    "holiday": "National Day of Community Service"
+  },
+  {
+    "date": "2019-11-05",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Boxing Day"
+  }
+]

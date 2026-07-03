@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2017-05-25",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2017-06-05",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2017-06-22",
+    "holiday": "Day after Night of Power"
+  },
+  {
+    "date": "2017-06-25",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2017-06-26",
+    "holiday": "Day after the Eid al-Fitr"
+  },
+  {
+    "date": "2017-08-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2017-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2017-09-01",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2017-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2017-11-15",
+    "holiday": "National Peace Day"
+  },
+  {
+    "date": "2017-11-30",
+    "holiday": "Day after Prophet's Birthday"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  }
+]

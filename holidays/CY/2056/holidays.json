@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2056-02-21",
+    "holiday": "Green Monday"
+  },
+  {
+    "date": "2056-03-25",
+    "holiday": "Greek Independence Day"
+  },
+  {
+    "date": "2056-04-01",
+    "holiday": "Cyprus National Day"
+  },
+  {
+    "date": "2056-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-09",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2056-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2056-05-29",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2056-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2056-10-01",
+    "holiday": "Cyprus Independence Day"
+  },
+  {
+    "date": "2056-10-28",
+    "holiday": "Greek National Day"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-26",
+    "holiday": "Day After Christmas"
+  }
+]

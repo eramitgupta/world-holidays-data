@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-02-26",
+    "holiday": "Grand Chief Sir Michael Somare Remembrance Day"
+  },
+  {
+    "date": "2022-02-28",
+    "holiday": "Grand Chief Sir Michael Somare Remembrance Day (observed)"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-16",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2022-04-17",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-06-13",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2022-07-23",
+    "holiday": "Papua New Guinea Remembrance Day"
+  },
+  {
+    "date": "2022-08-26",
+    "holiday": "National Repentance Day"
+  },
+  {
+    "date": "2022-09-16",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-09-19",
+    "holiday": "State Funeral of Queen Elizabeth II"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

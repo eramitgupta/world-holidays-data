@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-04-29",
+    "holiday": "State Funeral for Former President Mwai Kibaki"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2022-05-03",
+    "holiday": "Eid-al-Fitr"
+  },
+  {
+    "date": "2022-06-01",
+    "holiday": "Madaraka Day"
+  },
+  {
+    "date": "2022-08-09",
+    "holiday": "Election Day"
+  },
+  {
+    "date": "2022-09-10",
+    "holiday": "Day of Mourning for Queen Elizabeth II"
+  },
+  {
+    "date": "2022-09-11",
+    "holiday": "Day of Mourning for Queen Elizabeth II"
+  },
+  {
+    "date": "2022-09-12",
+    "holiday": "Day of Mourning for Queen Elizabeth II"
+  },
+  {
+    "date": "2022-09-13",
+    "holiday": "Inauguration Day"
+  },
+  {
+    "date": "2022-10-10",
+    "holiday": "Utamaduni Day"
+  },
+  {
+    "date": "2022-10-20",
+    "holiday": "Mashujaa Day"
+  },
+  {
+    "date": "2022-12-12",
+    "holiday": "Jamhuri Day"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

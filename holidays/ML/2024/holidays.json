@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-01-20",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2024-03-26",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-04-09",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2024-05-25",
+    "holiday": "Africa Day"
+  },
+  {
+    "date": "2024-06-17",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-09-16",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2024-09-22",
+    "holiday": "National Day of the Republic of Mali"
+  },
+  {
+    "date": "2024-09-23",
+    "holiday": "Prophet's Baptism"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  }
+]

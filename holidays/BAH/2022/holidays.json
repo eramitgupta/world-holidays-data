@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2022-05-03",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2022-05-04",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2022-07-09",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2022-07-10",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2022-07-11",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2022-07-30",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2022-08-07",
+    "holiday": "Ashura"
+  },
+  {
+    "date": "2022-08-08",
+    "holiday": "Ashura"
+  },
+  {
+    "date": "2022-10-08",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2022-12-16",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2022-12-17",
+    "holiday": "National Day"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-04-21",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2030-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2030-04-27",
+    "holiday": "King's Day"
+  },
+  {
+    "date": "2030-04-30",
+    "holiday": "Carnival Day"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2030-05-30",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2030-06-09",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2030-07-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2030-10-14",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2030-11-11",
+    "holiday": "Sint Maarten Day"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2030-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

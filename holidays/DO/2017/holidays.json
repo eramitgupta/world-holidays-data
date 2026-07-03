@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-09",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2017-01-21",
+    "holiday": "Lady of Altagracia"
+  },
+  {
+    "date": "2017-01-30",
+    "holiday": "Juan Pablo Duarte Day"
+  },
+  {
+    "date": "2017-02-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2017-06-15",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2017-08-14",
+    "holiday": "Restoration Day"
+  },
+  {
+    "date": "2017-09-24",
+    "holiday": "Our Lady of Mercedes Day"
+  },
+  {
+    "date": "2017-11-06",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  }
+]

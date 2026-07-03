@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-04",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2021-03-14",
+    "holiday": "Summer Day"
+  },
+  {
+    "date": "2021-03-15",
+    "holiday": "Summer Day (observed)"
+  },
+  {
+    "date": "2021-03-22",
+    "holiday": "Nowruz Day"
+  },
+  {
+    "date": "2021-04-04",
+    "holiday": "Catholic Easter Sunday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Catholic Easter Sunday (observed)"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2021-05-02",
+    "holiday": "Orthodox Easter Sunday"
+  },
+  {
+    "date": "2021-05-03",
+    "holiday": "International Workers' Day (observed)"
+  },
+  {
+    "date": "2021-05-04",
+    "holiday": "Orthodox Easter Sunday (observed)"
+  },
+  {
+    "date": "2021-05-13",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2021-07-20",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2021-09-05",
+    "holiday": "Mother Teresa Canonization Day"
+  },
+  {
+    "date": "2021-09-06",
+    "holiday": "Mother Teresa Canonization Day (observed)"
+  },
+  {
+    "date": "2021-11-28",
+    "holiday": "Flag and Independence Day"
+  },
+  {
+    "date": "2021-11-29",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2021-11-30",
+    "holiday": "Flag and Independence Day (observed)"
+  },
+  {
+    "date": "2021-12-08",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

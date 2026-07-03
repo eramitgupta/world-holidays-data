@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-01-15",
+    "holiday": "John Chilembwe Day"
+  },
+  {
+    "date": "2017-01-16",
+    "holiday": "John Chilembwe Day (observed)"
+  },
+  {
+    "date": "2017-03-03",
+    "holiday": "Martyrs Day"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2017-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2017-05-14",
+    "holiday": "Kamuzu Day"
+  },
+  {
+    "date": "2017-05-15",
+    "holiday": "Kamuzu Day (observed)"
+  },
+  {
+    "date": "2017-07-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2017-10-15",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2017-10-16",
+    "holiday": "Mother's Day (observed)"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2017-12-26",
+    "holiday": "Boxing Day"
+  }
+]

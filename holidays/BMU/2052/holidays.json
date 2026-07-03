@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2052-05-24",
+    "holiday": "Bermuda Day"
+  },
+  {
+    "date": "2052-06-17",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2052-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2052-08-02",
+    "holiday": "Mary Prince Day"
+  },
+  {
+    "date": "2052-09-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2052-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2052-12-26",
+    "holiday": "Boxing Day"
+  }
+]

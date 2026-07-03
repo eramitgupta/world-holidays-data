@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-01-08",
+    "holiday": "Epiphany (observed)"
+  },
+  {
+    "date": "2018-03-19",
+    "holiday": "Saint Joseph's Day"
+  },
+  {
+    "date": "2018-03-29",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2018-05-14",
+    "holiday": "Ascension Day (observed)"
+  },
+  {
+    "date": "2018-06-04",
+    "holiday": "Corpus Christi (observed)"
+  },
+  {
+    "date": "2018-06-11",
+    "holiday": "Sacred Heart (observed)"
+  },
+  {
+    "date": "2018-07-02",
+    "holiday": "Saint Peter and Saint Paul's Day (observed)"
+  },
+  {
+    "date": "2018-07-20",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2018-08-07",
+    "holiday": "Battle of Boyacá"
+  },
+  {
+    "date": "2018-08-20",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2018-10-15",
+    "holiday": "Columbus Day (observed)"
+  },
+  {
+    "date": "2018-11-05",
+    "holiday": "All Saints' Day (observed)"
+  },
+  {
+    "date": "2018-11-12",
+    "holiday": "Independence of Cartagena (observed)"
+  },
+  {
+    "date": "2018-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  }
+]

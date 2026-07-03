@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-01-27",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2036-01-28",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2036-01-29",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2036-01-30",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2036-01-31",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2036-02-01",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2036-04-06",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2036-04-07",
+    "holiday": "Hung Kings' Commemoration Day (observed)"
+  },
+  {
+    "date": "2036-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2036-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2036-09-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2036-09-02",
+    "holiday": "National Day"
+  }
+]

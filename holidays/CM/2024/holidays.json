@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2024-02-12",
+    "holiday": "Youth Day (observed)"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-04-10",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2024-05-09",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2024-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2024-06-16",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2024-06-17",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2024-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2024-09-15",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2024-09-16",
+    "holiday": "Mawlid (observed, estimated)"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  }
+]

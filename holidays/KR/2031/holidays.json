@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-22",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2031-01-23",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2031-01-24",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2031-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2031-03-03",
+    "holiday": "Alternative holiday for Independence Movement Day"
+  },
+  {
+    "date": "2031-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2031-05-28",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2031-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2031-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2031-09-30",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2031-10-01",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2031-10-02",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2031-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2031-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-01-13",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2041-02-19",
+    "holiday": "Grand Magal of Touba (estimated)"
+  },
+  {
+    "date": "2041-03-15",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2041-04-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2041-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2041-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2041-05-30",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2041-06-10",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2041-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2041-09-26",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2041-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2041-12-04",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Christmas Day"
+  }
+]

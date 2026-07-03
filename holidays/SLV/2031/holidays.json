@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-04-10",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-12",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2031-05-10",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2031-06-17",
+    "holiday": "Father's Day"
+  },
+  {
+    "date": "2031-08-06",
+    "holiday": "Celebrations of San Salvador"
+  },
+  {
+    "date": "2031-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2031-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  }
+]

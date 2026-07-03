@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-01-26",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2047-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2047-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2047-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2047-07-01",
+    "holiday": "Day of Freedoms"
+  },
+  {
+    "date": "2047-07-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2047-08-09",
+    "holiday": "Indigenous People Day"
+  },
+  {
+    "date": "2047-09-30",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2047-10-10",
+    "holiday": "Day of the Maroons"
+  },
+  {
+    "date": "2047-11-15",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2047-11-25",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2047-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

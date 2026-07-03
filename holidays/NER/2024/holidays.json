@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-04-06",
+    "holiday": "Laylat al-Qadr"
+  },
+  {
+    "date": "2024-04-09",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-04-24",
+    "holiday": "National Concord Day"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2024-06-16",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-06-17",
+    "holiday": "Day after Eid al-Adha"
+  },
+  {
+    "date": "2024-07-06",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2024-07-26",
+    "holiday": "Anniversary of the CNSP Coup"
+  },
+  {
+    "date": "2024-08-03",
+    "holiday": "Anniversary of the Proclamation of Independence"
+  },
+  {
+    "date": "2024-09-16",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2024-12-18",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  }
+]

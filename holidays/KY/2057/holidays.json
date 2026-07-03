@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-01-22",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2057-03-07",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-04-23",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2057-05-07",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2057-05-21",
+    "holiday": "Discovery Day"
+  },
+  {
+    "date": "2057-06-18",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2057-07-02",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2057-11-12",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2057-12-26",
+    "holiday": "Boxing Day"
+  }
+]

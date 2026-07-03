@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2025-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2025-01-27",
+    "holiday": "Temporary Public Holiday"
+  },
+  {
+    "date": "2025-01-28",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2025-01-29",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2025-01-30",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2025-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2025-03-03",
+    "holiday": "Alternative holiday for Independence Movement Day"
+  },
+  {
+    "date": "2025-05-05",
+    "holiday": "Buddha's Birthday; Children's Day"
+  },
+  {
+    "date": "2025-05-06",
+    "holiday": "Alternative holiday for Buddha's Birthday; Alternative holiday for Children's Day"
+  },
+  {
+    "date": "2025-06-03",
+    "holiday": "Presidential Election Day"
+  },
+  {
+    "date": "2025-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2025-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2025-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2025-10-05",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2025-10-06",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2025-10-07",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2025-10-08",
+    "holiday": "Alternative holiday for Chuseok"
+  },
+  {
+    "date": "2025-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2025-12-25",
+    "holiday": "Christmas Day"
+  }
+]

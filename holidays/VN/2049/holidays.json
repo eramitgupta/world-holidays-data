@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-02-01",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2049-02-02",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2049-02-03",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2049-02-04",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2049-02-05",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2049-04-11",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2049-04-12",
+    "holiday": "Hung Kings' Commemoration Day (observed)"
+  },
+  {
+    "date": "2049-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2049-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2049-05-03",
+    "holiday": "International Labor Day (observed)"
+  },
+  {
+    "date": "2049-09-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2049-09-03",
+    "holiday": "National Day"
+  }
+]

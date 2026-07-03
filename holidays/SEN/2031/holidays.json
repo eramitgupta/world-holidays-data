@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2031-04-02",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2031-04-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2031-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2031-05-02",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2031-05-22",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2031-06-02",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2031-06-08",
+    "holiday": "Grand Magal of Touba (estimated)"
+  },
+  {
+    "date": "2031-07-02",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2031-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2031-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-02-08",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2016-02-09",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2016-05-16",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2016-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2016-11-03",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-11-04",
+    "holiday": "National Day of Community Service"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2016-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

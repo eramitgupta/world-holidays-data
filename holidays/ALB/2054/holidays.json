@@ -1,0 +1,98 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-03-14",
+    "holiday": "Summer Day"
+  },
+  {
+    "date": "2054-03-16",
+    "holiday": "Summer Day (observed)"
+  },
+  {
+    "date": "2054-03-22",
+    "holiday": "Nowruz Day"
+  },
+  {
+    "date": "2054-03-23",
+    "holiday": "Nowruz Day (observed)"
+  },
+  {
+    "date": "2054-03-29",
+    "holiday": "Catholic Easter Sunday"
+  },
+  {
+    "date": "2054-03-30",
+    "holiday": "Catholic Easter Sunday (observed)"
+  },
+  {
+    "date": "2054-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2054-05-03",
+    "holiday": "Orthodox Easter Sunday"
+  },
+  {
+    "date": "2054-05-04",
+    "holiday": "Orthodox Easter Sunday (observed)"
+  },
+  {
+    "date": "2054-05-09",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2054-05-11",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2054-07-15",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2054-09-05",
+    "holiday": "Mother Teresa Canonization Day"
+  },
+  {
+    "date": "2054-09-07",
+    "holiday": "Mother Teresa Canonization Day (observed)"
+  },
+  {
+    "date": "2054-11-22",
+    "holiday": "Alphabet Day"
+  },
+  {
+    "date": "2054-11-23",
+    "holiday": "Alphabet Day (observed)"
+  },
+  {
+    "date": "2054-11-28",
+    "holiday": "Flag and Independence Day"
+  },
+  {
+    "date": "2054-11-29",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2054-11-30",
+    "holiday": "Flag and Independence Day (observed)"
+  },
+  {
+    "date": "2054-12-01",
+    "holiday": "Liberation Day (observed)"
+  },
+  {
+    "date": "2054-12-08",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2054-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2054-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2054-03-30",
+    "holiday": "Catholic Easter Monday"
+  },
+  {
+    "date": "2054-05-01",
+    "holiday": "International Labor Day; Orthodox Good Friday"
+  },
+  {
+    "date": "2054-05-02",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2054-05-09",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2054-07-15",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2054-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

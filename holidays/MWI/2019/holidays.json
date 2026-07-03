@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-01-15",
+    "holiday": "John Chilembwe Day"
+  },
+  {
+    "date": "2019-03-03",
+    "holiday": "Martyrs Day"
+  },
+  {
+    "date": "2019-03-04",
+    "holiday": "Martyrs Day (observed)"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2019-05-14",
+    "holiday": "Kamuzu Day"
+  },
+  {
+    "date": "2019-07-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-07-08",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2019-10-15",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Boxing Day"
+  }
+]

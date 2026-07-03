@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-02",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2033-01-03",
+    "holiday": "Eid al-Fitr (observed, estimated); New Year's Day (observed)"
+  },
+  {
+    "date": "2033-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2033-03-11",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2033-04-06",
+    "holiday": "Act of Self Determination Day"
+  },
+  {
+    "date": "2033-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2033-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2033-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2033-06-09",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2033-06-13",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2033-12-23",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2033-12-26",
+    "holiday": "Boxing Day; Christmas Day (observed)"
+  },
+  {
+    "date": "2033-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

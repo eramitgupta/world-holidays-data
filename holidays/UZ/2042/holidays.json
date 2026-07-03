@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2042-03-10",
+    "holiday": "Women's Day (observed)"
+  },
+  {
+    "date": "2042-03-21",
+    "holiday": "Nowruz"
+  },
+  {
+    "date": "2042-05-09",
+    "holiday": "Day of Memory and Honor"
+  },
+  {
+    "date": "2042-09-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2042-09-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2042-10-01",
+    "holiday": "Teachers and Instructors Day"
+  },
+  {
+    "date": "2042-11-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2042-11-24",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2042-12-08",
+    "holiday": "Constitution Day"
+  }
+]

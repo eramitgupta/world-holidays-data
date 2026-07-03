@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-01-20",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2042-01-21",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2042-01-22",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2042-01-23",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2042-01-24",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2042-01-25",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2042-04-29",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2042-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2042-09-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2042-09-02",
+    "holiday": "National Day"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-03-17",
+    "holiday": "Saint Patrick's Day"
+  },
+  {
+    "date": "2019-03-18",
+    "holiday": "Saint Patrick's Day (observed)"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-05-06",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-05-10",
+    "holiday": "Special Public Holiday"
+  },
+  {
+    "date": "2019-06-10",
+    "holiday": "Queen's Birthday; Whit Monday"
+  },
+  {
+    "date": "2019-06-11",
+    "holiday": "Whit Monday (observed)"
+  },
+  {
+    "date": "2019-08-05",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2019-12-31",
+    "holiday": "Festival Day"
+  }
+]

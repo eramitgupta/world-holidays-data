@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2023-05-18",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2023-05-29",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2023-10-03",
+    "holiday": "German Unity Day"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2023-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-03",
+    "holiday": "New Year's Day (substitute day)"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-05-02",
+    "holiday": "Early May Bank Holiday"
+  },
+  {
+    "date": "2039-05-09",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2039-05-30",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2039-08-29",
+    "holiday": "Summer Bank Holiday"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2039-12-27",
+    "holiday": "Christmas Day (substitute day)"
+  }
+]

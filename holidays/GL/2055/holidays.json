@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-04-15",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-18",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-05-14",
+    "holiday": "Great Prayer Day"
+  },
+  {
+    "date": "2055-05-27",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2055-06-06",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2055-06-07",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

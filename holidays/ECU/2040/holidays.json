@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-02-13",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2040-02-14",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-30",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2040-05-24",
+    "holiday": "The Battle of Pichincha"
+  },
+  {
+    "date": "2040-05-25",
+    "holiday": "The Battle of Pichincha (observed)"
+  },
+  {
+    "date": "2040-08-10",
+    "holiday": "Declaration of Independence of Quito"
+  },
+  {
+    "date": "2040-10-08",
+    "holiday": "Independence of Guayaquil (observed)"
+  },
+  {
+    "date": "2040-10-09",
+    "holiday": "Independence of Guayaquil"
+  },
+  {
+    "date": "2040-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2040-11-03",
+    "holiday": "Independence of Cuenca"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-02-13",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2040-02-14",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-05-07",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2040-05-21",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2040-08-06",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2040-11-03",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-11-04",
+    "holiday": "National Day of Community Service"
+  },
+  {
+    "date": "2040-11-05",
+    "holiday": "National Day of Community Service (observed)"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Boxing Day"
+  }
+]

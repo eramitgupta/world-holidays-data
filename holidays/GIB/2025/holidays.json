@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2025-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2025-02-17",
+    "holiday": "Winter Midterm Bank Holiday"
+  },
+  {
+    "date": "2025-04-18",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2025-04-21",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2025-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2025-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2025-05-26",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2025-06-16",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2025-08-25",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2025-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2025-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2025-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2045-03-31",
+    "holiday": "Micronesian Culture and Tradition Day"
+  },
+  {
+    "date": "2045-05-10",
+    "holiday": "Federated States of Micronesia Day"
+  },
+  {
+    "date": "2045-10-24",
+    "holiday": "United Nations Day"
+  },
+  {
+    "date": "2045-11-03",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2045-11-10",
+    "holiday": "FSM Veterans of Foreign Wars Day (observed)"
+  },
+  {
+    "date": "2045-11-11",
+    "holiday": "FSM Veterans of Foreign Wars Day"
+  },
+  {
+    "date": "2045-11-23",
+    "holiday": "Presidents Day"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  }
+]

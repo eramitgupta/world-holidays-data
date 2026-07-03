@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-20",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-09-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2019-09-09",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2019-10-10",
+    "holiday": "Fiji Day"
+  },
+  {
+    "date": "2019-10-28",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2019-11-09",
+    "holiday": "Prophet Mohammed's Birthday"
+  },
+  {
+    "date": "2019-11-11",
+    "holiday": "Prophet Mohammed's Birthday (observed)"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Boxing Day"
+  }
+]

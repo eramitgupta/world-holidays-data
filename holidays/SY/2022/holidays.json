@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-03-08",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2022-03-21",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2022-04-17",
+    "holiday": "Gregorian Easter Sunday; Independence Day"
+  },
+  {
+    "date": "2022-04-24",
+    "holiday": "Julian Easter Sunday"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2022-05-03",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2022-05-04",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2022-05-06",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2022-07-08",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2022-07-09",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2022-07-10",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2022-07-11",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2022-07-30",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2022-10-06",
+    "holiday": "Tishreen Liberation War Day"
+  },
+  {
+    "date": "2022-10-08",
+    "holiday": "Prophet's Birthday"
+  }
+]

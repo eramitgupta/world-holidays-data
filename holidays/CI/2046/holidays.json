@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-01-19",
+    "holiday": "Day after Prophet's Birthday"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2046-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2046-05-03",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2046-05-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2046-07-31",
+    "holiday": "Day after Night of Power"
+  },
+  {
+    "date": "2046-08-03",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2046-08-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2046-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2046-10-10",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2046-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2046-11-15",
+    "holiday": "National Peace Day"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  }
+]

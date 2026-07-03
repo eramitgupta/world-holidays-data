@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-04-09",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-11",
+    "holiday": "Juan Santamaría Day"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2020-07-27",
+    "holiday": "Annexation of the Party of Nicoya to Costa Rica (observed)"
+  },
+  {
+    "date": "2020-08-17",
+    "holiday": "Mother's Day (observed)"
+  },
+  {
+    "date": "2020-09-14",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  }
+]

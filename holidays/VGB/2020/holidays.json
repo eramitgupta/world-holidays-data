@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-03-02",
+    "holiday": "Lavity Stoutt's Birthday"
+  },
+  {
+    "date": "2020-03-09",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2020-06-01",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2020-06-12",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2020-06-29",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2020-08-03",
+    "holiday": "Festival Monday"
+  },
+  {
+    "date": "2020-08-04",
+    "holiday": "Festival Tuesday"
+  },
+  {
+    "date": "2020-08-05",
+    "holiday": "Festival Wednesday"
+  },
+  {
+    "date": "2020-10-23",
+    "holiday": "Saint Ursula's Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2020-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

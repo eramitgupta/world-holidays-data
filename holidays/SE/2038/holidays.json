@@ -1,0 +1,258 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2038-01-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-01-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-01-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-01-31",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-02-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-02-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-02-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-02-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-03-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-03-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-03-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-03-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-04-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-04-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-04-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-25",
+    "holiday": "Easter Sunday; Sunday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2038-05-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-05-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-05-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-05-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-05-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-06-03",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2038-06-06",
+    "holiday": "National Day of Sweden; Sunday"
+  },
+  {
+    "date": "2038-06-13",
+    "holiday": "Sunday; Whit Sunday"
+  },
+  {
+    "date": "2038-06-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-06-25",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2038-06-26",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2038-06-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-07-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-07-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-07-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-07-25",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-08-01",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-08-08",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-08-15",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-08-22",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-08-29",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-09-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-09-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-09-19",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-09-26",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-10-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-10-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-10-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-10-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-10-31",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-11-06",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2038-11-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-11-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-11-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-11-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-12-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-12-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-12-19",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2038-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Second Day of Christmas; Sunday"
+  },
+  {
+    "date": "2038-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

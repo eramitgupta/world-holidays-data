@@ -1,0 +1,118 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-01-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2047-01-26",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2047-02-12",
+    "holiday": "Union Day"
+  },
+  {
+    "date": "2047-03-02",
+    "holiday": "Peasants' Day"
+  },
+  {
+    "date": "2047-03-10",
+    "holiday": "Full Moon Day of Tabaung"
+  },
+  {
+    "date": "2047-03-27",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2047-04-13",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2047-04-14",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2047-04-15",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2047-04-16",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2047-04-17",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2047-04-18",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2047-04-19",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2047-04-20",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2047-04-21",
+    "holiday": "Myanmar New Year"
+  },
+  {
+    "date": "2047-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2047-05-08",
+    "holiday": "Full Moon Day of Kason"
+  },
+  {
+    "date": "2047-07-06",
+    "holiday": "Full Moon Day of Waso"
+  },
+  {
+    "date": "2047-07-19",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2047-10-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2047-10-02",
+    "holiday": "Thadingyut Holidays"
+  },
+  {
+    "date": "2047-10-03",
+    "holiday": "Thadingyut Holidays"
+  },
+  {
+    "date": "2047-10-04",
+    "holiday": "Thadingyut Holidays"
+  },
+  {
+    "date": "2047-10-18",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2047-11-01",
+    "holiday": "Full Moon Day of Tazaungmon"
+  },
+  {
+    "date": "2047-11-11",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2047-12-16",
+    "holiday": "Karen New Year"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-05-03",
+    "holiday": "May Day Bank Holiday"
+  },
+  {
+    "date": "2038-05-09",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2038-05-31",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2038-08-30",
+    "holiday": "Summer Bank Holiday"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2038-12-27",
+    "holiday": "Christmas Day (substitute day)"
+  },
+  {
+    "date": "2038-12-28",
+    "holiday": "Boxing Day (substitute day)"
+  }
+]

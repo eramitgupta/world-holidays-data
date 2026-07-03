@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2027-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2027-05-10",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2027-06-12",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2027-08-02",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2027-10-01",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2027-10-02",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2027-10-04",
+    "holiday": "Tuvalu Day (observed)"
+  },
+  {
+    "date": "2027-10-11",
+    "holiday": "National Children's Day"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2027-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2027-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2027-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

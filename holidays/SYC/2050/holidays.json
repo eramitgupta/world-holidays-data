@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-02",
+    "holiday": "New Year Holiday"
+  },
+  {
+    "date": "2050-01-03",
+    "holiday": "New Year Holiday (observed)"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-04-09",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2050-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2050-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2050-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2050-06-09",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2050-06-18",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2050-06-29",
+    "holiday": "Independence (National) Day"
+  },
+  {
+    "date": "2050-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2050-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2050-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

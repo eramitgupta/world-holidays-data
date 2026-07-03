@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-02-18",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2015-02-19",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2015-02-20",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2015-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2015-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2015-05-25",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2015-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2015-08-14",
+    "holiday": "Temporary Public Holiday"
+  },
+  {
+    "date": "2015-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2015-09-26",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2015-09-27",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2015-09-28",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2015-09-29",
+    "holiday": "Alternative holiday for Chuseok"
+  },
+  {
+    "date": "2015-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2015-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

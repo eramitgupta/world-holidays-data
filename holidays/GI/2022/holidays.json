@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2022-02-21",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "May Day (observed)"
+  },
+  {
+    "date": "2022-06-02",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2022-06-03",
+    "holiday": "Queen's Platinum Jubilee"
+  },
+  {
+    "date": "2022-06-13",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2022-08-29",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2022-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2022-09-12",
+    "holiday": "Gibraltar National Day (observed)"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

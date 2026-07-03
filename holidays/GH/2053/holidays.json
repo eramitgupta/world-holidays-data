@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-01-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2053-03-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2053-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2053-05-19",
+    "holiday": "Eid ul-Fitr (estimated)"
+  },
+  {
+    "date": "2053-07-26",
+    "holiday": "Eid ul-Adha (estimated)"
+  },
+  {
+    "date": "2053-07-28",
+    "holiday": "Eid ul-Adha (observed, estimated)"
+  },
+  {
+    "date": "2053-08-04",
+    "holiday": "Founders' Day"
+  },
+  {
+    "date": "2053-09-21",
+    "holiday": "Kwame Nkrumah Memorial Day"
+  },
+  {
+    "date": "2053-09-22",
+    "holiday": "Kwame Nkrumah Memorial Day (observed)"
+  },
+  {
+    "date": "2053-12-05",
+    "holiday": "Farmer's Day"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2053-12-26",
+    "holiday": "Boxing Day"
+  }
+]

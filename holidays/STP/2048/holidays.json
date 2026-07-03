@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-01-03",
+    "holiday": "Day of King Amador (observed)"
+  },
+  {
+    "date": "2048-01-04",
+    "holiday": "Day of King Amador"
+  },
+  {
+    "date": "2048-02-03",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2048-07-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-07-13",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2048-09-06",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2048-09-07",
+    "holiday": "Armed Forces Day (observed)"
+  },
+  {
+    "date": "2048-09-30",
+    "holiday": "Agricultural Reform Day"
+  },
+  {
+    "date": "2048-12-21",
+    "holiday": "São Tomé Day"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  }
+]

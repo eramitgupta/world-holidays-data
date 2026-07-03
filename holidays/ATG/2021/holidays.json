@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-03",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2021-05-24",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2021-08-02",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2021-08-03",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2021-11-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-12-09",
+    "holiday": "Sir Vere Cornwall Bird Snr. Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2021-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

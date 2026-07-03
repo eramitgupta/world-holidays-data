@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-03-15",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2021-05-05",
+    "holiday": "Senior Citizens Day"
+  },
+  {
+    "date": "2021-06-01",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2021-07-09",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2021-09-06",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2021-10-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-10-24",
+    "holiday": "United Nations Day"
+  },
+  {
+    "date": "2021-10-25",
+    "holiday": "United Nations Day (observed)"
+  },
+  {
+    "date": "2021-11-25",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2021-11-26",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2021-12-24",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-31",
+    "holiday": "New Year's Day (observed)"
+  }
+]

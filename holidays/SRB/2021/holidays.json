@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2021-02-15",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2021-02-16",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2021-04-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Holy Saturday; Labor Day"
+  },
+  {
+    "date": "2021-05-02",
+    "holiday": "Easter Sunday; Labor Day"
+  },
+  {
+    "date": "2021-05-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-04",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2021-11-11",
+    "holiday": "Armistice Day"
+  }
+]

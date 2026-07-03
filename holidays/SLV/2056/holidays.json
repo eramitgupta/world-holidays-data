@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-03-30",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-01",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2056-05-10",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2056-06-17",
+    "holiday": "Father's Day"
+  },
+  {
+    "date": "2056-08-06",
+    "holiday": "Celebrations of San Salvador"
+  },
+  {
+    "date": "2056-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2056-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  }
+]

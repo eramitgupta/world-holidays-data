@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-02-08",
+    "holiday": "Monday of Carnival"
+  },
+  {
+    "date": "2016-02-09",
+    "holiday": "Tuesday of Carnival"
+  },
+  {
+    "date": "2016-03-24",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-04-19",
+    "holiday": "Declaration of Independence"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "International Worker's Day"
+  },
+  {
+    "date": "2016-06-24",
+    "holiday": "Battle of Carabobo"
+  },
+  {
+    "date": "2016-07-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-07-24",
+    "holiday": "Birthday of Simon Bolivar"
+  },
+  {
+    "date": "2016-10-12",
+    "holiday": "Day of Indigenous Resistance"
+  },
+  {
+    "date": "2016-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

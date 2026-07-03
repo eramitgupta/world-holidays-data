@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-02-24",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2020-02-25",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2020-03-23",
+    "holiday": "Bridge Public Holiday"
+  },
+  {
+    "date": "2020-03-24",
+    "holiday": "National Day of Remembrance for Truth and Justice"
+  },
+  {
+    "date": "2020-03-31",
+    "holiday": "Veteran's Day and the Fallen in the Malvinas War"
+  },
+  {
+    "date": "2020-04-09",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "May Revolution Day"
+  },
+  {
+    "date": "2020-06-15",
+    "holiday": "Pass to the Immortality of General Don Martín Miguel de Güemes"
+  },
+  {
+    "date": "2020-06-20",
+    "holiday": "Pass to the Immortality of General Don Manuel Belgrano"
+  },
+  {
+    "date": "2020-07-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-07-10",
+    "holiday": "Bridge Public Holiday"
+  },
+  {
+    "date": "2020-08-17",
+    "holiday": "Pass to the Immortality of General Don José de San Martín"
+  },
+  {
+    "date": "2020-10-12",
+    "holiday": "Respect for Cultural Diversity Day"
+  },
+  {
+    "date": "2020-11-23",
+    "holiday": "National Sovereignty Day"
+  },
+  {
+    "date": "2020-12-07",
+    "holiday": "Bridge Public Holiday"
+  },
+  {
+    "date": "2020-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-02-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2028-03-20",
+    "holiday": "Benito Juárez's birthday"
+  },
+  {
+    "date": "2028-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2028-09-16",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2028-11-20",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Christmas Day"
+  }
+]

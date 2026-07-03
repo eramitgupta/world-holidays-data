@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-04-07",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-04-09",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2050-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2050-07-04",
+    "holiday": "Army Day"
+  },
+  {
+    "date": "2050-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2050-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2050-10-20",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2050-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-02-10",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2059-02-11",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2059-02-12",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2059-02-13",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2059-02-14",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2059-02-15",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2059-04-21",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2059-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2059-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2059-09-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2059-09-02",
+    "holiday": "National Day"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-03-08",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2016-03-21",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2016-03-27",
+    "holiday": "Gregorian Easter Sunday"
+  },
+  {
+    "date": "2016-04-17",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Julian Easter Sunday; Labor Day"
+  },
+  {
+    "date": "2016-05-06",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2016-07-06",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2016-07-07",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2016-07-08",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2016-09-10",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2016-09-11",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2016-09-12",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2016-09-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2016-10-02",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2016-10-06",
+    "holiday": "Tishreen Liberation War Day"
+  },
+  {
+    "date": "2016-12-11",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2056-01-31",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2056-02-01",
+    "holiday": "Day following Independence Day"
+  },
+  {
+    "date": "2056-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2056-04-04",
+    "holiday": "Easter Tuesday"
+  },
+  {
+    "date": "2056-05-17",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2056-07-01",
+    "holiday": "RONPHOS Handover"
+  },
+  {
+    "date": "2056-07-03",
+    "holiday": "RONPHOS Handover (observed)"
+  },
+  {
+    "date": "2056-08-19",
+    "holiday": "Ibumin Earoeni Day"
+  },
+  {
+    "date": "2056-08-21",
+    "holiday": "Ibumin Earoeni Day (observed)"
+  },
+  {
+    "date": "2056-09-25",
+    "holiday": "Sir Hammer DeRoburt Day"
+  },
+  {
+    "date": "2056-10-26",
+    "holiday": "Angam Day"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-26",
+    "holiday": "Day following Christmas"
+  }
+]

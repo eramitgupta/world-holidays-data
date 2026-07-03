@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2035-03-25",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2035-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2035-04-27",
+    "holiday": "King's Day"
+  },
+  {
+    "date": "2035-04-30",
+    "holiday": "Carnival Day"
+  },
+  {
+    "date": "2035-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2035-05-03",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2035-05-13",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2035-07-02",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2035-10-08",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2035-11-11",
+    "holiday": "Sint Maarten Day"
+  },
+  {
+    "date": "2035-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2035-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

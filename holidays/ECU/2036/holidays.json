@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-02-25",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2036-02-26",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2036-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2036-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2036-05-23",
+    "holiday": "The Battle of Pichincha (observed)"
+  },
+  {
+    "date": "2036-05-24",
+    "holiday": "The Battle of Pichincha"
+  },
+  {
+    "date": "2036-08-10",
+    "holiday": "Declaration of Independence of Quito"
+  },
+  {
+    "date": "2036-08-11",
+    "holiday": "Declaration of Independence of Quito (observed)"
+  },
+  {
+    "date": "2036-10-09",
+    "holiday": "Independence of Guayaquil"
+  },
+  {
+    "date": "2036-10-10",
+    "holiday": "Independence of Guayaquil (observed)"
+  },
+  {
+    "date": "2036-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2036-11-03",
+    "holiday": "Independence of Cuenca"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  }
+]

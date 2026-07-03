@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2056-05-15",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2056-06-10",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2056-08-07",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2056-10-01",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2056-10-02",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2056-10-03",
+    "holiday": "Tuvalu Day (observed)"
+  },
+  {
+    "date": "2056-10-09",
+    "holiday": "National Children's Day"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-26",
+    "holiday": "Boxing Day"
+  }
+]

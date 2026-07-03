@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-04-02",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-11",
+    "holiday": "Juan Santamaría Day"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2015-07-25",
+    "holiday": "Annexation of the Party of Nicoya to Costa Rica"
+  },
+  {
+    "date": "2015-08-15",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2015-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-10-12",
+    "holiday": "Cultures Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-02",
+    "holiday": "Takai Commission Holiday"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2030-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2030-06-03",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2030-10-19",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2030-10-20",
+    "holiday": "Constitution Day Holiday"
+  },
+  {
+    "date": "2030-10-21",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2030-10-22",
+    "holiday": "Constitution Day Holiday (observed)"
+  },
+  {
+    "date": "2030-10-28",
+    "holiday": "Peniamina Gospel Day"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2030-12-26",
+    "holiday": "Boxing Day"
+  }
+]

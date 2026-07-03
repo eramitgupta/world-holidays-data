@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-03-11",
+    "holiday": "Moshoeshoe's Day"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2055-05-25",
+    "holiday": "Africa/Heroes Day"
+  },
+  {
+    "date": "2055-05-27",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2055-07-17",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2055-10-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Boxing Day"
+  }
+]

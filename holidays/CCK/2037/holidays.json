@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-01-26",
+    "holiday": "Australia Day; Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2037-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2037-04-06",
+    "holiday": "Act of Self Determination Day; Easter Monday"
+  },
+  {
+    "date": "2037-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2037-04-27",
+    "holiday": "ANZAC Day (observed)"
+  },
+  {
+    "date": "2037-04-28",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2037-06-08",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2037-11-08",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2037-11-09",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2037-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2037-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2037-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

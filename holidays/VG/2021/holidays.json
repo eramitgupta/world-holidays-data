@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-03-01",
+    "holiday": "Lavity Stoutt's Birthday"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-24",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2021-06-11",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2021-07-05",
+    "holiday": "Virgin Islands Day"
+  },
+  {
+    "date": "2021-08-02",
+    "holiday": "Emancipation Monday"
+  },
+  {
+    "date": "2021-08-03",
+    "holiday": "Emancipation Tuesday"
+  },
+  {
+    "date": "2021-08-04",
+    "holiday": "Emancipation Wednesday"
+  },
+  {
+    "date": "2021-10-18",
+    "holiday": "Heroes and Foreparents Day"
+  },
+  {
+    "date": "2021-11-22",
+    "holiday": "The Great March of 1949 and Restoration Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2021-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

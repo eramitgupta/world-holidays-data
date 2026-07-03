@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-03-05",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-04-22",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2057-04-23",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2057-04-27",
+    "holiday": "King's Day"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2057-05-31",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2057-07-02",
+    "holiday": "National Anthem and Flag Day"
+  },
+  {
+    "date": "2057-10-10",
+    "holiday": "Curaçao Day"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2057-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

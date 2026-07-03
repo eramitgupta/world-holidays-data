@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-03-22",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2035-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2035-03-25",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2035-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2035-04-20",
+    "holiday": "Great Prayer Day"
+  },
+  {
+    "date": "2035-05-03",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2035-05-13",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2035-05-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2035-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2035-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-01-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2019-03-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2019-06-04",
+    "holiday": "Eid ul-Fitr (estimated)"
+  },
+  {
+    "date": "2019-08-04",
+    "holiday": "Founders' Day"
+  },
+  {
+    "date": "2019-08-05",
+    "holiday": "Founders' Day (observed)"
+  },
+  {
+    "date": "2019-08-11",
+    "holiday": "Eid ul-Adha (estimated)"
+  },
+  {
+    "date": "2019-08-12",
+    "holiday": "Eid ul-Adha (observed, estimated)"
+  },
+  {
+    "date": "2019-09-21",
+    "holiday": "Kwame Nkrumah Memorial Day"
+  },
+  {
+    "date": "2019-09-23",
+    "holiday": "Kwame Nkrumah Memorial Day (observed)"
+  },
+  {
+    "date": "2019-12-06",
+    "holiday": "Farmer's Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Boxing Day"
+  }
+]

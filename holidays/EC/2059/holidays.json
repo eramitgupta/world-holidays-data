@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-02-10",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2059-02-11",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2059-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2059-05-23",
+    "holiday": "The Battle of Pichincha (observed)"
+  },
+  {
+    "date": "2059-05-24",
+    "holiday": "The Battle of Pichincha"
+  },
+  {
+    "date": "2059-08-10",
+    "holiday": "Declaration of Independence of Quito"
+  },
+  {
+    "date": "2059-08-11",
+    "holiday": "Declaration of Independence of Quito (observed)"
+  },
+  {
+    "date": "2059-10-09",
+    "holiday": "Independence of Guayaquil"
+  },
+  {
+    "date": "2059-10-10",
+    "holiday": "Independence of Guayaquil (observed)"
+  },
+  {
+    "date": "2059-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2059-11-03",
+    "holiday": "Independence of Cuenca"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  }
+]

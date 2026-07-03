@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-02-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-21",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Spring Day"
+  },
+  {
+    "date": "2019-06-09",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2019-06-23",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2019-06-24",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2019-08-20",
+    "holiday": "Independence Restoration Day"
+  },
+  {
+    "date": "2019-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

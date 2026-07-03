@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-02-24",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2055-04-28",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2055-06-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2055-07-01",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2055-07-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2055-07-25",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2055-08-03",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2055-10-03",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

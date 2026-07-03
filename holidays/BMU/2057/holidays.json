@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-05-25",
+    "holiday": "Bermuda Day"
+  },
+  {
+    "date": "2057-06-18",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2057-08-02",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2057-08-03",
+    "holiday": "Mary Prince Day"
+  },
+  {
+    "date": "2057-09-03",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2057-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2057-11-12",
+    "holiday": "Remembrance Day (observed)"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2057-12-26",
+    "holiday": "Boxing Day"
+  }
+]

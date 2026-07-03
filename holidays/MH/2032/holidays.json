@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-03-01",
+    "holiday": "Nuclear Victims Remembrance Day"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2032-07-02",
+    "holiday": "Fisherman's Day"
+  },
+  {
+    "date": "2032-09-03",
+    "holiday": "Dri-jerbal Day"
+  },
+  {
+    "date": "2032-09-24",
+    "holiday": "Manit Day"
+  },
+  {
+    "date": "2032-11-17",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2032-12-03",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  }
+]

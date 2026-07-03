@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2048-01-26",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-07-13",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2048-08-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-09-20",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2048-10-02",
+    "holiday": "Gandhi Jayanti"
+  },
+  {
+    "date": "2048-10-19",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2048-12-19",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas"
+  }
+]

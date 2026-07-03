@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2058-03-25",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2058-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2058-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2058-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2058-05-23",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2058-06-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2058-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2058-08-31",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2058-12-25",
+    "holiday": "Christmas Day"
+  }
+]

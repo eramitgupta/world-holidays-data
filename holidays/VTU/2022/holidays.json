@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-02-21",
+    "holiday": "Father Lini Day"
+  },
+  {
+    "date": "2022-03-05",
+    "holiday": "Custom Chief's Day"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2022-05-26",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2022-07-24",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2022-07-25",
+    "holiday": "Children's Day (observed)"
+  },
+  {
+    "date": "2022-07-30",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2022-10-05",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2022-10-13",
+    "holiday": "Election Day"
+  },
+  {
+    "date": "2022-11-29",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Family Day (observed)"
+  }
+]

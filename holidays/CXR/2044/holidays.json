@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2044-01-30",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2044-01-31",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2044-02-01",
+    "holiday": "Chinese New Year (observed)"
+  },
+  {
+    "date": "2044-02-02",
+    "holiday": "Chinese New Year (observed)"
+  },
+  {
+    "date": "2044-03-21",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2044-08-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2044-10-03",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2044-10-31",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Boxing Day; Christmas Day (observed)"
+  },
+  {
+    "date": "2044-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

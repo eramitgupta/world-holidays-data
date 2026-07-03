@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-06-14",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2039-10-03",
+    "holiday": "Peat Cutting Day"
+  },
+  {
+    "date": "2039-11-14",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2039-12-27",
+    "holiday": "Christmas Holiday"
+  },
+  {
+    "date": "2039-12-28",
+    "holiday": "Christmas Day (observed)"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-01-17",
+    "holiday": "Possession Day"
+  },
+  {
+    "date": "2046-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2046-04-25",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2046-05-20",
+    "holiday": "Shackleton Day"
+  },
+  {
+    "date": "2046-05-21",
+    "holiday": "Shackleton Day (observed)"
+  },
+  {
+    "date": "2046-06-21",
+    "holiday": "Mid-winter Day"
+  },
+  {
+    "date": "2046-10-30",
+    "holiday": "Environment Day"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2046-12-26",
+    "holiday": "Boxing Day"
+  }
+]

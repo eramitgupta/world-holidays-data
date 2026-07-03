@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2042-04-19",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2042-04-25",
+    "holiday": "National Flag Day"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2042-05-15",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2042-07-22",
+    "holiday": "Birthday of Late King Sobhuza"
+  },
+  {
+    "date": "2042-09-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Boxing Day"
+  }
+]

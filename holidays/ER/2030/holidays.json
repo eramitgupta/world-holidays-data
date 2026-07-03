@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-07",
+    "holiday": "Orthodox Christmas"
+  },
+  {
+    "date": "2030-01-19",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2030-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2030-04-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2030-04-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-04-28",
+    "holiday": "Orthodox Easter"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2030-05-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2030-06-20",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2030-07-13",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2030-09-01",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2030-09-11",
+    "holiday": "Ethiopian New Year"
+  },
+  {
+    "date": "2030-09-27",
+    "holiday": "Finding of the True Cross"
+  }
+]

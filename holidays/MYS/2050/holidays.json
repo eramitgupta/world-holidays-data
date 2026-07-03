@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2050-01-23",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2050-01-24",
+    "holiday": "Chinese New Year (Second Day) (estimated)"
+  },
+  {
+    "date": "2050-01-25",
+    "holiday": "Chinese New Year (observed, estimated)"
+  },
+  {
+    "date": "2050-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2050-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2050-05-05",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2050-06-06",
+    "holiday": "Birthday of HM Yang di-Pertuan Agong"
+  },
+  {
+    "date": "2050-06-20",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2050-06-21",
+    "holiday": "Eid al-Fitr (Second Day) (estimated)"
+  },
+  {
+    "date": "2050-08-28",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2050-08-29",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2050-08-31",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2050-09-16",
+    "holiday": "Malaysia Day"
+  },
+  {
+    "date": "2050-09-17",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2050-11-26",
+    "holiday": "Prophet Muhammad's Birthday (estimated)"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

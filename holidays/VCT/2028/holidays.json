@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-03-14",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2028-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2028-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2028-05-01",
+    "holiday": "National Workers' Day"
+  },
+  {
+    "date": "2028-05-21",
+    "holiday": "National Spiritual Baptist Day"
+  },
+  {
+    "date": "2028-06-05",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2028-07-03",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2028-07-04",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2028-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2028-10-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2028-12-26",
+    "holiday": "Boxing Day"
+  }
+]

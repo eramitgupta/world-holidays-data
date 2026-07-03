@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-02-26",
+    "holiday": "Grand Chief Sir Michael Somare Remembrance Day"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-01",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-06-17",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2040-07-23",
+    "holiday": "Papua New Guinea Remembrance Day"
+  },
+  {
+    "date": "2040-08-26",
+    "holiday": "National Repentance Day"
+  },
+  {
+    "date": "2040-08-27",
+    "holiday": "National Repentance Day (observed)"
+  },
+  {
+    "date": "2040-09-16",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-09-17",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Boxing Day"
+  }
+]

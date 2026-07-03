@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2017-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2017-05-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2017-05-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2017-05-23",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2017-07-13",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2017-07-14",
+    "holiday": "Statehood Day"
+  }
+]

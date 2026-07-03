@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2021-03-06",
+    "holiday": "Foundation Day"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2021-06-08",
+    "holiday": "Bounty Day"
+  },
+  {
+    "date": "2021-06-14",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2021-10-11",
+    "holiday": "Show Day"
+  },
+  {
+    "date": "2021-11-24",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2021-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-03-14",
+    "holiday": "Summer Day"
+  },
+  {
+    "date": "2040-03-22",
+    "holiday": "Nowruz Day"
+  },
+  {
+    "date": "2040-04-01",
+    "holiday": "Catholic Easter Sunday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Catholic Easter Sunday (observed)"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2040-05-06",
+    "holiday": "Orthodox Easter Sunday"
+  },
+  {
+    "date": "2040-05-07",
+    "holiday": "Orthodox Easter Sunday (observed)"
+  },
+  {
+    "date": "2040-09-05",
+    "holiday": "Mother Teresa Canonization Day"
+  },
+  {
+    "date": "2040-10-07",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2040-10-08",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2040-11-22",
+    "holiday": "Alphabet Day"
+  },
+  {
+    "date": "2040-11-28",
+    "holiday": "Flag and Independence Day"
+  },
+  {
+    "date": "2040-11-29",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2040-12-08",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2040-12-10",
+    "holiday": "National Youth Day (observed)"
+  },
+  {
+    "date": "2040-12-14",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  }
+]

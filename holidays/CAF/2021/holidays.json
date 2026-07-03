@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-03-29",
+    "holiday": "Barthélemy Boganda Day"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2021-05-13",
+    "holiday": "Ascension Day; Eid al-Fitr"
+  },
+  {
+    "date": "2021-05-24",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2021-06-30",
+    "holiday": "General Prayer Day"
+  },
+  {
+    "date": "2021-07-20",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2021-08-13",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2021-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2021-12-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  }
+]

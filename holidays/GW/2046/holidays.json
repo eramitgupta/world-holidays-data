@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-01-20",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2046-01-23",
+    "holiday": "Day of the Beginning of the Armed Struggle"
+  },
+  {
+    "date": "2046-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2046-03-25",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2046-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2046-08-03",
+    "holiday": "Eid al-Fitr (estimated); Pidjiguiti Day"
+  },
+  {
+    "date": "2046-09-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2046-10-10",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  }
+]

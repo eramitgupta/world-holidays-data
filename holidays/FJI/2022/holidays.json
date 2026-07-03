@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-16",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-09-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2022-10-07",
+    "holiday": "Prophet Mohammed's Birthday"
+  },
+  {
+    "date": "2022-10-10",
+    "holiday": "Fiji Day"
+  },
+  {
+    "date": "2022-10-25",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

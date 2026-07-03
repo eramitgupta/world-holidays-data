@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2051-02-02",
+    "holiday": "Candlemas"
+  },
+  {
+    "date": "2051-03-19",
+    "holiday": "Saint Joseph's Day"
+  },
+  {
+    "date": "2051-04-02",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2051-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2051-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2051-05-11",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2051-05-21",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2051-05-22",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2051-06-01",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2051-08-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2051-09-08",
+    "holiday": "Nativity of Mary"
+  },
+  {
+    "date": "2051-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2051-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2051-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]

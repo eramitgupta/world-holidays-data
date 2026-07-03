@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-04-14",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-17",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-05-13",
+    "holiday": "Great Prayer Day"
+  },
+  {
+    "date": "2022-05-26",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2022-06-05",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2022-06-06",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

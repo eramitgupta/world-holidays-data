@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-01-09",
+    "holiday": "Peace Agreement Day"
+  },
+  {
+    "date": "2046-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2046-03-24",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2046-03-25",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2046-05-01",
+    "holiday": "International Labour Day"
+  },
+  {
+    "date": "2046-05-16",
+    "holiday": "SPLA Day"
+  },
+  {
+    "date": "2046-07-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2046-07-30",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2046-08-03",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2046-10-10",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2046-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2046-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

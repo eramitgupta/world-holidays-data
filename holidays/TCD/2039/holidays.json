@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2039-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2039-04-06",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2039-05-02",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2039-08-11",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2039-10-19",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2039-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2039-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2039-12-01",
+    "holiday": "Freedom and Democracy Day"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Eid al-Adha (estimated)"
+  }
+]

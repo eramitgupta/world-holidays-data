@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-02-15",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2021-02-16",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2021-03-24",
+    "holiday": "National Day of Remembrance for Truth and Justice"
+  },
+  {
+    "date": "2021-04-01",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday; Veteran's Day and the Fallen in the Malvinas War"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2021-05-24",
+    "holiday": "Bridge Public Holiday"
+  },
+  {
+    "date": "2021-05-25",
+    "holiday": "May Revolution Day"
+  },
+  {
+    "date": "2021-06-20",
+    "holiday": "Pass to the Immortality of General Don Manuel Belgrano"
+  },
+  {
+    "date": "2021-06-21",
+    "holiday": "Pass to the Immortality of General Don Martín Miguel de Güemes"
+  },
+  {
+    "date": "2021-07-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-08-16",
+    "holiday": "Pass to the Immortality of General Don José de San Martín"
+  },
+  {
+    "date": "2021-10-08",
+    "holiday": "Bridge Public Holiday"
+  },
+  {
+    "date": "2021-10-11",
+    "holiday": "Respect for Cultural Diversity Day"
+  },
+  {
+    "date": "2021-11-20",
+    "holiday": "National Sovereignty Day"
+  },
+  {
+    "date": "2021-11-22",
+    "holiday": "Bridge Public Holiday"
+  },
+  {
+    "date": "2021-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  }
+]

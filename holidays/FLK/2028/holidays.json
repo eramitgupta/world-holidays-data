@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2028-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2028-06-14",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2028-10-02",
+    "holiday": "Peat Cutting Day"
+  },
+  {
+    "date": "2028-11-14",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2028-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2028-12-27",
+    "holiday": "Christmas Holiday"
+  }
+]

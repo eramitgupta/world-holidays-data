@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-26",
+    "holiday": "NRM Liberation Day"
+  },
+  {
+    "date": "2020-02-16",
+    "holiday": "Archbishop Janani Luwum Day"
+  },
+  {
+    "date": "2020-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2020-05-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2020-06-03",
+    "holiday": "Uganda Martyrs' Day"
+  },
+  {
+    "date": "2020-06-09",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2020-10-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-04-24",
+    "holiday": "National Concord Day"
+  },
+  {
+    "date": "2022-04-25",
+    "holiday": "National Concord Day (observed)"
+  },
+  {
+    "date": "2022-04-28",
+    "holiday": "Laylat al-Qadr"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Eid al-Fitr; International Labor Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Eid al-Fitr (observed); International Labor Day (observed)"
+  },
+  {
+    "date": "2022-07-10",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2022-07-11",
+    "holiday": "Day after Eid al-Adha"
+  },
+  {
+    "date": "2022-07-30",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2022-08-03",
+    "holiday": "Anniversary of the Proclamation of Independence"
+  },
+  {
+    "date": "2022-10-08",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2022-12-18",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2022-12-19",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

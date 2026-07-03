@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-02-18",
+    "holiday": "Winter Midterm Bank Holiday"
+  },
+  {
+    "date": "2058-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2058-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2058-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2058-04-29",
+    "holiday": "Workers' Memorial Day (observed)"
+  },
+  {
+    "date": "2058-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2058-05-27",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2058-06-10",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2058-08-26",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2058-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2058-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2058-12-26",
+    "holiday": "Boxing Day"
+  }
+]

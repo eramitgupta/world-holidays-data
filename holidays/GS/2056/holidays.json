@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2056-01-17",
+    "holiday": "Possession Day"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-25",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2056-05-20",
+    "holiday": "Shackleton Day"
+  },
+  {
+    "date": "2056-05-22",
+    "holiday": "Shackleton Day (observed)"
+  },
+  {
+    "date": "2056-06-21",
+    "holiday": "Mid-winter Day"
+  },
+  {
+    "date": "2056-10-30",
+    "holiday": "Environment Day"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-26",
+    "holiday": "Boxing Day"
+  }
+]

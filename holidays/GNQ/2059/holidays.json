@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2059-03-27",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2059-05-25",
+    "holiday": "African Liberation Day"
+  },
+  {
+    "date": "2059-05-29",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2059-06-05",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2059-08-03",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2059-08-04",
+    "holiday": "Armed Forces Day (observed)"
+  },
+  {
+    "date": "2059-08-15",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2059-10-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2059-10-13",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2059-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  }
+]

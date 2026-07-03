@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2023-04-06",
+    "holiday": "Pesach"
+  },
+  {
+    "date": "2023-04-12",
+    "holiday": "Seventh day of Pesach"
+  },
+  {
+    "date": "2023-04-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2023-05-26",
+    "holiday": "Shavuot"
+  },
+  {
+    "date": "2023-09-16",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2023-09-17",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2023-09-25",
+    "holiday": "Yom Kippur"
+  },
+  {
+    "date": "2023-09-30",
+    "holiday": "Sukkot"
+  },
+  {
+    "date": "2023-10-07",
+    "holiday": "Simchat Torah / Shemini Atzeret"
+  }
+]

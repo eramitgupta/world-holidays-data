@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-02-04",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2057-02-05",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2057-02-06",
+    "holiday": "Chinese New Year (observed, estimated)"
+  },
+  {
+    "date": "2057-04-05",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2057-05-18",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2057-06-12",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2057-08-09",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2057-10-26",
+    "holiday": "Deepavali"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  }
+]

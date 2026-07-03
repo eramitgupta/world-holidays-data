@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2018-03-31",
+    "holiday": "Pesach"
+  },
+  {
+    "date": "2018-04-06",
+    "holiday": "Seventh day of Pesach"
+  },
+  {
+    "date": "2018-04-19",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2018-05-20",
+    "holiday": "Shavuot"
+  },
+  {
+    "date": "2018-09-10",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2018-09-11",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2018-09-19",
+    "holiday": "Yom Kippur"
+  },
+  {
+    "date": "2018-09-24",
+    "holiday": "Sukkot"
+  },
+  {
+    "date": "2018-10-01",
+    "holiday": "Simchat Torah / Shemini Atzeret"
+  }
+]

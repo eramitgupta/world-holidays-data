@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-02-01",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2041-02-02",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2041-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2041-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2041-05-14",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2041-08-09",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2041-09-26",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2041-10-23",
+    "holiday": "Deepavali"
+  },
+  {
+    "date": "2041-12-04",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Christmas Day"
+  }
+]

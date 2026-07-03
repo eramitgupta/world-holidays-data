@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-01-14",
+    "holiday": "Revolution and Youth Day"
+  },
+  {
+    "date": "2056-03-20",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2056-04-09",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2056-04-16",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2056-04-17",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2056-04-18",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2056-06-22",
+    "holiday": "Arafat Day (estimated)"
+  },
+  {
+    "date": "2056-06-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2056-06-24",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2056-06-25",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2056-07-14",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2056-07-25",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2056-08-13",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2056-09-22",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2056-10-15",
+    "holiday": "Evacuation Day"
+  }
+]

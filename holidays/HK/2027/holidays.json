@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-02-06",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2027-02-08",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2027-02-09",
+    "holiday": "The fourth day of Chinese New Year"
+  },
+  {
+    "date": "2027-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2027-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2027-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2027-05-13",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2027-06-09",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2027-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2027-09-16",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2027-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2027-10-08",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2027-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  },
+  {
+    "date": "2027-12-27",
+    "holiday": "The first weekday after Christmas Day (observed)"
+  }
+]

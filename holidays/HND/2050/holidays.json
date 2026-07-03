@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-04-07",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-04-09",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2050-04-14",
+    "holiday": "Panamerican Day"
+  },
+  {
+    "date": "2050-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2050-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2050-10-05",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2050-10-06",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2050-10-07",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  }
+]

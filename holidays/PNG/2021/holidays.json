@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-08",
+    "holiday": "State Funeral of Sir Mekere Morauta"
+  },
+  {
+    "date": "2021-03-01",
+    "holiday": "National Day of Mourning for Sir Michael Somare"
+  },
+  {
+    "date": "2021-03-12",
+    "holiday": "National Day of Mourning for Sir Michael Somare"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-03",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2021-04-04",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-06-14",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2021-07-23",
+    "holiday": "Papua New Guinea Remembrance Day"
+  },
+  {
+    "date": "2021-08-26",
+    "holiday": "National Repentance Day"
+  },
+  {
+    "date": "2021-09-16",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2045-01-04",
+    "holiday": "Day of King Amador"
+  },
+  {
+    "date": "2045-02-03",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2045-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2045-07-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2045-09-06",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2045-09-29",
+    "holiday": "Agricultural Reform Day (observed)"
+  },
+  {
+    "date": "2045-09-30",
+    "holiday": "Agricultural Reform Day"
+  },
+  {
+    "date": "2045-12-21",
+    "holiday": "São Tomé Day"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  }
+]

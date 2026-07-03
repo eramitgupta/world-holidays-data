@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-04-12",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2015-04-13",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-05-31",
+    "holiday": "Pentecost"
+  },
+  {
+    "date": "2015-06-01",
+    "holiday": "Pentecost"
+  },
+  {
+    "date": "2015-08-15",
+    "holiday": "Dormition of the Mother of God"
+  },
+  {
+    "date": "2015-11-30",
+    "holiday": "Saint Andrew's Day"
+  },
+  {
+    "date": "2015-12-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-01-28",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2017-01-29",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2017-01-30",
+    "holiday": "Chinese New Year (observed)"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2017-05-10",
+    "holiday": "Vesak Day"
+  },
+  {
+    "date": "2017-06-25",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2017-06-26",
+    "holiday": "Eid al-Fitr (observed)"
+  },
+  {
+    "date": "2017-08-09",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2017-09-01",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2017-10-18",
+    "holiday": "Deepavali"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  }
+]

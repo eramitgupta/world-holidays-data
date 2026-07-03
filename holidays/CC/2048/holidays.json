@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2048-01-27",
+    "holiday": "Australia Day (observed)"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Act of Self Determination Day; Easter Monday"
+  },
+  {
+    "date": "2048-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2048-04-27",
+    "holiday": "ANZAC Day (observed)"
+  },
+  {
+    "date": "2048-06-08",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2048-07-12",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2048-07-13",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2048-09-19",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2048-09-21",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2048-12-18",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2048-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2050-01-22",
+    "holiday": "Chinese New Year's Eve"
+  },
+  {
+    "date": "2050-01-23",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2050-01-24",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2050-01-25",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2050-01-26",
+    "holiday": "Chinese New Year's Eve (observed)"
+  },
+  {
+    "date": "2050-01-27",
+    "holiday": "Chinese New Year (Spring Festival) (observed)"
+  },
+  {
+    "date": "2050-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2050-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2050-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2050-05-03",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2050-06-23",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2050-09-30",
+    "holiday": "Mid-Autumn Festival"
+  },
+  {
+    "date": "2050-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2050-10-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2050-10-03",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2050-10-04",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2050-10-05",
+    "holiday": "National Day (observed)"
+  }
+]

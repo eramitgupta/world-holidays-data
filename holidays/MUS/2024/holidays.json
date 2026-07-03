@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2024-01-25",
+    "holiday": "Thaipusam"
+  },
+  {
+    "date": "2024-02-01",
+    "holiday": "Abolition of Slavery"
+  },
+  {
+    "date": "2024-02-10",
+    "holiday": "Chinese Spring Festival"
+  },
+  {
+    "date": "2024-03-08",
+    "holiday": "Maha Shivaratri"
+  },
+  {
+    "date": "2024-03-12",
+    "holiday": "Independence and Republic Day"
+  },
+  {
+    "date": "2024-04-09",
+    "holiday": "Ugadi"
+  },
+  {
+    "date": "2024-04-11",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2024-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2024-09-08",
+    "holiday": "Ganesh Chaturthi"
+  },
+  {
+    "date": "2024-10-31",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2024-11-02",
+    "holiday": "Arrival of Indentured Laborers"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  }
+]

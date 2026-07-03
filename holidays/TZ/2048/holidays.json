@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-01-12",
+    "holiday": "Zanzibar Revolution Day"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-04-07",
+    "holiday": "The Sheikh Abeid Amani Karume Day"
+  },
+  {
+    "date": "2048-04-26",
+    "holiday": "Union Celebrations"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2048-07-07",
+    "holiday": "International Trade Fair"
+  },
+  {
+    "date": "2048-07-13",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2048-07-14",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2048-08-08",
+    "holiday": "Peasants' Day"
+  },
+  {
+    "date": "2048-09-20",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2048-10-14",
+    "holiday": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race"
+  },
+  {
+    "date": "2048-12-09",
+    "holiday": "Independence and Republic Day"
+  },
+  {
+    "date": "2048-12-19",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "Boxing Day"
+  }
+]

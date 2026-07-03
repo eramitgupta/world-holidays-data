@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2050-01-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2050-03-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2050-03-07",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2050-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2050-05-02",
+    "holiday": "May Day (observed)"
+  },
+  {
+    "date": "2050-06-20",
+    "holiday": "Eid ul-Fitr (estimated)"
+  },
+  {
+    "date": "2050-08-04",
+    "holiday": "Founders' Day"
+  },
+  {
+    "date": "2050-08-28",
+    "holiday": "Eid ul-Adha (estimated)"
+  },
+  {
+    "date": "2050-08-29",
+    "holiday": "Eid ul-Adha (observed, estimated)"
+  },
+  {
+    "date": "2050-09-21",
+    "holiday": "Kwame Nkrumah Memorial Day"
+  },
+  {
+    "date": "2050-12-02",
+    "holiday": "Farmer's Day"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2050-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

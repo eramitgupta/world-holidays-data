@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2053-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2053-03-18",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2053-04-06",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2053-04-13",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2053-05-19",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2053-05-20",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2053-05-21",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2053-07-26",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2053-07-27",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2053-07-28",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2053-07-29",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2053-08-15",
+    "holiday": "Hijri New Year"
+  },
+  {
+    "date": "2053-10-24",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2053-11-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

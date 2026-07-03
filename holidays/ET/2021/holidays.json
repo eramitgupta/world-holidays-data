@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2021-01-07",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-01-19",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2021-03-02",
+    "holiday": "Adwa Victory Day"
+  },
+  {
+    "date": "2021-04-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2021-05-02",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2021-05-05",
+    "holiday": "Ethiopian Patriots' Victory Day"
+  },
+  {
+    "date": "2021-05-13",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2021-05-28",
+    "holiday": "Downfall of the Dergue Regime Day"
+  },
+  {
+    "date": "2021-07-20",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2021-09-11",
+    "holiday": "Ethiopian New Year"
+  },
+  {
+    "date": "2021-09-27",
+    "holiday": "Finding of True Cross"
+  },
+  {
+    "date": "2021-10-18",
+    "holiday": "Prophet's Birthday"
+  }
+]

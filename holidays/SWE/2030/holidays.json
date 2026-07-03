@@ -1,0 +1,262 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-06",
+    "holiday": "Epiphany; Sunday"
+  },
+  {
+    "date": "2030-01-13",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-01-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-01-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-02-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-02-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-02-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-02-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-03-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-03-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-03-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-03-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-03-31",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-04-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-04-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-04-21",
+    "holiday": "Easter Sunday; Sunday"
+  },
+  {
+    "date": "2030-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2030-04-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2030-05-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-05-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-05-19",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-05-26",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-05-30",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2030-06-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-06-06",
+    "holiday": "National Day of Sweden"
+  },
+  {
+    "date": "2030-06-09",
+    "holiday": "Sunday; Whit Sunday"
+  },
+  {
+    "date": "2030-06-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-06-21",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2030-06-22",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2030-06-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-06-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-07-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-07-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-07-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-07-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-08-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-08-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-08-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-08-25",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-09-01",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-09-08",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-09-15",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-09-22",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-09-29",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-10-06",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-10-13",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-10-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-10-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-11-02",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2030-11-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-11-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-11-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-11-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-12-01",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-12-08",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-12-15",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-12-22",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2030-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2030-12-29",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2030-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

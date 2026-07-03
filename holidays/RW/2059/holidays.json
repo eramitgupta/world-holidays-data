@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2059-02-01",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2059-02-03",
+    "holiday": "National Heroes' Day (observed)"
+  },
+  {
+    "date": "2059-03-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2059-03-17",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-03-31",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2059-04-07",
+    "holiday": "Memorial Day of Genocide perpetrated against the Tutsi in 1994"
+  },
+  {
+    "date": "2059-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2059-05-22",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2059-07-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2059-07-04",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2059-08-01",
+    "holiday": "Umuganura Day"
+  },
+  {
+    "date": "2059-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2059-12-26",
+    "holiday": "Boxing Day"
+  }
+]

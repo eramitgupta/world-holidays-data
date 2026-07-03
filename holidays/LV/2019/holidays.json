@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-21",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-05-04",
+    "holiday": "Restoration of Independence Day"
+  },
+  {
+    "date": "2019-05-06",
+    "holiday": "Restoration of Independence Day (observed)"
+  },
+  {
+    "date": "2019-05-12",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2019-06-23",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2019-06-24",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2019-11-18",
+    "holiday": "Republic of Latvia Proclamation Day"
+  },
+  {
+    "date": "2019-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2019-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2028-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2028-04-13",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2028-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2028-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2028-05-25",
+    "holiday": "African Liberation Day"
+  },
+  {
+    "date": "2028-06-05",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2028-06-15",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2028-08-03",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2028-08-15",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2028-10-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2028-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Christmas Day"
+  }
+]

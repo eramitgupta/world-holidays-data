@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2018-02-16",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2018-02-17",
+    "holiday": "Chinese New Year (Second Day)"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2018-05-09",
+    "holiday": "General election additional holiday"
+  },
+  {
+    "date": "2018-05-29",
+    "holiday": "Vesak Day"
+  },
+  {
+    "date": "2018-06-15",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2018-06-16",
+    "holiday": "Eid al-Fitr (Second Day)"
+  },
+  {
+    "date": "2018-08-22",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2018-08-31",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2018-09-09",
+    "holiday": "Birthday of HM Yang di-Pertuan Agong"
+  },
+  {
+    "date": "2018-09-10",
+    "holiday": "Birthday of HM Yang di-Pertuan Agong (observed)"
+  },
+  {
+    "date": "2018-09-11",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2018-09-16",
+    "holiday": "Malaysia Day"
+  },
+  {
+    "date": "2018-09-17",
+    "holiday": "Malaysia Day (observed)"
+  },
+  {
+    "date": "2018-11-20",
+    "holiday": "Prophet Muhammad's Birthday"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  }
+]

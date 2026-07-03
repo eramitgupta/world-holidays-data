@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year Holidays"
+  },
+  {
+    "date": "2015-01-02",
+    "holiday": "New Year Holidays"
+  },
+  {
+    "date": "2015-01-03",
+    "holiday": "New Year Holidays"
+  },
+  {
+    "date": "2015-01-04",
+    "holiday": "New Year Holidays"
+  },
+  {
+    "date": "2015-01-05",
+    "holiday": "New Year Holidays"
+  },
+  {
+    "date": "2015-01-06",
+    "holiday": "New Year Holidays"
+  },
+  {
+    "date": "2015-01-07",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-01-08",
+    "holiday": "New Year Holidays"
+  },
+  {
+    "date": "2015-01-09",
+    "holiday": "Day off (substituted from 01/03/2015)"
+  },
+  {
+    "date": "2015-02-23",
+    "holiday": "Defender of the Fatherland Day"
+  },
+  {
+    "date": "2015-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2015-03-09",
+    "holiday": "Day off (substituted from 03/08/2015)"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Holiday of Spring and Labor"
+  },
+  {
+    "date": "2015-05-04",
+    "holiday": "Day off (substituted from 01/04/2015)"
+  },
+  {
+    "date": "2015-05-09",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2015-05-11",
+    "holiday": "Day off (substituted from 05/09/2015)"
+  },
+  {
+    "date": "2015-06-12",
+    "holiday": "Russia Day"
+  },
+  {
+    "date": "2015-11-04",
+    "holiday": "Unity Day"
+  }
+]

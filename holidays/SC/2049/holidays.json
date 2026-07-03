@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-01-02",
+    "holiday": "New Year Holiday"
+  },
+  {
+    "date": "2049-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2049-04-17",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2049-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2049-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2049-06-17",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2049-06-18",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2049-06-29",
+    "holiday": "Independence (National) Day"
+  },
+  {
+    "date": "2049-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2049-08-16",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2049-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2049-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2049-12-25",
+    "holiday": "Christmas Day"
+  }
+]

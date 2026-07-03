@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2056-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2056-03-30",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2056-05-25",
+    "holiday": "African Liberation Day"
+  },
+  {
+    "date": "2056-06-01",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2056-06-05",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2056-08-03",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2056-08-15",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2056-10-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2056-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  }
+]

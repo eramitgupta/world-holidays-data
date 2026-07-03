@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2039-01-23",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2039-01-24",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2039-01-25",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2039-01-26",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2039-01-27",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2039-01-28",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2039-04-03",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2039-04-04",
+    "holiday": "Hung Kings' Commemoration Day (observed)"
+  },
+  {
+    "date": "2039-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2039-05-02",
+    "holiday": "Liberation Day/Reunification Day (observed)"
+  },
+  {
+    "date": "2039-05-03",
+    "holiday": "International Labor Day (observed)"
+  },
+  {
+    "date": "2039-09-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2039-09-02",
+    "holiday": "National Day"
+  }
+]

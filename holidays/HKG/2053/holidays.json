@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-02-19",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2053-02-20",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2053-02-21",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Good Friday; Tomb-Sweeping Day"
+  },
+  {
+    "date": "2053-04-05",
+    "holiday": "The day following Good Friday"
+  },
+  {
+    "date": "2053-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2053-05-25",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2053-05-26",
+    "holiday": "The Buddha's Birthday (observed)"
+  },
+  {
+    "date": "2053-06-20",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2053-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2053-09-27",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2053-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2053-10-20",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2053-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  }
+]

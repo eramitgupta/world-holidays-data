@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-03-14",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2033-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2033-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2033-05-01",
+    "holiday": "National Workers' Day"
+  },
+  {
+    "date": "2033-05-02",
+    "holiday": "National Workers' Day (observed)"
+  },
+  {
+    "date": "2033-05-21",
+    "holiday": "National Spiritual Baptist Day"
+  },
+  {
+    "date": "2033-06-06",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2033-07-04",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2033-07-05",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2033-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2033-10-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2033-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2033-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

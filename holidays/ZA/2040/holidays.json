@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-03-21",
+    "holiday": "Human Rights Day"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2040-04-27",
+    "holiday": "Freedom Day"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2040-06-16",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2040-08-09",
+    "holiday": "National Women's Day"
+  },
+  {
+    "date": "2040-09-24",
+    "holiday": "Heritage Day"
+  },
+  {
+    "date": "2040-12-16",
+    "holiday": "Day of Reconciliation"
+  },
+  {
+    "date": "2040-12-17",
+    "holiday": "Day of Reconciliation (observed)"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Day of Goodwill"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-02-10",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2051-02-11",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2051-02-12",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2051-02-13",
+    "holiday": "Alternative holiday for Korean New Year"
+  },
+  {
+    "date": "2051-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2051-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2051-05-17",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2051-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2051-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2051-09-18",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2051-09-19",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2051-09-20",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2051-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2051-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  }
+]

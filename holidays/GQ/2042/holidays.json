@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2042-04-03",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2042-05-25",
+    "holiday": "African Liberation Day"
+  },
+  {
+    "date": "2042-06-05",
+    "holiday": "Corpus Christi; President's Day"
+  },
+  {
+    "date": "2042-08-03",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2042-08-04",
+    "holiday": "Armed Forces Day (observed)"
+  },
+  {
+    "date": "2042-08-15",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2042-10-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2042-10-13",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2042-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  }
+]

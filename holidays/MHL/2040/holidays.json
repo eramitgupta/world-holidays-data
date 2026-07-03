@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day Holiday"
+  },
+  {
+    "date": "2040-03-01",
+    "holiday": "Nuclear Victims Remembrance Day"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2040-07-06",
+    "holiday": "Fisherman's Day"
+  },
+  {
+    "date": "2040-09-07",
+    "holiday": "Dri-jerbal Day"
+  },
+  {
+    "date": "2040-09-28",
+    "holiday": "Manit Day"
+  },
+  {
+    "date": "2040-11-17",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2040-12-07",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  }
+]

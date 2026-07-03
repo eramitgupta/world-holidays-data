@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-02-23",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2020-03-02",
+    "holiday": "Public Holiday"
+  },
+  {
+    "date": "2020-03-10",
+    "holiday": "Holi"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-05-05",
+    "holiday": "Arrival Day"
+  },
+  {
+    "date": "2020-05-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-07-06",
+    "holiday": "CARICOM Day"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2020-10-29",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2020-11-14",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Day after Christmas"
+  },
+  {
+    "date": "2020-12-28",
+    "holiday": "Day after Christmas (observed)"
+  }
+]

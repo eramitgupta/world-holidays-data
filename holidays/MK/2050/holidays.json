@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-07",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2050-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2050-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2050-05-24",
+    "holiday": "Saints Cyril and Methodius Day"
+  },
+  {
+    "date": "2050-06-20",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2050-08-02",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2050-09-08",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2050-10-11",
+    "holiday": "National Uprising Day"
+  },
+  {
+    "date": "2050-10-23",
+    "holiday": "Macedonian Revolutionary Struggle Day"
+  },
+  {
+    "date": "2050-10-24",
+    "holiday": "Macedonian Revolutionary Struggle Day (observed)"
+  },
+  {
+    "date": "2050-12-08",
+    "holiday": "Saint Clement of Ohrid Day"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-02-08",
+    "holiday": "Prešeren's Day, the Slovenian Cultural Holiday"
+  },
+  {
+    "date": "2048-04-05",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-04-27",
+    "holiday": "Day of Uprising Against Occupation"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2048-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2048-05-24",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2048-06-25",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2048-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2048-10-31",
+    "holiday": "Reformation Day"
+  },
+  {
+    "date": "2048-11-01",
+    "holiday": "Day of Remembrance for the Dead"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "Independence and Unity Day"
+  }
+]

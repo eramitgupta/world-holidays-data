@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-04-24",
+    "holiday": "National Concord Day"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2021-05-09",
+    "holiday": "Laylat al-Qadr"
+  },
+  {
+    "date": "2021-05-10",
+    "holiday": "Laylat al-Qadr (observed)"
+  },
+  {
+    "date": "2021-05-12",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2021-07-20",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2021-07-21",
+    "holiday": "Day after Eid al-Adha"
+  },
+  {
+    "date": "2021-08-03",
+    "holiday": "Anniversary of the Proclamation of Independence"
+  },
+  {
+    "date": "2021-08-10",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2021-10-18",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2021-12-18",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  }
+]

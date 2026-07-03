@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-25",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2020-02-25",
+    "holiday": "EDSA People Power Revolution Anniversary"
+  },
+  {
+    "date": "2020-04-09",
+    "holiday": "Day of Valor; Maundy Thursday"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-11",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2020-08-31",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2020-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2020-11-02",
+    "holiday": "Additional special (non-working) day"
+  },
+  {
+    "date": "2020-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2020-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2020-12-24",
+    "holiday": "Additional special (non-working) day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2020-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2022-02-01",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2022-02-02",
+    "holiday": "Chinese New Year (Second Day)"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2022-05-03",
+    "holiday": "Eid al-Fitr (Second Day)"
+  },
+  {
+    "date": "2022-05-04",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2022-05-15",
+    "holiday": "Vesak Day"
+  },
+  {
+    "date": "2022-05-16",
+    "holiday": "Vesak Day (observed)"
+  },
+  {
+    "date": "2022-06-06",
+    "holiday": "Birthday of HM Yang di-Pertuan Agong"
+  },
+  {
+    "date": "2022-07-10",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2022-07-11",
+    "holiday": "Eid al-Adha (observed)"
+  },
+  {
+    "date": "2022-07-30",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2022-08-31",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2022-09-16",
+    "holiday": "Malaysia Day"
+  },
+  {
+    "date": "2022-10-10",
+    "holiday": "Prophet Muhammad's Birthday"
+  },
+  {
+    "date": "2022-11-18",
+    "holiday": "General election additional holiday"
+  },
+  {
+    "date": "2022-11-19",
+    "holiday": "General election additional holiday"
+  },
+  {
+    "date": "2022-11-28",
+    "holiday": "Cuti Peristiwa"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

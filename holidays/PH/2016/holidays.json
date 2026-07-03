@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-02",
+    "holiday": "Additional special (non-working) day"
+  },
+  {
+    "date": "2016-02-08",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2016-02-25",
+    "holiday": "EDSA People Power Revolution Anniversary"
+  },
+  {
+    "date": "2016-03-24",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-26",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2016-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-07-07",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2016-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2016-08-29",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2016-09-10",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2016-10-31",
+    "holiday": "Additional special (non-working) day"
+  },
+  {
+    "date": "2016-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2016-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2016-12-24",
+    "holiday": "Additional special (non-working) day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2016-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-10",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2022-01-21",
+    "holiday": "Lady of Altagracia"
+  },
+  {
+    "date": "2022-01-24",
+    "holiday": "Juan Pablo Duarte Day"
+  },
+  {
+    "date": "2022-02-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-06-16",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2022-08-15",
+    "holiday": "Restoration Day"
+  },
+  {
+    "date": "2022-09-24",
+    "holiday": "Our Lady of Mercedes Day"
+  },
+  {
+    "date": "2022-11-06",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  }
+]

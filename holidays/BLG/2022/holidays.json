@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2022-03-03",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2022-04-22",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-23",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2022-04-24",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2022-04-25",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day and International Workers' Solidarity Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Labor Day and International Workers' Solidarity Day (observed)"
+  },
+  {
+    "date": "2022-05-06",
+    "holiday": "Saint George's Day (Day of the Bulgarian Army)"
+  },
+  {
+    "date": "2022-05-24",
+    "holiday": "Day of Slavonic Alphabet, Bulgarian Enlightenment and Culture"
+  },
+  {
+    "date": "2022-09-06",
+    "holiday": "Unification Day"
+  },
+  {
+    "date": "2022-09-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Christmas Eve (observed)"
+  },
+  {
+    "date": "2022-12-28",
+    "holiday": "Christmas Day (observed)"
+  }
+]

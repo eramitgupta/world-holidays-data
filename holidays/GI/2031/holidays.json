@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-02-17",
+    "holiday": "Winter Midterm Bank Holiday"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2031-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2031-05-26",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2031-06-16",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2031-08-25",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2031-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2031-12-26",
+    "holiday": "Boxing Day"
+  }
+]

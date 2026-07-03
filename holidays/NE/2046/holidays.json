@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-01-19",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2046-04-24",
+    "holiday": "National Concord Day"
+  },
+  {
+    "date": "2046-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2046-07-26",
+    "holiday": "Anniversary of the CNSP Coup"
+  },
+  {
+    "date": "2046-07-31",
+    "holiday": "Laylat al-Qadr (estimated)"
+  },
+  {
+    "date": "2046-08-03",
+    "holiday": "Anniversary of the Proclamation of Independence; Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2046-10-10",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2046-10-11",
+    "holiday": "Day after Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2046-10-31",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2046-12-18",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  }
+]

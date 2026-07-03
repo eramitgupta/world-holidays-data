@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2040-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-02-01",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-04-07",
+    "holiday": "Memorial Day of Genocide perpetrated against the Tutsi in 1994"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2040-07-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-07-02",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2040-07-04",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2040-08-03",
+    "holiday": "Umuganura Day"
+  },
+  {
+    "date": "2040-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2040-10-07",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2040-10-08",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2040-12-14",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Boxing Day"
+  }
+]

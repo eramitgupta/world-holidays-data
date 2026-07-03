@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-01-27",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2048-02-19",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-05-04",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2048-05-18",
+    "holiday": "Discovery Day"
+  },
+  {
+    "date": "2048-06-22",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2048-07-06",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2048-11-09",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2048-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-27",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2016-05-05",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2016-05-15",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2016-06-09",
+    "holiday": "Åland's Autonomy Day"
+  },
+  {
+    "date": "2016-06-24",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2016-06-25",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2016-11-05",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2016-12-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

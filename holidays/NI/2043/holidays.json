@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2043-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2043-03-26",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2043-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2043-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2043-05-30",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2043-07-19",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2043-09-14",
+    "holiday": "Battle of San Jacinto Day"
+  },
+  {
+    "date": "2043-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2043-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2043-12-25",
+    "holiday": "Christmas Day"
+  }
+]

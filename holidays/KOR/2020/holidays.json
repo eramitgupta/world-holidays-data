@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-24",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2020-01-25",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2020-01-26",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2020-01-27",
+    "holiday": "Alternative holiday for Korean New Year"
+  },
+  {
+    "date": "2020-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2020-04-15",
+    "holiday": "National Assembly Election Day"
+  },
+  {
+    "date": "2020-04-30",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2020-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2020-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2020-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2020-08-17",
+    "holiday": "Temporary Public Holiday"
+  },
+  {
+    "date": "2020-09-30",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2020-10-01",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2020-10-02",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2020-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2020-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  }
+]

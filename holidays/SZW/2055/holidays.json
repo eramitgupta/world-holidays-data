@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday; King's Birthday"
+  },
+  {
+    "date": "2055-04-25",
+    "holiday": "National Flag Day"
+  },
+  {
+    "date": "2055-04-26",
+    "holiday": "National Flag Day (observed)"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2055-05-27",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2055-07-22",
+    "holiday": "Birthday of Late King Sobhuza"
+  },
+  {
+    "date": "2055-09-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2055-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-02-15",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2021-05-03",
+    "holiday": "May Day (observed)"
+  },
+  {
+    "date": "2021-05-31",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2021-06-14",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2021-08-30",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2021-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2021-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

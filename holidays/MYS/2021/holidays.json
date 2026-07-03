@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2021-02-12",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2021-02-13",
+    "holiday": "Chinese New Year (Second Day)"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2021-05-13",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2021-05-14",
+    "holiday": "Eid al-Fitr (Second Day)"
+  },
+  {
+    "date": "2021-05-26",
+    "holiday": "Vesak Day"
+  },
+  {
+    "date": "2021-06-07",
+    "holiday": "Birthday of HM Yang di-Pertuan Agong"
+  },
+  {
+    "date": "2021-07-20",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2021-08-10",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2021-08-31",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2021-09-16",
+    "holiday": "Malaysia Day"
+  },
+  {
+    "date": "2021-10-19",
+    "holiday": "Prophet Muhammad's Birthday"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  }
+]

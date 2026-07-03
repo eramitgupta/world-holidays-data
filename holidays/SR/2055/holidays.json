@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-28",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-04-28",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2055-07-01",
+    "holiday": "Day of Freedoms"
+  },
+  {
+    "date": "2055-07-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2055-08-09",
+    "holiday": "Indigenous People Day"
+  },
+  {
+    "date": "2055-10-10",
+    "holiday": "Day of the Maroons"
+  },
+  {
+    "date": "2055-11-17",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2055-11-25",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

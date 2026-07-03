@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2039-01-31",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2039-02-01",
+    "holiday": "Day following Independence Day"
+  },
+  {
+    "date": "2039-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-04-12",
+    "holiday": "Easter Tuesday"
+  },
+  {
+    "date": "2039-05-17",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2039-07-01",
+    "holiday": "RONPHOS Handover"
+  },
+  {
+    "date": "2039-08-19",
+    "holiday": "Ibumin Earoeni Day"
+  },
+  {
+    "date": "2039-09-25",
+    "holiday": "Sir Hammer DeRoburt Day"
+  },
+  {
+    "date": "2039-09-26",
+    "holiday": "Sir Hammer DeRoburt Day (observed)"
+  },
+  {
+    "date": "2039-10-26",
+    "holiday": "Angam Day"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Day following Christmas"
+  },
+  {
+    "date": "2039-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

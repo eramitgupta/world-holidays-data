@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2016-02-15",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2016-02-16",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2016-04-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-04-30",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Easter Sunday; Labor Day"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "Easter Monday; Labor Day"
+  },
+  {
+    "date": "2016-05-03",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2016-11-11",
+    "holiday": "Armistice Day"
+  }
+]

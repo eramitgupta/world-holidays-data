@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-04-11",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2047-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2047-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2047-05-30",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2047-07-19",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2047-09-14",
+    "holiday": "Battle of San Jacinto Day"
+  },
+  {
+    "date": "2047-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2047-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-02-13",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2029-02-14",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2029-02-15",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2029-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2029-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2029-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2029-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2029-05-20",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2029-05-21",
+    "holiday": "The Buddha's Birthday (observed)"
+  },
+  {
+    "date": "2029-06-16",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2029-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2029-07-02",
+    "holiday": "Hong Kong S.A.R. Establishment Day (observed)"
+  },
+  {
+    "date": "2029-09-24",
+    "holiday": "The Second Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2029-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2029-10-16",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2029-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  }
+]

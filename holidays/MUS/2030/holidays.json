@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2030-02-01",
+    "holiday": "Abolition of Slavery"
+  },
+  {
+    "date": "2030-02-03",
+    "holiday": "Chinese Spring Festival"
+  },
+  {
+    "date": "2030-02-05",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2030-02-17",
+    "holiday": "Thaipusam"
+  },
+  {
+    "date": "2030-03-02",
+    "holiday": "Maha Shivaratri"
+  },
+  {
+    "date": "2030-03-12",
+    "holiday": "Independence and Republic Day"
+  },
+  {
+    "date": "2030-04-03",
+    "holiday": "Ugadi"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2030-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2030-09-01",
+    "holiday": "Ganesh Chaturthi"
+  },
+  {
+    "date": "2030-10-26",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2030-11-02",
+    "holiday": "Arrival of Indentured Laborers"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  }
+]

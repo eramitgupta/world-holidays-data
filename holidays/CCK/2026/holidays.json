@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2026-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2026-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2026-03-20",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2026-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2026-04-06",
+    "holiday": "Act of Self Determination Day; Easter Monday"
+  },
+  {
+    "date": "2026-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2026-04-27",
+    "holiday": "ANZAC Day (observed)"
+  },
+  {
+    "date": "2026-05-27",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2026-06-08",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2026-08-25",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2026-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2026-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2026-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

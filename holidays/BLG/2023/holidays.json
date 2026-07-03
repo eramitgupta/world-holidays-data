@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2023-03-03",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2023-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-04-15",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2023-04-16",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2023-04-17",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labor Day and International Workers' Solidarity Day"
+  },
+  {
+    "date": "2023-05-06",
+    "holiday": "Saint George's Day (Day of the Bulgarian Army)"
+  },
+  {
+    "date": "2023-05-08",
+    "holiday": "Saint George's Day (Day of the Bulgarian Army) (observed)"
+  },
+  {
+    "date": "2023-05-24",
+    "holiday": "Day of Slavonic Alphabet, Bulgarian Enlightenment and Culture"
+  },
+  {
+    "date": "2023-09-06",
+    "holiday": "Unification Day"
+  },
+  {
+    "date": "2023-09-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2023-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2023-12-26",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2023-12-27",
+    "holiday": "Christmas Eve (observed)"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-02-05",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2057-02-06",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2057-02-07",
+    "holiday": "The fourth day of Chinese New Year"
+  },
+  {
+    "date": "2057-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-04-21",
+    "holiday": "The day following Good Friday"
+  },
+  {
+    "date": "2057-04-23",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2057-05-11",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2057-06-06",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2057-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2057-07-02",
+    "holiday": "Hong Kong S.A.R. Establishment Day (observed)"
+  },
+  {
+    "date": "2057-09-14",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2057-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2057-10-07",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2057-10-08",
+    "holiday": "Double Ninth Festival (observed)"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2057-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  }
+]

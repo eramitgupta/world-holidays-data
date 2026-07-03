@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-02-12",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2040-03-29",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-03-31",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2040-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2040-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2040-08-27",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2040-10-07",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2040-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2040-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2040-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2040-12-14",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2040-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

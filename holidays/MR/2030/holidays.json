@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2030-02-05",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2030-04-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2030-04-14",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2030-05-03",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2030-05-25",
+    "holiday": "Africa Day"
+  },
+  {
+    "date": "2030-07-13",
+    "holiday": "Mawlid al-Nabi (estimated)"
+  },
+  {
+    "date": "2030-11-28",
+    "holiday": "Independence Day"
+  }
+]

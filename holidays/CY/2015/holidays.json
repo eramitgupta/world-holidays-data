@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2015-02-23",
+    "holiday": "Green Monday"
+  },
+  {
+    "date": "2015-03-25",
+    "holiday": "Greek Independence Day"
+  },
+  {
+    "date": "2015-04-01",
+    "holiday": "Cyprus National Day"
+  },
+  {
+    "date": "2015-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-12",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2015-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-06-01",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2015-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2015-10-01",
+    "holiday": "Cyprus Independence Day"
+  },
+  {
+    "date": "2015-10-28",
+    "holiday": "Greek National Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Day After Christmas"
+  }
+]

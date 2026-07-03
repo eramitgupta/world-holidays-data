@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2020-01-25",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2020-01-26",
+    "holiday": "Chinese New Year (Second Day)"
+  },
+  {
+    "date": "2020-01-27",
+    "holiday": "Chinese New Year (Second Day) (observed)"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-05-07",
+    "holiday": "Vesak Day"
+  },
+  {
+    "date": "2020-05-24",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Eid al-Fitr (Second Day)"
+  },
+  {
+    "date": "2020-05-26",
+    "holiday": "Eid al-Fitr (observed)"
+  },
+  {
+    "date": "2020-06-08",
+    "holiday": "Birthday of HM Yang di-Pertuan Agong"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-20",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2020-08-31",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2020-09-16",
+    "holiday": "Malaysia Day"
+  },
+  {
+    "date": "2020-10-29",
+    "holiday": "Prophet Muhammad's Birthday"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  }
+]

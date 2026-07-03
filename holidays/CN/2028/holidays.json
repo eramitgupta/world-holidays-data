@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2028-01-25",
+    "holiday": "Chinese New Year's Eve"
+  },
+  {
+    "date": "2028-01-26",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2028-01-27",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2028-01-28",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2028-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2028-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2028-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2028-05-28",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2028-05-29",
+    "holiday": "Dragon Boat Festival (observed)"
+  },
+  {
+    "date": "2028-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2028-10-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2028-10-03",
+    "holiday": "Mid-Autumn Festival; National Day"
+  },
+  {
+    "date": "2028-10-04",
+    "holiday": "National Day (observed)"
+  }
+]

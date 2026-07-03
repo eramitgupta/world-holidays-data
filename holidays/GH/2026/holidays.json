@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2026-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2026-01-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2026-03-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2026-03-20",
+    "holiday": "Eid ul-Fitr (estimated)"
+  },
+  {
+    "date": "2026-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2026-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2026-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2026-05-27",
+    "holiday": "Eid ul-Adha (estimated)"
+  },
+  {
+    "date": "2026-08-04",
+    "holiday": "Founders' Day"
+  },
+  {
+    "date": "2026-09-21",
+    "holiday": "Kwame Nkrumah Memorial Day"
+  },
+  {
+    "date": "2026-12-04",
+    "holiday": "Farmer's Day"
+  },
+  {
+    "date": "2026-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2026-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2026-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

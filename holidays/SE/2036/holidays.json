@@ -1,0 +1,262 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-01-06",
+    "holiday": "Epiphany; Sunday"
+  },
+  {
+    "date": "2036-01-13",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-01-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-01-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-02-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-02-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-02-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-02-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-03-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-03-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-03-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-03-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-03-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-04-06",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-04-13",
+    "holiday": "Easter Sunday; Sunday"
+  },
+  {
+    "date": "2036-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2036-04-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-04-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2036-05-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-05-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-05-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-05-22",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2036-05-25",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-06-01",
+    "holiday": "Sunday; Whit Sunday"
+  },
+  {
+    "date": "2036-06-06",
+    "holiday": "National Day of Sweden"
+  },
+  {
+    "date": "2036-06-08",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-06-15",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-06-20",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2036-06-21",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2036-06-22",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-06-29",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-07-06",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-07-13",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-07-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-07-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-08-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-08-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-08-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-08-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-08-31",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-09-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-09-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-09-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-09-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-10-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-10-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-10-19",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-10-26",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2036-11-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-11-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-11-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-11-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-11-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-12-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-12-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-12-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2036-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2036-12-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2036-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

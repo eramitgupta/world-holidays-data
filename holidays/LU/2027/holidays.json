@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2027-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2027-05-06",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2027-05-09",
+    "holiday": "Europe Day"
+  },
+  {
+    "date": "2027-05-17",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2027-06-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2027-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2027-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2027-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]

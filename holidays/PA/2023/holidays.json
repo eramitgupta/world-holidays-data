@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2023-01-09",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2023-02-21",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2023-11-03",
+    "holiday": "Separation Day"
+  },
+  {
+    "date": "2023-11-05",
+    "holiday": "Colon Day"
+  },
+  {
+    "date": "2023-11-06",
+    "holiday": "Colon Day (observed)"
+  },
+  {
+    "date": "2023-11-10",
+    "holiday": "Los Santos Uprising Day"
+  },
+  {
+    "date": "2023-11-28",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2023-12-08",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2023-12-20",
+    "holiday": "National Mourning Day"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  }
+]

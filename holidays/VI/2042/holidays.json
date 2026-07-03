@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-01-06",
+    "holiday": "Three Kings Day"
+  },
+  {
+    "date": "2042-01-20",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2042-02-17",
+    "holiday": "Presidents' Day"
+  },
+  {
+    "date": "2042-03-31",
+    "holiday": "Transfer Day"
+  },
+  {
+    "date": "2042-04-03",
+    "holiday": "Holy Thursday"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2042-05-26",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2042-06-19",
+    "holiday": "Juneteenth National Independence Day"
+  },
+  {
+    "date": "2042-07-03",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2042-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2042-09-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2042-10-13",
+    "holiday": "Columbus Day and Puerto Rico Friendship Day"
+  },
+  {
+    "date": "2042-11-01",
+    "holiday": "Liberty Day"
+  },
+  {
+    "date": "2042-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2042-11-27",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Christmas Second Day"
+  }
+]

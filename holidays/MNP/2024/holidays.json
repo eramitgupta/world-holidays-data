@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-01-15",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2024-02-19",
+    "holiday": "Washington's Birthday"
+  },
+  {
+    "date": "2024-03-24",
+    "holiday": "Commonwealth Covenant Day"
+  },
+  {
+    "date": "2024-03-25",
+    "holiday": "Commonwealth Covenant Day (observed)"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-05-27",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2024-06-19",
+    "holiday": "Juneteenth National Independence Day"
+  },
+  {
+    "date": "2024-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2024-09-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2024-10-14",
+    "holiday": "Commonwealth Cultural Day"
+  },
+  {
+    "date": "2024-11-04",
+    "holiday": "Citizenship Day"
+  },
+  {
+    "date": "2024-11-05",
+    "holiday": "Election Day"
+  },
+  {
+    "date": "2024-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2024-11-28",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2024-12-08",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2024-12-09",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-04-02",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2037-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2037-04-05",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2037-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2037-05-14",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2037-05-24",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2037-05-25",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2037-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2037-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

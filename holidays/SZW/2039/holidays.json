@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-04-19",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2039-04-25",
+    "holiday": "National Flag Day"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2039-05-02",
+    "holiday": "Worker's Day (observed)"
+  },
+  {
+    "date": "2039-05-19",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2039-07-22",
+    "holiday": "Birthday of Late King Sobhuza"
+  },
+  {
+    "date": "2039-09-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2039-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

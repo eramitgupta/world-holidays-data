@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-01-23",
+    "holiday": "Chinese New Year's Eve"
+  },
+  {
+    "date": "2058-01-24",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2058-01-25",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2058-01-26",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2058-01-28",
+    "holiday": "Chinese New Year (Spring Festival) (observed)"
+  },
+  {
+    "date": "2058-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2058-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2058-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2058-06-25",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2058-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2058-10-02",
+    "holiday": "Mid-Autumn Festival; National Day"
+  },
+  {
+    "date": "2058-10-03",
+    "holiday": "National Day"
+  }
+]

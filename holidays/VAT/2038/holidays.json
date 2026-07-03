@@ -1,0 +1,118 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "Solemnity of Mary, Mother of God"
+  },
+  {
+    "date": "2038-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2038-02-11",
+    "holiday": "Anniversary of the Foundation of Vatican City"
+  },
+  {
+    "date": "2038-03-19",
+    "holiday": "Saint Joseph's Day"
+  },
+  {
+    "date": "2038-04-22",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-24",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2038-04-25",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-04-27",
+    "holiday": "Easter Tuesday"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Saint Joseph the Worker's Day"
+  },
+  {
+    "date": "2038-05-08",
+    "holiday": "Anniversary of the Election of the Holy Father"
+  },
+  {
+    "date": "2038-06-03",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2038-06-13",
+    "holiday": "Solemnity of Pentecost"
+  },
+  {
+    "date": "2038-06-20",
+    "holiday": "Solemnity of Holy Trinity"
+  },
+  {
+    "date": "2038-06-24",
+    "holiday": "Corpus Domini"
+  },
+  {
+    "date": "2038-06-29",
+    "holiday": "Saints Peter and Paul's Day"
+  },
+  {
+    "date": "2038-08-14",
+    "holiday": "Day Before Assumption of Mary"
+  },
+  {
+    "date": "2038-08-15",
+    "holiday": "Assumption of Mary Day"
+  },
+  {
+    "date": "2038-08-16",
+    "holiday": "Day After Assumption of Mary"
+  },
+  {
+    "date": "2038-09-17",
+    "holiday": "Name Day of the Holy Father"
+  },
+  {
+    "date": "2038-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2038-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2038-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2038-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Saint Stephen's Day"
+  },
+  {
+    "date": "2038-12-27",
+    "holiday": "Saint John the Evangelist's Day"
+  },
+  {
+    "date": "2038-12-31",
+    "holiday": "Last Day of the Year"
+  }
+]

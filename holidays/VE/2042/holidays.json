@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-02-17",
+    "holiday": "Monday of Carnival"
+  },
+  {
+    "date": "2042-02-18",
+    "holiday": "Tuesday of Carnival"
+  },
+  {
+    "date": "2042-04-03",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-04-19",
+    "holiday": "Declaration of Independence"
+  },
+  {
+    "date": "2042-05-01",
+    "holiday": "International Worker's Day"
+  },
+  {
+    "date": "2042-06-24",
+    "holiday": "Battle of Carabobo"
+  },
+  {
+    "date": "2042-07-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2042-07-24",
+    "holiday": "Birthday of Simon Bolivar"
+  },
+  {
+    "date": "2042-10-12",
+    "holiday": "Day of Indigenous Resistance"
+  },
+  {
+    "date": "2042-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

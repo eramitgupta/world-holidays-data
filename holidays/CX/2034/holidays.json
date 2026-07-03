@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2034-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2034-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2034-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2034-02-19",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2034-02-20",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2034-02-21",
+    "holiday": "Chinese New Year (observed)"
+  },
+  {
+    "date": "2034-03-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2034-03-20",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2034-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2034-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2034-10-02",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2034-12-12",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2034-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2034-12-26",
+    "holiday": "Boxing Day"
+  }
+]

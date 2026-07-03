@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-04-18",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2030-05-30",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2030-07-19",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2030-09-14",
+    "holiday": "Battle of San Jacinto Day"
+  },
+  {
+    "date": "2030-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2030-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  }
+]

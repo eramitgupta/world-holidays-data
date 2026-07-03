@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-02-06",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2046-02-07",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2046-02-08",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2046-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2046-03-24",
+    "holiday": "The day following Good Friday"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2046-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2046-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2046-05-13",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2046-05-14",
+    "holiday": "The Buddha's Birthday (observed)"
+  },
+  {
+    "date": "2046-06-08",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2046-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2046-07-02",
+    "holiday": "Hong Kong S.A.R. Establishment Day (observed)"
+  },
+  {
+    "date": "2046-09-17",
+    "holiday": "The Second Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2046-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2046-10-08",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2046-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  }
+]

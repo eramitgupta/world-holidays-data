@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2045-02-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2045-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2045-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2045-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2045-05-29",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2045-06-08",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2045-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2045-08-14",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2045-08-15",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2045-10-19",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2045-10-25",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2045-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2024-01-02",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2024-07-25",
+    "holiday": "Commemoration of the Assault of the Moncada garrison"
+  },
+  {
+    "date": "2024-07-26",
+    "holiday": "Day of the National Rebellion"
+  },
+  {
+    "date": "2024-07-27",
+    "holiday": "Commemoration of the Assault of the Moncada garrison"
+  },
+  {
+    "date": "2024-10-10",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

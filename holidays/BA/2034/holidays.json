@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2034-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2034-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2034-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2034-03-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2034-04-07",
+    "holiday": "Orthodox Good Friday"
+  },
+  {
+    "date": "2034-04-10",
+    "holiday": "Catholic Easter Monday"
+  },
+  {
+    "date": "2034-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2034-05-02",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2034-12-12",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2034-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

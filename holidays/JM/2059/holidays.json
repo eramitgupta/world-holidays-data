@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-02-12",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-03-31",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2059-05-23",
+    "holiday": "National Labour Day"
+  },
+  {
+    "date": "2059-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2059-08-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2059-10-20",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2059-12-26",
+    "holiday": "Boxing Day"
+  }
+]

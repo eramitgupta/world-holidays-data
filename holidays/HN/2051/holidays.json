@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-03-30",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2051-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2051-04-01",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2051-04-14",
+    "holiday": "Panamerican Day"
+  },
+  {
+    "date": "2051-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2051-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2051-10-04",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2051-10-05",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2051-10-06",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  }
+]

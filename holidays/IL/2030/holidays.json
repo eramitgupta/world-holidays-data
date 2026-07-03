@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2030-04-18",
+    "holiday": "Pesach"
+  },
+  {
+    "date": "2030-04-24",
+    "holiday": "Seventh day of Pesach"
+  },
+  {
+    "date": "2030-05-08",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2030-06-07",
+    "holiday": "Shavuot"
+  },
+  {
+    "date": "2030-09-28",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2030-09-29",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2030-10-07",
+    "holiday": "Yom Kippur"
+  },
+  {
+    "date": "2030-10-12",
+    "holiday": "Sukkot"
+  },
+  {
+    "date": "2030-10-19",
+    "holiday": "Simchat Torah / Shemini Atzeret"
+  }
+]

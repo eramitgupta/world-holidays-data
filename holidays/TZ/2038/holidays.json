@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-12",
+    "holiday": "Zanzibar Revolution Day"
+  },
+  {
+    "date": "2038-01-17",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2038-04-07",
+    "holiday": "The Sheikh Abeid Amani Karume Day"
+  },
+  {
+    "date": "2038-04-18",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday; Union Celebrations"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2038-07-07",
+    "holiday": "International Trade Fair"
+  },
+  {
+    "date": "2038-08-08",
+    "holiday": "Peasants' Day"
+  },
+  {
+    "date": "2038-10-14",
+    "holiday": "The Mwalimu Nyerere Day and Climax of the Uhuru Torch Race"
+  },
+  {
+    "date": "2038-10-30",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2038-10-31",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2038-12-09",
+    "holiday": "Independence and Republic Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Boxing Day"
+  }
+]

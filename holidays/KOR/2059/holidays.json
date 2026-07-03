@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-02-11",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2059-02-12",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2059-02-13",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2059-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2059-03-03",
+    "holiday": "Alternative holiday for Independence Movement Day"
+  },
+  {
+    "date": "2059-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2059-05-19",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2059-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2059-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2059-09-20",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2059-09-21",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2059-09-22",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2059-09-23",
+    "holiday": "Alternative holiday for Chuseok"
+  },
+  {
+    "date": "2059-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2059-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2016-02-08",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2016-02-09",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2016-03-21",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2016-07-06",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2016-09-13",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2016-10-03",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Boxing Day; Christmas Day (observed)"
+  },
+  {
+    "date": "2016-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

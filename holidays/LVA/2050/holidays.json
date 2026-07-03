@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-04-10",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2050-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2050-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2050-05-04",
+    "holiday": "Restoration of Independence Day"
+  },
+  {
+    "date": "2050-05-08",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2050-06-23",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2050-06-24",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2050-11-18",
+    "holiday": "Republic of Latvia Proclamation Day"
+  },
+  {
+    "date": "2050-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2050-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2057-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2057-05-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2057-05-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2057-07-13",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2057-07-14",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2057-11-13",
+    "holiday": "Njegos Day"
+  }
+]

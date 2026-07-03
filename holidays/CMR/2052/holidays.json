@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2052-02-12",
+    "holiday": "Youth Day (observed)"
+  },
+  {
+    "date": "2052-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2052-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2052-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2052-05-29",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2052-05-30",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2052-08-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2052-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2052-11-04",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  }
+]

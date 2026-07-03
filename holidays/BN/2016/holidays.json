@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2016-02-08",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2016-02-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2016-05-05",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2016-05-31",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2016-06-06",
+    "holiday": "First Day of Ramadan"
+  },
+  {
+    "date": "2016-06-22",
+    "holiday": "Anniversary of the revelation of the Quran"
+  },
+  {
+    "date": "2016-07-06",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2016-07-07",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2016-07-08",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2016-07-09",
+    "holiday": "Eid al-Fitr (observed)"
+  },
+  {
+    "date": "2016-07-15",
+    "holiday": "Sultan Hassanal Bolkiah's Birthday"
+  },
+  {
+    "date": "2016-07-16",
+    "holiday": "Sultan Hassanal Bolkiah's Birthday (observed)"
+  },
+  {
+    "date": "2016-09-12",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2016-10-02",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2016-10-03",
+    "holiday": "Islamic New Year (observed)"
+  },
+  {
+    "date": "2016-12-12",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

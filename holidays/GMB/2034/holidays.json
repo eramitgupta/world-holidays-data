@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2034-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2034-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2034-02-18",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2034-02-20",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2034-03-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2034-03-02",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2034-03-30",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2034-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2034-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2034-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2034-05-25",
+    "holiday": "Africa Liberation Day"
+  },
+  {
+    "date": "2034-05-30",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2034-07-22",
+    "holiday": "July 22 Revolution Day"
+  },
+  {
+    "date": "2034-07-24",
+    "holiday": "July 22 Revolution Day (observed)"
+  },
+  {
+    "date": "2034-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2034-12-08",
+    "holiday": "Laylat al-Qadr (estimated)"
+  },
+  {
+    "date": "2034-12-12",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2034-12-13",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2034-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2034-12-26",
+    "holiday": "Boxing Day"
+  }
+]

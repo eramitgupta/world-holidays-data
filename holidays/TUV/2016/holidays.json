@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-03-14",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-05-09",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2016-06-11",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2016-08-01",
+    "holiday": "National Children's Day"
+  },
+  {
+    "date": "2016-10-01",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2016-10-02",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2016-10-03",
+    "holiday": "Tuvalu Day (observed)"
+  },
+  {
+    "date": "2016-10-04",
+    "holiday": "Tuvalu Day (observed)"
+  },
+  {
+    "date": "2016-11-14",
+    "holiday": "Heir to the Throne's Birthday"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2016-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

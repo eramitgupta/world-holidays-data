@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2028-02-26",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2028-02-28",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2028-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2028-03-21",
+    "holiday": "Nowruz"
+  },
+  {
+    "date": "2028-05-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2028-05-09",
+    "holiday": "Day of Memory and Honor"
+  },
+  {
+    "date": "2028-09-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2028-10-01",
+    "holiday": "Teachers and Instructors Day"
+  },
+  {
+    "date": "2028-10-02",
+    "holiday": "Teachers and Instructors Day (observed)"
+  },
+  {
+    "date": "2028-12-08",
+    "holiday": "Constitution Day"
+  }
+]

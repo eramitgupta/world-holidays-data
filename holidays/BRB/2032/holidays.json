@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-01-21",
+    "holiday": "Errol Barrow Day"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2032-04-28",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2032-05-17",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2032-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2032-08-02",
+    "holiday": "Kadooment Day"
+  },
+  {
+    "date": "2032-08-03",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2032-11-30",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2032-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

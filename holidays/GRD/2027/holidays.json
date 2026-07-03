@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-02-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2027-02-08",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2027-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2027-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2027-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2027-05-17",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2027-05-27",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2027-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2027-08-02",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2027-08-09",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2027-08-10",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2027-10-19",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2027-10-25",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2027-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2027-12-27",
+    "holiday": "Boxing Day (observed)"
+  }
+]

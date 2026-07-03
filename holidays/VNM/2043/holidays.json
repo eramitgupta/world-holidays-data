@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2043-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2043-02-09",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2043-02-10",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2043-02-11",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2043-02-12",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2043-02-13",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2043-04-19",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2043-04-20",
+    "holiday": "Hung Kings' Commemoration Day (observed)"
+  },
+  {
+    "date": "2043-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2043-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2043-09-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2043-09-02",
+    "holiday": "National Day"
+  }
+]

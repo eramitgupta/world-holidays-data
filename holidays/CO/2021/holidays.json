@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-11",
+    "holiday": "Epiphany (observed)"
+  },
+  {
+    "date": "2021-03-22",
+    "holiday": "Saint Joseph's Day (observed)"
+  },
+  {
+    "date": "2021-04-01",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2021-05-17",
+    "holiday": "Ascension Day (observed)"
+  },
+  {
+    "date": "2021-06-07",
+    "holiday": "Corpus Christi (observed)"
+  },
+  {
+    "date": "2021-06-14",
+    "holiday": "Sacred Heart (observed)"
+  },
+  {
+    "date": "2021-07-05",
+    "holiday": "Saint Peter and Saint Paul's Day (observed)"
+  },
+  {
+    "date": "2021-07-20",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-08-07",
+    "holiday": "Battle of Boyacá"
+  },
+  {
+    "date": "2021-08-16",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2021-10-18",
+    "holiday": "Columbus Day (observed)"
+  },
+  {
+    "date": "2021-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2021-11-15",
+    "holiday": "Independence of Cartagena (observed)"
+  },
+  {
+    "date": "2021-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  }
+]

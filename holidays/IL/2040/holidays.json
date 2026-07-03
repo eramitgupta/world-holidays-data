@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2040-03-29",
+    "holiday": "Pesach"
+  },
+  {
+    "date": "2040-04-04",
+    "holiday": "Seventh day of Pesach"
+  },
+  {
+    "date": "2040-04-18",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-05-18",
+    "holiday": "Shavuot"
+  },
+  {
+    "date": "2040-09-08",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2040-09-09",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2040-09-17",
+    "holiday": "Yom Kippur"
+  },
+  {
+    "date": "2040-09-22",
+    "holiday": "Sukkot"
+  },
+  {
+    "date": "2040-09-29",
+    "holiday": "Simchat Torah / Shemini Atzeret"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-15",
+    "holiday": "John Chilembwe Day"
+  },
+  {
+    "date": "2021-03-03",
+    "holiday": "Martyrs Day"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2021-05-03",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2021-05-14",
+    "holiday": "Kamuzu Day"
+  },
+  {
+    "date": "2021-07-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-10-15",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2021-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "Carnival Day"
+  },
+  {
+    "date": "2018-01-02",
+    "holiday": "Carnival Day - Last Lap"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2018-05-07",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2018-05-21",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2018-08-06",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2018-08-07",
+    "holiday": "Culturama Day - Last Lap"
+  },
+  {
+    "date": "2018-09-16",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2018-09-17",
+    "holiday": "National Heroes Day (observed)"
+  },
+  {
+    "date": "2018-09-19",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-12-26",
+    "holiday": "Boxing Day"
+  }
+]

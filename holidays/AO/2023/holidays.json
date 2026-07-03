@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-02-04",
+    "holiday": "Liberation Movement Day"
+  },
+  {
+    "date": "2023-02-20",
+    "holiday": "Day off for Carnival Day"
+  },
+  {
+    "date": "2023-02-21",
+    "holiday": "Carnival Day"
+  },
+  {
+    "date": "2023-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2023-03-23",
+    "holiday": "Southern Africa Liberation Day"
+  },
+  {
+    "date": "2023-03-24",
+    "holiday": "Day off for Southern Africa Liberation Day"
+  },
+  {
+    "date": "2023-04-03",
+    "holiday": "Day off for Peace and National Reconciliation Day"
+  },
+  {
+    "date": "2023-04-04",
+    "holiday": "Peace and National Reconciliation Day"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "International Worker's Day"
+  },
+  {
+    "date": "2023-09-17",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2023-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2023-11-03",
+    "holiday": "Day off for All Souls' Day"
+  },
+  {
+    "date": "2023-11-11",
+    "holiday": "National Independence Day"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas and Family Day"
+  }
+]

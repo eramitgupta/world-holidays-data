@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2053-04-05",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2053-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2053-05-12",
+    "holiday": "Girmit Day"
+  },
+  {
+    "date": "2053-05-30",
+    "holiday": "Ratu Sir Lala Sukuna Day"
+  },
+  {
+    "date": "2053-10-10",
+    "holiday": "Fiji Day"
+  },
+  {
+    "date": "2053-10-24",
+    "holiday": "Prophet Mohammed's Birthday (estimated)"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2053-12-26",
+    "holiday": "Boxing Day"
+  }
+]

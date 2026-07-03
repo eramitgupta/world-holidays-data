@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-20",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2023-01-23",
+    "holiday": "Day of the Beginning of the Armed Struggle"
+  },
+  {
+    "date": "2023-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2023-04-09",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2023-04-21",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2023-06-28",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2023-08-03",
+    "holiday": "Pidjiguiti Day"
+  },
+  {
+    "date": "2023-09-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  }
+]

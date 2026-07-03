@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-03-07",
+    "holiday": "Lavity Stoutt's Birthday"
+  },
+  {
+    "date": "2016-03-14",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-05-16",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2016-06-11",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2016-07-01",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2016-08-01",
+    "holiday": "Festival Monday"
+  },
+  {
+    "date": "2016-08-02",
+    "holiday": "Festival Tuesday"
+  },
+  {
+    "date": "2016-08-03",
+    "holiday": "Festival Wednesday"
+  },
+  {
+    "date": "2016-10-21",
+    "holiday": "Saint Ursula's Day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2016-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

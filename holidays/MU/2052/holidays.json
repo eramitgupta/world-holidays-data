@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2052-02-01",
+    "holiday": "Abolition of Slavery; Chinese Spring Festival"
+  },
+  {
+    "date": "2052-02-15",
+    "holiday": "Thaipusam"
+  },
+  {
+    "date": "2052-03-12",
+    "holiday": "Independence and Republic Day"
+  },
+  {
+    "date": "2052-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2052-05-30",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2052-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2052-11-02",
+    "holiday": "Arrival of Indentured Laborers"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  }
+]

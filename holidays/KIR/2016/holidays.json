@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-04-19",
+    "holiday": "National Health Day"
+  },
+  {
+    "date": "2016-07-11",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2016-07-12",
+    "holiday": "National Day - Independence Anniversary"
+  },
+  {
+    "date": "2016-07-15",
+    "holiday": "National Day (in honor of Unimwane)"
+  },
+  {
+    "date": "2016-07-16",
+    "holiday": "National Day (in honor of Unaine)"
+  },
+  {
+    "date": "2016-07-18",
+    "holiday": "National Day (in honor of Unaine) (observed)"
+  },
+  {
+    "date": "2016-08-05",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2016-12-09",
+    "holiday": "Human Rights and Peace Day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2016-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

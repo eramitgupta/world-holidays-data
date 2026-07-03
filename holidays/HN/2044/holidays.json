@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-04-14",
+    "holiday": "Maundy Thursday; Panamerican Day"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-16",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2044-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2044-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2044-10-05",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2044-10-06",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2044-10-07",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  }
+]

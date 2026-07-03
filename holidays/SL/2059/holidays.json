@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-02-18",
+    "holiday": "Armed Forces Day"
+  },
+  {
+    "date": "2059-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2059-03-10",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2059-03-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2059-03-17",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-03-31",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2059-04-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2059-04-28",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2059-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2059-05-22",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2059-08-20",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2059-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-04-13",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2028-04-14",
+    "holiday": "Good Friday; Panamerican Day"
+  },
+  {
+    "date": "2028-04-15",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2028-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2028-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2028-10-04",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2028-10-05",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2028-10-06",
+    "holiday": "Morazan Weekend"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Christmas Day"
+  }
+]

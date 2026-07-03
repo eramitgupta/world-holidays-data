@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-02-04",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2019-03-18",
+    "holiday": "Benito Juárez's birthday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-09-16",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-11-18",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  }
+]

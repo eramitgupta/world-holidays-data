@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-02-19",
+    "holiday": "Chinese New Year's Day"
+  },
+  {
+    "date": "2053-02-20",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2053-02-21",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2053-09-27",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2053-10-01",
+    "holiday": "National Day of the People's Republic of China"
+  },
+  {
+    "date": "2053-10-20",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2053-12-20",
+    "holiday": "Macao S.A.R. Establishment Day"
+  }
+]

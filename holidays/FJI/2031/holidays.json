@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-12",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2031-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2031-05-12",
+    "holiday": "Girmit Day"
+  },
+  {
+    "date": "2031-05-30",
+    "holiday": "Ratu Sir Lala Sukuna Day"
+  },
+  {
+    "date": "2031-07-02",
+    "holiday": "Prophet Mohammed's Birthday (estimated)"
+  },
+  {
+    "date": "2031-10-10",
+    "holiday": "Fiji Day"
+  },
+  {
+    "date": "2031-11-14",
+    "holiday": "Diwali (estimated)"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2031-12-26",
+    "holiday": "Boxing Day"
+  }
+]

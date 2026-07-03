@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2017-03-12",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2017-03-13",
+    "holiday": "Youth Day (observed)"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2017-04-15",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2017-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2017-05-25",
+    "holiday": "Africa Freedom Day"
+  },
+  {
+    "date": "2017-07-03",
+    "holiday": "Heroes' Day"
+  },
+  {
+    "date": "2017-07-04",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2017-08-07",
+    "holiday": "Farmers' Day"
+  },
+  {
+    "date": "2017-10-18",
+    "holiday": "National Prayer Day"
+  },
+  {
+    "date": "2017-10-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  }
+]

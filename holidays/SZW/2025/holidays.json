@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2025-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2025-04-18",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2025-04-19",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2025-04-21",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2025-04-25",
+    "holiday": "National Flag Day"
+  },
+  {
+    "date": "2025-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2025-05-29",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2025-07-22",
+    "holiday": "Birthday of Late King Sobhuza"
+  },
+  {
+    "date": "2025-09-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2025-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2025-12-26",
+    "holiday": "Boxing Day"
+  }
+]

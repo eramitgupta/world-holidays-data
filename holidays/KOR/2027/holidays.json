@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-02-06",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2027-02-07",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2027-02-08",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2027-02-09",
+    "holiday": "Alternative holiday for Korean New Year"
+  },
+  {
+    "date": "2027-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2027-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2027-05-13",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2027-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2027-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2027-08-16",
+    "holiday": "Alternative holiday for Liberation Day"
+  },
+  {
+    "date": "2027-09-14",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2027-09-15",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2027-09-16",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2027-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2027-10-04",
+    "holiday": "Alternative holiday for National Foundation Day"
+  },
+  {
+    "date": "2027-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2027-10-11",
+    "holiday": "Alternative holiday for Hangul Day"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2027-12-27",
+    "holiday": "Alternative holiday for Christmas Day"
+  }
+]

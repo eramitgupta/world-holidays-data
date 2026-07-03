@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2021-03-28",
+    "holiday": "Pesach"
+  },
+  {
+    "date": "2021-04-03",
+    "holiday": "Seventh day of Pesach"
+  },
+  {
+    "date": "2021-04-15",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2021-05-17",
+    "holiday": "Shavuot"
+  },
+  {
+    "date": "2021-09-07",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2021-09-08",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2021-09-16",
+    "holiday": "Yom Kippur"
+  },
+  {
+    "date": "2021-09-21",
+    "holiday": "Sukkot"
+  },
+  {
+    "date": "2021-09-28",
+    "holiday": "Simchat Torah / Shemini Atzeret"
+  }
+]

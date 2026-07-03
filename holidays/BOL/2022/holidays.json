@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-22",
+    "holiday": "Plurinational State Foundation Day"
+  },
+  {
+    "date": "2022-02-28",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2022-03-01",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2022-06-16",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2022-06-21",
+    "holiday": "Aymara New Year"
+  },
+  {
+    "date": "2022-08-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-10-17",
+    "holiday": "National Dignity Day"
+  },
+  {
+    "date": "2022-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

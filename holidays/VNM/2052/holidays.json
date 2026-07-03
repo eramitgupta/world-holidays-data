@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-01-30",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2052-01-31",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2052-02-01",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2052-02-02",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2052-02-03",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2052-02-04",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2052-02-05",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2052-04-09",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2052-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2052-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2052-09-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2052-09-03",
+    "holiday": "National Day"
+  }
+]

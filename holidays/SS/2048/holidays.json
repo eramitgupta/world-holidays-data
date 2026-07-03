@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-01-09",
+    "holiday": "Peace Agreement Day"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-04-04",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2048-04-05",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "International Labour Day"
+  },
+  {
+    "date": "2048-05-16",
+    "holiday": "SPLA Day"
+  },
+  {
+    "date": "2048-07-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-07-12",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2048-07-30",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2048-09-19",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2048-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

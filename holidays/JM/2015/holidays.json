@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-02-18",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2015-05-23",
+    "holiday": "National Labour Day"
+  },
+  {
+    "date": "2015-05-25",
+    "holiday": "National Labour Day (observed)"
+  },
+  {
+    "date": "2015-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2015-08-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-10-19",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-02-19",
+    "holiday": "Winter Midterm Bank Holiday"
+  },
+  {
+    "date": "2035-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2035-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2035-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2035-04-30",
+    "holiday": "Workers' Memorial Day (observed)"
+  },
+  {
+    "date": "2035-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2035-05-28",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2035-06-11",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2035-08-27",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2035-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2035-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2035-12-26",
+    "holiday": "Boxing Day"
+  }
+]

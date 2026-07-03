@@ -1,0 +1,262 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-01-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2056-01-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-01-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-01-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-01-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-02-06",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-02-13",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-02-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-02-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-03-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-03-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-03-19",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-03-26",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-02",
+    "holiday": "Easter Sunday; Sunday"
+  },
+  {
+    "date": "2056-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2056-04-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-04-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-04-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-04-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2056-05-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-05-11",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2056-05-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-05-21",
+    "holiday": "Sunday; Whit Sunday"
+  },
+  {
+    "date": "2056-05-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-06-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-06-06",
+    "holiday": "National Day of Sweden"
+  },
+  {
+    "date": "2056-06-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-06-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-06-23",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2056-06-24",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2056-06-25",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-07-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-07-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-07-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-07-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-07-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-08-06",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-08-13",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-08-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-08-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-09-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-09-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-09-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-09-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-10-01",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-10-08",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-10-15",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-10-22",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-10-29",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-11-04",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2056-11-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-11-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-11-19",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-11-26",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-12-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-12-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-12-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2056-12-24",
+    "holiday": "Christmas Eve; Sunday"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2056-12-31",
+    "holiday": "New Year's Eve; Sunday"
+  }
+]

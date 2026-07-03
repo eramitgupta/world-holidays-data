@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-02-06",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2027-02-07",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2027-02-08",
+    "holiday": "Chinese New Year (observed, estimated)"
+  },
+  {
+    "date": "2027-03-09",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2027-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2027-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2027-05-16",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2027-05-17",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2027-05-20",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2027-08-09",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2027-10-27",
+    "holiday": "Deepavali"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-02-05",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Commemoration of the Assassination of President Cyprien Ntaryamira"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2015-05-14",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2015-07-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-07-18",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2015-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2015-09-24",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2015-10-13",
+    "holiday": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore"
+  },
+  {
+    "date": "2015-10-21",
+    "holiday": "Commemoration of the Assassination of President Melchior Ndadaye"
+  },
+  {
+    "date": "2015-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2015-11-02",
+    "holiday": "All Saints' Day (observed)"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

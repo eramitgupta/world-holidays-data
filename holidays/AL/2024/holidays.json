@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-03-14",
+    "holiday": "Summer Day"
+  },
+  {
+    "date": "2024-03-15",
+    "holiday": "Public Holiday"
+  },
+  {
+    "date": "2024-03-22",
+    "holiday": "Nowruz Day"
+  },
+  {
+    "date": "2024-03-31",
+    "holiday": "Catholic Easter Sunday"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Catholic Easter Sunday (observed)"
+  },
+  {
+    "date": "2024-04-10",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2024-05-05",
+    "holiday": "Orthodox Easter Sunday"
+  },
+  {
+    "date": "2024-05-06",
+    "holiday": "Orthodox Easter Sunday (observed)"
+  },
+  {
+    "date": "2024-06-16",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-06-17",
+    "holiday": "Eid al-Adha (observed)"
+  },
+  {
+    "date": "2024-09-05",
+    "holiday": "Mother Teresa Canonization Day"
+  },
+  {
+    "date": "2024-11-22",
+    "holiday": "Alphabet Day"
+  },
+  {
+    "date": "2024-11-28",
+    "holiday": "Flag and Independence Day"
+  },
+  {
+    "date": "2024-11-29",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2024-12-08",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2024-12-09",
+    "holiday": "National Youth Day (observed)"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  }
+]

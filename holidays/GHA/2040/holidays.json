@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-01-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2040-01-09",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2040-03-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2040-08-04",
+    "holiday": "Founders' Day"
+  },
+  {
+    "date": "2040-08-06",
+    "holiday": "Founders' Day (observed)"
+  },
+  {
+    "date": "2040-09-21",
+    "holiday": "Kwame Nkrumah Memorial Day"
+  },
+  {
+    "date": "2040-10-07",
+    "holiday": "Eid ul-Fitr (estimated)"
+  },
+  {
+    "date": "2040-10-08",
+    "holiday": "Eid ul-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2040-12-07",
+    "holiday": "Farmer's Day"
+  },
+  {
+    "date": "2040-12-14",
+    "holiday": "Eid ul-Adha (estimated)"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Boxing Day"
+  }
+]

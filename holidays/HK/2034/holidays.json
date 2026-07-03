@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2034-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2034-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2034-02-20",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2034-02-21",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2034-02-22",
+    "holiday": "The fourth day of Chinese New Year"
+  },
+  {
+    "date": "2034-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2034-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2034-04-08",
+    "holiday": "The day following Good Friday"
+  },
+  {
+    "date": "2034-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2034-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2034-05-25",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2034-06-20",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2034-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2034-09-28",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2034-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2034-10-02",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2034-10-20",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2034-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2034-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  }
+]

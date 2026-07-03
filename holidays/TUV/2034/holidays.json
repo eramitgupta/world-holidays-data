@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2034-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2034-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2034-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2034-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2034-05-15",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2034-06-10",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2034-08-07",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2034-10-01",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2034-10-02",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2034-10-03",
+    "holiday": "Tuvalu Day (observed)"
+  },
+  {
+    "date": "2034-10-09",
+    "holiday": "National Children's Day"
+  },
+  {
+    "date": "2034-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2034-12-26",
+    "holiday": "Boxing Day"
+  }
+]

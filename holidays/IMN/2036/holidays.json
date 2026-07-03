@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2036-05-05",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2036-05-26",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2036-06-06",
+    "holiday": "TT Bank Holiday"
+  },
+  {
+    "date": "2036-07-07",
+    "holiday": "Tynwald Day"
+  },
+  {
+    "date": "2036-08-25",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2036-12-26",
+    "holiday": "Boxing Day"
+  }
+]

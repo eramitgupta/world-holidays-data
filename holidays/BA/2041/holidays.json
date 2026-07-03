@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2041-04-19",
+    "holiday": "Orthodox Good Friday"
+  },
+  {
+    "date": "2041-04-22",
+    "holiday": "Catholic Easter Monday"
+  },
+  {
+    "date": "2041-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2041-05-02",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2041-09-26",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2041-12-04",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

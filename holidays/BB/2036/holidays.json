@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-01-21",
+    "holiday": "Errol Barrow Day"
+  },
+  {
+    "date": "2036-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2036-04-28",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2036-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2036-06-02",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2036-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2036-08-04",
+    "holiday": "Kadooment Day"
+  },
+  {
+    "date": "2036-11-30",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2036-12-01",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2036-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-02-23",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2019-03-21",
+    "holiday": "Holi"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-05-05",
+    "holiday": "Arrival Day"
+  },
+  {
+    "date": "2019-05-06",
+    "holiday": "Arrival Day (observed)"
+  },
+  {
+    "date": "2019-05-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-07-01",
+    "holiday": "CARICOM Day"
+  },
+  {
+    "date": "2019-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2019-08-11",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2019-08-12",
+    "holiday": "Eid al-Adha (observed)"
+  },
+  {
+    "date": "2019-10-27",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2019-10-28",
+    "holiday": "Diwali (observed)"
+  },
+  {
+    "date": "2019-11-10",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2019-11-11",
+    "holiday": "Prophet's Birthday (observed)"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Day after Christmas"
+  }
+]

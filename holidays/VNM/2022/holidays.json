@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2022-01-31",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2022-02-01",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2022-02-02",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2022-02-03",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2022-02-04",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2022-04-10",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2022-04-11",
+    "holiday": "Hung Kings' Commemoration Day (observed)"
+  },
+  {
+    "date": "2022-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Liberation Day/Reunification Day (observed)"
+  },
+  {
+    "date": "2022-05-03",
+    "holiday": "International Labor Day (observed)"
+  },
+  {
+    "date": "2022-09-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2022-09-02",
+    "holiday": "National Day"
+  }
+]

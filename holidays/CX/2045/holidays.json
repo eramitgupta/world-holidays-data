@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2045-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2045-02-17",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2045-02-18",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2045-02-20",
+    "holiday": "Chinese New Year (observed)"
+  },
+  {
+    "date": "2045-03-20",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2045-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2045-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2045-08-14",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2045-10-02",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2045-10-21",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2045-10-23",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2045-12-26",
+    "holiday": "Boxing Day"
+  }
+]

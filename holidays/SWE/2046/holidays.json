@@ -1,0 +1,266 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2046-01-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-01-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-01-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-01-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-02-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-02-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-02-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-02-25",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-03-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-03-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-03-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2046-03-25",
+    "holiday": "Easter Sunday; Sunday"
+  },
+  {
+    "date": "2046-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2046-04-01",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-04-08",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-04-15",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-04-22",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-04-29",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2046-05-03",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2046-05-06",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-05-13",
+    "holiday": "Sunday; Whit Sunday"
+  },
+  {
+    "date": "2046-05-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-05-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-06-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-06-06",
+    "holiday": "National Day of Sweden"
+  },
+  {
+    "date": "2046-06-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-06-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-06-22",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2046-06-23",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2046-06-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-07-01",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-07-08",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-07-15",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-07-22",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-07-29",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-08-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-08-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-08-19",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-08-26",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-09-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-09-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-09-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-09-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-09-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-10-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-10-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-10-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-10-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-11-03",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2046-11-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-11-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-11-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-11-25",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-12-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-12-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-12-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-12-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2046-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2046-12-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2046-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

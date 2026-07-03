@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2042-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2042-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2042-05-23",
+    "holiday": "Bermuda Day"
+  },
+  {
+    "date": "2042-06-16",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2042-07-31",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2042-08-01",
+    "holiday": "Mary Prince Day"
+  },
+  {
+    "date": "2042-09-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2042-11-11",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2042-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2042-12-26",
+    "holiday": "Boxing Day"
+  }
+]

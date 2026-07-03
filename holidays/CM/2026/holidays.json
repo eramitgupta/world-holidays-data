@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2026-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2026-03-20",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2026-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2026-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2026-05-14",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2026-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2026-05-27",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2026-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2026-08-25",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2026-12-25",
+    "holiday": "Christmas Day"
+  }
+]

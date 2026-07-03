@@ -1,0 +1,266 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2024-01-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-01-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-01-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-01-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-02-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-02-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-02-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-02-25",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-03-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-03-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-03-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-03-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-03-31",
+    "holiday": "Easter Sunday; Sunday"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-04-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-04-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-04-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-04-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2024-05-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-05-09",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2024-05-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-05-19",
+    "holiday": "Sunday; Whit Sunday"
+  },
+  {
+    "date": "2024-05-26",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-06-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-06-06",
+    "holiday": "National Day of Sweden"
+  },
+  {
+    "date": "2024-06-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-06-16",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-06-21",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2024-06-22",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2024-06-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-06-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-07-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-07-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-07-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-07-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-08-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-08-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-08-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-08-25",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-09-01",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-09-08",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-09-15",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-09-22",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-09-29",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-10-06",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-10-13",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-10-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-10-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-11-02",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2024-11-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-11-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-11-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-11-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-12-01",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-12-08",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-12-15",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-12-22",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2024-12-29",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2024-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

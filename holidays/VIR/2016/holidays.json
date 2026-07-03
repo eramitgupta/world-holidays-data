@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-06",
+    "holiday": "Three Kings Day"
+  },
+  {
+    "date": "2016-01-18",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2016-02-15",
+    "holiday": "Presidents' Day"
+  },
+  {
+    "date": "2016-03-24",
+    "holiday": "Holy Thursday"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-03-31",
+    "holiday": "Transfer Day"
+  },
+  {
+    "date": "2016-05-30",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2016-07-03",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2016-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-09-05",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-10-10",
+    "holiday": "Columbus Day and Puerto Rico Friendship Day"
+  },
+  {
+    "date": "2016-11-01",
+    "holiday": "Liberty Day"
+  },
+  {
+    "date": "2016-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2016-11-24",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Christmas Day (observed); Christmas Second Day"
+  }
+]

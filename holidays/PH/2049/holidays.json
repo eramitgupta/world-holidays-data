@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-02-02",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2049-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2049-04-15",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2049-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2049-04-17",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2049-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2049-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2049-07-01",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2049-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2049-08-30",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2049-09-08",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2049-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2049-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2049-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2049-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2049-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2049-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

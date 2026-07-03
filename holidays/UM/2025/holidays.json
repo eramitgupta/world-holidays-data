@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2025-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2025-01-20",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2025-02-17",
+    "holiday": "Washington's Birthday"
+  },
+  {
+    "date": "2025-05-26",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2025-06-19",
+    "holiday": "Juneteenth National Independence Day"
+  },
+  {
+    "date": "2025-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2025-09-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2025-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2025-11-27",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2025-12-25",
+    "holiday": "Christmas Day"
+  }
+]

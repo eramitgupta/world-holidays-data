@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-21",
+    "holiday": "Laylat al-Qadr (estimated)"
+  },
+  {
+    "date": "2031-01-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2031-01-25",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2031-01-27",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2031-02-18",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2031-04-02",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2031-04-03",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2031-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2031-05-02",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2031-05-25",
+    "holiday": "Africa Liberation Day"
+  },
+  {
+    "date": "2031-05-26",
+    "holiday": "Africa Liberation Day (observed)"
+  },
+  {
+    "date": "2031-07-02",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2031-07-22",
+    "holiday": "July 22 Revolution Day"
+  },
+  {
+    "date": "2031-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2031-12-26",
+    "holiday": "Boxing Day"
+  }
+]

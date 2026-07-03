@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-03",
+    "holiday": "New Year's Day (substitute day)"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2050-05-02",
+    "holiday": "Early May Bank Holiday"
+  },
+  {
+    "date": "2050-05-09",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2050-05-30",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2050-08-29",
+    "holiday": "Summer Bank Holiday"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2050-12-27",
+    "holiday": "Christmas Day (substitute day)"
+  }
+]

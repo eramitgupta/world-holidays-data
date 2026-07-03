@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-03-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-03-31",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2024-05-19",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2024-05-20",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2024-08-19",
+    "holiday": "Day off (substituted from 08/03/2024)"
+  },
+  {
+    "date": "2024-08-20",
+    "holiday": "State Foundation Day"
+  },
+  {
+    "date": "2024-10-23",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2024-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2024-12-24",
+    "holiday": "Day off (substituted from 12/07/2024)"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "Second Day of Christmas"
+  },
+  {
+    "date": "2024-12-27",
+    "holiday": "Day off (substituted from 12/14/2024)"
+  }
+]

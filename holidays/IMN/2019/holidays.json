@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-05-06",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2019-05-27",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2019-06-07",
+    "holiday": "TT Bank Holiday"
+  },
+  {
+    "date": "2019-07-05",
+    "holiday": "Tynwald Day"
+  },
+  {
+    "date": "2019-08-26",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Boxing Day"
+  }
+]

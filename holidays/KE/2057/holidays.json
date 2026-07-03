@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-04-05",
+    "holiday": "Eid-al-Fitr (estimated)"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-04-23",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2057-06-01",
+    "holiday": "Madaraka Day"
+  },
+  {
+    "date": "2057-10-10",
+    "holiday": "Mazingira Day"
+  },
+  {
+    "date": "2057-10-20",
+    "holiday": "Mashujaa Day"
+  },
+  {
+    "date": "2057-12-12",
+    "holiday": "Jamhuri Day"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2057-12-26",
+    "holiday": "Boxing Day"
+  }
+]

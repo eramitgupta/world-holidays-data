@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2017-04-24",
+    "holiday": "National Concord Day"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2017-06-22",
+    "holiday": "Laylat al-Qadr"
+  },
+  {
+    "date": "2017-06-26",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2017-08-03",
+    "holiday": "Anniversary of the Proclamation of Independence"
+  },
+  {
+    "date": "2017-09-02",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2017-09-03",
+    "holiday": "Day after Eid al-Adha"
+  },
+  {
+    "date": "2017-09-04",
+    "holiday": "Day after Eid al-Adha (observed)"
+  },
+  {
+    "date": "2017-09-22",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2017-12-01",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2017-12-18",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  }
+]

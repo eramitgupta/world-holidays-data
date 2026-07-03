@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-02-08",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2016-03-09",
+    "holiday": "Day of Silence"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2016-05-05",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2016-05-06",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2016-05-22",
+    "holiday": "Vesak Day"
+  },
+  {
+    "date": "2016-06-01",
+    "holiday": "Pancasila Day"
+  },
+  {
+    "date": "2016-07-06",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2016-07-07",
+    "holiday": "Eid al-Fitr Second Day"
+  },
+  {
+    "date": "2016-08-17",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-09-12",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2016-10-02",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2016-12-12",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  }
+]

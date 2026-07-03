@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-02-17",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2045-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2045-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2045-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2045-07-01",
+    "holiday": "Day of Freedoms"
+  },
+  {
+    "date": "2045-08-09",
+    "holiday": "Indigenous People Day"
+  },
+  {
+    "date": "2045-08-14",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2045-10-10",
+    "holiday": "Day of the Maroons"
+  },
+  {
+    "date": "2045-10-21",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2045-11-07",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2045-11-25",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2045-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

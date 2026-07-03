@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-01-02",
+    "holiday": "The Day After New Year's Day"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-04-04",
+    "holiday": "Day After Good Friday"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-05-11",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2048-06-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-08-10",
+    "holiday": "Father's Day"
+  },
+  {
+    "date": "2048-10-12",
+    "holiday": "White Sunday (Lotu a Tamaiti)"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "Boxing Day"
+  }
+]

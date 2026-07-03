@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-02",
+    "holiday": "The Day After New Year's Day"
+  },
+  {
+    "date": "2050-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-04-09",
+    "holiday": "Day After Good Friday"
+  },
+  {
+    "date": "2050-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2050-05-09",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2050-06-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2050-08-15",
+    "holiday": "Father's Day"
+  },
+  {
+    "date": "2050-10-10",
+    "holiday": "White Sunday (Lotu a Tamaiti)"
+  },
+  {
+    "date": "2050-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2050-12-26",
+    "holiday": "Boxing Day"
+  }
+]

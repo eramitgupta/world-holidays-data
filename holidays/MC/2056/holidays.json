@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-01-27",
+    "holiday": "Saint Devote's Day"
+  },
+  {
+    "date": "2056-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2056-05-11",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2056-05-22",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2056-06-01",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2056-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2056-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2056-11-19",
+    "holiday": "Prince's Day"
+  },
+  {
+    "date": "2056-11-20",
+    "holiday": "Prince's Day (observed)"
+  },
+  {
+    "date": "2056-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  }
+]

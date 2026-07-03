@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-01-08",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2047-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2047-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2047-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2047-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2047-05-23",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2047-07-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2047-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2047-09-30",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2047-12-29",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2047-12-30",
+    "holiday": "Mawlid (observed, estimated)"
+  }
+]

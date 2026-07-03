@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-01-25",
+    "holiday": "Betico Day"
+  },
+  {
+    "date": "2024-02-12",
+    "holiday": "Monday before Ash Wednesday"
+  },
+  {
+    "date": "2024-03-18",
+    "holiday": "National Anthem and Flag Day"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-04-27",
+    "holiday": "King's Day"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2024-05-09",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

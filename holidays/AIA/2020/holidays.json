@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-03-02",
+    "holiday": "James Ronald Webster Day"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-12",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-05-30",
+    "holiday": "Anguilla Day"
+  },
+  {
+    "date": "2020-06-01",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2020-06-02",
+    "holiday": "Anguilla Day (observed)"
+  },
+  {
+    "date": "2020-06-08",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2020-08-03",
+    "holiday": "August Monday"
+  },
+  {
+    "date": "2020-08-06",
+    "holiday": "August Thursday"
+  },
+  {
+    "date": "2020-08-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2020-12-18",
+    "holiday": "National Heroes and Heroines Day (observed)"
+  },
+  {
+    "date": "2020-12-19",
+    "holiday": "National Heroes and Heroines Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2020-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

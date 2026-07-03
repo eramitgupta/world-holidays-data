@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-03-01",
+    "holiday": "Nuclear Victims Remembrance Day"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2053-07-04",
+    "holiday": "Fisherman's Day"
+  },
+  {
+    "date": "2053-09-05",
+    "holiday": "Dri-jerbal Day"
+  },
+  {
+    "date": "2053-09-26",
+    "holiday": "Manit Day"
+  },
+  {
+    "date": "2053-11-17",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2053-12-05",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2026-04-02",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2026-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2026-04-04",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2026-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2026-05-10",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2026-06-17",
+    "holiday": "Father's Day"
+  },
+  {
+    "date": "2026-08-06",
+    "holiday": "Celebrations of San Salvador"
+  },
+  {
+    "date": "2026-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2026-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2026-12-25",
+    "holiday": "Christmas Day"
+  }
+]

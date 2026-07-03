@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-02-04",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2057-04-05",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2057-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2057-04-19",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-04-21",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2057-06-12",
+    "holiday": "Eid al-Adha (estimated); Independence Day"
+  },
+  {
+    "date": "2057-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2057-08-27",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2057-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2057-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2057-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2057-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2057-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

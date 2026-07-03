@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-02-19",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2015-02-20",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2015-02-21",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2015-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Tomb-Sweeping Day (observed)"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-06-20",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2015-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2015-09-03",
+    "holiday": "70th Anniversary of the Victory of the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War"
+  },
+  {
+    "date": "2015-09-28",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2015-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2015-10-21",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

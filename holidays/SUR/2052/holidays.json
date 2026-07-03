@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-02-01",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2052-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2052-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2052-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2052-05-29",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2052-07-01",
+    "holiday": "Day of Freedoms"
+  },
+  {
+    "date": "2052-08-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2052-08-09",
+    "holiday": "Indigenous People Day"
+  },
+  {
+    "date": "2052-10-10",
+    "holiday": "Day of the Maroons"
+  },
+  {
+    "date": "2052-11-19",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2052-11-25",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2052-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2057-04-05",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2057-04-23",
+    "holiday": "Catholic Easter Monday"
+  },
+  {
+    "date": "2057-04-27",
+    "holiday": "Orthodox Good Friday"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2057-05-02",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2057-06-12",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

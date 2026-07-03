@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-02-04",
+    "holiday": "Chinese New Year's Day"
+  },
+  {
+    "date": "2057-02-05",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2057-02-06",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2057-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2057-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2057-09-14",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2057-10-01",
+    "holiday": "National Day of the People's Republic of China"
+  },
+  {
+    "date": "2057-10-07",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2057-12-20",
+    "holiday": "Macao S.A.R. Establishment Day"
+  }
+]

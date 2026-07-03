@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-03-14",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-05-30",
+    "holiday": "JAGS McCartney Day"
+  },
+  {
+    "date": "2044-06-13",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2044-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2044-09-30",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2044-10-10",
+    "holiday": "National Heritage Day"
+  },
+  {
+    "date": "2044-11-25",
+    "holiday": "National Day of Thanksgiving"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2044-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

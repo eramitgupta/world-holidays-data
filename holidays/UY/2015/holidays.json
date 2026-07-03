@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-03-01",
+    "holiday": "Presidential Inauguration Day"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2015-07-18",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2015-08-25",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Day of the Family"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-03-08",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2019-03-21",
+    "holiday": "International Nowruz Day"
+  },
+  {
+    "date": "2019-03-22",
+    "holiday": "International Nowruz Day"
+  },
+  {
+    "date": "2019-03-23",
+    "holiday": "International Nowruz Day"
+  },
+  {
+    "date": "2019-03-24",
+    "holiday": "International Nowruz Day"
+  },
+  {
+    "date": "2019-05-09",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2019-06-04",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2019-06-27",
+    "holiday": "National Unity Day"
+  },
+  {
+    "date": "2019-08-11",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2019-09-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-11-06",
+    "holiday": "Constitution Day"
+  }
+]

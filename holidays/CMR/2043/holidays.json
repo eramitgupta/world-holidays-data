@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2043-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2043-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2043-02-22",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2043-02-23",
+    "holiday": "Mawlid (observed, estimated)"
+  },
+  {
+    "date": "2043-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2043-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2043-05-07",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2043-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2043-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2043-09-04",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2043-11-12",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2043-12-25",
+    "holiday": "Christmas Day"
+  }
+]

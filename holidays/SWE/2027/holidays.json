@@ -1,0 +1,258 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-01-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2027-01-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-01-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-01-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-01-31",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-02-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-02-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-02-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-02-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-03-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-03-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-03-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2027-03-28",
+    "holiday": "Easter Sunday; Sunday"
+  },
+  {
+    "date": "2027-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2027-04-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-04-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-04-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-04-25",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2027-05-02",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-05-06",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2027-05-09",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-05-16",
+    "holiday": "Sunday; Whit Sunday"
+  },
+  {
+    "date": "2027-05-23",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-05-30",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-06-06",
+    "holiday": "National Day of Sweden; Sunday"
+  },
+  {
+    "date": "2027-06-13",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-06-20",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-06-25",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2027-06-26",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2027-06-27",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-07-04",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-07-11",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-07-18",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-07-25",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-08-01",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-08-08",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-08-15",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-08-22",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-08-29",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-09-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-09-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-09-19",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-09-26",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-10-03",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-10-10",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-10-17",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-10-24",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-10-31",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-11-06",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2027-11-07",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-11-14",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-11-21",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-11-28",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-12-05",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-12-12",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-12-19",
+    "holiday": "Sunday"
+  },
+  {
+    "date": "2027-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2027-12-26",
+    "holiday": "Second Day of Christmas; Sunday"
+  },
+  {
+    "date": "2027-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

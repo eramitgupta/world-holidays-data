@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-03-11",
+    "holiday": "Moshoeshoe's Day"
+  },
+  {
+    "date": "2033-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2033-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2033-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2033-05-25",
+    "holiday": "Africa/Heroes Day"
+  },
+  {
+    "date": "2033-05-26",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2033-07-17",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2033-10-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2033-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-02-04",
+    "holiday": "Liberation Movement Day"
+  },
+  {
+    "date": "2017-02-28",
+    "holiday": "Carnival Day"
+  },
+  {
+    "date": "2017-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2017-04-04",
+    "holiday": "Peace and National Reconciliation Day"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "International Worker's Day"
+  },
+  {
+    "date": "2017-08-23",
+    "holiday": "General Election Day"
+  },
+  {
+    "date": "2017-09-17",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2017-09-18",
+    "holiday": "Day off for National Heroes' Day"
+  },
+  {
+    "date": "2017-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2017-11-11",
+    "holiday": "National Independence Day"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas and Family Day"
+  }
+]

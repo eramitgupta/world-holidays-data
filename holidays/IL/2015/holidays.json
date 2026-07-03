@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2015-04-04",
+    "holiday": "Pesach"
+  },
+  {
+    "date": "2015-04-10",
+    "holiday": "Seventh day of Pesach"
+  },
+  {
+    "date": "2015-04-23",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2015-05-24",
+    "holiday": "Shavuot"
+  },
+  {
+    "date": "2015-09-14",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2015-09-15",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2015-09-23",
+    "holiday": "Yom Kippur"
+  },
+  {
+    "date": "2015-09-28",
+    "holiday": "Sukkot"
+  },
+  {
+    "date": "2015-10-05",
+    "holiday": "Simchat Torah / Shemini Atzeret"
+  }
+]

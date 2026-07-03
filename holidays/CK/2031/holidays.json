@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2031-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2031-06-02",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2031-07-04",
+    "holiday": "Day of the House of Ariki"
+  },
+  {
+    "date": "2031-08-04",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2031-10-26",
+    "holiday": "Cook Islands Gospel Day"
+  },
+  {
+    "date": "2031-10-27",
+    "holiday": "Cook Islands Gospel Day (observed)"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2031-12-26",
+    "holiday": "Boxing Day"
+  }
+]

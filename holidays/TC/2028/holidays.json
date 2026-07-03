@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2028-03-13",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2028-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2028-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2028-05-29",
+    "holiday": "JAGS McCartney Day"
+  },
+  {
+    "date": "2028-06-12",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2028-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2028-09-29",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2028-10-09",
+    "holiday": "National Heritage Day"
+  },
+  {
+    "date": "2028-11-24",
+    "holiday": "National Day of Thanksgiving"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2028-12-26",
+    "holiday": "Boxing Day"
+  }
+]

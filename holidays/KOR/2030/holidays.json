@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-02-02",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2030-02-03",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2030-02-05",
+    "holiday": "Alternative holiday for Korean New Year"
+  },
+  {
+    "date": "2030-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2030-04-03",
+    "holiday": "Presidential Election Day"
+  },
+  {
+    "date": "2030-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2030-05-06",
+    "holiday": "Alternative holiday for Children's Day"
+  },
+  {
+    "date": "2030-05-09",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2030-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2030-06-12",
+    "holiday": "Local Election Day"
+  },
+  {
+    "date": "2030-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2030-09-11",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2030-09-12",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2030-09-13",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2030-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2030-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  }
+]

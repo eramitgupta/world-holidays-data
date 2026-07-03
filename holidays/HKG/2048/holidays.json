@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-02-14",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2048-02-15",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2048-02-17",
+    "holiday": "The fourth day of Chinese New Year"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-04-04",
+    "holiday": "The day following Good Friday; Tomb-Sweeping Day"
+  },
+  {
+    "date": "2048-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2048-05-20",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2048-06-15",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2048-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2048-09-23",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2048-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2048-10-16",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2048-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  }
+]

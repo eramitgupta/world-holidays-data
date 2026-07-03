@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-01-09",
+    "holiday": "Peace Agreement Day"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-03-30",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2024-03-31",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-04-10",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "International Labour Day"
+  },
+  {
+    "date": "2024-05-16",
+    "holiday": "SPLA Day"
+  },
+  {
+    "date": "2024-06-16",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2024-07-09",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2024-07-30",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2024-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-01-07",
+    "holiday": "Orthodox Christmas"
+  },
+  {
+    "date": "2049-01-19",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2049-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2049-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2049-04-25",
+    "holiday": "Orthodox Easter"
+  },
+  {
+    "date": "2049-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2049-05-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2049-06-20",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2049-07-01",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2049-09-01",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2049-09-08",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2049-09-11",
+    "holiday": "Ethiopian New Year"
+  },
+  {
+    "date": "2049-09-27",
+    "holiday": "Finding of the True Cross"
+  },
+  {
+    "date": "2049-12-07",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

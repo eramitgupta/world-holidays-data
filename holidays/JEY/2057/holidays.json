@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-04-23",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2057-05-07",
+    "holiday": "Early May Bank Holiday"
+  },
+  {
+    "date": "2057-05-09",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2057-05-28",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2057-08-27",
+    "holiday": "Summer Bank Holiday"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2057-12-26",
+    "holiday": "Boxing Day"
+  }
+]

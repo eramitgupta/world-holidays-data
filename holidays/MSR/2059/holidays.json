@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2059-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2059-03-17",
+    "holiday": "Saint Patrick's Day"
+  },
+  {
+    "date": "2059-03-28",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2059-03-31",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2059-05-05",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2059-05-19",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2059-06-16",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2059-07-09",
+    "holiday": "Day of Prayer and Thanksgiving"
+  },
+  {
+    "date": "2059-08-04",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2059-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2059-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2059-12-31",
+    "holiday": "Festival Day"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2021-01-04",
+    "holiday": "Day after New Year's Day (observed)"
+  },
+  {
+    "date": "2021-02-06",
+    "holiday": "Waitangi Day"
+  },
+  {
+    "date": "2021-02-08",
+    "holiday": "Waitangi Day (observed)"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-04-25",
+    "holiday": "Anzac Day"
+  },
+  {
+    "date": "2021-04-26",
+    "holiday": "Anzac Day (observed)"
+  },
+  {
+    "date": "2021-06-07",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2021-10-25",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2021-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

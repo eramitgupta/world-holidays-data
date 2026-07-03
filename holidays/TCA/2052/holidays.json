@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-03-11",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2052-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2052-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2052-05-27",
+    "holiday": "JAGS McCartney Day"
+  },
+  {
+    "date": "2052-06-10",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2052-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2052-09-27",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2052-10-14",
+    "holiday": "National Heritage Day"
+  },
+  {
+    "date": "2052-11-22",
+    "holiday": "National Day of Thanksgiving"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2052-12-26",
+    "holiday": "Boxing Day"
+  }
+]

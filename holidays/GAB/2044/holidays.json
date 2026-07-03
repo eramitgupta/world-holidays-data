@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-04-17",
+    "holiday": "Women's Rights Day"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2044-05-26",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2044-06-06",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2044-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2044-08-16",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2044-08-17",
+    "holiday": "Independence Day Holiday"
+  },
+  {
+    "date": "2044-08-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2044-10-31",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2044-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  }
+]

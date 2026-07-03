@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2047-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2047-01-15",
+    "holiday": "John Chilembwe Day"
+  },
+  {
+    "date": "2047-03-03",
+    "holiday": "Martyrs Day"
+  },
+  {
+    "date": "2047-03-04",
+    "holiday": "Martyrs Day (observed)"
+  },
+  {
+    "date": "2047-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2047-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2047-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2047-05-14",
+    "holiday": "Kamuzu Day"
+  },
+  {
+    "date": "2047-07-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2047-07-08",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2047-10-15",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2047-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2047-12-26",
+    "holiday": "Boxing Day"
+  }
+]

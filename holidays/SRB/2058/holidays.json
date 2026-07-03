@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2058-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2058-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2058-02-15",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2058-02-16",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2058-04-12",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2058-04-13",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2058-04-14",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2058-04-15",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2058-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2058-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2058-11-11",
+    "holiday": "Armistice Day"
+  }
+]

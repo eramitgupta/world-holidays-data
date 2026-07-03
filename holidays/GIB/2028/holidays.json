@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2028-02-21",
+    "holiday": "Winter Midterm Bank Holiday"
+  },
+  {
+    "date": "2028-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2028-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2028-04-28",
+    "holiday": "Workers' Memorial Day"
+  },
+  {
+    "date": "2028-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2028-05-29",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2028-06-12",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2028-08-28",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2028-09-10",
+    "holiday": "Gibraltar National Day"
+  },
+  {
+    "date": "2028-09-11",
+    "holiday": "Gibraltar National Day (observed)"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2028-12-26",
+    "holiday": "Boxing Day"
+  }
+]

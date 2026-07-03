@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2033-04-14",
+    "holiday": "Pesach"
+  },
+  {
+    "date": "2033-04-20",
+    "holiday": "Seventh day of Pesach"
+  },
+  {
+    "date": "2033-05-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2033-06-03",
+    "holiday": "Shavuot"
+  },
+  {
+    "date": "2033-09-24",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2033-09-25",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2033-10-03",
+    "holiday": "Yom Kippur"
+  },
+  {
+    "date": "2033-10-08",
+    "holiday": "Sukkot"
+  },
+  {
+    "date": "2033-10-15",
+    "holiday": "Simchat Torah / Shemini Atzeret"
+  }
+]

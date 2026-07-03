@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2043-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2043-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2043-03-30",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2043-04-19",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2043-04-20",
+    "holiday": "King's Birthday (observed)"
+  },
+  {
+    "date": "2043-04-25",
+    "holiday": "National Flag Day"
+  },
+  {
+    "date": "2043-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2043-05-07",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2043-07-22",
+    "holiday": "Birthday of Late King Sobhuza"
+  },
+  {
+    "date": "2043-09-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2043-09-07",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2043-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2043-12-26",
+    "holiday": "Boxing Day"
+  }
+]

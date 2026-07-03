@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-02-18",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2053-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2053-05-16",
+    "holiday": "Laylat al-Qadr (estimated)"
+  },
+  {
+    "date": "2053-05-19",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2053-05-20",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2053-05-25",
+    "holiday": "Africa Liberation Day"
+  },
+  {
+    "date": "2053-05-26",
+    "holiday": "Africa Liberation Day (observed)"
+  },
+  {
+    "date": "2053-07-22",
+    "holiday": "July 22 Revolution Day"
+  },
+  {
+    "date": "2053-07-26",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2053-07-27",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2053-07-28",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2053-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2053-08-24",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2053-08-25",
+    "holiday": "Ashura (observed, estimated)"
+  },
+  {
+    "date": "2053-10-24",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2053-12-26",
+    "holiday": "Boxing Day"
+  }
+]

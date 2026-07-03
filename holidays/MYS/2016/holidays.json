@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2016-02-08",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2016-02-09",
+    "holiday": "Chinese New Year (Second Day)"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2016-05-21",
+    "holiday": "Vesak Day"
+  },
+  {
+    "date": "2016-06-04",
+    "holiday": "Birthday of HM Yang di-Pertuan Agong"
+  },
+  {
+    "date": "2016-07-06",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2016-07-07",
+    "holiday": "Eid al-Fitr (Second Day)"
+  },
+  {
+    "date": "2016-08-31",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2016-09-12",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2016-09-16",
+    "holiday": "Malaysia Day"
+  },
+  {
+    "date": "2016-10-02",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2016-12-12",
+    "holiday": "Prophet Muhammad's Birthday"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-01",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2018-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2018-04-27",
+    "holiday": "King's Day"
+  },
+  {
+    "date": "2018-05-10",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2018-05-20",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2018-05-21",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

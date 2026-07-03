@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2024-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2024-03-31",
+    "holiday": "Catholic Easter"
+  },
+  {
+    "date": "2024-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2024-05-05",
+    "holiday": "Orthodox Easter"
+  },
+  {
+    "date": "2024-05-09",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2024-05-13",
+    "holiday": "Day off (substituted from 05/18/2024)"
+  },
+  {
+    "date": "2024-05-14",
+    "holiday": "Radunitsa (Day of Rejoicing)"
+  },
+  {
+    "date": "2024-07-03",
+    "holiday": "Independence Day of the Republic of Belarus (Day of the Republic)"
+  },
+  {
+    "date": "2024-11-07",
+    "holiday": "October Revolution Day"
+  },
+  {
+    "date": "2024-11-08",
+    "holiday": "Day off (substituted from 11/16/2024)"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Catholic Christmas Day"
+  }
+]

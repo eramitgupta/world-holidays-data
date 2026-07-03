@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2045-02-15",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2045-02-16",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2045-02-17",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2045-02-18",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2045-02-19",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2045-02-20",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2045-02-21",
+    "holiday": "Fifth Day of Lunar New Year"
+  },
+  {
+    "date": "2045-04-26",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2045-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2045-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2045-05-02",
+    "holiday": "Liberation Day/Reunification Day (observed)"
+  },
+  {
+    "date": "2045-09-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2045-09-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2045-09-04",
+    "holiday": "National Day (observed)"
+  }
+]

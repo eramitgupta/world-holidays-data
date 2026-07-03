@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2022-01-26",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2022-03-01",
+    "holiday": "Maha Shivaratri"
+  },
+  {
+    "date": "2022-04-14",
+    "holiday": "Mahavir Jayanti"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-05-03",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2022-05-16",
+    "holiday": "Buddha Purnima"
+  },
+  {
+    "date": "2022-07-10",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2022-08-09",
+    "holiday": "Ashura"
+  },
+  {
+    "date": "2022-08-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-08-19",
+    "holiday": "Janmashtami"
+  },
+  {
+    "date": "2022-10-02",
+    "holiday": "Gandhi Jayanti"
+  },
+  {
+    "date": "2022-10-05",
+    "holiday": "Dussehra"
+  },
+  {
+    "date": "2022-10-09",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2022-10-24",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2022-11-08",
+    "holiday": "Guru Nanak Jayanti"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas"
+  }
+]

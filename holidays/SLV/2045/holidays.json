@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-04-06",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2045-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2045-04-08",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2045-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2045-05-10",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2045-06-17",
+    "holiday": "Father's Day"
+  },
+  {
+    "date": "2045-08-06",
+    "holiday": "Celebrations of San Salvador"
+  },
+  {
+    "date": "2045-09-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2045-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  }
+]

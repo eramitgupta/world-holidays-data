@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2030-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2030-04-20",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2030-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2030-05-13",
+    "holiday": "Girmit Day"
+  },
+  {
+    "date": "2030-05-31",
+    "holiday": "Ratu Sir Lala Sukuna Day"
+  },
+  {
+    "date": "2030-07-13",
+    "holiday": "Prophet Mohammed's Birthday (estimated)"
+  },
+  {
+    "date": "2030-07-15",
+    "holiday": "Prophet Mohammed's Birthday (observed, estimated)"
+  },
+  {
+    "date": "2030-10-10",
+    "holiday": "Fiji Day"
+  },
+  {
+    "date": "2030-10-26",
+    "holiday": "Diwali (estimated)"
+  },
+  {
+    "date": "2030-10-28",
+    "holiday": "Diwali (observed, estimated)"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2030-12-26",
+    "holiday": "Boxing Day"
+  }
+]

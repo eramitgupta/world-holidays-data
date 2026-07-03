@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-01-26",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2037-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2037-03-09",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2037-03-21",
+    "holiday": "Spring Festival"
+  },
+  {
+    "date": "2037-03-22",
+    "holiday": "Spring Festival"
+  },
+  {
+    "date": "2037-03-23",
+    "holiday": "Spring Festival (observed)"
+  },
+  {
+    "date": "2037-05-18",
+    "holiday": "Constitution and State Flag Day"
+  },
+  {
+    "date": "2037-09-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2037-09-28",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2037-10-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2037-11-08",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2037-11-09",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2037-12-12",
+    "holiday": "International Neutrality Day"
+  }
+]

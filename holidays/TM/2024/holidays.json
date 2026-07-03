@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2024-03-21",
+    "holiday": "Spring Festival"
+  },
+  {
+    "date": "2024-03-22",
+    "holiday": "Spring Festival"
+  },
+  {
+    "date": "2024-04-10",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-05-18",
+    "holiday": "Constitution and State Flag Day"
+  },
+  {
+    "date": "2024-06-16",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2024-06-17",
+    "holiday": "Eid al-Adha (observed)"
+  },
+  {
+    "date": "2024-09-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2024-10-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2024-10-07",
+    "holiday": "Memorial Day (observed)"
+  },
+  {
+    "date": "2024-12-12",
+    "holiday": "International Neutrality Day"
+  }
+]

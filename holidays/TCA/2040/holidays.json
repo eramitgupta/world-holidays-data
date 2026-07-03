@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-03-12",
+    "holiday": "Commonwealth Day"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-05-28",
+    "holiday": "JAGS McCartney Day"
+  },
+  {
+    "date": "2040-06-11",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2040-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2040-09-28",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2040-10-08",
+    "holiday": "National Heritage Day"
+  },
+  {
+    "date": "2040-11-23",
+    "holiday": "National Day of Thanksgiving"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Boxing Day"
+  }
+]

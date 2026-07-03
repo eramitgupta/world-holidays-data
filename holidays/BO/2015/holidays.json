@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-22",
+    "holiday": "Plurinational State Foundation Day"
+  },
+  {
+    "date": "2015-02-16",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2015-02-17",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-06-04",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2015-06-21",
+    "holiday": "Aymara New Year"
+  },
+  {
+    "date": "2015-06-22",
+    "holiday": "Aymara New Year (observed)"
+  },
+  {
+    "date": "2015-08-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

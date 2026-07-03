@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-01",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2040-05-10",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2040-05-20",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2040-06-09",
+    "holiday": "Åland's Autonomy Day"
+  },
+  {
+    "date": "2040-06-22",
+    "holiday": "Midsummer Eve"
+  },
+  {
+    "date": "2040-06-23",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2040-11-03",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2040-12-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2024-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2024-03-29",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2024-03-30",
+    "holiday": "Spiritual Baptist Liberation Day"
+  },
+  {
+    "date": "2024-04-01",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2024-04-10",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2024-05-30",
+    "holiday": "Corpus Christi; Indian Arrival Day"
+  },
+  {
+    "date": "2024-05-31",
+    "holiday": "Corpus Christi (observed); Indian Arrival Day (observed)"
+  },
+  {
+    "date": "2024-06-19",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2024-08-01",
+    "holiday": "African Emancipation Day"
+  },
+  {
+    "date": "2024-08-31",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2024-09-24",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2024-10-31",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2024-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2024-12-26",
+    "holiday": "Boxing Day"
+  }
+]

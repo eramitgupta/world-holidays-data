@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2029-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2029-03-05",
+    "holiday": "Lavity Stoutt's Birthday"
+  },
+  {
+    "date": "2029-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2029-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2029-05-21",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2029-06-08",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2029-07-02",
+    "holiday": "Virgin Islands Day"
+  },
+  {
+    "date": "2029-08-06",
+    "holiday": "Emancipation Monday"
+  },
+  {
+    "date": "2029-08-07",
+    "holiday": "Emancipation Tuesday"
+  },
+  {
+    "date": "2029-08-08",
+    "holiday": "Emancipation Wednesday"
+  },
+  {
+    "date": "2029-10-15",
+    "holiday": "Heroes and Foreparents Day"
+  },
+  {
+    "date": "2029-11-26",
+    "holiday": "The Great March of 1949 and Restoration Day"
+  },
+  {
+    "date": "2029-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2029-12-26",
+    "holiday": "Boxing Day"
+  }
+]

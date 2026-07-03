@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2046-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2046-02-05",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2046-02-06",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2046-02-07",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2046-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2046-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2046-05-07",
+    "holiday": "Alternative holiday for Children's Day"
+  },
+  {
+    "date": "2046-05-13",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2046-05-14",
+    "holiday": "Alternative holiday for Buddha's Birthday"
+  },
+  {
+    "date": "2046-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2046-06-13",
+    "holiday": "Local Election Day"
+  },
+  {
+    "date": "2046-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2046-09-14",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2046-09-15",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2046-09-16",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2046-09-17",
+    "holiday": "Alternative holiday for Chuseok"
+  },
+  {
+    "date": "2046-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2046-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2046-12-25",
+    "holiday": "Christmas Day"
+  }
+]

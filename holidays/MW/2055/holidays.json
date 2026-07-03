@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-15",
+    "holiday": "John Chilembwe Day"
+  },
+  {
+    "date": "2055-03-03",
+    "holiday": "Martyrs Day"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2055-05-03",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2055-05-14",
+    "holiday": "Kamuzu Day"
+  },
+  {
+    "date": "2055-07-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2055-10-15",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2055-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2055-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

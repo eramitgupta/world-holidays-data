@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2023-01-22",
+    "holiday": "Chinese Spring Festival"
+  },
+  {
+    "date": "2023-02-01",
+    "holiday": "Abolition of Slavery"
+  },
+  {
+    "date": "2023-02-04",
+    "holiday": "Thaipusam"
+  },
+  {
+    "date": "2023-02-18",
+    "holiday": "Maha Shivaratri"
+  },
+  {
+    "date": "2023-03-12",
+    "holiday": "Independence and Republic Day"
+  },
+  {
+    "date": "2023-03-22",
+    "holiday": "Ugadi"
+  },
+  {
+    "date": "2023-04-22",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2023-09-20",
+    "holiday": "Ganesh Chaturthi"
+  },
+  {
+    "date": "2023-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2023-11-02",
+    "holiday": "Arrival of Indentured Laborers"
+  },
+  {
+    "date": "2023-11-12",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  }
+]

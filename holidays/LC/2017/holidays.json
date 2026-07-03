@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2017-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday": "New Year's Holiday"
+  },
+  {
+    "date": "2017-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2017-02-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2017-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2017-06-05",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2017-06-15",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2017-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2017-10-02",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2017-12-13",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2017-12-26",
+    "holiday": "Boxing Day"
+  }
+]

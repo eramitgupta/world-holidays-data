@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2015-02-01",
+    "holiday": "Abolition of Slavery"
+  },
+  {
+    "date": "2015-02-17",
+    "holiday": "Maha Shivaratri"
+  },
+  {
+    "date": "2015-02-19",
+    "holiday": "Chinese Spring Festival"
+  },
+  {
+    "date": "2015-03-05",
+    "holiday": "Thaipusam"
+  },
+  {
+    "date": "2015-03-12",
+    "holiday": "Independence and Republic Day"
+  },
+  {
+    "date": "2015-03-21",
+    "holiday": "Ugadi"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-07-18",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2015-09-18",
+    "holiday": "Ganesh Chaturthi"
+  },
+  {
+    "date": "2015-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2015-11-02",
+    "holiday": "Arrival of Indentured Laborers"
+  },
+  {
+    "date": "2015-11-11",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

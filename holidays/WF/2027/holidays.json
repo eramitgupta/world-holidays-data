@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2027-04-28",
+    "holiday": "Feast of Saint Peter Chanel"
+  },
+  {
+    "date": "2027-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2027-05-06",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2027-05-08",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2027-05-17",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2027-06-29",
+    "holiday": "Saints Peter and Paul Day"
+  },
+  {
+    "date": "2027-07-14",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2027-07-29",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2027-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2027-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2027-11-11",
+    "holiday": "Armistice Day"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  }
+]

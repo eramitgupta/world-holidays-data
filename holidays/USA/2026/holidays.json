@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2026-01-19",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2026-02-16",
+    "holiday": "Washington's Birthday"
+  },
+  {
+    "date": "2026-05-25",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2026-06-19",
+    "holiday": "Juneteenth National Independence Day"
+  },
+  {
+    "date": "2026-07-03",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2026-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2026-09-07",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2026-10-12",
+    "holiday": "Columbus Day"
+  },
+  {
+    "date": "2026-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2026-11-26",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2026-12-25",
+    "holiday": "Christmas Day"
+  }
+]

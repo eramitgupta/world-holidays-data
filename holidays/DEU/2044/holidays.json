@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2044-05-26",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2044-06-06",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2044-10-03",
+    "holiday": "German Unity Day"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

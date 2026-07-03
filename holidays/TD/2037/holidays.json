@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-01-26",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2037-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2037-03-09",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2037-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2037-04-28",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2037-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2037-08-11",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2037-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2037-11-08",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2037-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2037-12-01",
+    "holiday": "Freedom and Democracy Day"
+  },
+  {
+    "date": "2037-12-25",
+    "holiday": "Christmas Day"
+  }
+]

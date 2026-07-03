@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-15",
+    "holiday": "Hajj Day (estimated)"
+  },
+  {
+    "date": "2038-01-16",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2038-01-17",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2038-01-18",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2038-01-19",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2038-02-05",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2038-04-06",
+    "holiday": "National Day (estimated)"
+  },
+  {
+    "date": "2038-04-17",
+    "holiday": "Mawlid al-Nabi (estimated)"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2038-05-05",
+    "holiday": "The Day Maldives Embraced Islam (estimated)"
+  },
+  {
+    "date": "2038-07-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2038-09-30",
+    "holiday": "Beginning of Ramadan (estimated)"
+  },
+  {
+    "date": "2038-10-29",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2038-10-30",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2038-10-31",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2038-11-03",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2038-11-11",
+    "holiday": "Republic Day"
+  }
+]

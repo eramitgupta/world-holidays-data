@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-03-03",
+    "holiday": "Lavity Stoutt's Birthday"
+  },
+  {
+    "date": "2036-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2036-06-02",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2036-06-13",
+    "holiday": "Sovereign's Birthday"
+  },
+  {
+    "date": "2036-07-07",
+    "holiday": "Virgin Islands Day"
+  },
+  {
+    "date": "2036-08-04",
+    "holiday": "Emancipation Monday"
+  },
+  {
+    "date": "2036-08-05",
+    "holiday": "Emancipation Tuesday"
+  },
+  {
+    "date": "2036-08-06",
+    "holiday": "Emancipation Wednesday"
+  },
+  {
+    "date": "2036-10-20",
+    "holiday": "Heroes and Foreparents Day"
+  },
+  {
+    "date": "2036-11-24",
+    "holiday": "The Great March of 1949 and Restoration Day"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2036-12-26",
+    "holiday": "Boxing Day"
+  }
+]

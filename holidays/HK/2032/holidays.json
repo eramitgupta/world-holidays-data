@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-02-11",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2032-02-12",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2032-02-13",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-03-27",
+    "holiday": "The day following Good Friday"
+  },
+  {
+    "date": "2032-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2032-04-04",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2032-04-05",
+    "holiday": "Tomb-Sweeping Day (observed)"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2032-05-16",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2032-05-17",
+    "holiday": "The Buddha's Birthday (observed)"
+  },
+  {
+    "date": "2032-06-12",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2032-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2032-09-20",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2032-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2032-10-12",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  },
+  {
+    "date": "2032-12-27",
+    "holiday": "The first weekday after Christmas Day (observed)"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2023-03-21",
+    "holiday": "Human Rights Day"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-04-10",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2023-04-27",
+    "holiday": "Freedom Day"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2023-06-16",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2023-08-09",
+    "holiday": "National Women's Day"
+  },
+  {
+    "date": "2023-09-24",
+    "holiday": "Heritage Day"
+  },
+  {
+    "date": "2023-09-25",
+    "holiday": "Heritage Day (observed)"
+  },
+  {
+    "date": "2023-12-15",
+    "holiday": "Public Holiday by Presidential Decree"
+  },
+  {
+    "date": "2023-12-16",
+    "holiday": "Day of Reconciliation"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2023-12-26",
+    "holiday": "Day of Goodwill"
+  }
+]

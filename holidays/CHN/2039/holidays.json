@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2039-01-23",
+    "holiday": "Chinese New Year's Eve"
+  },
+  {
+    "date": "2039-01-24",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2039-01-25",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2039-01-26",
+    "holiday": "Chinese New Year (Spring Festival)"
+  },
+  {
+    "date": "2039-01-27",
+    "holiday": "Chinese New Year's Eve (observed)"
+  },
+  {
+    "date": "2039-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2039-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2039-05-03",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2039-05-27",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2039-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2039-10-02",
+    "holiday": "Mid-Autumn Festival; National Day"
+  },
+  {
+    "date": "2039-10-03",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2039-10-04",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2039-10-05",
+    "holiday": "Mid-Autumn Festival (observed)"
+  },
+  {
+    "date": "2039-10-06",
+    "holiday": "National Day (observed)"
+  }
+]

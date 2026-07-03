@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-02-05",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2027-03-09",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2027-04-06",
+    "holiday": "Commemoration of the Assassination of President Cyprien Ntaryamira"
+  },
+  {
+    "date": "2027-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2027-05-06",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2027-05-16",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2027-05-17",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2027-06-08",
+    "holiday": "National Day of Patriotism and Commemoration of the Death of President Pierre Nkurunziza"
+  },
+  {
+    "date": "2027-07-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2027-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2027-08-16",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2027-10-13",
+    "holiday": "Commemoration of the Assassination of National Hero, Prince Louis Rwagasore"
+  },
+  {
+    "date": "2027-10-21",
+    "holiday": "Commemoration of the Assassination of President Melchior Ndadaye"
+  },
+  {
+    "date": "2027-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  }
+]

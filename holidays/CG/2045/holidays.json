@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2045-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2045-05-18",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2045-05-29",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2045-06-10",
+    "holiday": "Reconciliation Day"
+  },
+  {
+    "date": "2045-08-15",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2045-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2045-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  }
+]

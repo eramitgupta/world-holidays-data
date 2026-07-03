@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2030-02-03",
+    "holiday": "Chinese New Year (estimated)"
+  },
+  {
+    "date": "2030-02-04",
+    "holiday": "Chinese New Year (Second Day) (estimated); Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2030-02-05",
+    "holiday": "Eid al-Fitr (Second Day) (estimated)"
+  },
+  {
+    "date": "2030-02-06",
+    "holiday": "Chinese New Year (observed, estimated)"
+  },
+  {
+    "date": "2030-04-13",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2030-05-03",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2030-05-16",
+    "holiday": "Vesak Day (estimated)"
+  },
+  {
+    "date": "2030-06-03",
+    "holiday": "Birthday of HM Yang di-Pertuan Agong"
+  },
+  {
+    "date": "2030-07-13",
+    "holiday": "Prophet Muhammad's Birthday (estimated)"
+  },
+  {
+    "date": "2030-08-31",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2030-09-16",
+    "holiday": "Malaysia Day"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Christmas Day"
+  }
+]

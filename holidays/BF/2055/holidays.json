@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-03",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2055-01-04",
+    "holiday": "Revolution Day (observed)"
+  },
+  {
+    "date": "2055-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-04-28",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2055-05-27",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2055-07-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2055-08-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2055-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2055-08-16",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2055-10-03",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2055-10-31",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2055-11-01",
+    "holiday": "All Saints' Day; Martyrs' Day (observed)"
+  },
+  {
+    "date": "2055-12-11",
+    "holiday": "Proclamation of Independence Day"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  }
+]

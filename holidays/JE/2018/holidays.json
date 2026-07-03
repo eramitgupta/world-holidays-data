@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2018-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2018-05-07",
+    "holiday": "Early May Bank Holiday"
+  },
+  {
+    "date": "2018-05-09",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2018-05-28",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2018-08-27",
+    "holiday": "Summer Bank Holiday"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2018-12-26",
+    "holiday": "Boxing Day"
+  }
+]

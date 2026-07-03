@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-03-11",
+    "holiday": "Moshoeshoe's Day"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2040-05-10",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2040-05-25",
+    "holiday": "Africa/Heroes Day"
+  },
+  {
+    "date": "2040-07-17",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2040-10-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Boxing Day"
+  }
+]

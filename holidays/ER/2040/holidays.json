@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-07",
+    "holiday": "Orthodox Christmas"
+  },
+  {
+    "date": "2040-01-20",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2040-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2040-03-25",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2040-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2040-05-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-05-06",
+    "holiday": "Orthodox Easter"
+  },
+  {
+    "date": "2040-05-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2040-06-20",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2040-09-01",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2040-09-11",
+    "holiday": "Ethiopian New Year"
+  },
+  {
+    "date": "2040-09-27",
+    "holiday": "Finding of the True Cross"
+  },
+  {
+    "date": "2040-10-07",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2040-12-14",
+    "holiday": "Eid al-Adha (estimated)"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2030-01-01",
+    "holiday": "Capodanno"
+  },
+  {
+    "date": "2030-01-06",
+    "holiday": "Epifania del Signore"
+  },
+  {
+    "date": "2030-04-21",
+    "holiday": "Pasqua di Resurrezione"
+  },
+  {
+    "date": "2030-04-22",
+    "holiday": "Lunedì dell'Angelo"
+  },
+  {
+    "date": "2030-04-25",
+    "holiday": "Festa della Liberazione"
+  },
+  {
+    "date": "2030-05-01",
+    "holiday": "Festa dei Lavoratori"
+  },
+  {
+    "date": "2030-06-02",
+    "holiday": "Festa della Repubblica"
+  },
+  {
+    "date": "2030-08-15",
+    "holiday": "Assunzione della Vergine"
+  },
+  {
+    "date": "2030-11-01",
+    "holiday": "Tutti i Santi"
+  },
+  {
+    "date": "2030-12-08",
+    "holiday": "Immacolata Concezione"
+  },
+  {
+    "date": "2030-12-25",
+    "holiday": "Natale"
+  },
+  {
+    "date": "2030-12-26",
+    "holiday": "Santo Stefano"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2035-02-08",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2035-02-09",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2035-02-18",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2035-02-19",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2035-03-19",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2035-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2035-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2035-10-01",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2035-12-01",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2035-12-03",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2035-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2035-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2033-01-15",
+    "holiday": "John Chilembwe Day"
+  },
+  {
+    "date": "2033-01-17",
+    "holiday": "John Chilembwe Day (observed)"
+  },
+  {
+    "date": "2033-03-03",
+    "holiday": "Martyrs Day"
+  },
+  {
+    "date": "2033-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2033-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2033-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2033-05-02",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2033-05-14",
+    "holiday": "Kamuzu Day"
+  },
+  {
+    "date": "2033-05-16",
+    "holiday": "Kamuzu Day (observed)"
+  },
+  {
+    "date": "2033-07-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2033-10-15",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2033-10-17",
+    "holiday": "Mother's Day (observed)"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2033-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2033-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2041-02-01",
+    "holiday": "Abolition of Slavery; Chinese Spring Festival"
+  },
+  {
+    "date": "2041-02-15",
+    "holiday": "Thaipusam"
+  },
+  {
+    "date": "2041-03-12",
+    "holiday": "Independence and Republic Day"
+  },
+  {
+    "date": "2041-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2041-09-27",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2041-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2041-11-02",
+    "holiday": "Arrival of Indentured Laborers"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Christmas Day"
+  }
+]

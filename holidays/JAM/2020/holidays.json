@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-02-26",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2020-05-23",
+    "holiday": "National Labour Day"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "National Labour Day (observed)"
+  },
+  {
+    "date": "2020-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2020-08-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-10-19",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Boxing Day"
+  }
+]

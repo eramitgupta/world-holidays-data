@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2019-07-01",
+    "holiday": "Canada Day"
+  },
+  {
+    "date": "2019-09-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-02-11",
+    "holiday": "President Moi Memorial Day"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Eid-al-Fitr"
+  },
+  {
+    "date": "2020-06-01",
+    "holiday": "Madaraka Day"
+  },
+  {
+    "date": "2020-10-10",
+    "holiday": "Moi Day"
+  },
+  {
+    "date": "2020-10-20",
+    "holiday": "Mashujaa Day"
+  },
+  {
+    "date": "2020-12-12",
+    "holiday": "Jamhuri Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Boxing Day"
+  }
+]

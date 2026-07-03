@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-05-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-05-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2019-07-13",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2019-07-14",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2019-07-15",
+    "holiday": "Statehood Day (observed)"
+  }
+]

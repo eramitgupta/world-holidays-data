@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-01-03",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2027-01-04",
+    "holiday": "Revolution Day (observed)"
+  },
+  {
+    "date": "2027-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2027-03-09",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2027-03-29",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2027-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2027-05-06",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2027-05-16",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2027-08-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2027-08-14",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2027-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2027-08-16",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2027-10-31",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2027-11-01",
+    "holiday": "All Saints' Day; Martyrs' Day (observed)"
+  },
+  {
+    "date": "2027-12-11",
+    "holiday": "Proclamation of Independence Day"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day"
+  }
+]

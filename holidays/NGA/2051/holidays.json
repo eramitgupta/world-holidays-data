@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2051-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2051-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2051-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2051-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2051-05-01",
+    "holiday": "Workers' Day"
+  },
+  {
+    "date": "2051-05-29",
+    "holiday": "Presidential Inauguration Day"
+  },
+  {
+    "date": "2051-06-11",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2051-06-12",
+    "holiday": "Democracy Day; Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2051-06-13",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2051-08-18",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2051-08-19",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2051-08-21",
+    "holiday": "Eid al-Adha Holiday (observed, estimated)"
+  },
+  {
+    "date": "2051-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2051-10-02",
+    "holiday": "National Day (observed)"
+  },
+  {
+    "date": "2051-11-17",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2051-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2051-12-26",
+    "holiday": "Boxing Day"
+  }
+]

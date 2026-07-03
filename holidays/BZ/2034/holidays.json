@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2034-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2034-01-16",
+    "holiday": "George Price Day (observed)"
+  },
+  {
+    "date": "2034-03-06",
+    "holiday": "National Heroes and Benefactors Day (observed)"
+  },
+  {
+    "date": "2034-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2034-04-08",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2034-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2034-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2034-07-31",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2034-09-11",
+    "holiday": "Saint George's Caye Day (observed)"
+  },
+  {
+    "date": "2034-09-21",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2034-10-09",
+    "holiday": "Indigenous Peoples' Resistance Day (observed)"
+  },
+  {
+    "date": "2034-11-20",
+    "holiday": "Garifuna Settlement Day (observed)"
+  },
+  {
+    "date": "2034-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2034-12-26",
+    "holiday": "Boxing Day"
+  }
+]

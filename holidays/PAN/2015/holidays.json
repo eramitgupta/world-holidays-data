@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-01-09",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2015-02-17",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2015-11-03",
+    "holiday": "Separation Day"
+  },
+  {
+    "date": "2015-11-05",
+    "holiday": "Colon Day"
+  },
+  {
+    "date": "2015-11-10",
+    "holiday": "Los Santos Uprising Day"
+  },
+  {
+    "date": "2015-11-28",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2015-12-08",
+    "holiday": "Mother's Day"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

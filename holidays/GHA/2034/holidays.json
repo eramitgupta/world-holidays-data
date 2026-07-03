@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2034-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2034-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2034-01-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2034-01-09",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2034-03-01",
+    "holiday": "Eid ul-Adha (estimated)"
+  },
+  {
+    "date": "2034-03-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2034-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2034-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2034-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2034-08-04",
+    "holiday": "Founders' Day"
+  },
+  {
+    "date": "2034-09-21",
+    "holiday": "Kwame Nkrumah Memorial Day"
+  },
+  {
+    "date": "2034-12-01",
+    "holiday": "Farmer's Day"
+  },
+  {
+    "date": "2034-12-12",
+    "holiday": "Eid ul-Fitr (estimated)"
+  },
+  {
+    "date": "2034-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2034-12-26",
+    "holiday": "Boxing Day"
+  }
+]

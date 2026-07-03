@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2052-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2052-03-15",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2052-05-05",
+    "holiday": "Senior Citizens Day"
+  },
+  {
+    "date": "2052-05-06",
+    "holiday": "Senior Citizens Day (observed)"
+  },
+  {
+    "date": "2052-05-31",
+    "holiday": "President's Day (observed)"
+  },
+  {
+    "date": "2052-06-01",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2052-07-09",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2052-09-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2052-10-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2052-10-24",
+    "holiday": "United Nations Day"
+  },
+  {
+    "date": "2052-11-22",
+    "holiday": "Family Day"
+  },
+  {
+    "date": "2052-11-28",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2052-12-25",
+    "holiday": "Christmas Day"
+  }
+]

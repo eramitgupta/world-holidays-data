@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-02",
+    "holiday": "New Year's Holiday"
+  },
+  {
+    "date": "2039-01-03",
+    "holiday": "New Year's Holiday (observed)"
+  },
+  {
+    "date": "2039-02-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2039-04-08",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2039-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2039-05-30",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2039-06-09",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2039-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2039-10-03",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2039-12-13",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2039-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

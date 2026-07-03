@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-02",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2033-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2033-03-11",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2033-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2033-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2033-05-02",
+    "holiday": "Labour Day (observed)"
+  },
+  {
+    "date": "2033-06-09",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2033-08-11",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2033-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2033-11-28",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2033-12-01",
+    "holiday": "Freedom and Democracy Day"
+  },
+  {
+    "date": "2033-12-23",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Christmas Day"
+  }
+]

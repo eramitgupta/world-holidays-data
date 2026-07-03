@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day Holiday"
+  },
+  {
+    "date": "2023-03-01",
+    "holiday": "Nuclear Victims Remembrance Day"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2023-07-07",
+    "holiday": "Fisherman's Day"
+  },
+  {
+    "date": "2023-09-01",
+    "holiday": "Dri-jerbal Day"
+  },
+  {
+    "date": "2023-09-29",
+    "holiday": "Manit Day"
+  },
+  {
+    "date": "2023-11-17",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2023-11-20",
+    "holiday": "General Election Day"
+  },
+  {
+    "date": "2023-12-01",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  }
+]

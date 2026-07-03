@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2025-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2025-01-27",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2025-03-05",
+    "holiday": "Ash Wednesday"
+  },
+  {
+    "date": "2025-04-18",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2025-04-21",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2025-04-30",
+    "holiday": "General Election Day"
+  },
+  {
+    "date": "2025-05-05",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2025-05-19",
+    "holiday": "Discovery Day"
+  },
+  {
+    "date": "2025-06-23",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2025-07-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2025-11-10",
+    "holiday": "Remembrance Day"
+  },
+  {
+    "date": "2025-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2025-12-26",
+    "holiday": "Boxing Day"
+  }
+]

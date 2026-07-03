@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2049-05-25",
+    "holiday": "Africa Day"
+  },
+  {
+    "date": "2049-07-01",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2049-07-02",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2049-09-08",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2049-09-09",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2049-09-28",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2049-11-28",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2049-12-07",
+    "holiday": "Mawlid al-Nabi (estimated)"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "Carnival Day"
+  },
+  {
+    "date": "2028-01-02",
+    "holiday": "Carnival Day - Last Lap"
+  },
+  {
+    "date": "2028-01-03",
+    "holiday": "Carnival Day - Last Lap (observed)"
+  },
+  {
+    "date": "2028-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2028-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2028-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2028-06-05",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2028-08-07",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2028-08-08",
+    "holiday": "Culturama Day - Last Lap"
+  },
+  {
+    "date": "2028-09-16",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2028-09-19",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2028-12-26",
+    "holiday": "Boxing Day"
+  }
+]

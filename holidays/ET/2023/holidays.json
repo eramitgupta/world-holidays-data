@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2023-01-07",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2023-01-19",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2023-03-02",
+    "holiday": "Adwa Victory Day"
+  },
+  {
+    "date": "2023-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-04-16",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2023-04-21",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2023-05-05",
+    "holiday": "Ethiopian Patriots' Victory Day"
+  },
+  {
+    "date": "2023-05-28",
+    "holiday": "Downfall of the Dergue Regime Day"
+  },
+  {
+    "date": "2023-06-28",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2023-09-12",
+    "holiday": "Ethiopian New Year"
+  },
+  {
+    "date": "2023-09-27",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2023-09-28",
+    "holiday": "Finding of True Cross"
+  }
+]

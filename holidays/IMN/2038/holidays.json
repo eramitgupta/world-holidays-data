@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-05-03",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2038-05-31",
+    "holiday": "Spring Bank Holiday"
+  },
+  {
+    "date": "2038-06-04",
+    "holiday": "TT Bank Holiday"
+  },
+  {
+    "date": "2038-07-05",
+    "holiday": "Tynwald Day"
+  },
+  {
+    "date": "2038-08-30",
+    "holiday": "Late Summer Bank Holiday"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2038-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2038-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

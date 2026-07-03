@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2019-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2019-02-08",
+    "holiday": "Prešeren's Day, the Slovenian Cultural Holiday"
+  },
+  {
+    "date": "2019-04-21",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2019-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2019-04-27",
+    "holiday": "Day of Uprising Against Occupation"
+  },
+  {
+    "date": "2019-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-05-02",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2019-06-09",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2019-06-25",
+    "holiday": "Statehood Day"
+  },
+  {
+    "date": "2019-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2019-10-31",
+    "holiday": "Reformation Day"
+  },
+  {
+    "date": "2019-11-01",
+    "holiday": "Day of Remembrance for the Dead"
+  },
+  {
+    "date": "2019-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2019-12-26",
+    "holiday": "Independence and Unity Day"
+  }
+]

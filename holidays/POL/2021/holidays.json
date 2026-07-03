@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2021-04-04",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2021-05-03",
+    "holiday": "National Day of the Third of May"
+  },
+  {
+    "date": "2021-05-23",
+    "holiday": "Pentecost"
+  },
+  {
+    "date": "2021-06-03",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2021-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2021-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2021-11-11",
+    "holiday": "National Independence Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

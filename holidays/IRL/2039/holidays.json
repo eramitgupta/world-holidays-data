@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-02-07",
+    "holiday": "Saint Brigid's Day"
+  },
+  {
+    "date": "2039-03-17",
+    "holiday": "Saint Patrick's Day"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2039-05-02",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2039-06-06",
+    "holiday": "June Bank Holiday"
+  },
+  {
+    "date": "2039-08-01",
+    "holiday": "August Bank Holiday"
+  },
+  {
+    "date": "2039-10-31",
+    "holiday": "October Bank Holiday"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]

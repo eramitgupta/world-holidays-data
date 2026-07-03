@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2026-02-16",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2026-02-17",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2026-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2026-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2026-05-04",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2026-05-25",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2026-08-03",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2026-11-03",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2026-11-04",
+    "holiday": "National Day of Community Service"
+  },
+  {
+    "date": "2026-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2026-12-26",
+    "holiday": "Boxing Day"
+  }
+]

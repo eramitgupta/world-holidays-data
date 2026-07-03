@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-02-09",
+    "holiday": "Monday of Carnival"
+  },
+  {
+    "date": "2032-02-10",
+    "holiday": "Tuesday of Carnival"
+  },
+  {
+    "date": "2032-03-25",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2032-03-26",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2032-04-19",
+    "holiday": "Declaration of Independence"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "International Worker's Day"
+  },
+  {
+    "date": "2032-06-24",
+    "holiday": "Battle of Carabobo"
+  },
+  {
+    "date": "2032-07-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2032-07-24",
+    "holiday": "Birthday of Simon Bolivar"
+  },
+  {
+    "date": "2032-10-12",
+    "holiday": "Day of Indigenous Resistance"
+  },
+  {
+    "date": "2032-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2032-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2032-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

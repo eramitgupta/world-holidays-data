@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-04-19",
+    "holiday": "Good Friday; King's Birthday"
+  },
+  {
+    "date": "2041-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2041-04-25",
+    "holiday": "National Flag Day"
+  },
+  {
+    "date": "2041-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2041-05-30",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2041-07-22",
+    "holiday": "Birthday of Late King Sobhuza"
+  },
+  {
+    "date": "2041-09-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2041-12-26",
+    "holiday": "Boxing Day"
+  }
+]

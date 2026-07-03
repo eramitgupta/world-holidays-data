@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2018-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2018-04-13",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2018-06-15",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2018-06-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2018-07-01",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2018-08-21",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2018-09-11",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2018-09-20",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2018-11-20",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-16",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2056-04-17",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2056-05-11",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2056-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2056-06-23",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2056-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2056-09-22",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  }
+]

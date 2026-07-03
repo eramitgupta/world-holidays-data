@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-01-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2041-03-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2041-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2041-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2041-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2041-08-04",
+    "holiday": "Founders' Day"
+  },
+  {
+    "date": "2041-08-05",
+    "holiday": "Founders' Day (observed)"
+  },
+  {
+    "date": "2041-09-21",
+    "holiday": "Kwame Nkrumah Memorial Day"
+  },
+  {
+    "date": "2041-09-23",
+    "holiday": "Kwame Nkrumah Memorial Day (observed)"
+  },
+  {
+    "date": "2041-09-26",
+    "holiday": "Eid ul-Fitr (estimated)"
+  },
+  {
+    "date": "2041-12-04",
+    "holiday": "Eid ul-Adha (estimated)"
+  },
+  {
+    "date": "2041-12-06",
+    "holiday": "Farmer's Day"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2041-12-26",
+    "holiday": "Boxing Day"
+  }
+]

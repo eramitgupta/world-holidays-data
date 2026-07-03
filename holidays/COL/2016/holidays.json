@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-01-11",
+    "holiday": "Epiphany (observed)"
+  },
+  {
+    "date": "2016-03-21",
+    "holiday": "Saint Joseph's Day (observed)"
+  },
+  {
+    "date": "2016-03-24",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2016-05-09",
+    "holiday": "Ascension Day (observed)"
+  },
+  {
+    "date": "2016-05-30",
+    "holiday": "Corpus Christi (observed)"
+  },
+  {
+    "date": "2016-06-06",
+    "holiday": "Sacred Heart (observed)"
+  },
+  {
+    "date": "2016-07-04",
+    "holiday": "Saint Peter and Saint Paul's Day (observed)"
+  },
+  {
+    "date": "2016-07-20",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-08-07",
+    "holiday": "Battle of Boyacá"
+  },
+  {
+    "date": "2016-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2016-10-17",
+    "holiday": "Columbus Day (observed)"
+  },
+  {
+    "date": "2016-11-07",
+    "holiday": "All Saints' Day (observed)"
+  },
+  {
+    "date": "2016-11-14",
+    "holiday": "Independence of Cartagena (observed)"
+  },
+  {
+    "date": "2016-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  }
+]

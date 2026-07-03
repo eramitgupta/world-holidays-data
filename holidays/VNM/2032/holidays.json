@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2032-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2032-02-09",
+    "holiday": "29 of Lunar New Year"
+  },
+  {
+    "date": "2032-02-10",
+    "holiday": "Lunar New Year's Eve"
+  },
+  {
+    "date": "2032-02-11",
+    "holiday": "Lunar New Year"
+  },
+  {
+    "date": "2032-02-12",
+    "holiday": "Second Day of Lunar New Year"
+  },
+  {
+    "date": "2032-02-13",
+    "holiday": "Third Day of Lunar New Year"
+  },
+  {
+    "date": "2032-02-14",
+    "holiday": "Fourth Day of Lunar New Year"
+  },
+  {
+    "date": "2032-04-19",
+    "holiday": "Hung Kings' Commemoration Day"
+  },
+  {
+    "date": "2032-04-30",
+    "holiday": "Liberation Day/Reunification Day"
+  },
+  {
+    "date": "2032-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2032-05-03",
+    "holiday": "International Labor Day (observed)"
+  },
+  {
+    "date": "2032-09-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2032-09-03",
+    "holiday": "National Day"
+  }
+]

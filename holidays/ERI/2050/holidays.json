@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2050-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2050-01-07",
+    "holiday": "Orthodox Christmas"
+  },
+  {
+    "date": "2050-01-19",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2050-03-08",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2050-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2050-04-17",
+    "holiday": "Orthodox Easter"
+  },
+  {
+    "date": "2050-05-01",
+    "holiday": "International Workers' Day"
+  },
+  {
+    "date": "2050-05-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2050-06-20",
+    "holiday": "Eid al-Fitr (estimated); Martyrs' Day"
+  },
+  {
+    "date": "2050-08-28",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2050-09-01",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2050-09-11",
+    "holiday": "Ethiopian New Year"
+  },
+  {
+    "date": "2050-09-27",
+    "holiday": "Finding of the True Cross"
+  },
+  {
+    "date": "2050-11-26",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

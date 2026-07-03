@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-24",
+    "holiday": "Unification of the Romanian Principalities Day"
+  },
+  {
+    "date": "2020-04-17",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2020-04-19",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2020-04-20",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-06-01",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2020-06-07",
+    "holiday": "Pentecost"
+  },
+  {
+    "date": "2020-06-08",
+    "holiday": "Pentecost"
+  },
+  {
+    "date": "2020-08-15",
+    "holiday": "Dormition of the Mother of God"
+  },
+  {
+    "date": "2020-11-30",
+    "holiday": "Saint Andrew's Day"
+  },
+  {
+    "date": "2020-12-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2020-12-26",
+    "holiday": "Christmas Day"
+  }
+]

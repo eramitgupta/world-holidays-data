@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2057-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2057-01-26",
+    "holiday": "Australia Day"
+  },
+  {
+    "date": "2057-02-04",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2057-02-05",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2057-02-06",
+    "holiday": "Chinese New Year (observed)"
+  },
+  {
+    "date": "2057-03-19",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2057-04-05",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2057-04-20",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2057-04-25",
+    "holiday": "ANZAC Day"
+  },
+  {
+    "date": "2057-06-12",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2057-10-01",
+    "holiday": "Territory Day"
+  },
+  {
+    "date": "2057-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2057-12-26",
+    "holiday": "Boxing Day"
+  }
+]

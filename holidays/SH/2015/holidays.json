@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2015-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2015-04-06",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2015-06-15",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2015-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2015-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-03-02",
+    "holiday": "James Ronald Webster Day"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-04",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2021-05-03",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2021-05-24",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2021-05-30",
+    "holiday": "Anguilla Day"
+  },
+  {
+    "date": "2021-05-31",
+    "holiday": "Anguilla Day (observed)"
+  },
+  {
+    "date": "2021-06-14",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2021-08-02",
+    "holiday": "August Monday"
+  },
+  {
+    "date": "2021-08-05",
+    "holiday": "August Thursday"
+  },
+  {
+    "date": "2021-08-06",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2021-12-17",
+    "holiday": "National Heroes and Heroines Day (observed)"
+  },
+  {
+    "date": "2021-12-19",
+    "holiday": "National Heroes and Heroines Day"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2021-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

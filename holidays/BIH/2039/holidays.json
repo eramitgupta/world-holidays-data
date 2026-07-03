@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2039-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-02",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2039-01-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2039-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2039-04-11",
+    "holiday": "Catholic Easter Monday"
+  },
+  {
+    "date": "2039-04-15",
+    "holiday": "Orthodox Good Friday"
+  },
+  {
+    "date": "2039-05-01",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2039-05-02",
+    "holiday": "International Labor Day"
+  },
+  {
+    "date": "2039-10-19",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2039-12-25",
+    "holiday": "Catholic Christmas Day"
+  },
+  {
+    "date": "2039-12-26",
+    "holiday": "Eid al-Adha (estimated)"
+  }
+]

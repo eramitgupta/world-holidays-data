@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2028-02-18",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2028-02-23",
+    "holiday": "Laylat al-Qadr (estimated)"
+  },
+  {
+    "date": "2028-02-26",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2028-02-27",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2028-02-28",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2028-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2028-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2028-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2028-05-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2028-05-06",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2028-05-08",
+    "holiday": "Eid al-Adha (observed, estimated)"
+  },
+  {
+    "date": "2028-05-25",
+    "holiday": "Africa Liberation Day"
+  },
+  {
+    "date": "2028-06-03",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2028-06-05",
+    "holiday": "Ashura (observed, estimated)"
+  },
+  {
+    "date": "2028-07-22",
+    "holiday": "July 22 Revolution Day"
+  },
+  {
+    "date": "2028-07-24",
+    "holiday": "July 22 Revolution Day (observed)"
+  },
+  {
+    "date": "2028-08-03",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2028-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2028-12-26",
+    "holiday": "Boxing Day"
+  }
+]

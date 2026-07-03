@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2036-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2036-02-07",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2036-02-08",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2036-02-18",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2036-03-08",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2036-03-10",
+    "holiday": "Ashura (observed, estimated)"
+  },
+  {
+    "date": "2036-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2036-04-14",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2036-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2036-05-08",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2036-05-25",
+    "holiday": "Africa Liberation Day"
+  },
+  {
+    "date": "2036-05-26",
+    "holiday": "Africa Liberation Day (observed)"
+  },
+  {
+    "date": "2036-07-22",
+    "holiday": "July 22 Revolution Day"
+  },
+  {
+    "date": "2036-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2036-11-15",
+    "holiday": "Laylat al-Qadr (estimated)"
+  },
+  {
+    "date": "2036-11-17",
+    "holiday": "Laylat al-Qadr (observed, estimated)"
+  },
+  {
+    "date": "2036-11-19",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2036-11-20",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2036-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2036-12-26",
+    "holiday": "Boxing Day"
+  }
+]

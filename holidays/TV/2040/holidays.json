@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2040-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2040-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2040-03-30",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2040-04-02",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2040-05-14",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2040-06-09",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2040-08-06",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2040-10-01",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2040-10-02",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2040-10-15",
+    "holiday": "National Children's Day"
+  },
+  {
+    "date": "2040-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2040-12-26",
+    "holiday": "Boxing Day"
+  }
+]

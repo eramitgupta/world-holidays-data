@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2035-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2035-05-07",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2035-05-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2035-08-06",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2035-08-07",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2035-11-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2035-12-09",
+    "holiday": "Sir Vere Cornwall Bird Snr. Day"
+  },
+  {
+    "date": "2035-12-10",
+    "holiday": "Sir Vere Cornwall Bird Snr. Day (observed)"
+  },
+  {
+    "date": "2035-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2035-12-26",
+    "holiday": "Boxing Day"
+  }
+]

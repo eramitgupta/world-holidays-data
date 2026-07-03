@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-02-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2041-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2041-04-21",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2041-05-01",
+    "holiday": "Spring Day"
+  },
+  {
+    "date": "2041-06-09",
+    "holiday": "Whit Sunday"
+  },
+  {
+    "date": "2041-06-23",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2041-06-24",
+    "holiday": "Midsummer Day"
+  },
+  {
+    "date": "2041-08-20",
+    "holiday": "Independence Restoration Day"
+  },
+  {
+    "date": "2041-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2041-12-26",
+    "holiday": "Second Day of Christmas"
+  }
+]

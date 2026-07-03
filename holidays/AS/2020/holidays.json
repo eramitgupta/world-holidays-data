@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-20",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2020-02-17",
+    "holiday": "Washington's Birthday"
+  },
+  {
+    "date": "2020-04-17",
+    "holiday": "American Samoa Flag Day"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2020-07-03",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2020-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-07-16",
+    "holiday": "Manu'a Islands Cession Day"
+  },
+  {
+    "date": "2020-09-07",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2020-10-11",
+    "holiday": "White Sunday"
+  },
+  {
+    "date": "2020-10-12",
+    "holiday": "Columbus Day"
+  },
+  {
+    "date": "2020-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2020-11-26",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  }
+]

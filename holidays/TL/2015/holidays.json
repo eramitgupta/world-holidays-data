@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2015-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday": "Holy Friday"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday": "International Worker's Day"
+  },
+  {
+    "date": "2015-05-20",
+    "holiday": "Restoration of Independence Day"
+  },
+  {
+    "date": "2015-06-04",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2015-07-17",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2015-08-30",
+    "holiday": "Popular Consultation Day"
+  },
+  {
+    "date": "2015-09-24",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2015-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2015-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2015-11-12",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2015-11-28",
+    "holiday": "Proclamation of Independence Day"
+  },
+  {
+    "date": "2015-12-07",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2015-12-08",
+    "holiday": "Day of Our Lady of Immaculate Conception and Timor-Leste Patroness"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday": "Christmas Day"
+  }
+]

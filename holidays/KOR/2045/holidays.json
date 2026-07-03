@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-02-16",
+    "holiday": "The day preceding Korean New Year"
+  },
+  {
+    "date": "2045-02-17",
+    "holiday": "Korean New Year"
+  },
+  {
+    "date": "2045-02-18",
+    "holiday": "The second day of Korean New Year"
+  },
+  {
+    "date": "2045-03-01",
+    "holiday": "Independence Movement Day"
+  },
+  {
+    "date": "2045-04-05",
+    "holiday": "Presidential Election Day"
+  },
+  {
+    "date": "2045-05-05",
+    "holiday": "Children's Day"
+  },
+  {
+    "date": "2045-05-24",
+    "holiday": "Buddha's Birthday"
+  },
+  {
+    "date": "2045-06-06",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2045-08-15",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2045-09-24",
+    "holiday": "The day preceding Chuseok"
+  },
+  {
+    "date": "2045-09-25",
+    "holiday": "Chuseok"
+  },
+  {
+    "date": "2045-09-26",
+    "holiday": "The second day of Chuseok"
+  },
+  {
+    "date": "2045-09-27",
+    "holiday": "Alternative holiday for Chuseok"
+  },
+  {
+    "date": "2045-10-03",
+    "holiday": "National Foundation Day"
+  },
+  {
+    "date": "2045-10-09",
+    "holiday": "Hangul Day"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  }
+]

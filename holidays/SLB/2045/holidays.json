@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2045-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2045-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2045-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2045-04-08",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2045-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2045-05-29",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2045-06-16",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2045-07-07",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2045-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2045-12-26",
+    "holiday": "National Day of Thanksgiving"
+  }
+]

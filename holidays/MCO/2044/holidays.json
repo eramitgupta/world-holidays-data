@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-01-27",
+    "holiday": "Saint Devote's Day"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2044-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2044-05-26",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2044-06-06",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2044-06-16",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2044-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2044-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2044-11-19",
+    "holiday": "Prince's Day"
+  },
+  {
+    "date": "2044-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Christmas Day (observed)"
+  }
+]

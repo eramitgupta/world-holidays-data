@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-01-14",
+    "holiday": "Revolution and Youth Day"
+  },
+  {
+    "date": "2048-03-20",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-04-09",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2048-07-12",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2048-07-13",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2048-07-14",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2048-07-25",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2048-08-13",
+    "holiday": "Women's Day"
+  },
+  {
+    "date": "2048-09-18",
+    "holiday": "Arafat Day (estimated)"
+  },
+  {
+    "date": "2048-09-19",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2048-09-20",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2048-09-21",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2048-10-09",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2048-10-15",
+    "holiday": "Evacuation Day"
+  },
+  {
+    "date": "2048-12-18",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

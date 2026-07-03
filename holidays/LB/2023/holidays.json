@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-06",
+    "holiday": "Armenian Orthodox Christmas Day"
+  },
+  {
+    "date": "2023-02-09",
+    "holiday": "Saint Maron's Day"
+  },
+  {
+    "date": "2023-03-25",
+    "holiday": "Feast of the Annunciation"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Catholic Good Friday"
+  },
+  {
+    "date": "2023-04-14",
+    "holiday": "Orthodox Good Friday"
+  },
+  {
+    "date": "2023-04-21",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2023-04-22",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2023-05-07",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2023-05-14",
+    "holiday": "Resistance and Liberation Day"
+  },
+  {
+    "date": "2023-06-28",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2023-06-29",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2023-07-19",
+    "holiday": "Islamic New Year"
+  },
+  {
+    "date": "2023-07-28",
+    "holiday": "Ashura"
+  },
+  {
+    "date": "2023-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2023-09-27",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2023-11-22",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  }
+]

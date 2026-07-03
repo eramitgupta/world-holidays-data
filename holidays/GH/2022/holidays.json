@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2022-01-07",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2022-03-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2022-03-07",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "May Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Eid ul-Fitr (estimated); May Day (observed)"
+  },
+  {
+    "date": "2022-07-09",
+    "holiday": "Eid ul-Adha (estimated)"
+  },
+  {
+    "date": "2022-07-11",
+    "holiday": "Eid ul-Adha (observed, estimated)"
+  },
+  {
+    "date": "2022-08-04",
+    "holiday": "Founders' Day"
+  },
+  {
+    "date": "2022-09-21",
+    "holiday": "Kwame Nkrumah Memorial Day"
+  },
+  {
+    "date": "2022-12-02",
+    "holiday": "Farmer's Day"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

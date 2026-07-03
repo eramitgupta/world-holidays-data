@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2038-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2038-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2038-03-08",
+    "holiday": "Green Monday"
+  },
+  {
+    "date": "2038-03-25",
+    "holiday": "Greek Independence Day"
+  },
+  {
+    "date": "2038-04-01",
+    "holiday": "Cyprus National Day"
+  },
+  {
+    "date": "2038-04-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2038-04-25",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2038-04-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2038-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2038-06-14",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2038-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2038-10-01",
+    "holiday": "Cyprus Independence Day"
+  },
+  {
+    "date": "2038-10-28",
+    "holiday": "Greek National Day"
+  },
+  {
+    "date": "2038-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2038-12-26",
+    "holiday": "Day After Christmas"
+  }
+]

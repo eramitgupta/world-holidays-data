@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2033-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2033-01-02",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2033-01-03",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2033-01-04",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2033-01-07",
+    "holiday": "Orthodox Christmas Day"
+  },
+  {
+    "date": "2033-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2033-03-11",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2033-03-12",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2033-03-13",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2033-03-14",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2033-04-01",
+    "holiday": "Hijri New Year"
+  },
+  {
+    "date": "2033-04-17",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2033-04-24",
+    "holiday": "Easter"
+  },
+  {
+    "date": "2033-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2033-06-09",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2033-10-21",
+    "holiday": "Isra' and Mi'raj"
+  },
+  {
+    "date": "2033-11-15",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2033-12-23",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2033-12-24",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2033-12-25",
+    "holiday": "Catholic Christmas Day; Eid al-Fitr"
+  }
+]

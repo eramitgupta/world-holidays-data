@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-02-11",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2044-02-18",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2044-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2044-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2044-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2044-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2044-05-25",
+    "holiday": "Africa Liberation Day"
+  },
+  {
+    "date": "2044-07-22",
+    "holiday": "July 22 Revolution Day"
+  },
+  {
+    "date": "2044-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2044-08-21",
+    "holiday": "Laylat al-Qadr (estimated)"
+  },
+  {
+    "date": "2044-08-22",
+    "holiday": "Laylat al-Qadr (observed, estimated)"
+  },
+  {
+    "date": "2044-08-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2044-08-25",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2044-10-31",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2044-11-01",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2044-11-30",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2044-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2044-12-26",
+    "holiday": "Boxing Day"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2041-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2041-01-10",
+    "holiday": "Majority Rule Day"
+  },
+  {
+    "date": "2041-04-19",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2041-04-22",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2041-06-07",
+    "holiday": "Randol Fawkes Labour Day"
+  },
+  {
+    "date": "2041-06-10",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2041-07-10",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2041-08-05",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2041-10-14",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2041-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2041-12-26",
+    "holiday": "Boxing Day"
+  }
+]

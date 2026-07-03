@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-03-31",
+    "holiday": "Micronesian Culture and Tradition Day"
+  },
+  {
+    "date": "2053-05-09",
+    "holiday": "Federated States of Micronesia Day (observed)"
+  },
+  {
+    "date": "2053-05-10",
+    "holiday": "Federated States of Micronesia Day"
+  },
+  {
+    "date": "2053-10-24",
+    "holiday": "United Nations Day"
+  },
+  {
+    "date": "2053-11-03",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2053-11-11",
+    "holiday": "FSM Veterans of Foreign Wars Day"
+  },
+  {
+    "date": "2053-11-23",
+    "holiday": "Presidents Day"
+  },
+  {
+    "date": "2053-11-24",
+    "holiday": "Presidents Day (observed)"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  }
+]

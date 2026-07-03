@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2016-04-23",
+    "holiday": "Pesach"
+  },
+  {
+    "date": "2016-04-29",
+    "holiday": "Seventh day of Pesach"
+  },
+  {
+    "date": "2016-05-12",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2016-06-12",
+    "holiday": "Shavuot"
+  },
+  {
+    "date": "2016-10-03",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2016-10-04",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2016-10-12",
+    "holiday": "Yom Kippur"
+  },
+  {
+    "date": "2016-10-17",
+    "holiday": "Sukkot"
+  },
+  {
+    "date": "2016-10-24",
+    "holiday": "Simchat Torah / Shemini Atzeret"
+  }
+]

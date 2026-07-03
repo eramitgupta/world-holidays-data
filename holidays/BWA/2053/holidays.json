@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2053-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2053-01-02",
+    "holiday": "New Year's Day Holiday"
+  },
+  {
+    "date": "2053-04-04",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2053-04-05",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2053-04-07",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2053-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2053-05-15",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2053-07-01",
+    "holiday": "Sir Seretse Khama Day"
+  },
+  {
+    "date": "2053-07-21",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2053-07-22",
+    "holiday": "President's Day Holiday"
+  },
+  {
+    "date": "2053-09-30",
+    "holiday": "Botswana Day"
+  },
+  {
+    "date": "2053-10-01",
+    "holiday": "Botswana Day Holiday"
+  },
+  {
+    "date": "2053-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2053-12-26",
+    "holiday": "Boxing Day"
+  }
+]

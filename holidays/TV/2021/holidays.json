@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-10",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2021-06-12",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2021-08-02",
+    "holiday": "National Youth Day"
+  },
+  {
+    "date": "2021-10-01",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2021-10-02",
+    "holiday": "Tuvalu Day"
+  },
+  {
+    "date": "2021-10-04",
+    "holiday": "Tuvalu Day (observed)"
+  },
+  {
+    "date": "2021-10-11",
+    "holiday": "National Children's Day"
+  },
+  {
+    "date": "2021-11-08",
+    "holiday": "Heir to the Throne's Birthday"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2021-12-28",
+    "holiday": "Boxing Day (observed)"
+  }
+]

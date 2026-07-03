@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-04-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-04-28",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2055-05-27",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2055-06-07",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2055-07-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2055-08-03",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2055-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2055-09-10",
+    "holiday": "Grand Magal of Touba (estimated)"
+  },
+  {
+    "date": "2055-10-03",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2055-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  }
+]

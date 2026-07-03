@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2016-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2016-03-26",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2016-03-27",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2016-03-28",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2016-06-13",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2016-07-23",
+    "holiday": "Papua New Guinea Remembrance Day"
+  },
+  {
+    "date": "2016-08-26",
+    "holiday": "National Repentance Day"
+  },
+  {
+    "date": "2016-09-16",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2016-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2016-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-01-02",
+    "holiday": "New Year Holiday"
+  },
+  {
+    "date": "2028-01-03",
+    "holiday": "New Year Holiday (observed)"
+  },
+  {
+    "date": "2028-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2028-04-15",
+    "holiday": "Easter Saturday"
+  },
+  {
+    "date": "2028-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2028-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2028-06-15",
+    "holiday": "Corpus Christi"
+  },
+  {
+    "date": "2028-06-18",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2028-06-19",
+    "holiday": "Constitution Day (observed)"
+  },
+  {
+    "date": "2028-06-29",
+    "holiday": "Independence (National) Day"
+  },
+  {
+    "date": "2028-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2028-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2028-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Christmas Day"
+  }
+]

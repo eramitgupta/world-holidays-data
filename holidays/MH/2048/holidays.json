@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-03-01",
+    "holiday": "Nuclear Victims Remembrance Day"
+  },
+  {
+    "date": "2048-03-02",
+    "holiday": "Nuclear Victims Remembrance Day Holiday"
+  },
+  {
+    "date": "2048-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2048-07-03",
+    "holiday": "Fisherman's Day"
+  },
+  {
+    "date": "2048-09-04",
+    "holiday": "Dri-jerbal Day"
+  },
+  {
+    "date": "2048-09-25",
+    "holiday": "Manit Day"
+  },
+  {
+    "date": "2048-11-17",
+    "holiday": "President's Day"
+  },
+  {
+    "date": "2048-12-04",
+    "holiday": "Gospel Day"
+  },
+  {
+    "date": "2048-12-25",
+    "holiday": "Christmas Day"
+  }
+]

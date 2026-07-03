@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-01-03",
+    "holiday": "Revolution Day"
+  },
+  {
+    "date": "2020-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2020-03-09",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2020-05-21",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2020-05-24",
+    "holiday": "Eid al-Fitr"
+  },
+  {
+    "date": "2020-07-31",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2020-08-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2020-10-29",
+    "holiday": "Mawlid"
+  },
+  {
+    "date": "2020-10-31",
+    "holiday": "Martyrs' Day"
+  },
+  {
+    "date": "2020-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2020-11-02",
+    "holiday": "All Saints' Day (observed)"
+  },
+  {
+    "date": "2020-12-11",
+    "holiday": "Proclamation of Independence Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  }
+]

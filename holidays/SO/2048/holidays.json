@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2048-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2048-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2048-05-10",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2048-06-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2048-07-01",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2048-07-12",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2048-09-19",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2048-10-09",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2048-10-18",
+    "holiday": "Ashura (estimated)"
+  },
+  {
+    "date": "2048-12-18",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

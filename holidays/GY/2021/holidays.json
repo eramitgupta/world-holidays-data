@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2021-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2021-02-23",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2021-03-28",
+    "holiday": "Holi"
+  },
+  {
+    "date": "2021-03-29",
+    "holiday": "Holi (observed)"
+  },
+  {
+    "date": "2021-04-02",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2021-04-05",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2021-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2021-05-05",
+    "holiday": "Arrival Day"
+  },
+  {
+    "date": "2021-05-26",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2021-07-05",
+    "holiday": "CARICOM Day"
+  },
+  {
+    "date": "2021-07-21",
+    "holiday": "Eid al-Adha"
+  },
+  {
+    "date": "2021-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2021-08-02",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2021-10-19",
+    "holiday": "Prophet's Birthday"
+  },
+  {
+    "date": "2021-11-04",
+    "holiday": "Diwali"
+  },
+  {
+    "date": "2021-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2021-12-26",
+    "holiday": "Day after Christmas"
+  },
+  {
+    "date": "2021-12-27",
+    "holiday": "Christmas Day (observed)"
+  },
+  {
+    "date": "2021-12-28",
+    "holiday": "Day after Christmas (observed)"
+  }
+]

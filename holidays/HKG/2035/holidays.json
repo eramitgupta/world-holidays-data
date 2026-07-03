@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2035-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2035-02-08",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2035-02-09",
+    "holiday": "The second day of Chinese New Year"
+  },
+  {
+    "date": "2035-02-10",
+    "holiday": "The third day of Chinese New Year"
+  },
+  {
+    "date": "2035-03-23",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2035-03-24",
+    "holiday": "The day following Good Friday"
+  },
+  {
+    "date": "2035-03-26",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2035-04-05",
+    "holiday": "Tomb-Sweeping Day"
+  },
+  {
+    "date": "2035-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2035-05-15",
+    "holiday": "The Buddha's Birthday"
+  },
+  {
+    "date": "2035-06-10",
+    "holiday": "Dragon Boat Festival"
+  },
+  {
+    "date": "2035-06-11",
+    "holiday": "Dragon Boat Festival (observed)"
+  },
+  {
+    "date": "2035-07-01",
+    "holiday": "Hong Kong S.A.R. Establishment Day"
+  },
+  {
+    "date": "2035-07-02",
+    "holiday": "Hong Kong S.A.R. Establishment Day (observed)"
+  },
+  {
+    "date": "2035-09-17",
+    "holiday": "The Day following Mid-Autumn Festival"
+  },
+  {
+    "date": "2035-10-01",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2035-10-09",
+    "holiday": "Double Ninth Festival"
+  },
+  {
+    "date": "2035-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2035-12-26",
+    "holiday": "The first weekday after Christmas Day"
+  }
+]

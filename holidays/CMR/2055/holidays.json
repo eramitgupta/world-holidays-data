@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-02-11",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-28",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2055-05-20",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2055-05-27",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2055-07-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2055-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2055-08-16",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2055-10-03",
+    "holiday": "Mawlid (estimated)"
+  },
+  {
+    "date": "2055-10-04",
+    "holiday": "Mawlid (observed, estimated)"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  }
+]

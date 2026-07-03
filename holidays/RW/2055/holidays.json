@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2055-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2055-01-02",
+    "holiday": "Day after New Year's Day"
+  },
+  {
+    "date": "2055-01-04",
+    "holiday": "Day after New Year's Day (observed)"
+  },
+  {
+    "date": "2055-02-01",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2055-04-07",
+    "holiday": "Memorial Day of Genocide perpetrated against the Tutsi in 1994"
+  },
+  {
+    "date": "2055-04-16",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2055-04-19",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2055-04-28",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2055-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2055-05-03",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2055-07-01",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2055-07-04",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2055-07-05",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2055-07-06",
+    "holiday": "Liberation Day (observed)"
+  },
+  {
+    "date": "2055-08-06",
+    "holiday": "Umuganura Day"
+  },
+  {
+    "date": "2055-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2055-08-16",
+    "holiday": "Assumption Day (observed)"
+  },
+  {
+    "date": "2055-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2055-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2055-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

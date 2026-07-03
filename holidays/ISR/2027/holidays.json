@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2027-04-22",
+    "holiday": "Pesach"
+  },
+  {
+    "date": "2027-04-28",
+    "holiday": "Seventh day of Pesach"
+  },
+  {
+    "date": "2027-05-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2027-06-11",
+    "holiday": "Shavuot"
+  },
+  {
+    "date": "2027-10-02",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2027-10-03",
+    "holiday": "Rosh Hashanah"
+  },
+  {
+    "date": "2027-10-11",
+    "holiday": "Yom Kippur"
+  },
+  {
+    "date": "2027-10-16",
+    "holiday": "Sukkot"
+  },
+  {
+    "date": "2027-10-23",
+    "holiday": "Simchat Torah / Shemini Atzeret"
+  }
+]

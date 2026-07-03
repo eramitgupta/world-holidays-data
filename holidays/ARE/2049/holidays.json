@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2049-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2049-07-01",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2049-07-02",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2049-07-03",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2049-09-07",
+    "holiday": "Arafat Day (estimated)"
+  },
+  {
+    "date": "2049-09-08",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2049-09-09",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2049-09-10",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2049-09-28",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2049-12-02",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2049-12-03",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2049-12-07",
+    "holiday": "Prophet's Birthday (estimated)"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2020-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2020-03-08",
+    "holiday": "International Women's Day"
+  },
+  {
+    "date": "2020-03-09",
+    "holiday": "International Women's Day (observed)"
+  },
+  {
+    "date": "2020-03-12",
+    "holiday": "Youth Day"
+  },
+  {
+    "date": "2020-04-10",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2020-04-11",
+    "holiday": "Holy Saturday"
+  },
+  {
+    "date": "2020-04-13",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2020-05-01",
+    "holiday": "Labour Day"
+  },
+  {
+    "date": "2020-05-25",
+    "holiday": "Africa Freedom Day"
+  },
+  {
+    "date": "2020-07-06",
+    "holiday": "Heroes' Day"
+  },
+  {
+    "date": "2020-07-07",
+    "holiday": "Unity Day"
+  },
+  {
+    "date": "2020-08-03",
+    "holiday": "Farmers' Day"
+  },
+  {
+    "date": "2020-10-18",
+    "holiday": "National Prayer Day"
+  },
+  {
+    "date": "2020-10-19",
+    "holiday": "National Prayer Day (observed)"
+  },
+  {
+    "date": "2020-10-24",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2020-12-25",
+    "holiday": "Christmas Day"
+  }
+]

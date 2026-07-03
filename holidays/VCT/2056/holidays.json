@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-03-14",
+    "holiday": "National Heroes' Day"
+  },
+  {
+    "date": "2056-03-31",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2056-04-03",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "National Workers' Day"
+  },
+  {
+    "date": "2056-05-21",
+    "holiday": "National Spiritual Baptist Day"
+  },
+  {
+    "date": "2056-05-22",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2056-07-03",
+    "holiday": "Carnival Monday"
+  },
+  {
+    "date": "2056-07-04",
+    "holiday": "Carnival Tuesday"
+  },
+  {
+    "date": "2056-08-01",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2056-10-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2056-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-12-26",
+    "holiday": "Boxing Day"
+  }
+]

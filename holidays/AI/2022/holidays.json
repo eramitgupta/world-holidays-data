@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2022-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2022-01-03",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2022-03-02",
+    "holiday": "James Ronald Webster Day"
+  },
+  {
+    "date": "2022-04-15",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2022-04-17",
+    "holiday": "Easter Sunday"
+  },
+  {
+    "date": "2022-04-18",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2022-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2022-05-02",
+    "holiday": "Labor Day (observed)"
+  },
+  {
+    "date": "2022-05-30",
+    "holiday": "Anguilla Day"
+  },
+  {
+    "date": "2022-06-03",
+    "holiday": "Queen's Birthday"
+  },
+  {
+    "date": "2022-06-06",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2022-08-01",
+    "holiday": "August Monday"
+  },
+  {
+    "date": "2022-08-04",
+    "holiday": "August Thursday"
+  },
+  {
+    "date": "2022-08-05",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2022-09-19",
+    "holiday": "Mourning the Death of Her Majesty The Queen Elizabeth II"
+  },
+  {
+    "date": "2022-12-19",
+    "holiday": "National Heroes and Heroines Day"
+  },
+  {
+    "date": "2022-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2022-12-26",
+    "holiday": "Boxing Day"
+  },
+  {
+    "date": "2022-12-27",
+    "holiday": "Christmas Day (observed)"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2026-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2026-02-17",
+    "holiday": "Chinese New Year"
+  },
+  {
+    "date": "2026-03-20",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2026-04-02",
+    "holiday": "Maundy Thursday"
+  },
+  {
+    "date": "2026-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2026-04-04",
+    "holiday": "Black Saturday"
+  },
+  {
+    "date": "2026-04-09",
+    "holiday": "Day of Valor"
+  },
+  {
+    "date": "2026-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2026-05-27",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2026-06-12",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2026-08-21",
+    "holiday": "Ninoy Aquino Day"
+  },
+  {
+    "date": "2026-08-31",
+    "holiday": "National Heroes Day"
+  },
+  {
+    "date": "2026-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2026-11-02",
+    "holiday": "All Souls' Day"
+  },
+  {
+    "date": "2026-11-30",
+    "holiday": "Bonifacio Day"
+  },
+  {
+    "date": "2026-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2026-12-24",
+    "holiday": "Christmas Eve"
+  },
+  {
+    "date": "2026-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2026-12-30",
+    "holiday": "Rizal Day"
+  },
+  {
+    "date": "2026-12-31",
+    "holiday": "New Year's Eve"
+  }
+]

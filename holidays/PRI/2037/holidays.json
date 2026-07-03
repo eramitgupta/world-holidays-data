@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2037-01-19",
+    "holiday": "Martin Luther King Jr. Day"
+  },
+  {
+    "date": "2037-02-16",
+    "holiday": "Presidents' Day"
+  },
+  {
+    "date": "2037-03-22",
+    "holiday": "Emancipation Day"
+  },
+  {
+    "date": "2037-03-23",
+    "holiday": "Emancipation Day (observed)"
+  },
+  {
+    "date": "2037-04-03",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2037-05-25",
+    "holiday": "Memorial Day"
+  },
+  {
+    "date": "2037-06-19",
+    "holiday": "Juneteenth National Independence Day"
+  },
+  {
+    "date": "2037-07-03",
+    "holiday": "Independence Day (observed)"
+  },
+  {
+    "date": "2037-07-04",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2037-07-25",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2037-09-07",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2037-11-11",
+    "holiday": "Veterans Day"
+  },
+  {
+    "date": "2037-11-19",
+    "holiday": "Discovery Day"
+  },
+  {
+    "date": "2037-11-26",
+    "holiday": "Thanksgiving Day"
+  },
+  {
+    "date": "2037-12-25",
+    "holiday": "Christmas Day"
+  }
+]

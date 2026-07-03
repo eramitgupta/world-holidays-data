@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2023-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2023-01-02",
+    "holiday": "New Year's Day (observed)"
+  },
+  {
+    "date": "2023-04-07",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2023-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2023-04-19",
+    "holiday": "King's Birthday"
+  },
+  {
+    "date": "2023-04-25",
+    "holiday": "National Flag Day"
+  },
+  {
+    "date": "2023-05-01",
+    "holiday": "Worker's Day"
+  },
+  {
+    "date": "2023-05-18",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2023-07-22",
+    "holiday": "Birthday of Late King Sobhuza"
+  },
+  {
+    "date": "2023-09-06",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2023-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2023-12-26",
+    "holiday": "Boxing Day"
+  }
+]

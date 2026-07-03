@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2031-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2031-01-17",
+    "holiday": "Possession Day"
+  },
+  {
+    "date": "2031-04-11",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2031-04-25",
+    "holiday": "Liberation Day"
+  },
+  {
+    "date": "2031-05-20",
+    "holiday": "Shackleton Day"
+  },
+  {
+    "date": "2031-06-21",
+    "holiday": "Mid-winter Day"
+  },
+  {
+    "date": "2031-06-23",
+    "holiday": "Mid-winter Day (observed)"
+  },
+  {
+    "date": "2031-10-30",
+    "holiday": "Environment Day"
+  },
+  {
+    "date": "2031-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2031-12-26",
+    "holiday": "Boxing Day"
+  }
+]

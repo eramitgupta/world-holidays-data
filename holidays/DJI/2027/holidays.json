@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2027-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2027-01-05",
+    "holiday": "Isra' and Mi'raj (estimated)"
+  },
+  {
+    "date": "2027-03-09",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2027-03-10",
+    "holiday": "Eid al-Fitr Holiday (estimated)"
+  },
+  {
+    "date": "2027-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2027-05-15",
+    "holiday": "Arafat Day (estimated)"
+  },
+  {
+    "date": "2027-05-16",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2027-05-17",
+    "holiday": "Eid al-Adha Holiday (estimated)"
+  },
+  {
+    "date": "2027-06-06",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2027-06-27",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2027-06-28",
+    "holiday": "Independence Day Holiday"
+  },
+  {
+    "date": "2027-08-14",
+    "holiday": "Prophet Muhammad's Birthday (estimated)"
+  },
+  {
+    "date": "2027-12-25",
+    "holiday": "Christmas Day; Isra' and Mi'raj (estimated)"
+  }
+]

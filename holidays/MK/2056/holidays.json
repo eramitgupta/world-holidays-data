@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2056-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2056-01-07",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2056-04-10",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2056-04-16",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2056-04-17",
+    "holiday": "Eid al-Fitr (observed, estimated)"
+  },
+  {
+    "date": "2056-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2056-05-24",
+    "holiday": "Saints Cyril and Methodius Day"
+  },
+  {
+    "date": "2056-08-02",
+    "holiday": "Republic Day"
+  },
+  {
+    "date": "2056-09-08",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2056-10-11",
+    "holiday": "National Uprising Day"
+  },
+  {
+    "date": "2056-10-23",
+    "holiday": "Macedonian Revolutionary Struggle Day"
+  },
+  {
+    "date": "2056-12-08",
+    "holiday": "Saint Clement of Ohrid Day"
+  }
+]

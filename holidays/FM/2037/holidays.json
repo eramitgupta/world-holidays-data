@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2037-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2037-03-31",
+    "holiday": "Micronesian Culture and Tradition Day"
+  },
+  {
+    "date": "2037-05-10",
+    "holiday": "Federated States of Micronesia Day"
+  },
+  {
+    "date": "2037-05-11",
+    "holiday": "Federated States of Micronesia Day (observed)"
+  },
+  {
+    "date": "2037-10-23",
+    "holiday": "United Nations Day (observed)"
+  },
+  {
+    "date": "2037-10-24",
+    "holiday": "United Nations Day"
+  },
+  {
+    "date": "2037-11-03",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2037-11-11",
+    "holiday": "FSM Veterans of Foreign Wars Day"
+  },
+  {
+    "date": "2037-11-23",
+    "holiday": "Presidents Day"
+  },
+  {
+    "date": "2037-12-25",
+    "holiday": "Christmas Day"
+  }
+]

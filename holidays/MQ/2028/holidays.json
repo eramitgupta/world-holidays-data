@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2028-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2028-04-14",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2028-04-17",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2028-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2028-05-08",
+    "holiday": "Victory Day"
+  },
+  {
+    "date": "2028-05-22",
+    "holiday": "Abolition of Slavery"
+  },
+  {
+    "date": "2028-05-25",
+    "holiday": "Ascension Day"
+  },
+  {
+    "date": "2028-06-05",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2028-07-14",
+    "holiday": "National Day"
+  },
+  {
+    "date": "2028-07-21",
+    "holiday": "Victor Schoelcher Day"
+  },
+  {
+    "date": "2028-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2028-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2028-11-11",
+    "holiday": "Armistice Day"
+  },
+  {
+    "date": "2028-12-25",
+    "holiday": "Christmas Day"
+  }
+]

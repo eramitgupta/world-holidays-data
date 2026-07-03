@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2044-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2044-01-12",
+    "holiday": "Amazigh New Year"
+  },
+  {
+    "date": "2044-02-11",
+    "holiday": "Prophet's Birthday (estimated)"
+  },
+  {
+    "date": "2044-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2044-07-05",
+    "holiday": "Independence Day"
+  },
+  {
+    "date": "2044-08-24",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2044-08-25",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2044-08-26",
+    "holiday": "Eid al-Fitr (estimated)"
+  },
+  {
+    "date": "2044-10-31",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2044-11-01",
+    "holiday": "Eid al-Adha (estimated); Revolution Day"
+  },
+  {
+    "date": "2044-11-02",
+    "holiday": "Eid al-Adha (estimated)"
+  },
+  {
+    "date": "2044-11-21",
+    "holiday": "Islamic New Year (estimated)"
+  },
+  {
+    "date": "2044-11-30",
+    "holiday": "Ashura (estimated)"
+  }
+]

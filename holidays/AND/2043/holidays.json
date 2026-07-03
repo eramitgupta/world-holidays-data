@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2043-01-01",
+    "holiday": "New Year's Day"
+  },
+  {
+    "date": "2043-01-06",
+    "holiday": "Epiphany"
+  },
+  {
+    "date": "2043-02-09",
+    "holiday": "Carnival"
+  },
+  {
+    "date": "2043-03-14",
+    "holiday": "Constitution Day"
+  },
+  {
+    "date": "2043-03-27",
+    "holiday": "Good Friday"
+  },
+  {
+    "date": "2043-03-30",
+    "holiday": "Easter Monday"
+  },
+  {
+    "date": "2043-05-01",
+    "holiday": "Labor Day"
+  },
+  {
+    "date": "2043-05-18",
+    "holiday": "Whit Monday"
+  },
+  {
+    "date": "2043-08-15",
+    "holiday": "Assumption Day"
+  },
+  {
+    "date": "2043-09-08",
+    "holiday": "Our Lady of Meritxell"
+  },
+  {
+    "date": "2043-11-01",
+    "holiday": "All Saints' Day"
+  },
+  {
+    "date": "2043-12-08",
+    "holiday": "Immaculate Conception"
+  },
+  {
+    "date": "2043-12-25",
+    "holiday": "Christmas Day"
+  },
+  {
+    "date": "2043-12-26",
+    "holiday": "Saint Stephen's Day"
+  }
+]
